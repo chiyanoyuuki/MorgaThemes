@@ -1,1 +1,70 @@
-/* You can add global styles to this file, and also import other style files */
+html{
+    background-color:#202020;
+}
+
+button, input, select{
+    background-color: #303030;
+    border-radius:20px;
+    padding:10px;
+    color:white;
+    font-weight:bold;
+    text-align: center;
+}
+
+
+p{
+    color:white;
+    font-weight: bold;
+    margin:10px 0px;
+    text-align:center;
+}
+
+.linked{
+    background-color:rgb(153, 0, 89);
+}
+
+button:hover{
+    opacity:0.5;
+    cursor:pointer;
+}
+
+.clickable:hover{
+    cursor:pointer;
+    text-decoration: underline;
+    color:red;
+}
+
+.over:hover{
+    opacity:0.1;
+}
+
+.showOver{
+    z-index:0;
+}
+.showOver:hover{
+    z-index:2;
+}
+
+.clickableDiv:hover{
+    opacity:0.2 !important;
+    cursor:pointer;
+}
+
+.hidden{
+    opacity:0;
+}
+.hidden:hover{
+    opacity:0.1;
+}
+.active{
+    color:red;
+}
+.active:hover, .planete:hover, .signe:hover
+{
+    cursor:pointer;
+    filter: drop-shadow(16px 16px 20px red) invert(75%)!important;
+}
+.planete, .signe{
+    filter:drop-shadow(2px 2px 2px black) !important;
+    transition:0.1s;
+}
