@@ -3,11 +3,11 @@ import { CommonModule } from '@angular/common';
 import { RouterOutlet } from '@angular/router';
 import { FormsModule } from '@angular/forms';
 
-import dorothee from "../assets/Dorothee.json"
-import dorotheeSVG from "../assets/DorotheeSVG.json"
+import dorothee from "../assets/Dorothee.json";
+import dorotheeSVG from "../assets/DorotheeSVG.json";
 
-import charles from "../assets/Charles.json"
-import charlesSVG from "../assets/CharlesSVG.json"
+import charles from "../assets/Charles.json";
+import charlesSVG from "../assets/CharlesSVG.json";
 
 
 @Component({
