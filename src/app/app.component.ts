@@ -41,7 +41,6 @@ export class AppComponent implements OnInit
   svgs: any;
   fileContent: any;
 
-  API_KEY = "sk-proj-j9kbpq2atYCIZLF1XNbdT3BlbkFJHMm1dJ6003Zu36vbSFk4";
   API_URL = 'https://api.openai.com/v1/chat/completions';
 
   constructor(private elementRef: ElementRef<HTMLElement>) {}
@@ -54,35 +53,7 @@ export class AppComponent implements OnInit
     
   }
 
-  async test()
-  {
-    try {
-      const response = await axios.post(
-          this.API_URL,
-          {
-              model: 'gpt-4',  // Use the appropriate model here
-              messages: [{ role: 'user', content: "Give me a thousand 6" }],
-          },
-          {
-              headers: {
-                  'Authorization': `Bearer ${this.API_KEY}`,
-                  'Content-Type': 'application/json',
-                  'Access-Control-Allow-Origin': '*',
-                  'Access-Control-Allow-Header': 'authorization'
-              },
-          }
-      );
-
-      // Extract the message from the response
-      const message = response.data.choices[0].message.content;
-      return message;
-  } catch (error) {
-      console.error('Error communicating with the OpenAI API:', error);
-      return 'An error occurred while getting the response.';
-  }
-  }
-
-  async getChatGPTResponse(nom: string,isPlanet:boolean): Promise<string> {
+  /*async getChatGPTResponse(nom: string,isPlanet:boolean): Promise<string> {
     let prompt = "";
     if(isPlanet) prompt = "Donne moi des informations detaillees sur "+nom+". Cette information provient de mon theme astral. Sépare la réponse en 3 points, l'influence de la planète sur le signe, puis l'influence des degrès et minutes sur le signe et enfin l'influence de la maison sur le signe. Détaille grandement ces trois points. N'utilise pas de guillemet.";
 		else prompt = "Donne moi des informations detaillees sur "+nom+". Cette information provient de mon theme astral. Sépare la réponse en 2 points, l'influence de la maison sur le signe, puis l'influence des degrès et minutes sur le signe. Détaille grandement ces deux points. N'utilise pas de guillemet.";
@@ -109,7 +80,7 @@ export class AppComponent implements OnInit
         console.error('Error communicating with the OpenAI API:', error);
         return 'An error occurred while getting the response.';
     }
-}
+}*/
 
   read()
   {
