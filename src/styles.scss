@@ -1,5 +1,57 @@
+@font-face {
+    font-family: Chloe;
+    src: url(../src/assets/Chloe.otf) format("opentype");
+}
+@font-face {
+    font-family: Future;
+    src: url(../src/assets/Future.ttf) format("opentype");
+}
+@font-face {
+    font-family: Jonathan;
+    src: url(../src/assets/Jonathan.otf) format("opentype");
+}
+:root{
+    --purple0: #211a44;
+    --purple1: #5c5792;
+    --purple2: #9f8dc3;
+    --purple3: #be9cc7;
+    --purple4: #e3bad5;
+    --yellow: #eebc70;
+    --pink: #ad57b6;
+
+}
+.title{
+    font-family: 'Chloe'!important;
+    font-size: 3vw!important;
+    line-height: 4vh!important;
+}
+*{
+    font-family: 'Future';
+    font-size: 2vw;
+    line-height: 3vh;
+    color:var(--yellow)!important;
+}
+.sign{
+    font-family: 'Jonathan'!important;
+}
+
+p{
+    white-space: break-spaces;
+  border: 5px ridge var(--purple1);
+  background-color: var(--purple0);
+  box-shadow: 10px 10px 20px 0px black;
+  padding: 15px;
+}
+
+
 html{
-    background-color:#202020;
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, var(--purple0) 0%, var(--purple2) 50%, var(--purple1) 100%);
+}
+
+.file{
+    display:flex;
+    justify-content: center;
 }
 
 button, input, select{
@@ -13,10 +65,12 @@ button, input, select{
 
 
 p{
-    color:white;
     font-weight: bold;
-    margin:10px 0px;
-    text-align:center;
+    text-align: center;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    padding-top: 35px;
 }
 
 .linked{
@@ -65,6 +119,23 @@ button:hover{
     filter: drop-shadow(16px 16px 20px red) invert(75%)!important;
 }
 .planete, .signe{
-    filter:drop-shadow(2px 2px 2px black) !important;
+    filter:drop-shadow(1px 1px 1px black) !important;
     transition:0.1s;
+}
+.textes{
+    max-height: 850px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  padding:30px;
+}
+.texte{
+    width:40%;
+}
+.disabled{
+    filter: grayscale(1) contrast(9)!important;
+  opacity: 0.1!important;
+  pointer-events: none!important;
 }

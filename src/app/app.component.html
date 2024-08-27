@@ -1,33 +1,21 @@
-<div style="display:flex;justify-content: center;width:100%;">
-  <select [(ngModel)]="personne" (change)="change()">
-    <option value="Dorothee">Dorothee</option>
-    <option value="Morgane">Morgane</option>
-    <option value="Charles">Charles</option>
-  </select>
+<div class="file">
+  <input type="file" id="fileInput" />
+  <button id="readFileButton" (click)="read()">Read File</button>
 </div>
 
-<div style="display:flex;margin:30px;">
+<div>
 
   <div>
-    <div #one style="border:5px ridge #202020;background-color:#bbb;box-shadow: 10px 5px 5px 5px black;width:fit-content;margin-right:50px;"></div>
-    
-    <div style="display:flex;justify-content: space-around;margin-top:20px;">
-      <div style="max-height: 300px;overflow: auto;border:5px ridge #202020;background-color:#303030;box-shadow: 10px 5px 5px 5px black;padding: 20px;">
-        <p [class.active]="focus[0]&&!focus[0].planete&&focus[0].signe==maison.signe" (click)="click(maison.signe)" class="signe" *ngFor="let maison of maisons">{{maison.maison}}</p>
-      </div>
-      <div style="max-height: 300px;overflow: auto;border:5px ridge #202020;background-color:#303030;box-shadow: 10px 5px 5px 5px black;padding: 20px;">
-        <p [class.active]="focus[0]&&focus[0].planete&&focus[0].planete==planete.planete" (click)="click(planete.planete)" class="planete" *ngFor="let planete of planetes">{{planete.planete}}</p>
-      </div>
-    </div>
+    <div #one></div>
   </div>
 
-  <div style="max-height:850px;overflow-y:auto;overflow-x:hidden;">
+  <div class="textes">
     <div *ngIf="focus.length==0">
-      <p style="white-space: break-spaces;border:5px ridge #202020;background-color:#303030;box-shadow: 10px 5px 5px 5px black;padding: 50px;">Pas de maison dans ce signe</p>
+      <p class="title">Pas de maison dans ce signe</p>
     </div>
-    <div *ngFor="let obj of focus">
-      <p style="white-space: break-spaces;border:5px ridge #202020;background-color:#303030;box-shadow: 10px 5px 5px 5px black;margin:0;margin-bottom:20px;">{{obj.nom}}</p>
-      <p style="white-space: break-spaces;border:5px ridge #202020;background-color:#303030;box-shadow: 10px 5px 5px 5px black;padding: 50px;">{{obj.gpt}}</p>
+    <div *ngFor="let obj of focus" class="texte">
+      <p class="title">{{obj.nom}}</p>
+      <p>{{obj.gpt}}</p>
     </div>
   </div>
 
