@@ -56,7 +56,7 @@ export class AppComponent implements OnInit
   
   ngOnInit(): void 
   {
-    this.readFile();
+    //this.readFile();
   }
 
   readFile()
@@ -252,7 +252,8 @@ processFileContent(): void {
     this.svg = svgs;
 
     console.log("this.data",this.data);
-    this.init(true);
+    console.log(this.informations);
+    this.init(!this.informations);
   }
 
   getJson(nom :any, x :any, y :any, type :any, id: any)
@@ -365,7 +366,7 @@ processFileContent(): void {
     if(!first)
     {
       let el:any = document.getElementById(this.svgid);
-      el.remove();
+      if(el)el.remove();
     }
     element.nativeElement.insertAdjacentHTML('beforeend', this.svg[0]);
     let tmp = this.svg[0];
