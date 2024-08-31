@@ -111,7 +111,6 @@ export class AppComponent implements OnInit
         }
       }
       maisons.data.push(data);
-      console.log({nom:signe,planetes:planetes,asteroides:asteroides,maisons:maisons});
     });
   }
 
@@ -251,8 +250,6 @@ processFileContent(): void {
     svgs = svgs.slice(0,idxend+1);
     this.svg = svgs;
 
-    console.log("this.data",this.data);
-    console.log(this.informations);
     this.init(!this.informations);
   }
 
@@ -408,7 +405,6 @@ processFileContent(): void {
           objet.classList.add("disabled");
         }
       })
-      console.log("svg",this.svgs);
   }
 
   ngAfterViewInit() {
@@ -436,12 +432,9 @@ processFileContent(): void {
 
   click(s:string)
   {
-    console.log("click",s);
     this.clicked = s;
     this.desc = this.infos.desc.find((d:any)=>d.nom == s).infos;
-    console.log(this.infos.data);
     let signe = this.infos.data.find((i:any)=>i.nom==s);
-    console.log(signe);
     if(!signe)
     {
       let ligne = this.data.find((d:any)=>d.maison==s&&!d.nom);
@@ -454,16 +447,12 @@ processFileContent(): void {
         ligne = this.data.find((d:any)=>d.nom==s);
         signe = this.infos.data.find((i:any)=>i.nom==ligne.signe).data;
       }
-      console.log(ligne);
-      console.log(signe);
       let infos = signe.find((d:any)=>d.nom==s);
       this.focus = [{nom:infos.nom,datas:infos.data}];
-      console.log(this.focus);
       return;
     }
     signe = signe.data;
     let data = this.data.filter((d:any)=>d.nom==s||d.signe==s||d.maison==s);
-    console.log(data);
     data.forEach((d:any)=>{
       let datas: any = [];
       let infos = signe.find((s:any)=>s.nom==d.nom);
