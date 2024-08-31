@@ -4,6 +4,19 @@
       "nom": "Balance",
       "data": [
         {
+          "nom": "Nœud Sud",
+          "data": [
+            {
+              "nom": "Dépendance Relationnelle",
+              "data": "Il y a une tendance à s'appuyer trop sur les autres pour l'approbation et l'équilibre. La personne peut éviter les conflits en recherchant constamment l'harmonie, parfois à ses propres dépens."
+            },
+            {
+              "nom": "Défi de l'Indépendance",
+              "data": "Le chemin de croissance consiste à développer plus d'autonomie et de courage personnel, en suivant le Nœud Nord en Bélier, ce qui nécessite de se concentrer davantage sur ses propres désirs et actions."
+            }
+          ]
+        },
+        {
           "nom": "Chiron",
           "data": [
             {
@@ -424,6 +437,19 @@
     {
       "nom": "Taureau",
       "data": [
+        {
+          "nom": "Nœud Sud",
+          "data": [
+            {
+              "nom": "Attachement au Confort Matériel",
+              "data": "Il y a un fort attachement à la sécurité matérielle, au confort et aux plaisirs physiques. La personne peut avoir une tendance à la possessivité ou à l'entêtement."
+            },
+            {
+              "nom": "Défi de la Transformation",
+              "data": "Le but est de lâcher prise sur les possessions et les valeurs matérielles pour embrasser les changements profonds et l'évolution émotionnelle, en se tournant vers le Nœud Nord en Scorpion."
+            }
+          ]
+        },
         {
           "nom": "Chiron",
           "data": [
@@ -846,6 +872,19 @@
       "nom": "Gémeaux",
       "data": [
         {
+          "nom": "Nœud Sud",
+          "data": [
+            {
+              "nom": "Tendance à la Superficialité",
+              "data": "La personne peut se reposer sur une communication rapide et une accumulation de connaissances sans profondeur. Elle peut aussi avoir une tendance à éviter les engagements en passant d'une chose à l'autre."
+            },
+            {
+              "nom": "Défi de la Sagesse",
+              "data": "Le chemin d'évolution consiste à aller vers la recherche de vérité et de sens profond en se connectant au Nœud Nord en Sagittaire, et en adoptant une vision plus globale."
+            }
+          ]
+        },
+        {
           "nom": "Chiron",
           "data": [
             {
@@ -1266,6 +1305,19 @@
     {
       "nom": "Verseau",
       "data": [
+        {
+          "nom": "Nœud Sud",
+          "data": [
+            {
+              "nom": "Détachement et Originalité",
+              "data": "La personne peut se sentir à l'aise en restant en marge, en se détachant émotionnellement ou en se concentrant sur des idéaux progressistes. Elle peut avoir des difficultés à se connecter profondément avec les autres."
+            },
+            {
+              "nom": "Défi du Cœur",
+              "data": "L'évolution personnelle demande de s'ouvrir à des expériences plus chaleureuses, créatives, et centrées sur le cœur, en suivant le Nœud Nord en Lion."
+            }
+          ]
+        },
         {
           "nom": "Chiron",
           "data": [
@@ -1688,6 +1740,19 @@
       "nom": "Capricorne",
       "data": [
         {
+          "nom": "Nœud Sud",
+          "data": [
+            {
+              "nom": "Tendance à la Responsabilité Excessive",
+              "data": "La personne peut être trop concentrée sur le travail, le statut social, et les responsabilités. Il peut y avoir une difficulté à se détendre ou à laisser les émotions s'exprimer librement."
+            },
+            {
+              "nom": "Défi de l'Émotion",
+              "data": "Le chemin de croissance implique de s'ouvrir davantage aux sentiments, à la vulnérabilité, et aux relations nourrissantes, en suivant le Nœud Nord en Cancer."
+            }
+          ]
+        },
+        {
           "nom": "Chiron",
           "data": [
             {
@@ -2108,6 +2173,19 @@
     {
       "nom": "Sagittaire",
       "data": [
+        {
+          "nom": "Nœud Sud",
+          "data": [
+            {
+              "nom": "Focalisation sur la Vérité Personnelle",
+              "data": "Il y a une tendance à adhérer fermement à ses propres croyances et à chercher l'expansion à travers la connaissance et l'aventure, parfois au détriment d'une écoute attentive des autres."
+            },
+            {
+              "nom": "Défi de la Communication",
+              "data": "Le chemin d'évolution passe par l'apprentissage de la communication et de la flexibilité mentale, en suivant le Nœud Nord en Gémeaux, qui encourage à être plus curieux et adaptable."
+            }
+          ]
+        },
         {
           "nom": "Chiron",
           "data": [
@@ -2530,6 +2608,19 @@
       "nom": "Scorpion",
       "data": [
         {
+          "nom": "Nœud Sud",
+          "data": [
+            {
+              "nom": "Tendances au Contrôle et à la Profondeur",
+              "data": "La personne peut avoir une forte tendance à rechercher le pouvoir, à manipuler ou à se focaliser sur des situations intenses et émotionnellement complexes."
+            },
+            {
+              "nom": "Défi de la Simplicité",
+              "data": "Le développement évolutif nécessite de trouver la paix et la stabilité dans des valeurs plus simples et plus concrètes, en se dirigeant vers le Nœud Nord en Taureau."
+            }
+          ]
+        },
+        {
           "nom": "Chiron",
           "data": [
             {
@@ -2950,6 +3041,19 @@
     {
       "nom": "Poissons",
       "data": [
+        {
+          "nom": "Nœud Sud",
+          "data": [
+            {
+              "nom": "Évasion et Sensibilité",
+              "data": "La personne peut avoir une tendance à éviter la réalité en se réfugiant dans des rêves, des illusions, ou des comportements d'évasion. Il peut aussi y avoir une sensibilité extrême aux environnements émotionnels."
+            },
+            {
+              "nom": "Défi de l'Ancrage",
+              "data": "Le chemin de développement implique de se concentrer sur des actions concrètes, pratiques et ancrées, en suivant le Nœud Nord en Vierge, afin de transformer la compassion en service utile et efficace."
+            }
+          ]
+        },
         {
           "nom": "Chiron",
           "data": [
@@ -3372,6 +3476,19 @@
       "nom": "Vierge",
       "data": [
         {
+          "nom": "Nœud Sud",
+          "data": [
+            {
+              "nom": "Perfectionnisme et Détail",
+              "data": "La personne peut être excessivement critique, perfectionniste, et obsédée par les détails. Elle peut aussi se sentir à l'aise dans des routines rigides et des tâches serviles."
+            },
+            {
+              "nom": "Défi de la Spiritualité",
+              "data": "Le développement personnel implique de lâcher prise sur la nécessité de contrôle et d'ordre pour embrasser une approche plus intuitive et spirituelle, symbolisée par le Nœud Nord en Poissons."
+            }
+          ]
+        },
+        {
           "nom": "Chiron",
           "data": [
             {
@@ -3792,6 +3909,19 @@
     {
       "nom": "Bélier",
       "data": [
+        {
+          "nom": "Nœud Sud",
+          "data": [
+            {
+              "nom": "Tendance à l'Indépendance",
+              "data": "La personne a une forte tendance à se concentrer sur son propre pouvoir et son indépendance. Elle peut avoir été trop centrée sur elle-même dans des vies passées, développant ainsi une nature compétitive ou agressive."
+            },
+            {
+              "nom": "Défi du Partenariat",
+              "data": "La leçon actuelle est d'apprendre à collaborer et à équilibrer les besoins individuels avec ceux des autres, en se dirigeant vers le signe opposé, la Balance."
+            }
+          ]
+        },
         {
           "nom": "Chiron",
           "data": [
@@ -4214,6 +4344,19 @@
       "nom": "Cancer",
       "data": [
         {
+          "nom": "Nœud Sud",
+          "data": [
+            {
+              "nom": "Attachement au Passé Familial",
+              "data": "Il y a un fort attachement à la famille, aux traditions et aux émotions du passé. La personne peut avoir des difficultés à sortir de sa zone de confort émotionnelle."
+            },
+            {
+              "nom": "Défi de l'Indépendance",
+              "data": "Le but est de développer une identité forte en dehors du foyer et des attaches familiales, en se dirigeant vers le Nœud Nord en Capricorne, symbolisant la responsabilité et l'autonomie."
+            }
+          ]
+        },
+        {
           "nom": "Chiron",
           "data": [
             {
@@ -4634,6 +4777,19 @@
     {
       "nom": "Lion",
       "data": [
+        {
+          "nom": "Nœud Sud",
+          "data": [
+            {
+              "nom": "Besoin de Reconnaissance",
+              "data": "La personne peut avoir une tendance à rechercher l'attention, le drame, et à être au centre de la scène. Il peut y avoir une focalisation excessive sur l'égo et la reconnaissance personnelle."
+            },
+            {
+              "nom": "Défi de la Collectivité",
+              "data": "Le chemin évolutif mène vers une approche plus altruiste et tournée vers la communauté, en suivant le Nœud Nord en Verseau, qui demande de mettre l'individualisme au service du collectif."
+            }
+          ]
+        },
         {
           "nom": "Chiron",
           "data": [
@@ -5229,6 +5385,10 @@
     {
       "nom": "Pluton",
       "infos": "Pluton est associée à la transformation, au pouvoir et aux processus profonds. Elle représente les changements radicaux, la régénération et les dynamiques de pouvoir. Dans un thème astral, sa position montre les domaines où l'on peut vivre des transformations intenses et où l'on est confronté aux aspects les plus profonds de soi-même. Pluton est liée à la puissance intérieure, la guérison et les processus de transformation personnelle."
+    },
+    {
+      "nom": "Nœud Sud",
+      "infos": "Le Nœud Sud, également connu sous le nom de Nœud Lunaire Sud, représente les habitudes, les talents et les expériences passées que nous avons développés dans cette vie ou dans des vies antérieures. Il symbolise les zones de confort et les comportements récurrents qui peuvent nous empêcher d'évoluer pleinement. Chaque signe astrologique dans lequel se trouve le Nœud Sud indique une tendance ou une manière d'être qui a été trop développée ou trop accentuée dans le passé. Ce placement montre où nous avons tendance à nous ancrer et à nous reposer, souvent à l'exclusion de nouveaux défis et croissances. Pour progresser, il est essentiel de se diriger vers les qualités et les leçons offertes par le Nœud Nord, le point opposé dans le thème astral, afin d'équilibrer et d'intégrer les expériences et compétences nécessaires pour notre développement personnel."
     }
   ]
 }

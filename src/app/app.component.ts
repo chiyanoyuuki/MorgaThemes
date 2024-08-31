@@ -57,6 +57,7 @@ export class AppComponent implements OnInit
   ngOnInit(): void 
   {
     //this.readFile();
+    //this.readSigneGpt();
   }
 
   readFile()
@@ -69,9 +70,7 @@ export class AppComponent implements OnInit
 
   readSigneGpt()
   {
-    let signe = "Balance";
-
-    this.http.get("../assets/signe.txt",{responseType: 'text'}).subscribe(text => {
+      this.http.get("../assets/signe.txt",{responseType: 'text'}).subscribe(text => {
       let lignes = text.split("\r\n");
       lignes = lignes.filter((ligne:any)=>ligne.length>1);
       let planetes:any = {nom:"Planetes",data:[]};
@@ -200,6 +199,7 @@ processFileContent(): void {
         let maison = s.substring(s.indexOf(",")+2);
         maison = maison.substring(maison.indexOf(" ")+1);
 
+        if(nom=="Nœud Nord")this.data.push({nom:"Nœud Sud",signe:this.opposite(signe),maison:"Pas de Maison"});
         this.data.push({nom:nom,signe:signe,maison:maison});
       }
       else if(s.includes(">Maison ")||s.includes(">Milieu du Ciel ")||s.includes(">Ascendant"))
@@ -353,9 +353,44 @@ processFileContent(): void {
           return "Vertex";
       case "45":
           return "Point Est";
+      case "100":
+          return "Nœud Sud";
 		}
 		return "NA";
 	}
+
+  opposite(signe:any)
+  {
+    switch(signe)
+    {
+      case 'Bélier':
+          return 'Balance';
+      case 'Taureau':
+          return 'Scorpion';
+      case 'Gémeaux':
+          return 'Sagittaire';
+      case 'Cancer':
+          return 'Capricorne';
+      case 'Lion':
+          return 'Verseau';
+      case 'Vierge':
+          return 'Poissons';
+      case 'Balance':
+          return 'Bélier';
+      case 'Scorpion':
+          return 'Taureau';
+      case 'Sagittaire':
+          return 'Gémeaux';
+      case 'Capricorne':
+          return 'Cancer';
+      case 'Verseau':
+          return 'Lion';
+      case 'Poissons':
+          return 'Vierge';
+      default:
+          return 'Signe inconnu';
+    }
+  }
 
   init(first:boolean)
   {
@@ -377,7 +412,52 @@ processFileContent(): void {
     for(let i=1;i<this.svg.length;i++)
     {
       let s = this.svg[i];
-      element.innerHTML = element.innerHTML += s;
+      if(s.includes("objet27"))
+      {
+        let x = s.substring(s.indexOf("x=")+3);
+        x = x.substring(0,x.indexOf("\""));
+        let y = s.substring(s.indexOf("y=")+3);
+        y = y.substring(0,y.indexOf("\""));
+        x = 510 - x - 35;
+        y = 510 - y - 35;
+        let svg = "<image id=\"objet100\" class=\"planete noeudSud\" x=\""+x+"\" y=\""+y+"\" width=\"35\" height=\"35\" href=\"../assets/noeudsud.png\"></image>" 
+        this.svg.push(svg);
+
+        let line = this.svg[i+1];
+        let x1 = line.substring(line.indexOf("x1=")+4);
+        x1 = x1.substring(0,x1.indexOf("\""));
+        let x2 = line.substring(line.indexOf("x2=")+4);
+        x2 = x2.substring(0,x2.indexOf("\""));
+        let y1 = line.substring(line.indexOf("y1=")+4);
+        y1 = y1.substring(0,y1.indexOf("\""));
+        let y2 = line.substring(line.indexOf("y2=")+4);
+        y2 = y2.substring(0,y2.indexOf("\""));
+        x1 = 510 - x1;
+        x2 = 510 - x2;
+        y1 = 510 - y1;
+        y2 = 510 - y2;
+        line = "<line x1=\""+x1+"\" y1=\""+y1+"\" x2=\""+x2+"\" y2=\""+y2+"\" "
+        + line.substring(line.indexOf("style="));
+        this.svg.push(line);
+
+        let line2 = this.svg[i+2];
+        x1 = line2.substring(line2.indexOf("x1=")+4);
+        x1 = x1.substring(0,x1.indexOf("\""));
+        x2 = line2.substring(line2.indexOf("x2=")+4);
+        x2 = x2.substring(0,x2.indexOf("\""));
+        y1 = line2.substring(line2.indexOf("y1=")+4);
+        y1 = y1.substring(0,y1.indexOf("\""));
+        y2 = line2.substring(line2.indexOf("y2=")+4);
+        y2 = y2.substring(0,y2.indexOf("\""));
+        x1 = 510 - x1;
+        x2 = 510 - x2;
+        y1 = 510 - y1;
+        y2 = 510 - y2;
+        line2 = "<line x1=\""+x1+"\" y1=\""+y1+"\" x2=\""+x2+"\" y2=\""+y2+"\" "
+        + line2.substring(line2.indexOf("style="));
+        this.svg.push(line2);
+      }
+      element.innerHTML = element.innerHTML + s;
     }
 
     for(let i=1;i<this.svg.length;i++)
@@ -432,9 +512,11 @@ processFileContent(): void {
 
   click(s:string)
   {
+    console.log(this.data);
     this.clicked = s;
     this.desc = this.infos.desc.find((d:any)=>d.nom == s).infos;
     let signe = this.infos.data.find((i:any)=>i.nom==s);
+    console.log(signe);
     if(!signe)
     {
       let ligne = this.data.find((d:any)=>d.maison==s&&!d.nom);
@@ -453,6 +535,7 @@ processFileContent(): void {
     }
     signe = signe.data;
     let data = this.data.filter((d:any)=>d.nom==s||d.signe==s||d.maison==s);
+    console.log(data);
     data.forEach((d:any)=>{
       let datas: any = [];
       let infos = signe.find((s:any)=>s.nom==d.nom);
@@ -463,7 +546,7 @@ processFileContent(): void {
       else
       {
         let maison = signe.find((s:any)=>s.nom==d.maison);
-        maison.data.forEach((a:any)=>datas.push(a));
+        if(maison)maison.data.forEach((a:any)=>datas.push(a));
       }
       
       d.datas = datas;
