@@ -1,0 +1,8 @@
+Donne moi des informations sur chaque planète associé au signe sagittaire dans un thème astral en séparant à chaque fois en deux points clés et avec comme titre uniquement le nom des planètes : Saturne, Mars, Mercure, Soleil, Vénus, Neptune, Jupiter, Lune, Uranus, Pluton
+
+Maintenant la même chose avec les ateroides et avec comme titre uniquement le nom des ateroides : Chiron, Noeud nord, Cérès, Junon, Pallas, Fortune, Vertex, Vesta, Lilith, Point Est
+
+Maintenant la même chose avec les maisons avec des titres au format Maison puis le numéro en chiffres romains
+
+
+Donne moi des informations en un paragraphe détaillé sur chaque planète dans un thème astral au format json du type {"nom":le nom de la planete, "infos":les informations} : Saturne, Mars, Mercure, Soleil, Vénus, Neptune, Jupiter, Lune, Uranus, Pluton
