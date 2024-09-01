@@ -243,7 +243,7 @@ button:hover{
 .active:hover, .planete:hover, .signe:hover
 {
     cursor:pointer!important;
-    filter: drop-shadow(16px 16px 20px red) invert(75%)!important;
+    filter: drop-shadow(0px 0px 2px black) invert(75%)!important;
 }
 .planete, .signe{
     transition:0.1s;

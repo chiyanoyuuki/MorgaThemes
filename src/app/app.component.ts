@@ -46,6 +46,7 @@ export class AppComponent implements OnInit
   data: any = [];
   informations: any = {};
   desc: any;
+  aspects: any;
 
   API_URL = 'https://api.openai.com/v1/chat/completions';
   
@@ -56,7 +57,7 @@ export class AppComponent implements OnInit
   
   ngOnInit(): void 
   {
-    //this.readFile();
+    this.readFile();
     //this.readSigneGpt();
   }
 
@@ -174,6 +175,7 @@ processFileContent(): void {
 
   format()
   {
+    this.aspects = [];
     let code = this.fileContent.split("\r\n");
 
     let rgx = new RegExp(".*<div.*", 'g');
@@ -185,6 +187,26 @@ processFileContent(): void {
 
       if(s.includes(" en Maison "))
       {
+        if(s.includes(">Aspects"))
+        {
+          let a = s;
+          let aspects : any[] = s.split("style=\"color: #");
+          for(let i=1;i<aspects.length;i++)
+          {
+            let asp = aspects[i];
+            asp = asp.substring(asp.indexOf(">")+1);
+            let aspect = asp.substring(0,asp.indexOf("<"));
+            aspect = aspect.substring(0,aspect.lastIndexOf(" "));
+            let from = aspect.substring(0,aspect.indexOf(" "));
+            aspect = aspect.substring(aspect.indexOf(" ")+1);
+            let type = aspect.substring(0,aspect.indexOf(" "));
+            aspect = aspect.substring(aspect.indexOf(" ")+1);
+            let to = aspect.substring(0,aspect.indexOf(" "));
+            aspects[i] = {from:from,type:type,to:to};
+            if(this.aspects.find((as:any)=>as.from==from&&as.to==to&&as.type==type)==undefined)this.aspects.push(aspects[i]);
+            //else console.log(aspects[i]);
+          }
+        }
         s = s.substring(s.indexOf(">")+1);
         s = s.substring(0,s.indexOf("<"));
         
@@ -239,6 +261,8 @@ processFileContent(): void {
         this.informations = {prenom:prenom,date:date,heure:heure,lieu:lieu};
       }
     });
+
+    console.log(this.aspects);
 
     rgx = new RegExp(".*<svg id=\".*", 'i');
     let tmp = code.find((ligne:any)=>ligne.match(rgx));
@@ -394,6 +418,8 @@ processFileContent(): void {
 
   init(first:boolean)
   {
+    this.desc = undefined;
+    this.focus = undefined;
     let element:any = this.d1;
     if(!first)
     {
@@ -419,8 +445,8 @@ processFileContent(): void {
         let y = s.substring(s.indexOf("y=")+3);
         y = y.substring(0,y.indexOf("\""));
         x = 510 - x - 35;
-        y = 510 - y - 35;
-        let svg = "<image id=\"objet100\" class=\"planete noeudSud\" x=\""+x+"\" y=\""+y+"\" width=\"35\" height=\"35\" href=\"../assets/noeudsud.png\"></image>" 
+        y = 510 - y;
+        let svg = "<image id=\"objet100\" class=\"planete noeudSud\" x=\""+x+"\" y=\""+y+"\" width=\"35\" height=\"35\" href=\"./assets/noeudsud.png\"></image>" 
         this.svg.push(svg);
 
         let line = this.svg[i+1];
@@ -452,7 +478,7 @@ processFileContent(): void {
         x1 = 510 - x1;
         x2 = 510 - x2;
         y1 = 510 - y1;
-        y2 = 510 - y2;
+        y2 = 510 - y2 + 35;
         line2 = "<line x1=\""+x1+"\" y1=\""+y1+"\" x2=\""+x2+"\" y2=\""+y2+"\" "
         + line2.substring(line2.indexOf("style="));
         this.svg.push(line2);
@@ -512,6 +538,8 @@ processFileContent(): void {
 
   click(s:string)
   {
+    let aspects = this.aspects.filter((a:any)=>a.from==s);
+    console.log(aspects);
     console.log(this.data);
     this.clicked = s;
     this.desc = this.infos.desc.find((d:any)=>d.nom == s).infos;
@@ -519,6 +547,7 @@ processFileContent(): void {
     console.log(signe);
     if(!signe)
     {
+      let data = [];
       let ligne = this.data.find((d:any)=>d.maison==s&&!d.nom);
       if(ligne)
       {
@@ -530,7 +559,15 @@ processFileContent(): void {
         signe = this.infos.data.find((i:any)=>i.nom==ligne.signe).data;
       }
       let infos = signe.find((d:any)=>d.nom==s);
-      this.focus = [{nom:infos.nom,datas:infos.data}];
+
+      data.push({nom:infos.nom,datas:infos.data});
+      
+      aspects.forEach((a:any)=>{
+        let infos = this.infos.aspects.find((i:any)=>i.from==a.from&&i.type==a.type&&i.to==a.to);
+        data.push({nom:infos.from + " " + infos.type + " " + infos.to,datas:infos.data});
+      });
+
+      this.focus = data;
       return;
     }
     signe = signe.data;
