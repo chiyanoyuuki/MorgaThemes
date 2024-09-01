@@ -251,6 +251,22 @@ button:hover{
 .planete, .signe{
     transition:0.1s;
 }
+.menu{
+    display: flex;
+  justify-content: space-around;
+  margin: 1vh 2vw;
+}
+.menu p{
+    color: var(--yellow) !important;
+  font-weight: bold;
+  font-size: 3vh;
+  text-shadow: 4px 4px 2px black;
+}
+.menu .clicked{
+    font-size: 3.2vh;
+    color: var(--purple4) !important;
+    text-decoration: underline;
+}
 .textes{
     height:100%;
     width:65vw;

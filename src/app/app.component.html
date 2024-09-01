@@ -33,10 +33,13 @@
       <p>{{desc}}</p>
       <img class="fondbloc" src="./assets/bloc.png"/>
     </div>
-    
+
+    <div class="menu">
+      <p *ngFor="let t of types" class="clickable" [class.clicked]="t==type" (click)="type=t">{{t}}</p>
+    </div>
+
     <div class="textes">
-      <div *ngFor="let obj of focus;let i=index" class="data" [class.lastdata]="i==focus.length-1">
-        <p class="typelien">{{obj.type?obj.type:""}}</p>
+      <div *ngFor="let obj of getFocus();let i=index" class="data" [class.lastdata]="i==focus.length-1">
         <p class="title borderbot"><img class="star" src="./assets/star.png">{{obj.nom?obj.nom:obj.maison}}<img class="star" src="./assets/star.png"></p>
         <div class="contenu">
           <div *ngFor="let data of obj.datas">

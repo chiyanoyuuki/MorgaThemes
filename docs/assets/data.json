@@ -25456,5 +25456,1489 @@
         }
       ]
     }
+  ],
+  "general": [
+    {
+      "yang": "5",
+      "yin": "5",
+      "data": [
+        {
+          "nom": "Équilibre entre Dynamisme et Pragmatisme",
+          "data": "Avec une répartition équilibrée entre les signes de feu (Bélier, Lion, Sagittaire) et d'air (Gémeaux, Balance, Verseau) et les signes de terre (Taureau, Vierge, Capricorne) et d'eau (Cancer, Scorpion, Poissons), l'individu possède un équilibre notable entre dynamisme et pragmatisme. Il est capable de combiner énergie, créativité et approche réaliste dans ses activités."
+        },
+        {
+          "nom": "Combinaison d'Idées Nouvelles et de Réalisme",
+          "data": "La présence égale de planètes en signes de feu et d'air indique une forte capacité à générer des idées nouvelles et à adopter une approche innovante. En parallèle, la présence égale de planètes en signes de terre et d'eau permet d'ancrer ces idées dans la réalité et de les mettre en œuvre de manière pratique et émotionnelle."
+        },
+        {
+          "nom": "Approche Sociable et Réfléchie",
+          "data": "L'individu est à la fois sociable et réfléchi, avec la capacité de participer activement aux interactions sociales (signes de feu et d'air) tout en gardant une approche réfléchie et pratique des relations et des situations (signes de terre et d'eau). Cette combinaison favorise une communication efficace et une compréhension profonde des besoins des autres."
+        },
+        {
+          "nom": "Gestion Équilibrée des Émotions et des Actions",
+          "data": "La présence équilibrée de planètes dans les signes de feu et d'air, ainsi que dans les signes de terre et d'eau, suggère que l'individu est capable de gérer ses émotions de manière équilibrée tout en poursuivant des actions avec enthousiasme et détermination. Il sait quand être spontané et quand être prudent."
+        },
+        {
+          "nom": "Créativité et Sensibilité Associées",
+          "data": "La combinaison de signes de feu et d'air avec ceux de terre et d'eau permet de marier créativité avec sensibilité. L'individu peut exprimer ses idées innovantes et créatives tout en restant attentif à l'impact émotionnel de ses actions et en assurant que ses projets sont réalisables."
+        },
+        {
+          "nom": "Capacité à Adopter une Vision Globale",
+          "data": "L'équilibre entre les signes de feu et d'air (orientés vers l'expansion et l'idée) et les signes de terre et d'eau (orientés vers la gestion pratique et l'émotion) permet à l'individu d'avoir une vision globale qui intègre à la fois des perspectives larges et des détails pratiques."
+        },
+        {
+          "nom": "Tendance à Chercher l'Harmonie",
+          "data": "Avec une répartition équilibrée entre les signes yang et yin, l'individu est souvent en quête d'harmonie entre ses besoins d'innovation et d'action et ses besoins de stabilité et de confort émotionnel. Cette tendance se traduit par un équilibre dans la façon dont il aborde les défis de la vie."
+        },
+        {
+          "nom": "Flexibilité dans la Gestion des Défis",
+          "data": "La présence égale de planètes dans les signes de feu et d'air et dans les signes de terre et d'eau offre à l'individu une flexibilité dans la gestion des défis. Il peut alterner entre des approches audacieuses et créatives et des stratégies plus pratiques et réservées en fonction des circonstances."
+        },
+        {
+          "nom": "Harmonie entre Activité et Réflexion",
+          "data": "La répartition équilibrée entre les signes de feu et d'air et les signes de terre et d'eau favorise une harmonie entre l'activité et la réflexion. L'individu est capable de passer de l'action dynamique à une période de réflexion et de concentration, permettant une approche intégrée des projets et des objectifs."
+        }
+      ]
+    },
+    {
+      "yang": "6",
+      "yin": "4",
+      "data": [
+        {
+          "nom": "Dynamisme et Créativité Accrus",
+          "data": "La présence dominante de planètes en signes de feu (Bélier, Lion, Sagittaire) et d'air (Gémeaux, Balance, Verseau) indique un dynamisme élevé et une grande créativité. L'individu est généralement énergique, enthousiaste, et ouvert aux nouvelles idées et expériences."
+        },
+        {
+          "nom": "Orientation Vers l'Innovation",
+          "data": "Avec une concentration notable de planètes dans les signes de feu et d'air, l'individu est orienté vers l'innovation et les idées novatrices. Il est souvent attiré par les défis intellectuels et créatifs et aime explorer de nouvelles perspectives."
+        },
+        {
+          "nom": "Approche Sociable et Expressive",
+          "data": "La présence de planètes dans les signes de feu et d'air favorise une approche sociable et expressive. L'individu est souvent communicatif, capable de partager ses idées avec enthousiasme, et aime interagir avec les autres."
+        },
+        {
+          "nom": "Capacité à Prendre des Initiatives",
+          "data": "Avec une forte concentration en signes de feu, l'individu possède une grande capacité à prendre des initiatives et à se lancer dans de nouveaux projets. Il est motivé et prêt à relever des défis avec audace et confiance."
+        },
+        {
+          "nom": "Besoin de Concrétiser les Idées",
+          "data": "Malgré une majorité de planètes en signes de feu et d'air, les 4 planètes en signes de terre et d'eau permettent de concrétiser les idées. L'individu est capable de transformer ses visions créatives en réalisations tangibles grâce à un sens pratique et une compréhension des aspects émotionnels."
+        },
+        {
+          "nom": "Équilibre entre Innovation et Réalisme",
+          "data": "La répartition des planètes entre les signes de feu/air et les signes de terre/eau permet à l'individu de maintenir un équilibre entre innovation et réalisme. Il est capable d'équilibrer ses idées audacieuses avec une approche pratique et réfléchie."
+        },
+        {
+          "nom": "Tendance à Rechercher des Stimuli Intellectuels",
+          "data": "Avec une dominance des signes d'air, l'individu recherche souvent des stimuli intellectuels et des défis mentaux. Il est attiré par les discussions stimulantes et les environnements qui encouragent la pensée et l'analyse."
+        },
+        {
+          "nom": "Approche Passionnée et Ancrée",
+          "data": "La combinaison des signes de feu et d'air avec ceux de terre et d'eau offre une approche passionnée et ancrée des projets. L'individu est capable d'allier enthousiasme et passion avec une capacité à gérer les détails pratiques et les aspects émotionnels."
+        },
+        {
+          "nom": "Adaptabilité et Flexibilité",
+          "data": "La présence significative de planètes dans les signes de feu et d'air permet à l'individu de faire preuve d'adaptabilité et de flexibilité dans divers aspects de sa vie. Il est capable de naviguer entre des situations changeantes et d'ajuster ses plans en fonction des circonstances."
+        },
+        {
+          "nom": "Intégration des Besoins Pratiques et Créatifs",
+          "data": "La répartition des planètes indique que l'individu est bien équipé pour intégrer ses besoins pratiques et créatifs. Il sait comment harmoniser ses ambitions et ses idées avec les réalités concrètes et les exigences émotionnelles de la vie."
+        }
+      ]
+    },
+    {
+      "yang": "7",
+      "yin": "3",
+      "data": [
+        {
+          "nom": "Dynamisme et Enthousiasme Accrus",
+          "data": "La présence dominante de planètes en signes de feu (Bélier, Lion, Sagittaire) et d'air (Gémeaux, Balance, Verseau) indique un dynamisme élevé et un enthousiasme important. L'individu est généralement énergique, ambitieux, et motivé par des projets et des idées nouvelles."
+        },
+        {
+          "nom": "Orientation Vers l'Innovation et l'Expression",
+          "data": "Avec une concentration notable dans les signes de feu et d'air, l'individu est orienté vers l'innovation et l'expression personnelle. Il aime explorer de nouvelles idées, exprimer ses opinions et prendre des initiatives audacieuses."
+        },
+        {
+          "nom": "Approche Sociable et Communicative",
+          "data": "La prédominance des signes de feu et d'air favorise une approche sociable et communicative. L'individu est souvent à l'aise dans les interactions sociales, capable de partager ses idées et de s'engager dans des discussions stimulantes."
+        },
+        {
+          "nom": "Capacité à Initier des Changements",
+          "data": "Avec une forte concentration en signes de feu, l'individu possède une grande capacité à initier des changements et à se lancer dans de nouveaux projets avec confiance et détermination. Il est motivé par des défis et aime apporter des améliorations."
+        },
+        {
+          "nom": "Gestion Pratique et Réaliste",
+          "data": "Malgré une dominance de planètes en signes de feu et d'air, les 3 planètes en signes de terre et d'eau permettent de gérer les aspects pratiques et émotionnels. L'individu est capable de concrétiser ses idées avec un sens pratique et une compréhension des besoins émotionnels."
+        },
+        {
+          "nom": "Besoin d'Equilibrer Impulsivité et Réalisme",
+          "data": "La répartition des planètes suggère un besoin d'équilibrer l'impulsivité et la créativité avec le réalisme et la stabilité. L'individu peut parfois se retrouver à devoir équilibrer ses ambitions avec des considérations pratiques."
+        },
+        {
+          "nom": "Flexibilité et Adaptabilité",
+          "data": "Avec une forte présence de planètes dans les signes de feu et d'air, l'individu est généralement flexible et adaptable, capable de naviguer entre des situations variées et de s'ajuster rapidement aux changements."
+        },
+        {
+          "nom": "Tendance à Rechercher la Stimulation Mentale",
+          "data": "L'individu est attiré par des stimuli mentaux et des défis intellectuels, en raison de la forte concentration en signes d'air. Il apprécie les environnements qui stimulent sa pensée et favorisent l'échange d'idées."
+        },
+        {
+          "nom": "Capacité à Concrétiser les Idées",
+          "data": "Les 3 planètes en signes de terre et d'eau aident l'individu à traduire ses idées créatives en actions concrètes. Il est capable de transformer ses inspirations en réalisations tangibles tout en restant conscient des aspects pratiques et émotionnels."
+        },
+        {
+          "nom": "Approche Enthousiaste et Ancrée",
+          "data": "La combinaison des signes de feu et d'air avec ceux de terre et d'eau permet à l'individu d'adopter une approche enthousiaste tout en restant ancré. Il peut aborder les défis avec passion tout en prenant en compte les réalités pratiques."
+        }
+      ]
+    },
+    {
+      "yang": "8",
+      "yin": "2",
+      "data": [
+        {
+          "nom": "Énergie et Dynamisme Accrus",
+          "data": "Une majorité de planètes en signes de feu (Bélier, Lion, Sagittaire) et d'air (Gémeaux, Balance, Verseau) indique une personnalité extrêmement énergique, dynamique et motivée. L'individu a une grande capacité à entreprendre des projets avec enthousiasme et détermination."
+        },
+        {
+          "nom": "Optimisme et Innovation",
+          "data": "La forte concentration dans les signes de feu et d'air suggère un optimisme prononcé et une tendance à rechercher l'innovation. Il y a un désir constant de nouveautés, de défis et d'améliorations dans divers aspects de la vie."
+        },
+        {
+          "nom": "Grande Sociabilité et Compétences en Communication",
+          "data": "Avec une prédominance des signes d'air, l'individu est très sociable, communicatif et capable d'établir des connexions avec les autres facilement. Les échanges d'idées et les interactions sociales sont des aspects centraux de sa vie."
+        },
+        {
+          "nom": "Impulsivité et Manque de Réflexion",
+          "data": "La forte présence de signes de feu peut conduire à une tendance à l'impulsivité. Les décisions peuvent être prises rapidement sans une réflexion approfondie, ce qui peut parfois entraîner des erreurs ou des imprévus."
+        },
+        {
+          "nom": "Pragmatisme Limité",
+          "data": "Avec seulement deux planètes dans les signes de terre (Taureau, Vierge, Capricorne) et d'eau (Cancer, Scorpion, Poissons), le pragmatisme et la gestion des aspects matériels et émotionnels peuvent être moins développés. L'individu peut avoir des difficultés à s'ancrer dans la réalité ou à gérer les aspects pratiques de la vie."
+        },
+        {
+          "nom": "Gestion Émotionnelle Superficielle",
+          "data": "La faible présence de planètes dans les signes d'eau indique une gestion émotionnelle qui peut être plus superficielle. Les émotions peuvent être abordées de manière plus intellectuelle et rationnelle plutôt que de manière profondément ressentie."
+        },
+        {
+          "nom": "Recherche de Stimulation Constante",
+          "data": "La prédominance des signes de feu et d'air révèle une forte recherche de stimulation intellectuelle et émotionnelle. L'individu est attiré par des environnements dynamiques et des activités qui sollicitent constamment son esprit et son énergie."
+        },
+        {
+          "nom": "Tendance à Laisser de Côté les Détails",
+          "data": "La dominance des signes de feu et d'air peut également signifier que l'individu accorde moins d'attention aux détails pratiques et matériels. Les aspects minutieux et les considérations pratiques peuvent être négligés au profit de grandes idées et d'initiatives créatives."
+        }
+      ]
+    },
+    {
+      "yang": "9",
+      "yin": "1",
+      "data": [
+        {
+          "nom": "Énergie et Enthousiasme Exceptionnels",
+          "data": "La prédominance des planètes en signes de feu (Bélier, Lion, Sagittaire) et d'air (Gémeaux, Balance, Verseau) indique une personnalité extrêmement énergique, enthousiaste et pleine de vitalité. L'individu est très motivé et prêt à entreprendre divers projets avec passion."
+        },
+        {
+          "nom": "Créativité et Innovation",
+          "data": "Avec une concentration élevée dans les signes de feu et d'air, l'individu possède une grande créativité et un fort désir d'innovation. Il est attiré par les idées nouvelles et les méthodes non conventionnelles, recherchant constamment des moyens originaux pour s'exprimer."
+        },
+        {
+          "nom": "Extraversion et Sociabilité",
+          "data": "Une telle dominance dans les signes d'air suggère une personnalité très sociable et communicative. L'individu est souvent à l'aise dans les interactions sociales et apprécie les échanges intellectuels et les stimulations sociales."
+        },
+        {
+          "nom": "Impulsivité et Précipitation",
+          "data": "La forte présence de signes de feu peut conduire à une impulsivité notable. Les décisions peuvent être prises rapidement, souvent sans une évaluation approfondie des conséquences, ce qui peut entraîner des actions précipitées ou imprudentes."
+        },
+        {
+          "nom": "Pragmatisme et Sensibilité Minimes",
+          "data": "Avec seulement une planète en signes de terre (Taureau, Vierge, Capricorne) et d'eau (Cancer, Scorpion, Poissons), il peut y avoir un manque significatif de pragmatisme et de sensibilité émotionnelle. L'individu peut avoir du mal à gérer les aspects pratiques et les questions émotionnelles de manière profonde."
+        },
+        {
+          "nom": "Focus sur les Grandes Idées",
+          "data": "La prédominance de signes de feu et d'air signifie que l'individu est plus enclin à se concentrer sur des idées globales et des objectifs ambitieux, plutôt que sur les détails pratiques ou les aspects quotidiens de la vie."
+        },
+        {
+          "nom": "Manque d'Ancrage",
+          "data": "L'absence notable de planètes en signes de terre peut conduire à une difficulté à rester ancré dans la réalité quotidienne. L'individu peut parfois se sentir détaché des aspects pratiques de la vie et avoir des défis pour gérer les responsabilités matérielles."
+        },
+        {
+          "nom": "Gestion Émotionnelle Superficielle",
+          "data": "La présence limitée de planètes dans les signes d'eau suggère que la gestion des émotions peut être abordée de manière plus intellectuelle que ressentie profondément. Les émotions peuvent être rationalisées plutôt que vécues pleinement."
+        },
+        {
+          "nom": "Recherche de Stimulation et d'Action",
+          "data": "La dominance des signes de feu et d'air indique une forte recherche de stimulation et d'action. L'individu est souvent attiré par des environnements dynamiques, des défis stimulants et des activités qui sollicitent son esprit et son énergie."
+        }
+      ]
+    },
+    {
+      "yang": "10",
+      "yin": "0",
+      "data": [
+        {
+          "nom": "Énergie et Dynamisme Exceptionnels",
+          "data": "La concentration totale de planètes en signes de feu (Bélier, Lion, Sagittaire) et d'air (Gémeaux, Balance, Verseau) reflète une personnalité extrêmement dynamique, vivante et pleine d'énergie. L'individu est souvent en mouvement, cherchant constamment de nouvelles aventures et défis."
+        },
+        {
+          "nom": "Créativité et Innovation Intenses",
+          "data": "La présence exclusive de planètes dans les signes de feu et d'air indique une créativité et une capacité d'innovation exceptionnelles. L'individu est probablement très original, avec un penchant marqué pour les idées nouvelles et les solutions non conventionnelles."
+        },
+        {
+          "nom": "Sociabilité et Extraversion Totales",
+          "data": "L'absence de planètes en signes de terre et d'eau accentue les traits sociables et extravertis. L'individu est probablement très ouvert, communicatif et actif dans ses relations sociales, recherchant constamment des interactions et des stimulations intellectuelles."
+        },
+        {
+          "nom": "Impulsivité et Manque de Réflexion",
+          "data": "Une telle prédominance de signes de feu peut conduire à une impulsivité prononcée. Les décisions et les actions peuvent être prises rapidement et sur un coup de tête, sans une réflexion approfondie sur les conséquences à long terme."
+        },
+        {
+          "nom": "Manque de Pragmatisme",
+          "data": "L'absence totale de planètes dans les signes de terre suggère une absence notable de pragmatisme et de sens du détail. L'individu peut avoir du mal à se concentrer sur les aspects pratiques et matériels de la vie, préférant se focaliser sur des idées et des projets grandioses."
+        },
+        {
+          "nom": "Gestion Émotionnelle Superficielle",
+          "data": "Sans planètes dans les signes d'eau, il est probable que la gestion des émotions soit plutôt superficielle. Les émotions peuvent être traitées de manière intellectuelle, sans une profonde exploration ou compréhension des sentiments personnels."
+        },
+        {
+          "nom": "Focus sur les Grands Projets",
+          "data": "La dominance des signes de feu et d'air signifie que l'individu se concentre principalement sur des objectifs ambitieux et des projets de grande envergure, souvent avec une approche plus globale qu'axée sur les détails ou les aspects quotidiens."
+        },
+        {
+          "nom": "Recherche Constante de Stimulation",
+          "data": "La forte concentration en signes de feu et d'air indique une recherche incessante de stimulation et de nouveauté. L'individu est attiré par des environnements dynamiques et des défis qui sollicitent constamment son esprit et son énergie."
+        },
+        {
+          "nom": "Tendance à l'Hyperactivité",
+          "data": "Avec une telle prédominance de signes de feu, l'individu peut être sujet à une hyperactivité ou à un besoin constant de mouvement et d'engagement. Il peut avoir du mal à se détendre ou à trouver un équilibre dans ses activités."
+        }
+      ]
+    },
+    {
+      "yang": "4",
+      "yin": "6",
+      "data": [
+        {
+          "nom": "Stabilité et Pragmatisme Renforcés",
+          "data": "La prédominance des planètes en signes de terre (Taureau, Vierge, Capricorne) et d'eau (Cancer, Scorpion, Poissons) indique une forte stabilité émotionnelle et un sens pratique développé. L'individu a tendance à aborder les situations avec pragmatisme et à rechercher la sécurité et la fiabilité."
+        },
+        {
+          "nom": "Sensibilité Émotionnelle",
+          "data": "La concentration de planètes dans les signes d'eau suggère une grande sensibilité émotionnelle. L'individu est souvent en phase avec ses propres émotions ainsi qu'avec celles des autres, avec une capacité naturelle à comprendre et à gérer les aspects émotionnels de la vie."
+        },
+        {
+          "nom": "Approche Réaliste des Objectifs",
+          "data": "Avec une majorité de planètes en signes de terre, l'individu adopte généralement une approche réaliste et pragmatique pour atteindre ses objectifs. Les projets sont souvent abordés avec une planification minutieuse et une attention aux détails."
+        },
+        {
+          "nom": "Pragmatisme sur le Plan Créatif",
+          "data": "La présence relativement faible de planètes dans les signes de feu (Bélier, Lion, Sagittaire) et d'air (Gémeaux, Balance, Verseau) indique une tendance à aborder la créativité et les idées nouvelles de manière plus pratique et moins impulsive."
+        },
+        {
+          "nom": "Sociabilité Modérée",
+          "data": "Avec moins de planètes en signes d'air, la sociabilité et les compétences en communication peuvent être présentes mais sont modérées. L'individu peut avoir une approche plus réservée ou réfléchie dans ses interactions sociales."
+        },
+        {
+          "nom": "Besoin d'Ancrage",
+          "data": "La dominance des signes de terre et d'eau suggère un fort besoin d'ancrage et de sécurité dans la vie. L'individu préfère les environnements stables et est moins enclin à rechercher des changements fréquents ou des situations imprévisibles."
+        },
+        {
+          "nom": "Gestion Émotionnelle Profonde",
+          "data": "La concentration sur les signes d'eau indique que l'individu est capable de gérer les émotions de manière profonde et intuitive. Les défis émotionnels sont souvent abordés avec introspection et compréhension."
+        },
+        {
+          "nom": "Prudence et Réflexion",
+          "data": "L'absence de planètes dominantes dans les signes de feu suggère une tendance à la prudence et à la réflexion plutôt qu'à l'action impulsive. Les décisions sont prises après une considération approfondie et une analyse des conséquences."
+        },
+        {
+          "nom": "Stabilité plutôt qu'Innovation",
+          "data": "Avec une forte présence de planètes en signes de terre et d'eau, il peut y avoir une tendance à privilégier la stabilité et la sécurité plutôt que l'innovation ou le changement radical. Les initiatives sont généralement abordées de manière prudente et bien réfléchie."
+        }
+      ]
+    },
+    {
+      "yang": "3",
+      "yin": "7",
+      "data": [
+        {
+          "nom": "Stabilité et Pragmatisme Dominants",
+          "data": "La majorité des planètes en signes de terre (Taureau, Vierge, Capricorne) et d'eau (Cancer, Scorpion, Poissons) indique une forte prédisposition pour la stabilité et le pragmatisme. L'individu privilégie une approche pratique et réaliste dans la vie quotidienne."
+        },
+        {
+          "nom": "Sensibilité Émotionnelle Accrue",
+          "data": "La concentration importante de planètes dans les signes d'eau suggère une grande sensibilité émotionnelle et une capacité à ressentir et à comprendre les émotions profondes, tant les siennes que celles des autres."
+        },
+        {
+          "nom": "Approche Réaliste des Objectifs",
+          "data": "Avec une majorité de planètes en signes de terre, l'individu aborde les objectifs de manière pratique et méthodique. Il est capable de planifier soigneusement et de mettre en œuvre des stratégies pour atteindre ses buts de manière structurée."
+        },
+        {
+          "nom": "Réservé et Moins Sociable",
+          "data": "Avec moins de planètes en signes de feu (Bélier, Lion, Sagittaire) et d'air (Gémeaux, Balance, Verseau), l'individu peut être plus réservé et moins enclin à rechercher des interactions sociales fréquentes ou à exprimer ses idées de manière ouverte."
+        },
+        {
+          "nom": "Tendance à l'Introspection",
+          "data": "La prédominance des signes d'eau suggère une propension à l'introspection et à la réflexion intérieure. L'individu peut avoir une forte capacité à comprendre ses propres besoins émotionnels et à explorer les aspects plus profonds de la vie."
+        },
+        {
+          "nom": "Stabilité Emotive et Matérielle",
+          "data": "La présence majoritaire de planètes dans les signes de terre et d'eau indique que l'individu recherche à établir une base stable et sécurisée, tant sur le plan matériel qu'émotionnel. Les changements soudains ou imprévus peuvent être mal acceptés."
+        },
+        {
+          "nom": "Moins de Tendance à l'Innovation",
+          "data": "Avec seulement trois planètes en signes de feu et d'air, l'individu peut montrer moins d'inclination pour l'innovation ou les idées radicales. Il est plus enclin à suivre des méthodes éprouvées et à éviter les risques inutiles."
+        },
+        {
+          "nom": "Gestion Pratique des Émotions",
+          "data": "La combinaison des signes de terre et d'eau suggère une capacité à gérer les émotions de manière pratique et ancrée. Les émotions sont souvent abordées de manière réfléchie, avec une attention aux aspects pratiques de leur gestion."
+        },
+        {
+          "nom": "Approche Mesurée et Sereine",
+          "data": "L'absence notable de planètes en signes de feu et d'air peut conduire à une approche plus mesurée et sereine de la vie. L'individu préfère une gestion prudente et équilibrée plutôt qu'une approche impulsive ou chaotique."
+        }
+      ]
+    },
+    {
+      "yang": "2",
+      "yin": "8",
+      "data": [
+        {
+          "nom": "Pragmatisme et Stabilité Exprimés",
+          "data": "La majorité des planètes en signes de terre (Taureau, Vierge, Capricorne) et d'eau (Cancer, Scorpion, Poissons) indique une forte orientation vers la stabilité et le pragmatisme. L'individu privilégie une approche pratique et réaliste de la vie, cherchant à établir une base solide et sécurisée."
+        },
+        {
+          "nom": "Grande Sensibilité Émotionnelle",
+          "data": "Avec une concentration importante de planètes en signes d'eau, l'individu possède une grande sensibilité émotionnelle. Il est profondément conscient de ses propres émotions et de celles des autres, avec une capacité à comprendre et à gérer les dynamiques émotionnelles complexes."
+        },
+        {
+          "nom": "Approche Réaliste et Ancrée",
+          "data": "La prédominance des signes de terre suggère une approche réaliste et ancrée des objectifs et des défis. L'individu est généralement méthodique, fiable, et préfère travailler avec des faits concrets plutôt qu'avec des idées abstraites ou des théories non éprouvées."
+        },
+        {
+          "nom": "Moins de Sociabilité et d'Extraversion",
+          "data": "Avec seulement deux planètes dans les signes de feu (Bélier, Lion, Sagittaire) et d'air (Gémeaux, Balance, Verseau), l'individu peut être moins sociable et moins enclin à chercher des interactions sociales fréquentes. L'expression personnelle et les échanges d'idées peuvent être moins dominants dans sa vie."
+        },
+        {
+          "nom": "Tendance à l'Introspection",
+          "data": "La dominance des signes d'eau indique une tendance à l'introspection et à la réflexion intérieure. L'individu peut être naturellement tourné vers la compréhension des aspects émotionnels et psychologiques de sa vie."
+        },
+        {
+          "nom": "Recherche de Sécurité et de Confiance",
+          "data": "La forte concentration en signes de terre et d'eau suggère un besoin important de sécurité et de confiance. L'individu cherche à établir des bases solides dans ses relations et dans sa vie professionnelle, préférant éviter les risques et les incertitudes."
+        },
+        {
+          "nom": "Gestion Pratique des Émotions",
+          "data": "La présence dominante de planètes dans les signes de terre et d'eau permet une gestion pratique des émotions. L'individu peut aborder les situations émotionnelles avec pragmatisme, en cherchant des solutions concrètes aux défis émotionnels."
+        },
+        {
+          "nom": "Moins d'Impulsivité",
+          "data": "Avec une faible présence de planètes en signes de feu, l'individu est généralement moins impulsif et plus réfléchi dans ses actions. Les décisions sont prises avec soin et après une évaluation minutieuse des conséquences."
+        },
+        {
+          "nom": "Approche Mesurée et Réfléchie",
+          "data": "La prédominance des signes de terre et d'eau indique une approche mesurée et réfléchie de la vie. L'individu préfère prendre son temps pour analyser les situations et éviter les actions précipitées ou irréfléchies."
+        }
+      ]
+    },
+    {
+      "yang": "1",
+      "yin": "9",
+      "data": [
+        {
+          "nom": "Pragmatisme et Stabilité Dominants",
+          "data": "La prédominance des planètes en signes de terre (Taureau, Vierge, Capricorne) et d'eau (Cancer, Scorpion, Poissons) indique une personnalité fortement ancrée dans le pragmatisme et la stabilité. L'individu est très axé sur la construction de bases solides et la gestion pratique des aspects de la vie quotidienne."
+        },
+        {
+          "nom": "Grande Sensibilité Émotionnelle",
+          "data": "Avec une majorité de planètes en signes d'eau, l'individu possède une profonde sensibilité émotionnelle. Il est particulièrement réceptif aux émotions, avec une forte capacité à comprendre et à exprimer les sentiments personnels et ceux des autres."
+        },
+        {
+          "nom": "Approche Réaliste et Méthodique",
+          "data": "La concentration de planètes dans les signes de terre suggère une approche réaliste et méthodique. L'individu privilégie les méthodes éprouvées et les solutions pratiques pour résoudre les problèmes et atteindre ses objectifs."
+        },
+        {
+          "nom": "Faible Extraversion",
+          "data": "Avec seulement une planète en signes de feu (Bélier, Lion, Sagittaire) et d'air (Gémeaux, Balance, Verseau), l'individu peut montrer une faible extraversion. Les aspects sociaux et l'expression personnelle peuvent être moins prononcés dans sa vie."
+        },
+        {
+          "nom": "Préférence pour l'Introspection",
+          "data": "La prédominance des signes d'eau indique une propension à l'introspection et à la réflexion personnelle. L'individu est plus enclin à explorer ses émotions et ses pensées internes que de se tourner vers des actions externes ou des changements rapides."
+        },
+        {
+          "nom": "Recherche de Sécurité Émotionnelle et Matérielle",
+          "data": "L'individu cherche à établir une sécurité à la fois émotionnelle et matérielle. La forte concentration en signes de terre et d'eau reflète un désir de stabilité et de confort dans tous les aspects de la vie."
+        },
+        {
+          "nom": "Gestion Pratique des Émotions",
+          "data": "Avec une dominance des signes de terre et d'eau, l'individu aborde les émotions avec une attitude pratique. Il préfère gérer les aspects émotionnels de manière concrète et pragmatique, cherchant à résoudre les problèmes plutôt qu'à les laisser évoluer."
+        },
+        {
+          "nom": "Moins d'Impulsivité",
+          "data": "La faible présence de planètes en signes de feu suggère une tendance à éviter l'impulsivité. Les actions et les décisions sont généralement prises après une réflexion approfondie et avec une évaluation des conséquences."
+        },
+        {
+          "nom": "Approche Méthodique et Réfléchie",
+          "data": "La concentration en signes de terre et d'eau indique que l'individu adopte une approche réfléchie et méthodique dans sa vie. Il préfère une gestion prudente et détaillée des situations plutôt qu'une approche rapide et spontanée."
+        }
+      ]
+    },
+    {
+      "yang": "0",
+      "yin": "10",
+      "data": [
+        {
+          "nom": "Pragmatisme et Stabilité Totaux",
+          "data": "La présence exclusive de planètes en signes de terre (Taureau, Vierge, Capricorne) et d'eau (Cancer, Scorpion, Poissons) indique une personnalité extrêmement pragmatique et stable. L'individu est fortement orienté vers la recherche de sécurité, de confort et de fiabilité dans tous les aspects de la vie."
+        },
+        {
+          "nom": "Sensibilité Émotionnelle Profonde",
+          "data": "Avec toutes les planètes en signes d'eau, l'individu possède une très grande sensibilité émotionnelle. Il est profondément connecté à ses émotions et à celles des autres, avec une capacité accrue pour comprendre et gérer des dynamiques émotionnelles complexes."
+        },
+        {
+          "nom": "Approche Réaliste et Ancrée",
+          "data": "La concentration des planètes dans les signes de terre suggère une approche extrêmement réaliste et ancrée des situations. L'individu privilégie les méthodes concrètes et les solutions pratiques pour aborder les défis et atteindre ses objectifs."
+        },
+        {
+          "nom": "Manque d'Impulsivité et d'Extraversion",
+          "data": "L'absence totale de planètes en signes de feu (Bélier, Lion, Sagittaire) et d'air (Gémeaux, Balance, Verseau) indique une absence d'impulsivité et une tendance à éviter les actions spontanées ou les changements rapides. L'individu préfère une approche plus mesurée et réfléchie."
+        },
+        {
+          "nom": "Préférence pour l'Introspection",
+          "data": "La prédominance des signes d'eau reflète une forte tendance à l'introspection et à la réflexion intérieure. L'individu est plus enclin à explorer ses émotions profondes et à rechercher un sens intérieur plutôt qu'à se concentrer sur des activités externes ou sociales."
+        },
+        {
+          "nom": "Sécurité Émotionnelle et Matérielle",
+          "data": "La concentration sur les signes de terre et d'eau suggère que l'individu cherche à établir une sécurité aussi bien émotionnelle que matérielle. Il valorise la stabilité et le confort dans sa vie et cherche à créer un environnement sûr et prévisible."
+        },
+        {
+          "nom": "Gestion Pratique des Émotions",
+          "data": "L'absence de planètes dans les signes de feu et d'air signifie que les émotions sont souvent abordées de manière pratique et concrète. L'individu préfère gérer les aspects émotionnels avec une approche réfléchie et une attention aux solutions tangibles."
+        },
+        {
+          "nom": "Manque de Dynamisme et de Sociabilité",
+          "data": "Avec aucune planète dans les signes de feu et d'air, l'individu peut montrer un manque de dynamisme et de sociabilité. Les interactions sociales et l'expression personnelle peuvent être moins prononcées, avec une tendance à se concentrer sur des aspects plus internes et personnels."
+        },
+        {
+          "nom": "Approche Méthodique et Réfléchie",
+          "data": "La prédominance des signes de terre et d'eau indique que l'individu adopte une approche très réfléchie et méthodique de la vie. Les décisions sont prises avec soin et une analyse approfondie des faits et des émotions."
+        },
+        {
+          "nom": "Stabilité Émotionnelle et Matérielle",
+          "data": "La combinaison des signes de terre et d'eau suggère une stabilité notable dans les domaines émotionnel et matériel. L'individu tend à éviter les situations incertaines ou chaotiques, cherchant plutôt à maintenir un équilibre et une sécurité constants."
+        }
+      ]
+    },
+    {
+      "nord": 0,
+      "sud": 10,
+      "data": [
+        {
+          "nom": "Orientation vers l'extérieur",
+          "data": "Les énergies sont principalement dirigées vers les relations interpersonnelles, la carrière et les expériences sociales plutôt que sur la personnalité intérieure ou les besoins individuels."
+        },
+        {
+          "nom": "Focalisation sur les autres",
+          "data": "La personne peut avoir une forte orientation vers la coopération, le partenariat et les engagements avec les autres. Les interactions sociales et les relations sont centrales dans sa vie."
+        },
+        {
+          "nom": "Problèmes d'affirmation personnelle",
+          "data": "L'absence de planètes dans l'hémisphère nord peut indiquer des défis à affirmer et à développer l'identité personnelle, ainsi qu'une tendance à se concentrer davantage sur les besoins des autres."
+        },
+        {
+          "nom": "Focus sur les relations et les partenariats",
+          "data": "Les maisons 7 à 12 comprennent des thèmes comme le mariage, les partenariats, les affaires, le voyage, les philosophies personnelles, et les aspects inconscients, suggérant une vie très orientée vers ces aspects."
+        },
+        {
+          "nom": "Possibilité de succès social et professionnel",
+          "data": "Avec une concentration sur les maisons du bas de l'hémisphère sud, la personne pourrait trouver du succès en s'investissant dans des rôles sociaux ou professionnels qui requièrent des interactions fréquentes avec les autres."
+        },
+        {
+          "nom": "Développement de la conscience collective",
+          "data": "La concentration dans l'hémisphère sud suggère un potentiel pour une grande prise de conscience collective et un engagement avec des causes ou des groupes qui visent à améliorer la société."
+        },
+        {
+          "nom": "Vie influencée par les autres",
+          "data": "Les expériences de vie peuvent être fortement influencées par les interactions avec les autres, et les grandes décisions peuvent souvent impliquer des considérations concernant les partenariats ou les relations sociales."
+        },
+        {
+          "nom": "Recherche d'équilibre",
+          "data": "Une telle configuration peut indiquer une recherche constante d'équilibre entre les besoins personnels et ceux des autres, avec une attention accrue portée à l'harmonie dans les relations et les interactions."
+        },
+        {
+          "nom": "Manque de concentration sur soi-même",
+          "data": "Le manque de planètes dans l'hémisphère nord peut signifier un déficit dans le développement de la conscience de soi et de l'auto-expression personnelle."
+        },
+        {
+          "nom": "Tendance à dépendre des autres",
+          "data": "La personne pourrait avoir une tendance à dépendre des autres pour le soutien émotionnel ou la direction, ce qui peut affecter son indépendance personnelle."
+        }
+      ]
+    },
+    {
+      "nord": 1,
+      "sud": 9,
+      "data": [
+        {
+          "nom": "Orientation vers les autres",
+          "data": "La prédominance des planètes dans l'hémisphère sud suggère une grande orientation vers les relations, les partenariats, et les activités collectives, avec un fort focus sur les interactions sociales."
+        },
+        {
+          "nom": "Développement personnel limité",
+          "data": "Avec seulement une planète dans l'hémisphère nord, il peut y avoir une tendance à négliger les besoins personnels et le développement de l'identité individuelle au profit des engagements avec les autres."
+        },
+        {
+          "nom": "Centralité des relations",
+          "data": "Les maisons 7 à 12, où se concentrent les 9 planètes, couvrent des aspects tels que les partenariats, le mariage, les affaires, les voyages et les philosophies personnelles, soulignant l'importance des relations et des engagements dans la vie de la personne."
+        },
+        {
+          "nom": "Focus sur les objectifs collectifs",
+          "data": "La concentration sur l'hémisphère sud indique une possible recherche de succès et de réalisation à travers des objectifs collectifs, des projets communs ou des rôles de leadership dans des groupes."
+        },
+        {
+          "nom": "Risque de négligence de soi",
+          "data": "La faible présence de planètes dans l'hémisphère nord peut indiquer une tendance à ignorer les besoins et les désirs personnels, mettant les besoins des autres en priorité."
+        },
+        {
+          "nom": "Fort besoin de reconnaissance extérieure",
+          "data": "Les personnes avec une telle configuration peuvent rechercher une validation et une reconnaissance à travers leurs relations et leurs contributions sociales, plutôt que par des accomplissements personnels."
+        },
+        {
+          "nom": "Compétences interpersonnelles développées",
+          "data": "La concentration des planètes dans les maisons de l'hémisphère sud suggère des compétences interpersonnelles accrues, avec une aptitude à travailler en collaboration et à créer des relations harmonieuses."
+        },
+        {
+          "nom": "Engagement envers les causes sociales",
+          "data": "Il y a une forte probabilité d'engagement dans des causes ou des projets qui visent à améliorer la société ou à travailler pour le bien-être collectif."
+        },
+        {
+          "nom": "Tendance à dépendre des autres",
+          "data": "La personne pourrait avoir une tendance à dépendre des autres pour l'orientation ou le soutien, ce qui peut limiter son autonomie personnelle."
+        },
+        {
+          "nom": "Recherche d'équilibre entre soi et les autres",
+          "data": "Avec une seule planète dans l'hémisphère nord, la recherche d'équilibre entre les besoins personnels et les attentes des autres peut être un défi constant."
+        }
+      ]
+    },
+    {
+      "nord": 2,
+      "sud": 8,
+      "data": [
+        {
+          "nom": "Orientation majoritaire vers les autres",
+          "data": "La majorité des planètes se trouvent dans l'hémisphère sud, ce qui indique une prédominance d'orientation vers les relations, les partenariats, et les engagements sociaux par rapport à l'accent mis sur les besoins et la personnalité individuelle."
+        },
+        {
+          "nom": "Équilibre entre le développement personnel et les relations",
+          "data": "Avec 2 planètes dans l'hémisphère nord, il y a une présence minimale de focus sur l'identité personnelle et les besoins individuels, ce qui peut mener à un équilibre délicat entre les objectifs personnels et les relations avec les autres."
+        },
+        {
+          "nom": "Focalisation sur les partenariats",
+          "data": "Les maisons 7 à 12 où se trouvent les 8 planètes incluent des thèmes tels que les relations, les partenariats, le mariage, les affaires, et les philosophies personnelles, soulignant leur importance dans la vie de la personne."
+        },
+        {
+          "nom": "Développement des compétences interpersonnelles",
+          "data": "La concentration dans l'hémisphère sud suggère un développement accentué des compétences interpersonnelles, ainsi qu'une aptitude pour les rôles de coopération et de leadership dans des contextes sociaux."
+        },
+        {
+          "nom": "Tendance à privilégier les besoins des autres",
+          "data": "La personne peut avoir une tendance marquée à mettre les besoins et les attentes des autres avant les siens, ce qui peut conduire à des situations où ses propres désirs et besoins sont subordonnés."
+        },
+        {
+          "nom": "Recherche de validation extérieure",
+          "data": "Avec une forte concentration dans l'hémisphère sud, il peut y avoir une recherche significative de validation et de reconnaissance à travers les relations et les interactions sociales, plutôt que par des accomplissements personnels."
+        },
+        {
+          "nom": "Potentialité pour des succès collectifs",
+          "data": "La personne pourrait trouver du succès et de la satisfaction dans des rôles ou projets collectifs, où le travail en équipe et les contributions sociales sont valorisés."
+        },
+        {
+          "nom": "Défi d'affirmation de soi",
+          "data": "Les deux planètes dans l'hémisphère nord peuvent indiquer un défi à affirmer et à développer pleinement l'identité personnelle, avec une possible difficulté à équilibrer l'expression individuelle et les relations avec les autres."
+        },
+        {
+          "nom": "Éventualité de dépendance des autres",
+          "data": "Une tendance à dépendre des autres pour le soutien émotionnel ou la direction pourrait émerger, influençant la capacité à agir de manière autonome."
+        },
+        {
+          "nom": "Développement de la conscience sociale",
+          "data": "La configuration suggère un potentiel accru pour un engagement profond dans des causes sociales ou des activités qui visent à améliorer la communauté ou le monde en général."
+        }
+      ]
+    },
+    {
+      "nord": 3,
+      "sud": 7,
+      "data": [
+        {
+          "nom": "Orientation équilibrée",
+          "data": "Avec 3 planètes dans l'hémisphère nord et 7 dans l'hémisphère sud, il y a un équilibre entre l'accent mis sur les besoins personnels et les interactions sociales, bien que la concentration reste plus marquée vers les relations et les engagements collectifs."
+        },
+        {
+          "nom": "Développement personnel modéré",
+          "data": "La présence de 3 planètes dans l'hémisphère nord permet un développement personnel modéré, suggérant un travail sur l'identité individuelle et les aspirations personnelles, tout en étant influencé par les relations et les responsabilités sociales."
+        },
+        {
+          "nom": "Focalisation sur les relations",
+          "data": "Les 7 planètes dans l'hémisphère sud mettent l'accent sur les maisons liées aux relations, aux partenariats, aux engagements sociaux et aux aspects collectifs de la vie, suggérant que ces domaines sont particulièrement importants."
+        },
+        {
+          "nom": "Compétences interpersonnelles développées",
+          "data": "La concentration dans l'hémisphère sud indique un potentiel accru pour développer des compétences interpersonnelles fortes, avec une capacité à travailler en collaboration et à établir des relations significatives."
+        },
+        {
+          "nom": "Priorité aux besoins des autres",
+          "data": "La personne peut avoir tendance à prioriser les besoins et les attentes des autres dans ses relations et engagements, parfois au détriment de ses propres désirs et objectifs personnels."
+        },
+        {
+          "nom": "Recherche de reconnaissance sociale",
+          "data": "Il y a une forte probabilité que la reconnaissance et le succès soient recherchés à travers des interactions sociales et des projets collectifs plutôt que par des réalisations individuelles."
+        },
+        {
+          "nom": "Engagement collectif",
+          "data": "La configuration suggère un engagement important dans des causes ou des activités qui bénéficient à la communauté ou à des groupes, avec un accent sur la collaboration et les objectifs communs."
+        },
+        {
+          "nom": "Tendance à la dépendance relationnelle",
+          "data": "La personne pourrait montrer une tendance à se dépendre des autres pour le soutien émotionnel ou la direction, ce qui peut influencer son autonomie personnelle."
+        },
+        {
+          "nom": "Défi d'équilibre entre soi et les autres",
+          "data": "Avec une présence significative dans les deux hémisphères, le défi pourrait consister à équilibrer les besoins personnels avec les exigences des relations et des engagements sociaux."
+        },
+        {
+          "nom": "Développement de la conscience sociale et personnelle",
+          "data": "Cette configuration permet un développement de la conscience sociale tout en encourageant également un travail sur la croissance personnelle et l'expression individuelle."
+        }
+      ]
+    },
+    {
+      "nord": 4,
+      "sud": 6,
+      "data": [
+        {
+          "nom": "Orientation vers un équilibre",
+          "data": "Avec 4 planètes dans l'hémisphère nord et 6 dans l'hémisphère sud, il y a une orientation vers un équilibre entre les besoins personnels et les relations sociales, bien que l'accent soit légèrement plus fort sur les engagements collectifs."
+        },
+        {
+          "nom": "Développement personnel accentué",
+          "data": "La présence de 4 planètes dans l'hémisphère nord permet un développement plus marqué de l'identité personnelle, des objectifs individuels et des aspirations, tout en maintenant une importance significative sur les relations et les interactions sociales."
+        },
+        {
+          "nom": "Focalisation sur les relations et les engagements",
+          "data": "Les 6 planètes dans l'hémisphère sud mettent l'accent sur les maisons liées aux partenariats, aux responsabilités sociales, et aux aspects collectifs de la vie, soulignant que ces domaines jouent un rôle crucial dans la vie de la personne."
+        },
+        {
+          "nom": "Compétences interpersonnelles et collaboration",
+          "data": "La concentration dans l'hémisphère sud suggère un fort potentiel pour développer des compétences interpersonnelles, avec une aptitude à collaborer efficacement et à établir des relations enrichissantes."
+        },
+        {
+          "nom": "Priorité aux relations sociales",
+          "data": "La personne peut avoir une tendance à donner la priorité aux relations et engagements sociaux, souvent en s'investissant dans des projets collectifs ou en travaillant avec les autres pour atteindre des objectifs communs."
+        },
+        {
+          "nom": "Recherche d'équilibre entre soi et les autres",
+          "data": "La présence équilibrée des planètes dans les deux hémisphères indique une quête pour harmoniser les besoins personnels avec les exigences des relations et des engagements sociaux."
+        },
+        {
+          "nom": "Défi d'affirmation personnelle",
+          "data": "Malgré un nombre significatif de planètes dans l'hémisphère nord, il peut encore y avoir des défis pour affirmer pleinement l'identité personnelle et pour se concentrer sur les objectifs individuels, surtout lorsqu'ils sont en tension avec les engagements sociaux."
+        },
+        {
+          "nom": "Engagement dans des causes collectives",
+          "data": "Avec une concentration notable dans l'hémisphère sud, il est probable que la personne soit engagée dans des causes ou des projets qui bénéficient à la communauté ou à des groupes plus larges."
+        },
+        {
+          "nom": "Tendance à dépendre des autres",
+          "data": "Il pourrait y avoir une tendance à se reposer sur les autres pour le soutien émotionnel et la direction, ce qui peut influencer l'indépendance personnelle."
+        },
+        {
+          "nom": "Développement de la conscience personnelle et sociale",
+          "data": "Cette configuration permet un développement significatif tant de la conscience personnelle que de la conscience sociale, encourageant une croissance équilibrée dans ces deux domaines."
+        }
+      ]
+    },
+    {
+      "nord": 5,
+      "sud": 5,
+      "data": [
+        {
+          "nom": "Équilibre entre soi et les autres",
+          "data": "La répartition équilibrée des planètes entre les deux hémisphères suggère un équilibre entre le développement personnel et les interactions sociales, permettant à la personne de travailler à la fois sur ses propres objectifs et ses relations avec les autres."
+        },
+        {
+          "nom": "Développement personnel significatif",
+          "data": "Avec 5 planètes dans l'hémisphère nord, il y a une forte concentration sur le développement de l'identité personnelle, les aspirations individuelles, et les objectifs personnels. La personne est susceptible de mettre un accent significatif sur ses propres besoins et ambitions."
+        },
+        {
+          "nom": "Importance des relations et des engagements sociaux",
+          "data": "Les 5 planètes dans l'hémisphère sud mettent l'accent sur les relations, les partenariats, et les engagements sociaux, soulignant leur rôle crucial dans la vie de la personne. Les interactions sociales et les projets collectifs sont également très importants."
+        },
+        {
+          "nom": "Compétences équilibrées en collaboration",
+          "data": "La personne a le potentiel de développer des compétences solides à la fois dans les domaines de la collaboration et de l'indépendance. Elle peut exceller dans des environnements où elle doit naviguer entre les responsabilités personnelles et les exigences sociales."
+        },
+        {
+          "nom": "Harmonisation des besoins personnels et sociaux",
+          "data": "La configuration permet de travailler sur l'harmonisation des besoins personnels avec ceux des autres. Il est possible de trouver un équilibre entre la réalisation de ses propres objectifs et les engagements envers les relations et les projets communs."
+        },
+        {
+          "nom": "Défis dans la gestion du temps",
+          "data": "Avec une présence égale des planètes dans les deux hémisphères, il peut y avoir des défis dans la gestion du temps et des priorités, nécessitant une gestion attentive pour équilibrer les aspects personnels et sociaux de la vie."
+        },
+        {
+          "nom": "Développement de la conscience personnelle et sociale",
+          "data": "La configuration favorise le développement de la conscience personnelle tout en encourageant une participation active dans des activités sociales et communautaires, contribuant à une croissance équilibrée dans ces deux domaines."
+        },
+        {
+          "nom": "Priorisation des objectifs personnels et des relations",
+          "data": "La personne peut trouver qu'il est important de prioriser à la fois ses objectifs personnels et ses relations, en cherchant à atteindre un équilibre qui lui permet de satisfaire ses ambitions tout en étant engagé dans des relations significatives."
+        },
+        {
+          "nom": "Tendance à la flexibilité",
+          "data": "La répartition égale des planètes suggère une tendance à être flexible et adaptable, capable de jongler efficacement entre les exigences personnelles et les engagements sociaux."
+        },
+        {
+          "nom": "Approche intégrée des objectifs",
+          "data": "Avec un équilibre dans les deux hémisphères, la personne peut adopter une approche intégrée pour atteindre ses objectifs, combinant la poursuite de ses ambitions personnelles avec une contribution significative aux projets collectifs."
+        }
+      ]
+    },
+    {
+      "nord": 6,
+      "sud": 4,
+      "data": [
+        {
+          "nom": "Orientation vers soi-même",
+          "data": "Avec 6 planètes dans l'hémisphère nord, il y a une forte concentration sur les besoins personnels, l'identité et les aspirations individuelles. La personne est susceptible de se concentrer davantage sur ses propres objectifs et le développement personnel."
+        },
+        {
+          "nom": "Développement personnel accentué",
+          "data": "La présence de 6 planètes dans les maisons 1 à 6 permet un développement significatif de l'identité personnelle, de la carrière, et des objectifs individuels. La personne mettra probablement un accent important sur ses ambitions personnelles et professionnelles."
+        },
+        {
+          "nom": "Importance modérée des relations",
+          "data": "Avec 4 planètes dans l'hémisphère sud, les relations, les partenariats et les engagements sociaux jouent un rôle important, mais sont moins prédominants par rapport au développement personnel. Les interactions sociales sont présentes mais ne dominent pas autant que les aspects personnels."
+        },
+        {
+          "nom": "Compétences interpersonnelles développées mais secondaires",
+          "data": "Bien que les compétences interpersonnelles et les relations soient importantes, elles sont secondaires par rapport aux préoccupations personnelles et professionnelles. La personne peut exceller dans les relations mais les voit comme un complément à ses objectifs personnels."
+        },
+        {
+          "nom": "Priorité aux objectifs personnels",
+          "data": "La configuration suggère une forte tendance à mettre les objectifs personnels et professionnels en avant, avec une gestion des relations et des engagements sociaux en arrière-plan par rapport aux ambitions individuelles."
+        },
+        {
+          "nom": "Défi d'équilibre entre soi et les autres",
+          "data": "Il peut y avoir un défi à équilibrer les besoins personnels avec les exigences des relations sociales et des engagements. La personne devra faire des efforts pour gérer ses ambitions personnelles tout en maintenant des relations saines."
+        },
+        {
+          "nom": "Orientation vers la carrière et l'accomplissement",
+          "data": "La concentration dans l'hémisphère nord suggère une orientation significative vers la carrière, les réalisations personnelles, et la structuration de la vie professionnelle et personnelle."
+        },
+        {
+          "nom": "Engagement social secondaire",
+          "data": "Les engagements sociaux et les projets collectifs sont importants mais ne sont pas aussi centraux que les préoccupations individuelles. La personne peut participer à des activités sociales mais les place après ses propres objectifs."
+        },
+        {
+          "nom": "Développement de la conscience personnelle",
+          "data": "La personne est susceptible de développer une forte conscience personnelle et une compréhension approfondie de ses propres besoins, objectifs et motivations, avec un focus significatif sur la réalisation personnelle."
+        },
+        {
+          "nom": "Tendance à l'indépendance",
+          "data": "La présence dominante dans l'hémisphère nord peut indiquer une tendance à rechercher l'indépendance et à privilégier l'auto-suffisance, avec une approche proactive pour atteindre ses objectifs personnels."
+        }
+      ]
+    },
+    {
+      "nord": 7,
+      "sud": 3,
+      "data": [
+        {
+          "nom": "Orientation centrée sur soi",
+          "data": "Avec 7 planètes dans l'hémisphère nord, il y a une forte concentration sur les besoins personnels, l'identité et les objectifs individuels. La personne est particulièrement focalisée sur ses propres aspirations et le développement personnel."
+        },
+        {
+          "nom": "Développement personnel dominant",
+          "data": "La présence de 7 planètes dans les maisons 1 à 6 permet un développement significatif des aspects personnels, professionnels, et de la vie quotidienne. La personne mettra probablement un accent majeur sur ses ambitions individuelles et ses projets personnels."
+        },
+        {
+          "nom": "Importance limitée des relations",
+          "data": "Avec seulement 3 planètes dans l'hémisphère sud, les relations, les partenariats et les engagements sociaux jouent un rôle, mais ils sont moins prédominants par rapport aux préoccupations personnelles. Les interactions sociales sont présentes mais en retrait par rapport aux objectifs individuels."
+        },
+        {
+          "nom": "Compétences interpersonnelles secondaires",
+          "data": "Les compétences interpersonnelles sont présentes mais sont secondaires par rapport au développement personnel. La personne peut réussir dans les relations mais les considère comme secondaires par rapport à ses propres objectifs et réalisations."
+        },
+        {
+          "nom": "Priorité aux objectifs personnels",
+          "data": "La configuration suggère une forte priorité accordée aux objectifs personnels et professionnels. La personne se concentre principalement sur sa carrière, ses réalisations et la gestion de ses affaires personnelles."
+        },
+        {
+          "nom": "Défi dans l'équilibre entre soi et les autres",
+          "data": "Il peut y avoir un défi à équilibrer les besoins personnels avec les exigences des relations et des engagements sociaux. La personne devra faire un effort conscient pour maintenir des relations harmonieuses tout en poursuivant ses propres objectifs."
+        },
+        {
+          "nom": "Orientation vers l'accomplissement personnel",
+          "data": "La concentration dominante dans l'hémisphère nord suggère une orientation vers la réalisation de soi, avec un accent particulier sur la carrière, les projets personnels, et la construction d'une vie alignée avec ses propres valeurs et objectifs."
+        },
+        {
+          "nom": "Engagement social en retrait",
+          "data": "Les engagements sociaux et les projets collectifs sont moins centraux, et la personne peut choisir de participer à des activités sociales de manière plus limitée, préférant se concentrer sur ses propres besoins et aspirations."
+        },
+        {
+          "nom": "Développement intense de la conscience personnelle",
+          "data": "La configuration favorise un développement profond de la conscience personnelle, avec une compréhension accrue de ses propres besoins, désirs, et objectifs, tout en mettant en avant une approche proactive pour atteindre ses ambitions."
+        },
+        {
+          "nom": "Tendance à l'indépendance marquée",
+          "data": "La forte présence dans l'hémisphère nord indique une tendance vers une grande indépendance et une auto-suffisance, avec une approche axée sur la réalisation personnelle et la gestion autonome des aspects de sa vie."
+        }
+      ]
+    },
+    {
+      "nord": 8,
+      "sud": 2,
+      "data": [
+        {
+          "nom": "Forte orientation personnelle",
+          "data": "Avec 8 planètes dans l'hémisphère nord, il y a une prédominance marquée sur les aspects personnels, l'identité et les objectifs individuels. La personne se concentre principalement sur ses propres besoins, aspirations et développements personnels."
+        },
+        {
+          "nom": "Développement personnel prédominant",
+          "data": "La présence de 8 planètes dans les maisons 1 à 6 permet une forte concentration sur le développement personnel, la carrière, et les objectifs individuels. La personne mettra un accent majeur sur ses projets personnels et professionnels."
+        },
+        {
+          "nom": "Importance minime des relations",
+          "data": "Avec seulement 2 planètes dans l'hémisphère sud, les relations, les partenariats, et les engagements sociaux jouent un rôle secondaire. Les interactions sociales sont présentes mais ont moins de poids comparé aux préoccupations personnelles."
+        },
+        {
+          "nom": "Compétences interpersonnelles limitées",
+          "data": "Les compétences interpersonnelles et les relations sont secondaires par rapport aux objectifs personnels. La personne peut réussir dans les relations, mais ces aspects ne sont pas le principal focus de sa vie."
+        },
+        {
+          "nom": "Priorité absolue aux objectifs personnels",
+          "data": "La configuration suggère une priorité absolue accordée aux objectifs personnels et professionnels. La personne est fortement orientée vers la réalisation de ses ambitions individuelles et la gestion de ses propres affaires."
+        },
+        {
+          "nom": "Défi d'équilibre entre soi et les autres",
+          "data": "Il peut y avoir des défis importants pour équilibrer les besoins personnels avec les exigences des relations et des engagements sociaux. La personne devra travailler pour maintenir des relations harmonieuses tout en poursuivant ses propres objectifs."
+        },
+        {
+          "nom": "Orientation vers l'accomplissement personnel",
+          "data": "La concentration dominante dans l'hémisphère nord suggère une orientation vers la réalisation personnelle, avec un accent particulier sur la carrière, les projets personnels, et la structuration d'une vie en accord avec ses propres valeurs et objectifs."
+        },
+        {
+          "nom": "Engagement social secondaire",
+          "data": "Les engagements sociaux et les projets collectifs sont peu développés, et la personne peut choisir de s'engager dans des activités sociales de manière limitée, préférant se concentrer sur ses propres aspirations et réalisations."
+        },
+        {
+          "nom": "Développement intense de la conscience personnelle",
+          "data": "La configuration favorise un développement profond de la conscience personnelle, avec une compréhension accrue des besoins, désirs et objectifs personnels, tout en mettant en avant une approche proactive pour atteindre ses ambitions."
+        },
+        {
+          "nom": "Tendance marquée à l'indépendance",
+          "data": "La forte présence dans l'hémisphère nord indique une tendance prononcée vers l'indépendance et l'auto-suffisance, avec une approche axée sur la réalisation personnelle et la gestion autonome des aspects de sa vie."
+        }
+      ]
+    },
+    {
+      "nord": 9,
+      "sud": 1,
+      "data": [
+        {
+          "nom": "Prépondérance de l'orientation personnelle",
+          "data": "Avec 9 planètes dans l'hémisphère nord, il y a une prédominance marquée sur les aspects personnels, l'identité, et les objectifs individuels. La personne est fortement centrée sur ses propres besoins et aspirations, avec une focalisation importante sur le développement personnel."
+        },
+        {
+          "nom": "Développement personnel dominant",
+          "data": "La présence de 9 planètes dans les maisons 1 à 6 indique une concentration extrême sur le développement personnel, la carrière, et les objectifs individuels. La personne place ses propres ambitions et projets au cœur de ses préoccupations."
+        },
+        {
+          "nom": "Importance minimale des relations",
+          "data": "Avec seulement 1 planète dans l'hémisphère sud, les relations, les partenariats, et les engagements sociaux sont presque inexistants en comparaison avec les aspects personnels. Les interactions sociales jouent un rôle très limité dans cette configuration."
+        },
+        {
+          "nom": "Compétences interpersonnelles peu développées",
+          "data": "Les compétences interpersonnelles et les relations sont très secondaires. La personne peut avoir des relations, mais celles-ci sont peu développées et n'ont pas un impact significatif sur sa vie par rapport aux objectifs personnels."
+        },
+        {
+          "nom": "Priorité absolue aux objectifs personnels",
+          "data": "La configuration indique une priorité totale accordée aux objectifs personnels et professionnels. La personne est extrêmement orientée vers la réalisation de ses propres ambitions et la gestion de ses propres affaires."
+        },
+        {
+          "nom": "Défi majeur d'équilibre entre soi et les autres",
+          "data": "Le manque significatif de planètes dans l'hémisphère sud peut créer un défi majeur pour équilibrer les besoins personnels avec les exigences des relations et des engagements sociaux. La personne devra faire un effort conscient pour intégrer les relations dans sa vie."
+        },
+        {
+          "nom": "Orientation intense vers l'accomplissement personnel",
+          "data": "La concentration dominante dans l'hémisphère nord suggère une orientation intense vers la réalisation personnelle, avec un accent fort sur la carrière, les projets individuels, et la construction d'une vie alignée avec ses propres objectifs."
+        },
+        {
+          "nom": "Engagement social pratiquement inexistant",
+          "data": "Les engagements sociaux et les projets collectifs sont quasiment inexistants. La personne peut éviter ou minimiser les activités sociales au profit de ses propres préoccupations et objectifs personnels."
+        },
+        {
+          "nom": "Développement profond de la conscience personnelle",
+          "data": "La configuration favorise un développement très profond de la conscience personnelle, avec une compréhension très accrue des besoins, désirs, et objectifs personnels, tout en mettant en avant une approche proactive pour atteindre ses ambitions."
+        },
+        {
+          "nom": "Tendance prononcée à l'indépendance",
+          "data": "La forte présence dans l'hémisphère nord indique une tendance marquée vers l'indépendance et l'auto-suffisance, avec une approche centrée sur la réalisation personnelle et la gestion autonome des aspects de sa vie."
+        }
+      ]
+    },
+    {
+      "nord": 10,
+      "sud": 0,
+      "data": [
+        {
+          "nom": "Forte orientation vers soi-même",
+          "data": "Avec 10 planètes dans l'hémisphère nord, il y a une concentration totale sur les aspects personnels, l'identité, et les objectifs individuels. La personne est entièrement focalisée sur ses propres besoins, aspirations, et développements personnels."
+        },
+        {
+          "nom": "Développement personnel exclusif",
+          "data": "La présence de 10 planètes dans les maisons 1 à 6 indique un développement exclusif des aspects personnels, professionnels, et de la vie quotidienne. La personne mettra un accent total sur ses ambitions individuelles et ses projets personnels."
+        },
+        {
+          "nom": "Absence totale d'engagement social",
+          "data": "Avec 0 planète dans l'hémisphère sud, les relations, les partenariats, et les engagements sociaux sont complètement absents. Les interactions sociales et les aspects collectifs de la vie ne jouent aucun rôle dans cette configuration."
+        },
+        {
+          "nom": "Compétences interpersonnelles non développées",
+          "data": "Les compétences interpersonnelles et les relations ne sont pas présentes. La personne peut avoir peu ou pas d'intérêt pour les interactions sociales ou les engagements collectifs, mettant tout son focus sur ses propres objectifs."
+        },
+        {
+          "nom": "Priorité absolue aux objectifs personnels",
+          "data": "La configuration indique une priorité totale aux objectifs personnels et professionnels. La personne est entièrement orientée vers la réalisation de ses propres ambitions et la gestion de ses propres affaires sans considération notable pour les relations sociales."
+        },
+        {
+          "nom": "Absence de préoccupation sociale",
+          "data": "L'absence totale de planètes dans l'hémisphère sud suggère que la personne ne se préoccupe pas des aspects sociaux ou communautaires. Elle est concentrée exclusivement sur son propre développement et ses objectifs individuels."
+        },
+        {
+          "nom": "Orientation extrême vers l'accomplissement personnel",
+          "data": "La concentration complète dans l'hémisphère nord suggère une orientation extrême vers l'accomplissement personnel, avec un accent fort sur la carrière, les projets individuels, et la construction d'une vie alignée uniquement avec ses propres objectifs."
+        },
+        {
+          "nom": "Engagement social inexistant",
+          "data": "Les engagements sociaux et les projets collectifs sont complètement absents. La personne peut choisir d'éviter ou de minimiser les activités sociales au profit de ses propres préoccupations et objectifs personnels."
+        },
+        {
+          "nom": "Développement intense de la conscience personnelle",
+          "data": "La configuration favorise un développement extrêmement profond de la conscience personnelle, avec une compréhension très accrue des besoins, désirs, et objectifs personnels, mettant en avant une approche entièrement axée sur la réalisation personnelle."
+        },
+        {
+          "nom": "Tendance marquée à l'auto-suffisance",
+          "data": "La présence totale dans l'hémisphère nord indique une tendance marquée à l'auto-suffisance et à l'indépendance. La personne privilégie l'accomplissement personnel et la gestion autonome de sa vie, sans se soucier des aspects sociaux."
+        }
+      ]
+    },
+    {
+      "est": 0,
+      "ouest": 10,
+      "data": [
+        {
+          "nom": "Orientation et équilibre de vie",
+          "data": "Avec toutes les planètes placées dans l'hémisphère ouest (maisons 4 à 9), la personne est fortement orientée vers les autres et la vie sociale. La maison 4 à 6 concerne la famille, le foyer et le développement personnel, tandis que les maisons 7 à 9 sont associées aux relations interpersonnelles, au partenariat et aux voyages."
+        },
+        {
+          "nom": "Focus sur les relations et le partenariat",
+          "data": "La concentration des planètes dans l'hémisphère ouest suggère une importance significative des relations et des partenariats dans la vie de cette personne. Les maisons 7 à 9 soulignent l'importance des interactions avec les autres, des collaborations et des échanges intellectuels ou philosophiques."
+        },
+        {
+          "nom": "Moins d'accent sur l'indépendance",
+          "data": "L'absence de planètes dans l'hémisphère est (maisons 1 à 3) peut indiquer que cette personne pourrait moins se concentrer sur ses besoins personnels, l'affirmation de soi, ou la manière dont elle se perçoit individuellement. L'accent est plutôt mis sur les aspects collectifs et sociaux de la vie."
+        },
+        {
+          "nom": "Développement personnel par les interactions",
+          "data": "La majorité des planètes en maisons 4 à 9 suggère que la croissance personnelle se fait principalement à travers les interactions avec les autres et les expériences partagées. La personne pourrait trouver un sens et une direction à travers ses relations et ses engagements sociaux."
+        },
+        {
+          "nom": "Impact sur les relations familiales et la vie domestique",
+          "data": "Les maisons 4 à 6, situées dans l'hémisphère ouest, incluent des aspects tels que la vie familiale, le foyer, et la gestion du quotidien. Les planètes dans ces maisons peuvent accentuer l'importance des relations familiales et la stabilité domestique."
+        },
+        {
+          "nom": "Influence des voyages et de la philosophie",
+          "data": "Les maisons 7 à 9, également situées dans l'hémisphère ouest, concernent les voyages, les études supérieures, et la philosophie de vie. La concentration de planètes dans ces maisons peut indiquer un intérêt prononcé pour les cultures étrangères, l'expansion des horizons et l'approfondissement des connaissances."
+        },
+        {
+          "nom": "Vision collective et approche des autres",
+          "data": "Cette configuration indique une approche plus collaborative et une vision orientée vers le collectif. La personne peut être plus attentive aux besoins et aux attentes des autres plutôt qu'à ses propres désirs ou ambitions personnelles."
+        },
+        {
+          "nom": "Manque de focus sur l'individualité",
+          "data": "Avec aucune planète dans l'hémisphère est, la personne pourrait avoir une tendance à minimiser l'importance de ses propres aspirations personnelles ou son propre chemin de vie, se concentrant davantage sur les besoins et les désirs des autres."
+        },
+        {
+          "nom": "Défis potentiels en termes de prise d'initiative",
+          "data": "L'absence de planètes dans les maisons 1 à 3 pourrait signaler des défis dans la prise d'initiative personnelle, la manière dont la personne se positionne dans le monde, ou comment elle développe ses compétences et sa communication personnelle."
+        },
+        {
+          "nom": "Équilibre entre l'intérieur et l'extérieur",
+          "data": "Cette configuration astrale met en évidence la nécessité de trouver un équilibre entre les besoins internes et la dynamique extérieure. La personne devra probablement travailler sur l'intégration de ses propres objectifs personnels avec ses engagements sociaux et relations."
+        }
+      ]
+    },
+    {
+      "est": 1,
+      "ouest": 9,
+      "data": [
+        {
+          "nom": "Orientation et focus de vie",
+          "data": "La concentration des planètes dans l'hémisphère ouest (maisons 4 à 9) indique un fort focus sur les relations interpersonnelles, les partenariats, et les aspects sociaux de la vie. La maison 4 à 6 implique la famille et la vie domestique, tandis que les maisons 7 à 9 concernent les interactions, les voyages et la philosophie."
+        },
+        {
+          "nom": "Importance des relations et des engagements",
+          "data": "Avec 9 planètes en maisons 4 à 9, les relations et les engagements sociaux jouent un rôle central dans la vie de la personne. Les aspects tels que les partenariats, les collaborations et les dynamiques familiales sont particulièrement accentués."
+        },
+        {
+          "nom": "Accent sur la vie sociale et professionnelle",
+          "data": "L'absence relative de planètes dans l'hémisphère est (maisons 1 à 3) suggère une tendance à moins se concentrer sur l'initiative personnelle ou l'affirmation de soi. La vie sociale et professionnelle pourrait donc prendre le pas sur les ambitions ou les désirs personnels."
+        },
+        {
+          "nom": "Développement personnel à travers les autres",
+          "data": "La personne pourrait développer son identité et ses compétences principalement à travers les interactions avec les autres. Les maisons 4 à 6 montrent l'influence de la famille et du foyer, tandis que les maisons 7 à 9 apportent des opportunités de croissance à travers les expériences partagées et les échanges intellectuels."
+        },
+        {
+          "nom": "Influence des relations familiales",
+          "data": "Les maisons 4 à 6, qui contiennent des planètes dans l'hémisphère ouest, soulignent l'importance des relations familiales et de la stabilité domestique. La personne peut trouver une grande partie de son identité et de son équilibre dans le cadre familial."
+        },
+        {
+          "nom": "Forte orientation vers les autres",
+          "data": "Avec seulement une planète dans l'hémisphère est, il est probable que la personne ait une orientation marquée vers les autres plutôt que vers elle-même. Les besoins des autres et les dynamiques relationnelles sont plus prégnants dans sa vie."
+        },
+        {
+          "nom": "Potentiel manque de concentration sur soi",
+          "data": "La présence d'une seule planète dans les maisons 1 à 3 peut indiquer une concentration moindre sur les objectifs personnels ou l'affirmation de soi. La personne pourrait avoir tendance à placer les besoins et les intérêts des autres avant les siens."
+        },
+        {
+          "nom": "Défis dans l'autonomie personnelle",
+          "data": "La configuration pourrait présenter des défis en termes d'autonomie et de prise d'initiative personnelle. Le manque de planètes dans l'hémisphère est peut suggérer une difficulté à se concentrer sur ses propres aspirations ou à se positionner fermement dans le monde."
+        },
+        {
+          "nom": "Intérêt pour les expériences partagées",
+          "data": "Les maisons 7 à 9, où se trouvent la majorité des planètes, indiquent un intérêt marqué pour les expériences partagées, les voyages et l'expansion intellectuelle. La personne pourrait être attirée par les interactions enrichissantes et la quête de sens à travers les autres."
+        },
+        {
+          "nom": "Équilibre entre vie personnelle et professionnelle",
+          "data": "Cette configuration suggère un besoin d'équilibrer les aspects personnels et professionnels de la vie. La personne pourrait être amenée à harmoniser ses propres besoins avec les exigences et attentes des relations et des engagements sociaux."
+        }
+      ]
+    },
+    {
+      "est": 2,
+      "ouest": 8,
+      "data": [
+        {
+          "nom": "Orientation de vie équilibrée",
+          "data": "Avec 2 planètes dans l'hémisphère est (maisons 1 à 3 et 10 à 12) et 8 planètes dans l'hémisphère ouest (maisons 4 à 9), il y a un équilibre entre l'accent mis sur les aspects personnels et les interactions avec les autres. Les domaines personnels et les relations sont tous deux importants, bien que les interactions sociales et les partenariats soient plus prédominants."
+        },
+        {
+          "nom": "Accent sur les relations et le milieu social",
+          "data": "La majorité des planètes en maisons 4 à 9 indique une forte orientation vers les relations interpersonnelles, la famille, le foyer, ainsi que les engagements sociaux et professionnels. La personne est probablement très impliquée dans ses relations et dans le développement de ses interactions sociales."
+        },
+        {
+          "nom": "Affirmation de soi et objectifs personnels",
+          "data": "Avec 2 planètes dans l'hémisphère est, il y a un focus significatif sur l'affirmation de soi et les objectifs personnels. Bien que l'accent soit mis principalement sur les relations sociales, ces deux planètes apportent une dimension importante à l'indépendance personnelle et à l'auto-expression."
+        },
+        {
+          "nom": "Développement personnel à travers les autres",
+          "data": "Les planètes dans les maisons 4 à 6 mettent en lumière la manière dont la personne se développe et s'épanouit à travers ses relations familiales et ses engagements domestiques. Les maisons 7 à 9 apportent des opportunités de croissance à travers les interactions sociales, les collaborations, et les expériences d'apprentissage."
+        },
+        {
+          "nom": "Importance des relations familiales",
+          "data": "Les maisons 4 à 6, situées dans l'hémisphère ouest, soulignent l'importance des relations familiales et de la stabilité domestique. Ces maisons sont essentielles pour la construction d'une base solide et d'un environnement sécurisant pour la personne."
+        },
+        {
+          "nom": "Impact des relations sur le développement personnel",
+          "data": "Avec 8 planètes dans l'hémisphère ouest, les relations interpersonnelles et les expériences partagées sont cruciales pour le développement personnel. La personne pourrait trouver son épanouissement à travers des partenariats et des échanges significatifs avec les autres."
+        },
+        {
+          "nom": "Concentration sur l'engagement professionnel et social",
+          "data": "Les maisons 7 à 9, contenant des planètes, mettent en avant l'importance des engagements professionnels, des collaborations et des voyages. La personne pourrait être très engagée dans des activités sociales ou professionnelles qui impliquent des interactions avec un large éventail de personnes."
+        },
+        {
+          "nom": "Equilibre entre autonomie et coopération",
+          "data": "La présence de 2 planètes dans l'hémisphère est montre une tendance vers l'autonomie et la gestion personnelle, tandis que 8 planètes dans l'hémisphère ouest reflètent un besoin important de coopération et de travail en équipe. L'équilibre entre ces deux domaines est essentiel pour un épanouissement complet."
+        },
+        {
+          "nom": "Défis dans la prise d'initiative personnelle",
+          "data": "Avec moins de planètes dans les maisons 1 à 3, la personne pourrait rencontrer des défis dans la prise d'initiative personnelle ou dans le développement de son identité individuelle. La concentration sur les autres et les engagements sociaux peut parfois limiter l'accent mis sur les ambitions personnelles."
+        },
+        {
+          "nom": "Équilibre entre besoins personnels et interactions sociales",
+          "data": "Cette configuration suggère la nécessité de maintenir un équilibre entre les besoins personnels et les exigences des interactions sociales. La personne devra trouver des moyens d’intégrer ses aspirations personnelles avec ses engagements sociaux et professionnels."
+        }
+      ]
+    },
+    {
+      "est": 3,
+      "ouest": 7,
+      "data": [
+        {
+          "nom": "Orientation principale vers les relations",
+          "data": "Avec 7 planètes dans l'hémisphère ouest (maisons 4 à 9), l'accent est fortement mis sur les relations interpersonnelles, la vie familiale, et les engagements sociaux. Les interactions avec les autres, les partenariats, et les aspects sociaux de la vie sont prédominants."
+        },
+        {
+          "nom": "Équilibre entre l'indépendance et les interactions",
+          "data": "La présence de 3 planètes dans l'hémisphère est (maisons 1 à 3 et 10 à 12) montre un équilibre entre l'accent mis sur l'auto-expression, les objectifs personnels, et la vie professionnelle, et le besoin de relations et d'engagements sociaux."
+        },
+        {
+          "nom": "Développement personnel à travers les relations",
+          "data": "Les planètes dans les maisons 4 à 6 mettent en évidence l'importance des relations familiales et de la stabilité domestique pour le développement personnel. Les maisons 7 à 9, contenant la majorité des planètes, soulignent l'importance des collaborations, des partenariats, et des échanges intellectuels ou philosophiques."
+        },
+        {
+          "nom": "Concentration sur l'affirmation de soi et les ambitions",
+          "data": "Avec 3 planètes dans l'hémisphère est, il y a une concentration significative sur l'affirmation de soi, les objectifs personnels, et la carrière. La personne est probablement motivée à atteindre ses propres ambitions tout en maintenant des interactions sociales équilibrées."
+        },
+        {
+          "nom": "Influence des engagements familiaux et sociaux",
+          "data": "Les maisons 4 à 6, où se trouvent des planètes, suggèrent que les engagements familiaux et les dynamiques domestiques jouent un rôle crucial dans la vie de la personne. La stabilité du foyer et les responsabilités familiales sont importantes pour son équilibre et son épanouissement."
+        },
+        {
+          "nom": "Impact des relations professionnelles et des voyages",
+          "data": "Les maisons 7 à 9, situées dans l'hémisphère ouest, mettent en avant l'importance des relations professionnelles, des collaborations, et des voyages pour le développement personnel. Ces domaines sont essentiels pour la croissance et l'acquisition de nouvelles perspectives."
+        },
+        {
+          "nom": "Défis dans l'auto-expression",
+          "data": "Avec une concentration plus élevée de planètes dans l'hémisphère ouest, il peut y avoir des défis à se concentrer sur l'auto-expression ou l'initiative personnelle. La personne pourrait parfois trouver difficile de placer ses propres besoins au premier plan par rapport aux exigences sociales."
+        },
+        {
+          "nom": "Équilibre entre vie personnelle et engagements sociaux",
+          "data": "Cette configuration indique une nécessité de trouver un équilibre entre les objectifs personnels et les engagements sociaux. La personne devra gérer son temps et ses efforts pour concilier ses propres aspirations avec ses interactions et ses responsabilités envers les autres."
+        },
+        {
+          "nom": "Intérêt pour la croissance personnelle à travers les autres",
+          "data": "Les planètes dans les maisons 4 à 9 suggèrent que la croissance personnelle et l'épanouissement se produisent principalement à travers les expériences partagées, les partenariats, et les interactions avec les autres."
+        },
+        {
+          "nom": "Capacité à intégrer les ambitions personnelles",
+          "data": "Bien que les relations sociales soient prédominantes, les 3 planètes dans l'hémisphère est permettent d'intégrer les ambitions personnelles et les objectifs de carrière dans la dynamique de vie globale. La personne peut ainsi équilibrer ses aspirations personnelles avec ses engagements envers les autres."
+        }
+      ]
+    },
+    {
+      "est": 4,
+      "ouest": 6,
+      "data": [
+        {
+          "nom": "Accent sur l'indépendance et l'auto-expression",
+          "data": "Avec 4 planètes dans l'hémisphère est (maisons 1 à 3 et 10 à 12), il y a un fort accent sur l'indépendance personnelle, l'auto-expression, et les objectifs professionnels. La personne est motivée à définir et à poursuivre ses propres ambitions et à affirmer son identité dans le monde."
+        },
+        {
+          "nom": "Orientation vers les relations et les engagements",
+          "data": "Les 6 planètes dans l'hémisphère ouest (maisons 4 à 9) mettent en lumière l'importance des relations interpersonnelles, des dynamiques familiales, et des engagements sociaux. La vie de la personne est largement influencée par ses interactions avec les autres et ses responsabilités dans ces domaines."
+        },
+        {
+          "nom": "Équilibre entre autonomie et interaction sociale",
+          "data": "La répartition des planètes montre un équilibre entre la nécessité d'indépendance et la nécessité de se connecter avec les autres. La personne cherche à satisfaire ses propres besoins et objectifs tout en restant impliquée dans des relations sociales significatives."
+        },
+        {
+          "nom": "Développement personnel par l'auto-expression",
+          "data": "Les planètes dans les maisons 1 à 3 favorisent le développement personnel à travers l'auto-expression, la communication, et la prise d'initiative. La personne trouve son épanouissement en affirmant son identité et en poursuivant ses ambitions individuelles."
+        },
+        {
+          "nom": "Importance des relations familiales et sociales",
+          "data": "Les maisons 4 à 6, qui contiennent des planètes, soulignent l'importance des relations familiales, du foyer, et des engagements domestiques. La stabilité dans ces domaines est cruciale pour le bien-être et l'équilibre personnel de la personne."
+        },
+        {
+          "nom": "Influence des engagements professionnels et des collaborations",
+          "data": "Les maisons 7 à 9, situées dans l'hémisphère ouest, mettent en avant les engagements professionnels, les collaborations, et les expériences enrichissantes. La personne est attirée par des opportunités qui impliquent des interactions avec d'autres et l'élargissement de ses horizons."
+        },
+        {
+          "nom": "Défis dans la gestion des besoins personnels",
+          "data": "Avec 6 planètes dans l'hémisphère ouest, la personne peut rencontrer des défis pour équilibrer ses besoins personnels avec ses engagements sociaux et professionnels. La gestion de l'autonomie peut nécessiter une attention particulière pour éviter que les responsabilités sociales n'absorbent toutes les énergies."
+        },
+        {
+          "nom": "Opportunités de croissance à travers les autres",
+          "data": "La concentration de planètes dans les maisons 4 à 9 suggère que la croissance personnelle et l'épanouissement se produisent principalement à travers les relations et les engagements avec les autres, ainsi que par l'exploration de nouvelles perspectives et expériences."
+        },
+        {
+          "nom": "Intégration des objectifs personnels avec les relations",
+          "data": "Les 4 planètes dans l'hémisphère est permettent à la personne de travailler sur l'intégration de ses objectifs personnels avec ses engagements sociaux. La personne cherche à harmoniser ses aspirations individuelles avec ses interactions et responsabilités envers les autres."
+        },
+        {
+          "nom": "Équilibre entre ambition personnelle et coopération",
+          "data": "La configuration astrale indique une nécessité d'équilibrer l'ambition personnelle avec la coopération et l'interaction sociale. La personne doit gérer son besoin de succès individuel tout en restant attentive à ses engagements et à ses relations avec les autres."
+        }
+      ]
+    },
+    {
+      "est": 5,
+      "ouest": 5,
+      "data": [
+        {
+          "nom": "Équilibre entre indépendance et relations",
+          "data": "La répartition égale des planètes entre les hémisphères est et ouest (5 dans chaque) suggère un équilibre entre la concentration sur les objectifs personnels et l'interaction avec les autres. La personne est capable de gérer à la fois ses propres ambitions et ses engagements sociaux."
+        },
+        {
+          "nom": "Accent sur l'auto-expression et la carrière",
+          "data": "Avec 5 planètes dans l'hémisphère est (maisons 1 à 3 et 10 à 12), l'accent est mis sur l'auto-expression, la prise d'initiative, et les objectifs professionnels. La personne est motivée à développer son identité personnelle et à poursuivre ses ambitions de manière proactive."
+        },
+        {
+          "nom": "Importance des relations et de la vie domestique",
+          "data": "Les 5 planètes dans l'hémisphère ouest (maisons 4 à 9) mettent en avant l'importance des relations interpersonnelles, de la vie familiale, et des engagements sociaux. Les aspects comme la stabilité domestique et les interactions avec les autres jouent un rôle crucial dans la vie de la personne."
+        },
+        {
+          "nom": "Développement personnel à travers les autres",
+          "data": "Les maisons 4 à 9, où se trouvent les planètes dans l'hémisphère ouest, suggèrent que la croissance personnelle se fait en grande partie à travers les expériences partagées, les relations familiales, et les engagements sociaux. La personne apprend et évolue par ses interactions avec les autres."
+        },
+        {
+          "nom": "Auto-détermination et aspirations individuelles",
+          "data": "La présence de 5 planètes dans les maisons 1 à 3 de l'hémisphère est indique une forte orientation vers l'auto-détermination, l'affirmation de soi, et la gestion de ses propres objectifs. La personne est proactive dans la poursuite de ses aspirations et de ses projets personnels."
+        },
+        {
+          "nom": "Interactions sociales et collaborations",
+          "data": "Les planètes dans les maisons 7 à 9 mettent l'accent sur les interactions sociales, les partenariats, et les expériences enrichissantes comme les voyages ou l'éducation. La personne est engagée dans des collaborations significatives et cherche à élargir ses horizons par le biais de ses relations."
+        },
+        {
+          "nom": "Gestion équilibrée des responsabilités",
+          "data": "La répartition équilibrée des planètes entre les deux hémisphères suggère une capacité à gérer efficacement les responsabilités personnelles et sociales. La personne est à l'aise pour jongler entre ses ambitions personnelles et ses engagements envers les autres."
+        },
+        {
+          "nom": "Équilibre entre vie personnelle et professionnelle",
+          "data": "Cette configuration indique la nécessité de maintenir un équilibre entre la vie personnelle (maisons 1 à 3 et 10 à 12) et la vie sociale et familiale (maisons 4 à 9). La personne devra trouver des moyens de concilier ses objectifs professionnels avec ses relations et responsabilités domestiques."
+        },
+        {
+          "nom": "Intégration des aspirations personnelles avec les engagements sociaux",
+          "data": "Avec une répartition égale des planètes, la personne doit intégrer ses aspirations personnelles avec ses engagements sociaux. Elle devra gérer ses ambitions tout en restant attentive à ses responsabilités et relations avec les autres."
+        },
+        {
+          "nom": "Opportunités de croissance à travers les interactions",
+          "data": "Les maisons 4 à 9 indiquent que les opportunités de croissance et d'épanouissement viennent largement des interactions avec les autres. Les expériences partagées, les collaborations, et les dynamiques familiales sont essentielles pour le développement personnel."
+        }
+      ]
+    },
+    {
+      "est": 6,
+      "ouest": 4,
+      "data": [
+        {
+          "nom": "Accent sur l'indépendance et l'auto-expression",
+          "data": "Avec 6 planètes dans l'hémisphère est (maisons 1 à 3 et 10 à 12), la personne met l'accent sur l'indépendance personnelle, l'auto-expression et la réalisation de ses objectifs professionnels. L'individualité et les ambitions personnelles jouent un rôle central dans sa vie."
+        },
+        {
+          "nom": "Focalisation sur les ambitions personnelles",
+          "data": "La concentration de planètes dans les maisons 1 à 3 et 10 à 12 montre une forte focalisation sur la carrière, l'identité personnelle, et les objectifs de vie. La personne est déterminée à atteindre ses ambitions et à développer son propre chemin dans la vie."
+        },
+        {
+          "nom": "Importance des relations et du foyer",
+          "data": "Avec 4 planètes dans l'hémisphère ouest (maisons 4 à 9), les relations interpersonnelles et les aspects domestiques jouent un rôle important. Les engagements familiaux, la vie à la maison, et les interactions sociales sont essentiels pour l'équilibre et le bien-être de la personne."
+        },
+        {
+          "nom": "Développement personnel à travers les interactions",
+          "data": "Les maisons 4 à 9, contenant des planètes dans l'hémisphère ouest, indiquent que la croissance personnelle et l'épanouissement se produisent largement à travers les relations et les expériences partagées, ainsi que par l'engagement dans des activités sociales et familiales."
+        },
+        {
+          "nom": "Capacité à gérer les responsabilités personnelles",
+          "data": "Avec une forte concentration de planètes dans l'hémisphère est, la personne est bien équipée pour gérer ses propres responsabilités et prendre des initiatives. Cela suggère une autonomie dans la gestion de ses objectifs personnels et professionnels."
+        },
+        {
+          "nom": "Accent sur l'autonomie dans la vie professionnelle",
+          "data": "Les maisons 10 à 12, où se trouvent des planètes, indiquent un accent particulier sur la carrière et les aspirations professionnelles. La personne est motivée à poursuivre ses ambitions de manière autonome et à réaliser ses objectifs de vie."
+        },
+        {
+          "nom": "Responsabilités sociales et familiales",
+          "data": "Les 4 planètes dans l'hémisphère ouest soulignent l'importance des responsabilités sociales et familiales. La personne est engagée dans ses relations et ses responsabilités à la maison, mais ces aspects sont secondaires par rapport à ses objectifs personnels."
+        },
+        {
+          "nom": "Défis dans l'équilibre entre autonomie et relations",
+          "data": "Avec 6 planètes dans l'hémisphère est, il peut y avoir des défis à équilibrer l'autonomie et les interactions avec les autres. La personne devra trouver un moyen de concilier ses aspirations personnelles avec ses engagements sociaux et familiaux."
+        },
+        {
+          "nom": "Opportunités de croissance à travers l'initiative personnelle",
+          "data": "La concentration de planètes dans l'hémisphère est offre des opportunités significatives pour la croissance personnelle à travers l'initiative et la prise de responsabilité. La personne est en mesure de développer ses talents et d'atteindre ses objectifs par ses propres efforts."
+        },
+        {
+          "nom": "Gestion des besoins personnels et des relations",
+          "data": "Avec 6 planètes dans l'hémisphère est et 4 dans l'hémisphère ouest, il est crucial pour la personne de gérer ses besoins personnels tout en maintenant des relations et des engagements sociaux équilibrés. L'intégration de ces deux aspects est essentielle pour un épanouissement complet."
+        }
+      ]
+    },
+    {
+      "est": 7,
+      "ouest": 3,
+      "data": [
+        {
+          "nom": "Accent sur l'indépendance et l'auto-expression",
+          "data": "Avec 7 planètes dans l'hémisphère est (maisons 1 à 3 et 10 à 12), il y a une forte concentration sur l'indépendance personnelle, l'auto-expression, et les objectifs professionnels. La personne est fortement motivée à poursuivre ses ambitions individuelles et à définir son propre chemin dans la vie."
+        },
+        {
+          "nom": "Focalisation sur la carrière et les objectifs personnels",
+          "data": "La présence de nombreuses planètes dans les maisons 1 à 3 et 10 à 12 indique un accent majeur sur la carrière, la gestion de l'image personnelle, et la réalisation des objectifs de vie. La personne est centrée sur sa propre réussite et ses aspirations individuelles."
+        },
+        {
+          "nom": "Importance secondaire des relations et du foyer",
+          "data": "Avec seulement 3 planètes dans l'hémisphère ouest (maisons 4 à 9), les aspects liés aux relations interpersonnelles, à la vie familiale, et aux engagements sociaux sont moins dominants. Bien que ces domaines soient présents, ils jouent un rôle secondaire par rapport aux objectifs personnels et professionnels."
+        },
+        {
+          "nom": "Développement personnel axé sur l'initiative personnelle",
+          "data": "Les maisons 1 à 3 et 10 à 12, contenant les planètes dans l'hémisphère est, suggèrent que le développement personnel se concentre sur la prise d'initiative, l'affirmation de soi, et l'accomplissement des objectifs professionnels. La personne est proactive dans la création de son propre succès."
+        },
+        {
+          "nom": "Gestion des relations et de la stabilité domestique",
+          "data": "Les 3 planètes dans l'hémisphère ouest montrent que les relations et la stabilité domestique sont présents mais moins prédominants. La personne doit gérer ces aspects de manière plus équilibrée et avec moins de priorité par rapport à ses ambitions personnelles."
+        },
+        {
+          "nom": "Autonomie et indépendance marquées",
+          "data": "La forte concentration de planètes dans l'hémisphère est indique une autonomie marquée. La personne préfère probablement prendre des décisions indépendantes et suivre ses propres objectifs sans trop de dépendance à l'égard des autres."
+        },
+        {
+          "nom": "Moins de concentration sur les engagements sociaux",
+          "data": "Avec seulement 3 planètes dans l'hémisphère ouest, il y a une concentration moindre sur les engagements sociaux, les partenariats, et les interactions avec les autres. La personne peut être moins impliquée dans ces aspects au profit de son propre développement personnel."
+        },
+        {
+          "nom": "Défis dans l'équilibre entre ambition personnelle et relations",
+          "data": "La configuration avec 7 planètes dans l'hémisphère est peut créer des défis pour équilibrer les ambitions personnelles avec les besoins et attentes des relations et de la vie domestique. La personne devra travailler pour intégrer ces deux domaines de manière harmonieuse."
+        },
+        {
+          "nom": "Opportunités de croissance par l'auto-détermination",
+          "data": "La concentration de planètes dans l'hémisphère est offre de nombreuses opportunités de croissance par l'auto-détermination et l'initiative personnelle. La personne est en mesure de réaliser ses aspirations à travers ses propres efforts et décisions."
+        },
+        {
+          "nom": "Gestion des besoins personnels en relation avec les autres",
+          "data": "Avec une prédominance de planètes dans l'hémisphère est, la personne devra être attentive à gérer ses besoins personnels tout en maintenant un équilibre avec ses relations et engagements sociaux. L'intégration des deux aspects est essentielle pour un épanouissement complet."
+        }
+      ]
+    },
+    {
+      "est": 8,
+      "ouest": 2,
+      "data": [
+        {
+          "nom": "Fort accent sur l'indépendance et l'auto-expression",
+          "data": "Avec 8 planètes dans l'hémisphère est (maisons 1 à 3 et 10 à 12), la personne est fortement centrée sur l'indépendance personnelle, l'auto-expression, et la réalisation de ses objectifs professionnels. L'accent est mis sur la création de son propre chemin et la poursuite des aspirations individuelles."
+        },
+        {
+          "nom": "Focalisation sur la carrière et les objectifs personnels",
+          "data": "La concentration élevée de planètes dans les maisons 1 à 3 et 10 à 12 indique un fort accent sur la carrière, l'image personnelle, et les ambitions de vie. La personne est motivée pour atteindre ses objectifs professionnels et se réaliser pleinement dans ces domaines."
+        },
+        {
+          "nom": "Importance minimale des relations et du foyer",
+          "data": "Avec seulement 2 planètes dans l'hémisphère ouest (maisons 4 à 9), les aspects liés aux relations interpersonnelles, à la vie familiale, et aux engagements sociaux sont relativement moins significatifs. La personne accorde moins de priorité à ces aspects par rapport à ses objectifs personnels."
+        },
+        {
+          "nom": "Développement personnel axé sur l'initiative personnelle",
+          "data": "Les maisons 1 à 3 et 10 à 12, où se trouvent les planètes dans l'hémisphère est, suggèrent que la croissance personnelle se fait à travers l'initiative, l'affirmation de soi, et la poursuite des objectifs personnels. La personne est proactive dans le développement de ses talents et la réalisation de ses aspirations."
+        },
+        {
+          "nom": "Moins d'engagement dans les aspects sociaux et familiaux",
+          "data": "Les 2 planètes dans l'hémisphère ouest montrent que les engagements sociaux et familiaux sont présents mais jouent un rôle secondaire. La personne peut avoir une approche plus réservée ou indépendante en ce qui concerne les responsabilités domestiques et les relations sociales."
+        },
+        {
+          "nom": "Autonomie marquée dans la vie",
+          "data": "La forte concentration de planètes dans l'hémisphère est indique une autonomie marquée. La personne préfère prendre des décisions de manière indépendante et suivre ses propres objectifs sans dépendre excessivement des autres."
+        },
+        {
+          "nom": "Défis dans l'équilibre entre ambition et relations",
+          "data": "Avec 8 planètes dans l'hémisphère est, il peut y avoir des défis pour équilibrer les ambitions personnelles avec les relations et les engagements sociaux. La personne devra faire des efforts pour ne pas négliger ses interactions sociales et ses responsabilités familiales."
+        },
+        {
+          "nom": "Opportunités de succès par l'auto-détermination",
+          "data": "La concentration élevée de planètes dans l'hémisphère est offre de nombreuses opportunités pour réussir par l'auto-détermination et la prise de responsabilité personnelle. La personne est bien positionnée pour réaliser ses aspirations par ses propres efforts."
+        },
+        {
+          "nom": "Gestion des besoins personnels et des relations",
+          "data": "Avec une forte prédominance de planètes dans l'hémisphère est, la personne doit gérer ses besoins personnels tout en maintenant une certaine attention aux relations et engagements sociaux. Bien que ces aspects soient secondaires, une intégration équilibrée est nécessaire pour un bien-être complet."
+        },
+        {
+          "nom": "Tendance à se concentrer sur les objectifs personnels",
+          "data": "La prédominance de planètes dans l'hémisphère est indique une tendance à se concentrer principalement sur ses propres objectifs et aspirations. La personne est probablement plus encline à privilégier ses propres intérêts et réussites individuelles."
+        }
+      ]
+    },
+    {
+      "est": 9,
+      "ouest": 1,
+      "data": [
+        {
+          "nom": "Dominance de l'indépendance et de l'auto-expression",
+          "data": "Avec 9 planètes dans l'hémisphère est (maisons 1 à 3 et 10 à 12), la personne se concentre fortement sur l'indépendance personnelle, l'auto-expression et la réalisation de ses objectifs professionnels. La priorité est donnée à la création de son propre chemin et à la poursuite des aspirations individuelles."
+        },
+        {
+          "nom": "Focalisation sur la carrière et l'image personnelle",
+          "data": "La concentration élevée de planètes dans les maisons 1 à 3 et 10 à 12 indique une forte orientation vers la carrière, l'image personnelle, et les ambitions de vie. La personne est déterminée à atteindre ses objectifs professionnels et à se réaliser dans ces domaines."
+        },
+        {
+          "nom": "Importance minimale des relations et de la vie domestique",
+          "data": "Avec seulement 1 planète dans l'hémisphère ouest (maisons 4 à 9), les aspects liés aux relations interpersonnelles, à la vie familiale, et aux engagements sociaux sont très secondaires. La personne accorde peu d'importance à ces aspects par rapport à ses objectifs personnels."
+        },
+        {
+          "nom": "Développement personnel axé sur l'initiative personnelle",
+          "data": "Les maisons 1 à 3 et 10 à 12, contenant les planètes dans l'hémisphère est, suggèrent que la croissance personnelle se fait principalement à travers l'initiative, l'affirmation de soi, et la poursuite des objectifs personnels. La personne est proactive dans le développement de ses talents et la réalisation de ses aspirations."
+        },
+        {
+          "nom": "Engagement limité dans les aspects sociaux et familiaux",
+          "data": "La présence d'une seule planète dans l'hémisphère ouest indique un engagement limité dans les aspects sociaux et familiaux. La personne peut avoir une approche plus réservée ou indépendante en ce qui concerne les responsabilités domestiques et les relations sociales."
+        },
+        {
+          "nom": "Autonomie et indépendance prééminentes",
+          "data": "La prédominance de planètes dans l'hémisphère est suggère une autonomie marquée. La personne préfère prendre des décisions de manière indépendante et suivre ses propres objectifs sans dépendre des autres."
+        },
+        {
+          "nom": "Défis dans l'équilibre entre ambition et relations",
+          "data": "Avec 9 planètes dans l'hémisphère est, la personne peut rencontrer des défis pour équilibrer ses ambitions personnelles avec ses relations et engagements sociaux. La gestion de ces deux aspects peut nécessiter des ajustements pour maintenir une certaine harmonie."
+        },
+        {
+          "nom": "Opportunités de succès par l'auto-détermination",
+          "data": "La concentration élevée de planètes dans l'hémisphère est offre de nombreuses opportunités pour réussir par l'auto-détermination et la prise de responsabilité personnelle. La personne est bien positionnée pour réaliser ses aspirations à travers ses propres efforts."
+        },
+        {
+          "nom": "Priorité aux objectifs personnels",
+          "data": "La forte concentration de planètes dans l'hémisphère est indique une priorité élevée accordée aux objectifs personnels. La personne est probablement plus encline à se concentrer sur ses propres réussites et ambitions, avec moins d'attention portée aux aspects sociaux et familiaux."
+        },
+        {
+          "nom": "Gestion des besoins personnels avec peu d'attention aux relations",
+          "data": "Avec une prédominance de planètes dans l'hémisphère est et une seule planète dans l'hémisphère ouest, la personne doit gérer ses besoins personnels tout en maintenant une attention minimale aux relations et engagements sociaux. L'intégration des deux aspects peut être déséquilibrée."
+        }
+      ]
+    },
+    {
+      "est": 10,
+      "ouest": 0,
+      "data": [
+        {
+          "nom": "Dominance de l'indépendance et de l'auto-expression",
+          "data": "Avec 10 planètes dans l'hémisphère est (maisons 1 à 3 et 10 à 12), il y a une forte concentration sur l'indépendance personnelle, l'auto-expression et la réalisation des objectifs personnels. La personne met l'accent sur ses propres ambitions et sa capacité à créer son propre chemin dans la vie."
+        },
+        {
+          "nom": "Focalisation sur la carrière et les objectifs personnels",
+          "data": "La présence de 10 planètes dans les maisons 1 à 3 et 10 à 12 montre une orientation majeure vers la carrière, l'image personnelle, et les aspirations de vie. La personne est profondément engagée dans la poursuite de ses objectifs professionnels et personnels, avec peu d'influence externe."
+        },
+        {
+          "nom": "Absence d'influence des relations et de la vie domestique",
+          "data": "Avec 0 planètes dans l'hémisphère ouest (maisons 4 à 9), les aspects liés aux relations interpersonnelles, à la vie familiale et aux engagements sociaux sont complètement absents. Cela indique que ces domaines n'ont pas de priorité dans la vie de la personne, et il peut y avoir une tendance à négliger ou minimiser ces aspects."
+        },
+        {
+          "nom": "Développement personnel centré sur l'initiative personnelle",
+          "data": "Les maisons 1 à 3 et 10 à 12, contenant les planètes dans l'hémisphère est, suggèrent que la croissance personnelle se fait principalement à travers l'initiative, l'affirmation de soi, et la réalisation des objectifs personnels. La personne est proactive et autonome dans la poursuite de ses ambitions."
+        },
+        {
+          "nom": "Autonomie et indépendance prédominantes",
+          "data": "La forte concentration de planètes dans l'hémisphère est indique une autonomie marquée. La personne préfère prendre des décisions de manière indépendante et suivre ses propres objectifs sans se soucier des influences ou attentes extérieures."
+        },
+        {
+          "nom": "Absence d'engagement social",
+          "data": "L'absence totale de planètes dans l'hémisphère ouest signifie qu'il y a peu ou pas d'engagement dans les aspects sociaux, familiaux, ou relationnels. La personne pourrait se concentrer exclusivement sur ses propres intérêts et ambitions sans grande considération pour les relations avec les autres."
+        },
+        {
+          "nom": "Défis dans l'équilibre entre ambitions et vie sociale",
+          "data": "Avec 10 planètes dans l'hémisphère est et aucune dans l'hémisphère ouest, il peut y avoir des défis pour équilibrer les ambitions personnelles avec les besoins sociaux et familiaux. La personne devra peut-être faire des efforts pour éviter de se concentrer exclusivement sur ses propres objectifs au détriment des relations sociales."
+        },
+        {
+          "nom": "Opportunités de succès par l'auto-détermination",
+          "data": "La concentration totale dans l'hémisphère est offre d'innombrables opportunités pour réussir grâce à l'auto-détermination et la prise de responsabilité personnelle. La personne est en mesure de réaliser ses objectifs et de se développer selon ses propres termes."
+        },
+        {
+          "nom": "Gestion des besoins personnels avec peu d'attention aux relations",
+          "data": "Avec une prédominance complète de planètes dans l'hémisphère est, la personne doit gérer ses besoins personnels tout en ayant très peu ou pas d'attention portée aux relations et engagements sociaux. L'intégration équilibrée de ces deux aspects peut être un défi majeur."
+        },
+        {
+          "nom": "Tendance à se concentrer uniquement sur les objectifs personnels",
+          "data": "La forte concentration de planètes dans l'hémisphère est indique une tendance marquée à se concentrer exclusivement sur les objectifs personnels et les aspirations. La personne est probablement moins préoccupée par les aspects sociaux et relationnels de sa vie."
+        }
+      ]
+    }
   ]
 }
