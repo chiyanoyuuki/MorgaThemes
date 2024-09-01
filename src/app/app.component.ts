@@ -50,7 +50,7 @@ export class AppComponent implements OnInit
   desc: any;
   aspects: any;
   
-  menu = ["Hémisphère Nord/Sud", "Hémisphère Est/Ouest", "Yin/Yang"];
+  menu = ["Hémisphère Nord/Sud", "Hémisphère Est/Ouest", "Modalités"];
   clicked2:any = this.menu[0];
   elements = {feu:["Bélier","Lion","Sagittaire"],air:["Gémeaux","Balance","Verseau"],terre:["Taureau","Vierge","Capricorne"],eau:["Cancer","Scorpion","Poissons"]};
   planetes = ["Soleil","Saturne","Mars","Mercure","Vénus","Neptune","Jupiter","Lune","Uranus","Pluton"];
@@ -182,6 +182,9 @@ processFileContent(): void {
 
   format()
   {
+    this.general = {};
+    this.data = [];
+
     this.aspects = [];
     let code = this.fileContent.split("\r\n");
 
@@ -279,24 +282,24 @@ processFileContent(): void {
     svgs = svgs.slice(0,idxend+1);
     this.svg = svgs;
 
-    console.log(this.data);
+    console.log("this.data",this.data);
     let emispheres = this.data;
     emispheres = emispheres.filter((e:any)=>e.nom);
     emispheres = emispheres.filter((e:any)=>this.planetes.includes(e.nom));
-    console.log(emispheres);
+    console.log("emispheres",emispheres);
     emispheres = {
       nord:emispheres.filter((e:any)=>e.maison=="Maison I"||e.maison=="Maison II"||e.maison=="Maison III"||e.maison=="Maison IV"||e.maison=="Maison V"||e.maison=="Maison VI").length,
       sud:emispheres.filter((e:any)=>e.maison=="Maison VII"||e.maison=="Maison VIII"||e.maison=="Maison IX"||e.maison=="Maison X"||e.maison=="Maison XI"||e.maison=="Maison XII").length,
       est:emispheres.filter((e:any)=>e.maison=="Maison X"||e.maison=="Maison XI"||e.maison=="Maison XII"||e.maison=="Maison I"||e.maison=="Maison II"||e.maison=="Maison III").length,
       ouest:emispheres.filter((e:any)=>e.maison=="Maison IV"||e.maison=="Maison V"||e.maison=="Maison VI"||e.maison=="Maison VII"||e.maison=="Maison VIII"||e.maison=="Maison IX").length
     };
-    console.log(emispheres);
+    console.log("emispheres",emispheres);
     this.general.emispherenord = this.infos.general.find((g:any)=>g.nord==emispheres.nord&&g.sud==emispheres.sud);
     this.general.emisphereest = this.infos.general.find((g:any)=>g.est==emispheres.est&&g.ouest==emispheres.ouest);
 
     let elements = this.data;
     elements = elements.filter((e:any)=>this.planetes.includes(e.nom));
-    console.log(elements);
+    console.log("elements",elements);
     elements = {
       eau:elements.filter((e:any)=>this.elements.eau.includes(e.signe)).length,
       air:elements.filter((e:any)=>this.elements.air.includes(e.signe)).length,
