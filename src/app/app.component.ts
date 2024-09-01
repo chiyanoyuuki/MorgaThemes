@@ -262,8 +262,6 @@ processFileContent(): void {
       }
     });
 
-    console.log(this.aspects);
-
     rgx = new RegExp(".*<svg id=\".*", 'i');
     let tmp = code.find((ligne:any)=>ligne.match(rgx));
     let idx = code.indexOf(tmp!);
@@ -273,6 +271,16 @@ processFileContent(): void {
     let idxend = svgs.indexOf(tmp!);
     svgs = svgs.slice(0,idxend+1);
     this.svg = svgs;
+
+    let emispheres = this.data;
+    emispheres = emispheres.filter((e:any)=>e.nom);
+    emispheres = [
+      {nom:"nord est",em:emispheres.filter((e:any)=>e.maison=="Maison I"||e.maison=="Maison II"||e.maison=="Maison III"||e.maison=="Maison IV").length},
+      {nom:"nord ouest",em:emispheres.filter((e:any)=>e.maison=="Maison V"||e.maison=="Maison VI"||e.maison=="Maison VII"||e.maison=="Maison VIII").length},
+      {nom:"sud est",em:emispheres.filter((e:any)=>e.maison=="Maison X"||e.maison=="Maison XI"||e.maison=="Maison XII"||e.maison=="Maison I").length},
+      {nom:"sud ouest",em:emispheres.filter((e:any)=>e.maison=="Maison II"||e.maison=="Maison III"||e.maison=="Maison IV"||e.maison=="Maison V").length}
+    ]
+    console.log(emispheres.sort((a:any,b:any)=>{return b.em-a.em}));
 
     this.init(!this.informations);
   }
@@ -538,13 +546,9 @@ processFileContent(): void {
 
   click(s:string)
   {
-    let aspects = this.aspects.filter((a:any)=>a.from==s);
-    console.log(aspects);
-    console.log(this.data);
     this.clicked = s;
     this.desc = this.infos.desc.find((d:any)=>d.nom == s).infos;
     let signe = this.infos.data.find((i:any)=>i.nom==s);
-    console.log(signe);
     if(!signe)
     {
       let data = [];
@@ -562,17 +566,22 @@ processFileContent(): void {
 
       data.push({nom:infos.nom,datas:infos.data});
       
+      let aspects = this.aspects.filter((a:any)=>a.from==s);
       aspects.forEach((a:any)=>{
         let infos = this.infos.aspects.find((i:any)=>i.from==a.from&&i.type==a.type&&i.to==a.to);
-        data.push({nom:infos.from + " " + infos.type + " " + infos.to,datas:infos.data});
+        data.push({nom:infos.from + " " + infos.type + " " + infos.to,datas:infos.data,type:"Aspect"});
       });
+
+      let domiciles = this.infos.domiciles.filter((d:any)=>d.nom==s&&d.signe==ligne.signe);
+      domiciles.forEach((d:any)=>{
+        data.push({nom: d.nom + ", " + d.type + " en " + d.signe, datas:d.data,type:"Dignité"});
+      })
 
       this.focus = data;
       return;
     }
     signe = signe.data;
     let data = this.data.filter((d:any)=>d.nom==s||d.signe==s||d.maison==s);
-    console.log(data);
     data.forEach((d:any)=>{
       let datas: any = [];
       let infos = signe.find((s:any)=>s.nom==d.nom);

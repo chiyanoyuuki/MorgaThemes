@@ -252,6 +252,7 @@ button:hover{
     width:65vw;
     overflow-x:auto;
     display: flex;
+    overflow-y: hidden;
 }
 .texte{
     width:40%;
@@ -276,10 +277,20 @@ button:hover{
     overflow: hidden;
   height: 93%;
 }
-.borderbot{border-bottom: 1px solid var(--purple3) !important;
-    width: 100%;
+.borderbot{
+    border-bottom: 1px solid var(--purple3) !important;
+    width: 90%;
     padding-bottom: 1vh;
     margin-bottom: 1vh;}
-    .contenu img{
+.contenu img{
         height:50%;
-    }
+}
+.typelien{
+        position: absolute;
+        color: var(--yellow) !important;
+  font-weight: bold;
+  top: -10px;
+  font-size: 3vh;
+  width: 82%;
+  text-shadow: 4px 4px 2px black;
+}

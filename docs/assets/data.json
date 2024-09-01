@@ -24404,5 +24404,1057 @@
         }
       ]
     }
+  ],
+  "domiciles": [
+    {
+      "nom": "Soleil",
+      "type": "domicile",
+      "signe": "Lion",
+      "data": [
+        {
+          "nom": "Expression de soi",
+          "data": "Le Soleil est dans son domicile en Lion, ce qui signifie que sa nature est pleinement exprimée. Il rayonne de confiance, de leadership et de créativité."
+        },
+        {
+          "nom": "Identité et Volonté",
+          "data": "En Lion, le Soleil manifeste une grande force de volonté et une forte identité personnelle, favorisant les activités qui mettent en avant la personnalité individuelle."
+        }
+      ]
+    },
+    {
+      "nom": "Soleil",
+      "type": "exaltation",
+      "signe": "Bélier",
+      "data": [
+        {
+          "nom": "Dynamisme et Initiatives",
+          "data": "Lorsque le Soleil est exalté en Bélier, il est particulièrement dynamique et entreprenant, prêt à prendre des initiatives et à agir avec courage."
+        },
+        {
+          "nom": "Énergie et Ambition",
+          "data": "L'exaltation en Bélier accentue l'énergie et l'ambition du Soleil, poussant à l'action directe et à la prise de risques calculés pour atteindre ses objectifs."
+        }
+      ]
+    },
+    {
+      "nom": "Soleil",
+      "type": "exil",
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Détachement et Innovation",
+          "data": "En Verseau, le Soleil est en exil, ce qui peut conduire à un sentiment de détachement par rapport aux méthodes traditionnelles et à une concentration sur des idées novatrices."
+        },
+        {
+          "nom": "Difficultés d'Expression Personnelle",
+          "data": "L'exil en Verseau peut rendre difficile l'expression de la personnalité individuelle de manière conventionnelle, favorisant une approche plus détachée et originale."
+        }
+      ]
+    },
+    {
+      "nom": "Soleil",
+      "type": "chute",
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Recherche d'Équilibre",
+          "data": "Lorsque le Soleil est en chute en Balance, il peut éprouver des difficultés à affirmer son identité de manière claire, se concentrant plutôt sur les relations et l'équilibre."
+        },
+        {
+          "nom": "Hésitation et Compromis",
+          "data": "En chute en Balance, le Soleil peut être enclin à l'hésitation et aux compromis, mettant l'accent sur la diplomatie plutôt que sur une expression directe de soi."
+        }
+      ]
+    },
+    {
+      "nom": "Soleil",
+      "type": "trigonocratie",
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Optimisme et Expansion",
+          "data": "En Sagittaire, le Soleil se trouve en trigonocratie, favorisant un optimisme naturel et une soif d'expansion. Il est motivé par la quête de connaissances et d'aventures."
+        },
+        {
+          "nom": "Idéalisme et Liberté",
+          "data": "La trigonocratie en Sagittaire accentue l'idéalisme et le désir de liberté, encourageant l'expression de soi à travers l'exploration et les grandes idées."
+        }
+      ]
+    },
+    {
+      "nom": "Lune",
+      "type": "domicile",
+      "signe": "Cancer",
+      "data": [
+        {
+          "nom": "Émotions et Intuition",
+          "data": "La Lune est dans son domicile en Cancer, ce qui renforce sa capacité à exprimer et à comprendre les émotions. Elle est particulièrement intuitive et nourrissante."
+        },
+        {
+          "nom": "Besoin de Sécurité",
+          "data": "En Cancer, la Lune privilégie la sécurité émotionnelle et le confort domestique, favorisant les environnements familiaux et les relations profondes."
+        }
+      ]
+    },
+    {
+      "nom": "Lune",
+      "type": "exaltation",
+      "signe": "Taureau",
+      "data": [
+        {
+          "nom": "Stabilité et Confiance",
+          "data": "Lorsque la Lune est exaltée en Taureau, elle favorise une stabilité émotionnelle et une grande confiance. Elle recherche la sécurité matérielle et la continuité."
+        },
+        {
+          "nom": "Sensualité et Pragmatisme",
+          "data": "L'exaltation en Taureau accentue le côté sensuel et pragmatique de la Lune, avec un fort besoin de confort physique et de plaisir matériel."
+        }
+      ]
+    },
+    {
+      "nom": "Lune",
+      "type": "exil",
+      "signe": "Capricorne",
+      "data": [
+        {
+          "nom": "Répression Émotionnelle",
+          "data": "En exil en Capricorne, la Lune peut se sentir réprimée émotionnellement, mettant l'accent sur la responsabilité et le contrôle au détriment de l'expression émotionnelle."
+        },
+        {
+          "nom": "Ambition et Discipline",
+          "data": "L'exil en Capricorne favorise une approche plus disciplinée et ambitieuse des émotions, souvent en tension entre le besoin de sécurité émotionnelle et les exigences pratiques."
+        }
+      ]
+    },
+    {
+      "nom": "Lune",
+      "type": "chute",
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Intensité Émotionnelle",
+          "data": "Lorsque la Lune est en chute en Scorpion, elle peut être confrontée à une intensité émotionnelle difficile à gérer, avec des hauts et des bas extrêmes."
+        },
+        {
+          "nom": "Profondeur et Transformation",
+          "data": "En chute en Scorpion, la Lune est poussée vers la profondeur émotionnelle et la transformation, souvent par le biais de crises et de confrontations internes."
+        }
+      ]
+    },
+    {
+      "nom": "Lune",
+      "type": "trigonocratie",
+      "signe": "Poissons",
+      "data": [
+        {
+          "nom": "Sensibilité et Compassion",
+          "data": "En Poissons, la Lune se trouve en trigonocratie, favorisant une grande sensibilité émotionnelle et une profonde compassion. Elle est attirée par les aspects spirituels et intuitifs de la vie."
+        },
+        {
+          "nom": "Imagination et Empathie",
+          "data": "La trigonocratie en Poissons accentue l'imagination et l'empathie, permettant une connexion émotionnelle profonde avec les autres et une compréhension intuitive des besoins affectifs."
+        }
+      ]
+    },
+    {
+      "nom": "Mercure",
+      "type": "domicile",
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Communication et Curiosité",
+          "data": "Mercure est dans son domicile en Gémeaux, favorisant une communication fluide, une grande curiosité intellectuelle et une facilité à apprendre et à s'adapter."
+        },
+        {
+          "nom": "Analyse et Versatilité",
+          "data": "En Gémeaux, Mercure manifeste une versatilité et une analyse rapide des informations, avec une aptitude pour les échanges verbaux et écrits."
+        }
+      ]
+    },
+    {
+      "nom": "Mercure",
+      "type": "domicile",
+      "signe": "Vierge",
+      "data": [
+        {
+          "nom": "Précision et Organisation",
+          "data": "Lorsque Mercure est dans son domicile en Vierge, il se caractérise par une grande précision, une organisation minutieuse et un souci du détail."
+        },
+        {
+          "nom": "Raisonnement Logique",
+          "data": "En Vierge, Mercure privilégie le raisonnement logique et analytique, avec une tendance à examiner les informations de manière critique et systématique."
+        }
+      ]
+    },
+    {
+      "nom": "Mercure",
+      "type": "exaltation",
+      "signe": "Vierge",
+      "data": [
+        {
+          "nom": "Clarté et Diligence",
+          "data": "En exaltation en Vierge, Mercure atteint une clarté exceptionnelle et une grande diligence dans le traitement des informations. Il excelle dans l'analyse approfondie."
+        },
+        {
+          "nom": "Méthode et Efficacité",
+          "data": "L'exaltation en Vierge permet à Mercure de travailler de manière extrêmement méthodique et efficace, avec une capacité accrue à résoudre des problèmes complexes."
+        }
+      ]
+    },
+    {
+      "nom": "Mercure",
+      "type": "exil",
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Dispersé et Imprécis",
+          "data": "Lorsque Mercure est en exil en Sagittaire, il peut avoir tendance à être dispersé et imprécis, avec une difficulté à se concentrer sur les détails et les faits."
+        },
+        {
+          "nom": "Idéalisme et Optimisme",
+          "data": "En Sagittaire, Mercure peut également se concentrer sur les grandes idées et l'idéalisme, parfois au détriment de la précision et de la rigueur intellectuelle."
+        }
+      ]
+    },
+    {
+      "nom": "Mercure",
+      "type": "exil",
+      "signe": "Poissons",
+      "data": [
+        {
+          "nom": "Confusion et Évasion",
+          "data": "En exil en Poissons, Mercure peut rencontrer de la confusion et une tendance à échapper à la réalité, avec des difficultés à structurer les pensées et à communiquer clairement."
+        },
+        {
+          "nom": "Intuition et Créativité",
+          "data": "L'exil en Poissons favorise une approche plus intuitive et créative de l'information, mais souvent au détriment de la logique et de l'organisation."
+        }
+      ]
+    },
+    {
+      "nom": "Mercure",
+      "type": "chute",
+      "signe": "Poissons",
+      "data": [
+        {
+          "nom": "Troubles Mentaux et Évasion",
+          "data": "Lorsque Mercure est en chute en Poissons, il peut éprouver des troubles mentaux et une tendance à l'évasion, rendant difficile la concentration et la communication claire."
+        },
+        {
+          "nom": "Empathie et Imagination",
+          "data": "En chute en Poissons, Mercure peut développer une grande empathie et une imagination riche, mais ces qualités peuvent également nuire à la pensée rationnelle et à l'organisation mentale."
+        }
+      ]
+    },
+    {
+      "nom": "Mercure",
+      "type": "trigonocratie",
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Diplomatie et Harmonisation",
+          "data": "En Balance, Mercure en trigonocratie favorise la diplomatie et l'harmonisation des idées, avec une capacité accrue à équilibrer différentes perspectives et à communiquer avec finesse."
+        },
+        {
+          "nom": "Raisonnement Équilibré",
+          "data": "La trigonocratie en Balance améliore le raisonnement équilibré et la capacité à résoudre les conflits par des moyens intellectuels et diplomatiques."
+        }
+      ]
+    },
+    {
+      "nom": "Mercure",
+      "type": "trigonocratie",
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Innovation et Originalité",
+          "data": "En Verseau, Mercure en trigonocratie stimule l'innovation et l'originalité dans la pensée. Il est attiré par les idées avant-gardistes et les approches non conventionnelles."
+        },
+        {
+          "nom": "Pensée Visionnaire",
+          "data": "La trigonocratie en Verseau accentue la pensée visionnaire et la capacité à envisager des concepts futuristes, avec une approche intellectuelle unique et non traditionnelle."
+        }
+      ]
+    },
+    {
+      "nom": "Vénus",
+      "type": "domicile",
+      "signe": "Taureau",
+      "data": [
+        {
+          "nom": "Stabilité et Sensualité",
+          "data": "Vénus est dans son domicile en Taureau, où elle favorise une stabilité émotionnelle et une appréciation profonde des plaisirs sensoriels et du confort matériel."
+        },
+        {
+          "nom": "Loyauté et Confiance",
+          "data": "En Taureau, Vénus privilégie la loyauté et la confiance dans les relations, avec une tendance à rechercher des connexions durables et satisfaisantes."
+        }
+      ]
+    },
+    {
+      "nom": "Vénus",
+      "type": "domicile",
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Harmonie et Esthétique",
+          "data": "Lorsque Vénus est dans son domicile en Balance, elle favorise l'harmonie dans les relations et une forte sensibilité à l'esthétique et à la beauté."
+        },
+        {
+          "nom": "Diplomatie et Equilibre",
+          "data": "En Balance, Vénus est attirée par la diplomatie et l'équilibre dans les interactions sociales, cherchant à créer des environnements harmonieux et équilibrés."
+        }
+      ]
+    },
+    {
+      "nom": "Vénus",
+      "type": "exaltation",
+      "signe": "Poissons",
+      "data": [
+        {
+          "nom": "Compassion et Idéalisme",
+          "data": "En exaltation en Poissons, Vénus exprime une grande compassion et un idéalisme romantique, avec une tendance à rechercher des connexions spirituelles profondes."
+        },
+        {
+          "nom": "Créativité et Sensibilité",
+          "data": "L'exaltation en Poissons renforce la créativité et la sensibilité dans les relations, permettant une connexion émotionnelle intense et intuitive."
+        }
+      ]
+    },
+    {
+      "nom": "Vénus",
+      "type": "exil",
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Intensité et Possessivité",
+          "data": "Lorsque Vénus est en exil en Scorpion, elle peut manifester une intensité émotionnelle et une possessivité dans les relations, avec des tendances à la transformation profonde."
+        },
+        {
+          "nom": "Passion et Profondeur",
+          "data": "En Scorpion, Vénus cherche des relations passionnées et profondes, mais peut aussi éprouver des difficultés avec les aspects de contrôle et de vulnérabilité."
+        }
+      ]
+    },
+    {
+      "nom": "Vénus",
+      "type": "exil",
+      "signe": "Bélier",
+      "data": [
+        {
+          "nom": "Impulsivité et Conflits",
+          "data": "En exil en Bélier, Vénus peut se manifester par une impulsivité dans les relations et une tendance à des conflits ou à des affrontements en raison d'un besoin de liberté."
+        },
+        {
+          "nom": "Dynamisme et Désir",
+          "data": "L'exil en Bélier accentue le dynamisme et le désir dans les relations, avec une approche plus directe et parfois conflictuelle de l'amour et de la beauté."
+        }
+      ]
+    },
+    {
+      "nom": "Vénus",
+      "type": "chute",
+      "signe": "Vierge",
+      "data": [
+        {
+          "nom": "Critique et Détachement",
+          "data": "Lorsque Vénus est en chute en Vierge, elle peut éprouver des difficultés à exprimer pleinement ses affections, avec une tendance à la critique et au détachement émotionnel."
+        },
+        {
+          "nom": "Pragmatisme et Réserves",
+          "data": "En chute en Vierge, Vénus se tourne vers une approche plus pragmatique des relations, souvent marquée par des réserves et un souci du détail."
+        }
+      ]
+    },
+    {
+      "nom": "Vénus",
+      "type": "trigonocratie",
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Sociabilité et Charme",
+          "data": "En Gémeaux, Vénus en trigonocratie favorise la sociabilité et le charme dans les relations. Elle est attirée par la diversité et la stimulation intellectuelle."
+        },
+        {
+          "nom": "Adaptabilité et Communication",
+          "data": "La trigonocratie en Gémeaux améliore la capacité à s'adapter et à communiquer dans les relations, avec une tendance à rechercher des échanges vivants et intéressants."
+        }
+      ]
+    },
+    {
+      "nom": "Vénus",
+      "type": "trigonocratie",
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Originalité et Indépendance",
+          "data": "En Verseau, Vénus en trigonocratie stimule l'originalité et l'indépendance dans les relations. Elle est attirée par les connexions uniques et les idées novatrices."
+        },
+        {
+          "nom": "Amour Altruiste",
+          "data": "La trigonocratie en Verseau accentue un amour altruiste et humanitaire, avec une approche détachée mais profondément respectueuse des libertés personnelles."
+        }
+      ]
+    },
+    {
+      "nom": "Mars",
+      "type": "domicile",
+      "signe": "Bélier",
+      "data": [
+        {
+          "nom": "Énergie et Dynamisme",
+          "data": "Mars est dans son domicile en Bélier, où il exprime une énergie et un dynamisme intenses. Il favorise une action directe et une grande initiative."
+        },
+        {
+          "nom": "Courage et Impulsivité",
+          "data": "En Bélier, Mars manifeste courage et impulsivité, avec une tendance à agir rapidement et à prendre des risques pour atteindre ses objectifs."
+        }
+      ]
+    },
+    {
+      "nom": "Mars",
+      "type": "domicile",
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Intensité et Détermination",
+          "data": "Lorsque Mars est dans son domicile en Scorpion, il révèle une intensité émotionnelle et une détermination féroce, avec une capacité à se transformer à travers les défis."
+        },
+        {
+          "nom": "Passion et Contrôle",
+          "data": "En Scorpion, Mars favorise une passion profonde et un contrôle stratégique, cherchant à explorer les profondeurs émotionnelles et à atteindre ses buts avec persévérance."
+        }
+      ]
+    },
+    {
+      "nom": "Mars",
+      "type": "exaltation",
+      "signe": "Capricorne",
+      "data": [
+        {
+          "nom": "Discipline et Ambition",
+          "data": "En exaltation en Capricorne, Mars exprime une grande discipline et une ambition accrue. Il se concentre sur des objectifs à long terme avec une approche méthodique."
+        },
+        {
+          "nom": "Détermination et Réalisation",
+          "data": "L'exaltation en Capricorne favorise la détermination et la capacité à réaliser des projets ambitieux grâce à une persévérance et un sens du devoir renforcés."
+        }
+      ]
+    },
+    {
+      "nom": "Mars",
+      "type": "exil",
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Indécision et Conflits",
+          "data": "Lorsque Mars est en exil en Balance, il peut éprouver des difficultés à prendre des décisions et à se confronter directement aux conflits, favorisant plutôt les compromis."
+        },
+        {
+          "nom": "Recherche d'Harmonie",
+          "data": "En Balance, Mars peut avoir du mal à exprimer son énergie de manière assertive, se concentrant davantage sur la recherche d'harmonie et d'équilibre dans les relations."
+        }
+      ]
+    },
+    {
+      "nom": "Mars",
+      "type": "exil",
+      "signe": "Taureau",
+      "data": [
+        {
+          "nom": "Résistance et Lenteur",
+          "data": "En exil en Taureau, Mars peut se manifester par une résistance à l'action rapide et une lenteur dans la réalisation des objectifs, avec une tendance à la procrastination."
+        },
+        {
+          "nom": "Fixité et Obstination",
+          "data": "L'exil en Taureau favorise une approche plus fixée et obstinée, avec une difficulté à changer de direction ou à initier des actions nouvelles."
+        }
+      ]
+    },
+    {
+      "nom": "Mars",
+      "type": "chute",
+      "signe": "Cancer",
+      "data": [
+        {
+          "nom": "Émotions et Sensibilité",
+          "data": "Lorsque Mars est en chute en Cancer, il peut être influencé par des émotions fortes et une sensibilité accrue, rendant difficile l'expression directe de l'énergie."
+        },
+        {
+          "nom": "Protection et Réaction",
+          "data": "En chute en Cancer, Mars peut se concentrer sur la protection et la réaction émotionnelle, avec une tendance à réagir plutôt qu'à agir de manière proactive."
+        }
+      ]
+    },
+    {
+      "nom": "Mars",
+      "type": "trigonocratie",
+      "signe": "Lion",
+      "data": [
+        {
+          "nom": "Leadership et Créativité",
+          "data": "En Lion, Mars en trigonocratie favorise le leadership et la créativité. Il est motivé par un désir d'être reconnu et d'exprimer son individualité avec assurance."
+        },
+        {
+          "nom": "Générosité et Ambition",
+          "data": "La trigonocratie en Lion accentue la générosité et l'ambition, avec une tendance à rechercher des projets grandioses et à s'affirmer avec confiance."
+        }
+      ]
+    },
+    {
+      "nom": "Mars",
+      "type": "trigonocratie",
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Optimisme et Aventure",
+          "data": "En Sagittaire, Mars en trigonocratie stimule l'optimisme et l'amour de l'aventure. Il est attiré par l'exploration et les expériences enrichissantes."
+        },
+        {
+          "nom": "Dynamisme et Philosophie",
+          "data": "La trigonocratie en Sagittaire favorise un dynamisme et une approche philosophique de l'action, avec une tendance à poursuivre des objectifs expansifs et visionnaires."
+        }
+      ]
+    },
+    {
+      "nom": "Jupiter",
+      "type": "domicile",
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Expansivité et Aventure",
+          "data": "Jupiter est dans son domicile en Sagittaire, favorisant l'expansivité, l'aventure et la recherche de connaissances. Il est motivé par une soif d'exploration et de vérité."
+        },
+        {
+          "nom": "Optimisme et Philosophie",
+          "data": "En Sagittaire, Jupiter manifeste un optimisme naturel et une approche philosophique de la vie, cherchant à élargir ses horizons à travers l'apprentissage et l'aventure."
+        }
+      ]
+    },
+    {
+      "nom": "Jupiter",
+      "type": "domicile",
+      "signe": "Poissons",
+      "data": [
+        {
+          "nom": "Spiritualité et Compassion",
+          "data": "Lorsque Jupiter est dans son domicile en Poissons, il exprime une grande spiritualité, compassion et une profonde connexion avec le monde émotionnel et intuitif."
+        },
+        {
+          "nom": "Imagination et Altruisme",
+          "data": "En Poissons, Jupiter favorise l'imagination et l'altruisme, avec un intérêt pour les idéaux humanitaires et la recherche de sens au-delà du matériel."
+        }
+      ]
+    },
+    {
+      "nom": "Jupiter",
+      "type": "exaltation",
+      "signe": "Cancer",
+      "data": [
+        {
+          "nom": "Protection et Croissance",
+          "data": "En exaltation en Cancer, Jupiter favorise la protection, la croissance personnelle et un fort sens de la sécurité émotionnelle, avec une tendance à développer des relations nourrissantes."
+        },
+        {
+          "nom": "Expansion Émotionnelle",
+          "data": "L'exaltation en Cancer accentue l'expansion émotionnelle et le développement des relations familiales et domestiques, favorisant un sentiment d'appartenance et de sécurité."
+        }
+      ]
+    },
+    {
+      "nom": "Jupiter",
+      "type": "exil",
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Dispersé et Superficiel",
+          "data": "Lorsque Jupiter est en exil en Gémeaux, il peut se manifester par une dispersion de l'énergie et une approche plus superficielle des connaissances, avec des difficultés à approfondir les sujets."
+        },
+        {
+          "nom": "Curiosité Limitée",
+          "data": "En Gémeaux, Jupiter peut avoir du mal à canaliser sa curiosité de manière structurée, favorisant une exploration intellectuelle plus fragmentée."
+        }
+      ]
+    },
+    {
+      "nom": "Jupiter",
+      "type": "exil",
+      "signe": "Vierge",
+      "data": [
+        {
+          "nom": "Critique et Limitations",
+          "data": "En exil en Vierge, Jupiter peut éprouver des difficultés à exprimer son expansivité, se concentrant plutôt sur les détails et la critique, ce qui peut limiter ses ambitions."
+        },
+        {
+          "nom": "Pragmatisme et Restriction",
+          "data": "L'exil en Vierge favorise un pragmatisme qui peut restreindre l'expression de la grandeur de Jupiter, avec une tendance à se concentrer sur des aspects plus pratiques et limitants."
+        }
+      ]
+    },
+    {
+      "nom": "Jupiter",
+      "type": "chute",
+      "signe": "Capricorne",
+      "data": [
+        {
+          "nom": "Rigueur et Ambition",
+          "data": "Lorsque Jupiter est en chute en Capricorne, il peut se manifester par une rigueur excessive et une ambition orientée vers les structures matérielles, parfois au détriment de l'expansion joyeuse."
+        },
+        {
+          "nom": "Limitation et Réalisme",
+          "data": "En chute en Capricorne, Jupiter peut ressentir des limitations et un réalisme qui freinent son expansion naturelle, favorisant des objectifs plus concrets et matérialistes."
+        }
+      ]
+    },
+    {
+      "nom": "Jupiter",
+      "type": "trigonocratie",
+      "signe": "Bélier",
+      "data": [
+        {
+          "nom": "Dynamisme et Initiatives",
+          "data": "En Bélier, Jupiter en trigonocratie stimule le dynamisme et la prise d'initiatives audacieuses. Il est motivé par un fort désir de succès et de nouvelles opportunités."
+        },
+        {
+          "nom": "Optimisme et Leadership",
+          "data": "La trigonocratie en Bélier favorise un optimisme vibrant et des compétences en leadership, avec une approche proactive pour atteindre des objectifs ambitieux."
+        }
+      ]
+    },
+    {
+      "nom": "Jupiter",
+      "type": "trigonocratie",
+      "signe": "Lion",
+      "data": [
+        {
+          "nom": "Créativité et Générosité",
+          "data": "En Lion, Jupiter en trigonocratie favorise la créativité et la générosité. Il est attiré par des projets grandioses et l'expression personnelle éclatante."
+        },
+        {
+          "nom": "Confiance et Ambition",
+          "data": "La trigonocratie en Lion accentue la confiance en soi et l'ambition, avec une tendance à rechercher la reconnaissance et à s'affirmer de manière dynamique."
+        }
+      ]
+    },
+    {
+      "nom": "Jupiter",
+      "type": "trigonocratie",
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Intensité et Transformation",
+          "data": "En Scorpion, Jupiter en trigonocratie stimule l'intensité émotionnelle et la transformation personnelle. Il est attiré par les processus de profonde régénération et de recherche de vérité."
+        },
+        {
+          "nom": "Pouvoir et Résilience",
+          "data": "La trigonocratie en Scorpion favorise une résilience puissante et une capacité à naviguer à travers les défis avec une profondeur psychologique et un pouvoir intérieur renforcés."
+        }
+      ]
+    },
+    {
+      "nom": "Saturne",
+      "type": "domicile",
+      "signe": "Capricorne",
+      "data": [
+        {
+          "nom": "Discipline et Responsabilité",
+          "data": "Saturne est dans son domicile en Capricorne, où il favorise la discipline, la responsabilité et l'organisation. Il met l'accent sur le travail acharné et la réalisation d'objectifs à long terme."
+        },
+        {
+          "nom": "Structure et Ambition",
+          "data": "En Capricorne, Saturne privilégie la structure et l'ambition, avec une approche méthodique pour atteindre le succès et construire des bases solides."
+        }
+      ]
+    },
+    {
+      "nom": "Saturne",
+      "type": "domicile",
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Innovation et Organisation",
+          "data": "Lorsque Saturne est dans son domicile en Verseau, il combine innovation et organisation. Il favorise la mise en place de structures pour des idées avant-gardistes et des progrès sociaux."
+        },
+        {
+          "nom": "Responsabilité Collective",
+          "data": "En Verseau, Saturne se concentre sur la responsabilité collective et la création de systèmes qui bénéficient à la communauté, avec un intérêt pour les réformes et les changements sociaux."
+        }
+      ]
+    },
+    {
+      "nom": "Saturne",
+      "type": "exaltation",
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Équilibre et Justice",
+          "data": "En exaltation en Balance, Saturne se manifeste par un fort sens de l'équilibre, de la justice et de la diplomatie. Il favorise la construction de relations harmonieuses et justes."
+        },
+        {
+          "nom": "Responsabilité Relationnelle",
+          "data": "L'exaltation en Balance met l'accent sur la responsabilité dans les relations et les partenariats, avec une capacité à maintenir des compromis équilibrés et des accords équitables."
+        }
+      ]
+    },
+    {
+      "nom": "Saturne",
+      "type": "exil",
+      "signe": "Cancer",
+      "data": [
+        {
+          "nom": "Inconfort Émotionnel et Protection",
+          "data": "Lorsque Saturne est en exil en Cancer, il peut éprouver des difficultés avec les aspects émotionnels et la sécurité personnelle, se manifestant par une difficulté à trouver un équilibre entre les responsabilités et les besoins émotionnels."
+        },
+        {
+          "nom": "Réserves et Retrait",
+          "data": "En Cancer, Saturne peut se sentir limité dans son expression émotionnelle, avec une tendance à se retirer et à se protéger plutôt que d'affronter les défis directement."
+        }
+      ]
+    },
+    {
+      "nom": "Saturne",
+      "type": "exil",
+      "signe": "Lion",
+      "data": [
+        {
+          "nom": "Difficulté à S'affirmer",
+          "data": "En exil en Lion, Saturne peut rencontrer des difficultés à s'affirmer et à exprimer sa créativité de manière naturelle, avec une tendance à ressentir une restriction sur l'autonomie personnelle."
+        },
+        {
+          "nom": "Réserve et Autorité",
+          "data": "L'exil en Lion favorise une réserve dans l'expression de l'autorité et de la personnalité, ce qui peut entraîner des défis dans la reconnaissance et l'affirmation de soi."
+        }
+      ]
+    },
+    {
+      "nom": "Saturne",
+      "type": "chute",
+      "signe": "Bélier",
+      "data": [
+        {
+          "nom": "Conflit et Impulsivité",
+          "data": "Lorsque Saturne est en chute en Bélier, il peut se manifester par des conflits internes et une impulsivité dans la gestion des responsabilités, avec des difficultés à maintenir la discipline."
+        },
+        {
+          "nom": "Défi et Frustration",
+          "data": "En chute en Bélier, Saturne éprouve des défis liés à l'impulsivité et à la frustration, avec une tendance à se heurter à des obstacles dans l'affirmation personnelle et la gestion du temps."
+        }
+      ]
+    },
+    {
+      "nom": "Saturne",
+      "type": "trigonocratie",
+      "signe": "Taureau",
+      "data": [
+        {
+          "nom": "Stabilité et Patience",
+          "data": "En Taureau, Saturne en trigonocratie favorise la stabilité et la patience. Il encourage une approche méthodique et pragmatique pour construire des bases solides et atteindre les objectifs."
+        },
+        {
+          "nom": "Pragmatisme et Sécurité",
+          "data": "La trigonocratie en Taureau accentue le pragmatisme et la recherche de sécurité matérielle, avec une capacité à gérer les ressources et les responsabilités de manière efficace."
+        }
+      ]
+    },
+    {
+      "nom": "Saturne",
+      "type": "trigonocratie",
+      "signe": "Vierge",
+      "data": [
+        {
+          "nom": "Organisation et Détail",
+          "data": "En Vierge, Saturne en trigonocratie favorise une organisation minutieuse et une attention aux détails. Il se concentre sur l'efficacité et la gestion pratique des tâches quotidiennes."
+        },
+        {
+          "nom": "Discipline et Amélioration",
+          "data": "La trigonocratie en Vierge renforce la discipline personnelle et la capacité à améliorer les processus, avec un souci constant de la perfection et de l'amélioration continue."
+        }
+      ]
+    },
+    {
+      "nom": "Saturne",
+      "type": "trigonocratie",
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Adaptabilité et Analyse",
+          "data": "En Gémeaux, Saturne en trigonocratie favorise l'adaptabilité et l'analyse. Il encourage une approche structurée de la communication et de la gestion des informations."
+        },
+        {
+          "nom": "Flexibilité et Planification",
+          "data": "La trigonocratie en Gémeaux accentue la flexibilité et la capacité à planifier efficacement, avec une aptitude pour s'ajuster aux changements tout en restant organisé."
+        }
+      ]
+    },
+    {
+      "nom": "Uranus",
+      "type": "domicile",
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Innovation et Originalité",
+          "data": "Uranus est dans son domicile en Verseau, où il favorise l'innovation, l'originalité et l'aspiration à des idéaux progressistes. Il est motivé par un désir de changement et de réforme."
+        },
+        {
+          "nom": "Pensée Non Conventionnelle",
+          "data": "En Verseau, Uranus encourage la pensée non conventionnelle et les idées avant-gardistes, cherchant à bouleverser les structures établies et à promouvoir la liberté individuelle."
+        }
+      ]
+    },
+    {
+      "nom": "Uranus",
+      "type": "exaltation",
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Transformation et Révélation",
+          "data": "Lorsque Uranus est en exaltation en Scorpion, il manifeste une puissance de transformation profonde et une révélation des vérités cachées, avec une capacité à explorer les aspects les plus profonds de l'existence."
+        },
+        {
+          "nom": "Intensité et Changement Radical",
+          "data": "En Scorpion, Uranus favorise l'intensité et les changements radicaux, cherchant à réformer les aspects fondamentaux de la vie et à libérer des énergies transformantes."
+        }
+      ]
+    },
+    {
+      "nom": "Uranus",
+      "type": "exil",
+      "signe": "Lion",
+      "data": [
+        {
+          "nom": "Difficulté à Briller",
+          "data": "En exil en Lion, Uranus peut éprouver des difficultés à exprimer sa créativité et son besoin de se distinguer, avec une tendance à se heurter à des obstacles dans la recherche de reconnaissance."
+        },
+        {
+          "nom": "Perturbation et Excentricité",
+          "data": "L'exil en Lion favorise des perturbations dans les expressions de grandeur personnelle et d'autorité, avec une excentricité qui peut ne pas être bien acceptée par les autres."
+        }
+      ]
+    },
+    {
+      "nom": "Uranus",
+      "type": "chute",
+      "signe": "Taureau",
+      "data": [
+        {
+          "nom": "Stagnation et Résistance au Changement",
+          "data": "Lorsque Uranus est en chute en Taureau, il peut rencontrer des problèmes de stagnation et une résistance au changement, avec une difficulté à adapter les valeurs matérielles et les structures établies."
+        },
+        {
+          "nom": "Perturbation Pratique",
+          "data": "En chute en Taureau, Uranus perturbe les aspects pratiques de la vie, affectant la stabilité matérielle et les habitudes de manière inattendue et déstabilisante."
+        }
+      ]
+    },
+    {
+      "nom": "Uranus",
+      "type": "trigonocratie",
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Ingéniosité et Communication",
+          "data": "En Gémeaux, Uranus en trigonocratie favorise l'ingéniosité et l'innovation dans la communication. Il encourage des idées originales et des approches créatives dans les échanges d'informations."
+        },
+        {
+          "nom": "Adaptabilité et Exploration Mentale",
+          "data": "La trigonocratie en Gémeaux accentue l'adaptabilité et l'exploration mentale, avec une capacité accrue à saisir et à intégrer des concepts novateurs et diversifiés."
+        }
+      ]
+    },
+    {
+      "nom": "Uranus",
+      "type": "trigonocratie",
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Réformes et Relations",
+          "data": "En Balance, Uranus en trigonocratie favorise les réformes dans les relations et les structures sociales. Il encourage l'innovation dans la manière dont les partenariats et les accords sont abordés."
+        },
+        {
+          "nom": "Équilibre et Originalité",
+          "data": "La trigonocratie en Balance renforce l'équilibre tout en permettant l'expression de l'originalité dans les interactions sociales et les engagements, cherchant à créer des harmonies nouvelles et progressistes."
+        }
+      ]
+    },
+    {
+      "nom": "Neptune",
+      "type": "domicile",
+      "signe": "Poissons",
+      "data": [
+        {
+          "nom": "Spiritualité et Intuition",
+          "data": "Neptune est dans son domicile en Poissons, où il favorise la spiritualité, l'intuition et la connexion avec les dimensions mystiques de la vie. Il accentue la sensibilité et la compassion."
+        },
+        {
+          "nom": "Créativité et Imagination",
+          "data": "En Poissons, Neptune stimule la créativité et l'imagination, encourageant une vision artistique et rêveuse du monde, souvent marquée par des idéaux élevés et un profond sentiment d'empathie."
+        }
+      ]
+    },
+    {
+      "nom": "Neptune",
+      "type": "exaltation",
+      "signe": "Lion",
+      "data": [
+        {
+          "nom": "Inspirations Créatives et Charisme",
+          "data": "Lorsque Neptune est en exaltation en Lion, il inspire une créativité flamboyante et un charisme puissant, favorisant des expressions artistiques et personnelles remarquables."
+        },
+        {
+          "nom": "Idéalisme et Leadership",
+          "data": "En Lion, Neptune encourage un idéalisme audacieux et des aspirations à jouer un rôle de leadership dans des domaines créatifs ou spirituels, cherchant à se distinguer par des contributions uniques."
+        }
+      ]
+    },
+    {
+      "nom": "Neptune",
+      "type": "exil",
+      "signe": "Vierge",
+      "data": [
+        {
+          "nom": "Pragmatisme et Réalisme",
+          "data": "Lorsque Neptune est en exil en Vierge, il peut éprouver des difficultés à maintenir sa vision spirituelle ou artistique face au pragmatisme et aux exigences du quotidien, entraînant une perte de clarté."
+        },
+        {
+          "nom": "Difficultés d'Adaptation",
+          "data": "En Vierge, Neptune peut se heurter à des difficultés d'adaptation et de concrétisation des idéaux, avec une tendance à se sentir limité par des aspects pratiques et des détails minutieux."
+        }
+      ]
+    },
+    {
+      "nom": "Neptune",
+      "type": "chute",
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Confusion et Déconnexion",
+          "data": "Lorsque Neptune est en chute en Verseau, il peut se manifester par une confusion et une déconnexion des idéaux progressistes et des visions collectives, avec une difficulté à aligner les rêves avec la réalité."
+        },
+        {
+          "nom": "Désillusion et Instabilité",
+          "data": "En Verseau, Neptune peut entraîner une désillusion et une instabilité dans les visions futuristes et les aspirations collectives, avec un sentiment de désengagement des objectifs communautaires."
+        }
+      ]
+    },
+    {
+      "nom": "Neptune",
+      "type": "trigonocratie",
+      "signe": "Cancer",
+      "data": [
+        {
+          "nom": "Émotions et Intuition Profonde",
+          "data": "En Cancer, Neptune en trigonocratie favorise une profonde intuition émotionnelle et une connexion sensible aux besoins affectifs. Il encourage la créativité inspirée par des émotions profondes et des valeurs familiales."
+        },
+        {
+          "nom": "Compassion et Protection",
+          "data": "La trigonocratie en Cancer accentue la compassion et le désir de protéger et nourrir les autres, avec une capacité à établir des connexions profondes et empathiques."
+        }
+      ]
+    },
+    {
+      "nom": "Neptune",
+      "type": "trigonocratie",
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Transformation et Mystique",
+          "data": "En Scorpion, Neptune en trigonocratie stimule des capacités de transformation profonde et une exploration mystique, favorisant une compréhension intuitive des dynamiques de pouvoir et de transformation personnelle."
+        },
+        {
+          "nom": "Intensité Émotionnelle et Vision",
+          "data": "La trigonocratie en Scorpion renforce l'intensité émotionnelle et la vision perspicace, avec une capacité à percevoir et à naviguer à travers les aspects cachés de la réalité."
+        }
+      ]
+    },
+    {
+      "nom": "Pluton",
+      "type": "domicile",
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Transformation et Pouvoir",
+          "data": "Pluton est dans son domicile en Scorpion, où il favorise des processus de transformation profonde et la manifestation du pouvoir personnel. Il encourage une exploration intense des aspects cachés de la vie."
+        },
+        {
+          "nom": "Renouveau et Régénération",
+          "data": "En Scorpion, Pluton stimule des capacités de régénération et de renouveau, avec une tendance à se confronter aux profondeurs émotionnelles et psychologiques pour en émerger transformé."
+        }
+      ]
+    },
+    {
+      "nom": "Pluton",
+      "type": "exaltation",
+      "signe": "Bélier",
+      "data": [
+        {
+          "nom": "Initiatives Transformantes",
+          "data": "Lorsque Pluton est en exaltation en Bélier, il favorise des initiatives audacieuses et des transformations puissantes. Il encourage à prendre des actions décisives et à initier des changements radicaux."
+        },
+        {
+          "nom": "Pouvoir et Confrontation",
+          "data": "En Bélier, Pluton manifeste une volonté de confrontations directes et un désir de pouvoir personnel, cherchant à surmonter les obstacles avec courage et détermination."
+        }
+      ]
+    },
+    {
+      "nom": "Pluton",
+      "type": "exil",
+      "signe": "Taureau",
+      "data": [
+        {
+          "nom": "Difficulté avec le Changement",
+          "data": "Lorsque Pluton est en exil en Taureau, il peut éprouver des difficultés avec le changement et la transformation des valeurs matérielles, avec une tendance à résister aux perturbations dans les aspects matériels de la vie."
+        },
+        {
+          "nom": "Rigidité et Stabilité",
+          "data": "En Taureau, Pluton peut se manifester par une rigidité face aux transformations et une difficulté à accepter les changements dans les structures établies, entraînant des conflits avec la stabilité matérielle."
+        }
+      ]
+    },
+    {
+      "nom": "Pluton",
+      "type": "chute",
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Difficulté avec l'Équilibre et la Justice",
+          "data": "Lorsque Pluton est en chute en Balance, il peut éprouver des difficultés à maintenir l'équilibre et la justice dans les relations et les partenariats, avec des tensions dans la quête de compromis."
+        },
+        {
+          "nom": "Conflits Relationnels",
+          "data": "En Balance, Pluton peut rencontrer des conflits dans les relations interpersonnelles et les dynamiques de pouvoir, avec une tendance à des confrontations et des déséquilibres dans les interactions."
+        }
+      ]
+    },
+    {
+      "nom": "Pluton",
+      "type": "trigonocratie",
+      "signe": "Cancer",
+      "data": [
+        {
+          "nom": "Transformation Émotionnelle",
+          "data": "En Cancer, Pluton en trigonocratie favorise une transformation profonde sur le plan émotionnel et familial. Il encourage une compréhension et une guérison des dynamiques familiales et des besoins affectifs."
+        },
+        {
+          "nom": "Regénération et Protection",
+          "data": "La trigonocratie en Cancer renforce la capacité à protéger et à régénérer les relations personnelles et familiales, avec une approche empathique et protectrice."
+        }
+      ]
+    },
+    {
+      "nom": "Pluton",
+      "type": "trigonocratie",
+      "signe": "Poissons",
+      "data": [
+        {
+          "nom": "Exploration Spirituelle et Intuition",
+          "data": "En Poissons, Pluton en trigonocratie stimule l'exploration spirituelle et une intuition profonde. Il favorise une transformation intérieure basée sur des expériences mystiques et spirituelles."
+        },
+        {
+          "nom": "Régénération Mystique",
+          "data": "La trigonocratie en Poissons accentue la régénération mystique et la connexion avec des dimensions subtiles de la réalité, avec une capacité à percevoir et à intégrer des vérités cachées."
+        }
+      ]
+    }
   ]
 }
