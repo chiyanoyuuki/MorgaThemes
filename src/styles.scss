@@ -253,6 +253,10 @@ button:hover{
     overflow-x:auto;
     display: flex;
     overflow-y: hidden;
+    scrollbar-color: var(--purple3) var(--purple1);
+  scrollbar-width: thin;
+  bottom: 0px;
+  position: absolute;
 }
 .texte{
     width:40%;
