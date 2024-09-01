@@ -48,6 +48,8 @@ export class AppComponent implements OnInit
   desc: any;
   aspects: any;
 
+  elements = {feu:["Bélier","Lion","Sagittaire"],air:["Gémeaux","Balance","Verseau"],terre:["Taureau","Vierge","Capricorne"],eau:["Cancer","Scorpion","Poissons"]};
+
   API_URL = 'https://api.openai.com/v1/chat/completions';
   
   public innerWidth: any = window.outerWidth;
@@ -566,7 +568,7 @@ processFileContent(): void {
 
       data.push({nom:infos.nom,datas:infos.data});
       
-      let aspects = this.aspects.filter((a:any)=>a.from==s);
+      let aspects = this.aspects.filter((a:any)=>a.from==s||a.to==s);
       aspects.forEach((a:any)=>{
         let infos = this.infos.aspects.find((i:any)=>i.from==a.from&&i.type==a.type&&i.to==a.to);
         data.push({nom:infos.from + " " + infos.type + " " + infos.to,datas:infos.data,type:"Aspect"});
