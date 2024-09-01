@@ -49,7 +49,9 @@ export class AppComponent implements OnInit
   type:any;
   desc: any;
   aspects: any;
-
+  
+  menu = ["Hémisphère Nord/Sud", "Hémisphère Est/Ouest", "Yin/Yang"];
+  clicked2:any = this.menu[0];
   elements = {feu:["Bélier","Lion","Sagittaire"],air:["Gémeaux","Balance","Verseau"],terre:["Taureau","Vierge","Capricorne"],eau:["Cancer","Scorpion","Poissons"]};
   planetes = ["Soleil","Saturne","Mars","Mercure","Vénus","Neptune","Jupiter","Lune","Uranus","Pluton"];
 
@@ -308,6 +310,14 @@ processFileContent(): void {
     this.init(!this.informations);
   }
 
+  getGeneral()
+  {
+    if(!this.general.yang)return [];
+    if(this.clicked2==this.menu[0])return this.general.emispherenord.data;
+    else if(this.clicked2==this.menu[1])return this.general.emisphereest.data;
+    else if(this.clicked2==this.menu[2])return this.general.yang.data;
+  }
+
   getJson(nom :any, x :any, y :any, type :any, id: any)
 	{
 		return {nom:nom,x:x,y:y,type:type,id:id};
@@ -450,7 +460,8 @@ processFileContent(): void {
   init(first:boolean)
   {
     this.desc = undefined;
-    this.focus = undefined;
+    this.types = [];
+    this.focus = [];
     let element:any = this.d1;
     if(!first)
     {
@@ -565,6 +576,13 @@ processFileContent(): void {
   
       let objet:any = document.getElementById(s);
       objet.classList.add("active");
+  }
+
+  clickAccueil()
+  {
+    this.types = [];
+    this.desc = undefined;
+    this.focus = [];
   }
 
   getFocus()

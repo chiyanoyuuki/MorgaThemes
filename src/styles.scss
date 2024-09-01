@@ -216,6 +216,10 @@ button:hover{
     cursor:pointer;
     text-decoration: underline;
     color:red;
+    scale:1.2;
+}
+.clickable{
+    transition:0.5s;
 }
 
 .over:hover{
@@ -251,6 +255,12 @@ button:hover{
 .planete, .signe{
     transition:0.1s;
 }
+.accueil{
+    transform: rotate(25deg);
+    position: absolute;
+  width: 2vw;
+  margin: 2vw;
+}
 .menu{
     display: flex;
   justify-content: space-around;
@@ -263,7 +273,6 @@ button:hover{
   text-shadow: 4px 4px 2px black;
 }
 .menu .clicked{
-    font-size: 3.2vh;
     color: var(--purple4) !important;
     text-decoration: underline;
 }

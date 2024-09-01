@@ -28,6 +28,8 @@
   </div>
   
   <div class="right">
+    <img *ngIf="desc" class="accueil clickable" (click)="clickAccueil()" src="./assets/roue.png"/>
+
     <div *ngIf="desc" class="desc">
       <p class="title"><img class="star" src="./assets/star.png">{{clicked}}<img class="star" src="./assets/star.png"></p>
       <p>{{desc}}</p>
@@ -36,6 +38,10 @@
 
     <div class="menu">
       <p *ngFor="let t of types" class="clickable" [class.clicked]="t==type" (click)="type=t">{{t}}</p>
+    </div>
+
+    <div class="menu" *ngIf="!desc">
+      <p *ngFor="let m of menu" class="clickable" [class.clicked]="clicked2==m" (click)="clicked2=m">{{m}}</p>
     </div>
 
     <div class="textes">
@@ -50,6 +56,20 @@
         
         <img class="fondbloc" src="./assets/bloc.png"/>
       </div>
+
+      <ng-template [ngIf]="!desc">
+        <div *ngFor="let obj of getGeneral();let i=index" class="data" [class.lastdata]="i==focus.length-1">
+          <p class="title borderbot"><img class="star" src="./assets/star.png">{{obj.nom?obj.nom:obj.maison}}<img class="star" src="./assets/star.png"></p>
+          <div class="contenu">
+            <div>
+              <p>{{obj.data}}</p>
+            </div>
+          </div>
+
+          <img class="fondbloc" src="./assets/bloc.png"/>
+        </div>
+      </ng-template>
+
     </div>
   </div>
 </div>
