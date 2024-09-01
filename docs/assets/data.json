@@ -5209,6 +5209,3536 @@
       ]
     }
   ],
+  "maisons": [
+    {
+      "maison": "Maison I",
+      "nom": "Nœud Sud",
+      "data": [
+        {
+          "nom": "Identité et Direction Personnelle",
+          "data": "Le Nœud Sud en Maison I indique un passé où l'individu a développé une forte identité personnelle et une capacité à se définir de manière autonome. Il peut montrer des tendances à se concentrer excessivement sur soi-même, au détriment des relations et des collaborations."
+        },
+        {
+          "nom": "Tendance au Conflit Personnel",
+          "data": "Il peut y avoir des conflits internes fréquents ou une difficulté à s'affirmer de manière équilibrée. L'individu doit apprendre à harmoniser son ego avec les besoins des autres pour évoluer."
+        }
+      ]
+    },
+    {
+      "maison": "Maison II",
+      "nom": "Nœud Sud",
+      "data": [
+        {
+          "nom": "Sécurité et Valeurs",
+          "data": "Le Nœud Sud en Maison II indique une ancienne tendance à accorder une grande importance aux possessions matérielles et à la sécurité financière. L'individu peut avoir des difficultés à lâcher prise de ces valeurs au profit de valeurs plus spirituelles ou immatérielles."
+        },
+        {
+          "nom": "Attachement aux Ressources",
+          "data": "Il peut y avoir une tendance à l'attachement excessif aux ressources personnelles et une difficulté à se détacher de l'idée que la sécurité est la clé du bonheur."
+        }
+      ]
+    },
+    {
+      "maison": "Maison III",
+      "nom": "Nœud Sud",
+      "data": [
+        {
+          "nom": "Communication et Apprentissage",
+          "data": "Le Nœud Sud en Maison III indique une prédisposition à se concentrer sur les échanges intellectuels et la communication. L'individu peut avoir un passé riche en apprentissages intellectuels mais peut être amené à évoluer vers des formes de communication plus profondes et significatives."
+        },
+        {
+          "nom": "Superficialité dans les Relations",
+          "data": "Il peut y avoir une tendance à maintenir des relations superficielles ou à éviter des interactions plus profondes. La croissance implique de développer une communication plus authentique et réfléchie."
+        }
+      ]
+    },
+    {
+      "maison": "Maison IV",
+      "nom": "Nœud Sud",
+      "data": [
+        {
+          "nom": "Passé Familial et Racines",
+          "data": "Le Nœud Sud en Maison IV montre un fort lien avec le passé familial et les racines personnelles. L'individu peut avoir du mal à se détacher des influences familiales ou à créer un espace personnel distinct."
+        },
+        {
+          "nom": "Confort et Sécurité Émotionnelle",
+          "data": "Il peut y avoir une tendance à rechercher constamment le confort émotionnel et la sécurité au détriment de l'exploration de nouveaux horizons. L'évolution demande une ouverture à la nouveauté et à l'indépendance émotionnelle."
+        }
+      ]
+    },
+    {
+      "maison": "Maison V",
+      "nom": "Nœud Sud",
+      "data": [
+        {
+          "nom": "Expression Créative et Loisirs",
+          "data": "Le Nœud Sud en Maison V suggère une forte orientation vers l'expression créative et les plaisirs personnels dans le passé. L'individu peut avoir du mal à évoluer au-delà de la recherche de gratification personnelle et de divertissement."
+        },
+        {
+          "nom": "Dépendance au Divertissement",
+          "data": "Il peut y avoir une tendance à se reposer sur des loisirs ou des activités récréatives comme moyen principal de satisfaction. L'évolution nécessite une intégration de la créativité dans des aspects plus sérieux et durables de la vie."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VI",
+      "nom": "Nœud Sud",
+      "data": [
+        {
+          "nom": "Travail et Service",
+          "data": "Le Nœud Sud en Maison VI montre un passé marqué par une forte concentration sur le travail, le service aux autres et les responsabilités quotidiennes. L'individu peut avoir tendance à se perdre dans les détails pratiques et à négliger les aspects plus larges de la vie."
+        },
+        {
+          "nom": "Problèmes de Santé et Routine",
+          "data": "Il peut y avoir une tendance à être obsédé par les routines de santé ou de travail, menant à un stress ou à des problèmes de santé. L'évolution implique de trouver un équilibre entre travail et bien-être, en intégrant des éléments de flexibilité et de détachement."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VII",
+      "nom": "Nœud Sud",
+      "data": [
+        {
+          "nom": "Relations et Partenariats",
+          "data": "Le Nœud Sud en Maison VII indique une prédisposition à se concentrer sur les relations et les partenariats dans le passé. L'individu peut avoir eu une tendance à rechercher une validation et une satisfaction personnelles uniquement à travers les relations."
+        },
+        {
+          "nom": "Dépendance Relationnelle",
+          "data": "Il peut y avoir une tendance à la dépendance émotionnelle ou à la difficulté à établir des relations équilibrées. L'évolution implique de développer une indépendance émotionnelle et de cultiver des partenariats basés sur la coopération et l'équilibre."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VIII",
+      "nom": "Nœud Sud",
+      "data": [
+        {
+          "nom": "Transformation et Pouvoir",
+          "data": "Le Nœud Sud en Maison VIII indique une orientation vers les transformations profondes et les questions de pouvoir et de contrôle dans le passé. L'individu peut être attiré par les dynamiques de pouvoir et la gestion des ressources partagées."
+        },
+        {
+          "nom": "Problèmes de Contrôle",
+          "data": "Il peut y avoir des défis liés au contrôle des situations ou des autres, ainsi qu'une tendance à des crises émotionnelles. L'évolution demande de trouver un équilibre entre l'autonomie et la coopération avec les autres."
+        }
+      ]
+    },
+    {
+      "maison": "Maison IX",
+      "nom": "Nœud Sud",
+      "data": [
+        {
+          "nom": "Exploration et Philosophie",
+          "data": "Le Nœud Sud en Maison IX montre un passé marqué par la recherche de connaissances, la philosophie et les voyages. L'individu peut avoir une tendance à se concentrer sur des croyances ou des systèmes de pensée établis."
+        },
+        {
+          "nom": "Rigidité dans les Croyances",
+          "data": "Il peut y avoir une tendance à adhérer rigidement à des croyances ou à des philosophies spécifiques. L'évolution nécessite une ouverture à de nouvelles perspectives et une flexibilité dans la pensée."
+        }
+      ]
+    },
+    {
+      "maison": "Maison X",
+      "nom": "Nœud Sud",
+      "data": [
+        {
+          "nom": "Carrière et Réputation",
+          "data": "Le Nœud Sud en Maison X indique une ancienne orientation vers la carrière, la réputation et le statut social. L'individu peut avoir du mal à dépasser les ambitions professionnelles pour se concentrer sur des aspects plus personnels et relationnels."
+        },
+        {
+          "nom": "Pression Professionnelle",
+          "data": "Il peut y avoir une tendance à se surmener ou à chercher la validation par la réussite professionnelle. L'évolution implique de trouver un équilibre entre la vie professionnelle et personnelle, ainsi qu'une redéfinition des objectifs de carrière."
+        }
+      ]
+    },
+    {
+      "maison": "Maison XI",
+      "nom": "Nœud Sud",
+      "data": [
+        {
+          "nom": "Amitiés et Objectifs Collectifs",
+          "data": "Le Nœud Sud en Maison XI montre un passé axé sur les amitiés et les objectifs collectifs. L'individu peut avoir des difficultés à évoluer au-delà des cercles sociaux ou des groupes d'appartenance pour se concentrer sur des aspirations personnelles."
+        },
+        {
+          "nom": "Tendance aux Attentes Sociales",
+          "data": "Il peut y avoir une tendance à se conformer aux attentes sociales ou à dépendre des groupes pour un sens d'appartenance. L'évolution demande de cultiver des aspirations individuelles et une autonomie dans la poursuite des objectifs."
+        }
+      ]
+    },
+    {
+      "maison": "Maison XII",
+      "nom": "Nœud Sud",
+      "data": [
+        {
+          "nom": "Introspection et Repli",
+          "data": "Le Nœud Sud en Maison XII indique une ancienne tendance à l'introspection et au retrait. L'individu peut avoir eu une orientation vers la vie intérieure ou des expériences mystiques, parfois au détriment de l'engagement dans le monde extérieur."
+        },
+        {
+          "nom": "Isolement et Évasion",
+          "data": "Il peut y avoir une tendance à l'isolement ou à échapper aux réalités quotidiennes. L'évolution implique de trouver un équilibre entre la vie intérieure et l'engagement actif dans le monde extérieur."
+        }
+      ]
+    },
+    {
+      "maison": "Maison I",
+      "nom": "Soleil",
+      "data": [
+        {
+          "nom": "Identité forte",
+          "data": "Une personne avec le Soleil en Maison I rayonne et se distingue par une forte identité personnelle. Elle est souvent perçue comme confiante et charismatique."
+        },
+        {
+          "nom": "Besoin d'expression",
+          "data": "Il y a un besoin prononcé d'expression personnelle et de reconnaissance. La personne souhaite être vue et appréciée pour qui elle est."
+        }
+      ]
+    },
+    {
+      "maison": "Maison I",
+      "nom": "Saturne",
+      "data": [
+        {
+          "nom": "Sérieux et responsabilité",
+          "data": "Saturne en Maison I indique une personnalité sérieuse et disciplinée. La personne peut se sentir responsable dès son jeune âge, avec une tendance à prendre la vie au sérieux."
+        },
+        {
+          "nom": "Défis personnels",
+          "data": "La présence de Saturne ici peut indiquer des défis personnels, comme un manque de confiance en soi ou des restrictions. Ces obstacles peuvent cependant être surmontés avec le temps."
+        }
+      ]
+    },
+    {
+      "maison": "Maison I",
+      "nom": "Mars",
+      "data": [
+        {
+          "nom": "Énergie et dynamisme",
+          "data": "Mars en Maison I confère une énergie dynamique et une forte volonté. La personne est souvent perçue comme courageuse, compétitive et pleine d'initiative."
+        },
+        {
+          "nom": "Impulsivité",
+          "data": "Cependant, cette position peut également indiquer une tendance à l'impulsivité et à l'agressivité. La personne doit apprendre à canaliser cette énergie de manière constructive."
+        }
+      ]
+    },
+    {
+      "maison": "Maison I",
+      "nom": "Mercure",
+      "data": [
+        {
+          "nom": "Esprit vif",
+          "data": "Mercure en Maison I indique une personne avec un esprit vif et curieux. Elle est souvent communicative, adaptable et perçue comme intellectuellement agile."
+        },
+        {
+          "nom": "Nervosité",
+          "data": "Il peut aussi y avoir une tendance à l'anxiété ou à la nervosité, particulièrement en raison d'une suractivité mentale."
+        }
+      ]
+    },
+    {
+      "maison": "Maison I",
+      "nom": "Vénus",
+      "data": [
+        {
+          "nom": "Charme et attraction",
+          "data": "Vénus en Maison I confère charme et attractivité. La personne est généralement perçue comme sympathique, aimable et peut avoir un attrait physique prononcé."
+        },
+        {
+          "nom": "Recherche de l'harmonie",
+          "data": "Il y a un désir d'harmonie et d'équilibre dans la vie. La personne peut éviter les conflits et chercher à maintenir des relations harmonieuses avec les autres."
+        }
+      ]
+    },
+    {
+      "maison": "Maison I",
+      "nom": "Neptune",
+      "data": [
+        {
+          "nom": "Sensibilité et intuition",
+          "data": "Neptune en Maison I indique une personnalité sensible, intuitive et souvent connectée à des réalités subtiles. La personne peut être perçue comme rêveuse ou mystérieuse."
+        },
+        {
+          "nom": "Tendance à l'évasion",
+          "data": "Il peut y avoir une tendance à l'évasion ou à la confusion concernant l'identité personnelle. La personne doit veiller à rester ancrée dans la réalité."
+        }
+      ]
+    },
+    {
+      "maison": "Maison I",
+      "nom": "Jupiter",
+      "data": [
+        {
+          "nom": "Optimisme et générosité",
+          "data": "Jupiter en Maison I apporte un optimisme naturel et une attitude généreuse. La personne est souvent perçue comme bienveillante, expansive et chanceuse."
+        },
+        {
+          "nom": "Excès",
+          "data": "Il peut y avoir une tendance à l'excès ou à la surconfiance. La personne doit apprendre à équilibrer son optimisme avec une approche réaliste."
+        }
+      ]
+    },
+    {
+      "maison": "Maison I",
+      "nom": "Lune",
+      "data": [
+        {
+          "nom": "Réactivité émotionnelle",
+          "data": "La Lune en Maison I indique une réactivité émotionnelle prononcée. La personne est souvent perçue comme sensible, intuitive, et changeante."
+        },
+        {
+          "nom": "Besoin de sécurité",
+          "data": "Il y a un besoin profond de sécurité émotionnelle. La personne peut chercher à créer un environnement protecteur pour se sentir en sécurité."
+        }
+      ]
+    },
+    {
+      "maison": "Maison I",
+      "nom": "Uranus",
+      "data": [
+        {
+          "nom": "Originalité et indépendance",
+          "data": "Uranus en Maison I confère une personnalité originale et indépendante. La personne est souvent perçue comme excentrique, inventive et non conventionnelle."
+        },
+        {
+          "nom": "Imprévisibilité",
+          "data": "Il peut y avoir une tendance à l'imprévisibilité et à l'instabilité. La personne peut ressentir un besoin constant de changement et de nouveauté."
+        }
+      ]
+    },
+    {
+      "maison": "Maison I",
+      "nom": "Pluton",
+      "data": [
+        {
+          "nom": "Intensité et transformation",
+          "data": "Pluton en Maison I indique une personnalité intense et transformative. La personne est souvent perçue comme puissante, magnétique et capable de profondes transformations."
+        },
+        {
+          "nom": "Confrontation avec l'ombre",
+          "data": "Il peut y avoir des défis liés à la confrontation avec ses propres zones d'ombre ou celles des autres. La personne est appelée à se régénérer et à évoluer."
+        }
+      ]
+    },
+    {
+      "maison": "Maison II",
+      "nom": "Soleil",
+      "data": [
+        {
+          "nom": "Importance des possessions",
+          "data": "Le Soleil en Maison II indique une forte identification avec les possessions matérielles. La personne peut chercher à affirmer sa valeur personnelle à travers ce qu'elle possède."
+        },
+        {
+          "nom": "Ambition financière",
+          "data": "Il y a une ambition naturelle pour réussir financièrement. La personne est motivée à atteindre un certain niveau de confort et de sécurité matérielle."
+        }
+      ]
+    },
+    {
+      "maison": "Maison II",
+      "nom": "Saturne",
+      "data": [
+        {
+          "nom": "Prudence financière",
+          "data": "Saturne en Maison II suggère une approche prudente et réservée des finances. La personne est souvent économe et réfléchit à long terme dans ses investissements."
+        },
+        {
+          "nom": "Défis matériels",
+          "data": "Cette position peut indiquer des défis ou des restrictions financières. La personne pourrait devoir travailler dur pour atteindre la sécurité matérielle."
+        }
+      ]
+    },
+    {
+      "maison": "Maison II",
+      "nom": "Mars",
+      "data": [
+        {
+          "nom": "Dynamisme financier",
+          "data": "Mars en Maison II apporte une énergie dynamique dans la gestion des finances. La personne est souvent proactive et entreprenante dans les affaires financières."
+        },
+        {
+          "nom": "Tendance à l'impulsivité",
+          "data": "Il peut y avoir une tendance à l'impulsivité dans les dépenses ou les investissements. La personne doit faire attention à ne pas prendre de décisions hâtives."
+        }
+      ]
+    },
+    {
+      "maison": "Maison II",
+      "nom": "Mercure",
+      "data": [
+        {
+          "nom": "Esprit d'entreprise",
+          "data": "Mercure en Maison II indique un esprit d'entreprise et un intérêt pour les affaires commerciales. La personne peut être habile dans la gestion des finances et des transactions."
+        },
+        {
+          "nom": "Flexibilité financière",
+          "data": "La personne a une approche flexible et adaptable de ses ressources matérielles. Elle peut trouver des moyens créatifs d'augmenter ses revenus."
+        }
+      ]
+    },
+    {
+      "maison": "Maison II",
+      "nom": "Vénus",
+      "data": [
+        {
+          "nom": "Confort matériel",
+          "data": "Vénus en Maison II accentue l'importance du confort matériel et des plaisirs physiques. La personne apprécie les belles choses et cherche à les acquérir."
+        },
+        {
+          "nom": "Attachement aux valeurs",
+          "data": "Il y a un attachement fort aux valeurs, tant matérielles qu'émotionnelles. La personne investit dans ce qui lui apporte du plaisir et un sentiment de sécurité."
+        }
+      ]
+    },
+    {
+      "maison": "Maison II",
+      "nom": "Neptune",
+      "data": [
+        {
+          "nom": "Confusion financière",
+          "data": "Neptune en Maison II peut apporter une certaine confusion ou une vision idéalisée des finances. La personne peut avoir du mal à gérer ses ressources de manière réaliste."
+        },
+        {
+          "nom": "Détachement matériel",
+          "data": "Il peut y avoir un détachement des possessions matérielles ou un désir de partager ses ressources de manière désintéressée."
+        }
+      ]
+    },
+    {
+      "maison": "Maison II",
+      "nom": "Jupiter",
+      "data": [
+        {
+          "nom": "Abondance financière",
+          "data": "Jupiter en Maison II peut indiquer une tendance à attirer l'abondance matérielle. La personne est souvent chanceuse dans ses affaires financières et cherche à prospérer."
+        },
+        {
+          "nom": "Générosité",
+          "data": "Il y a une tendance à la générosité avec ses ressources. La personne peut partager ses richesses ou investir dans des causes qui lui tiennent à cœur."
+        }
+      ]
+    },
+    {
+      "maison": "Maison II",
+      "nom": "Lune",
+      "data": [
+        {
+          "nom": "Sécurité émotionnelle à travers les possessions",
+          "data": "La Lune en Maison II indique que la sécurité émotionnelle est étroitement liée aux possessions matérielles. La personne se sent plus en sécurité lorsqu'elle a un certain confort financier."
+        },
+        {
+          "nom": "Changements financiers fréquents",
+          "data": "Les finances peuvent être sujettes à des fluctuations ou à des changements en fonction des humeurs et des besoins émotionnels."
+        }
+      ]
+    },
+    {
+      "maison": "Maison II",
+      "nom": "Uranus",
+      "data": [
+        {
+          "nom": "Instabilité financière",
+          "data": "Uranus en Maison II peut apporter une certaine instabilité financière, avec des gains et des pertes soudains. La personne peut prendre des risques inhabituels dans la gestion de ses finances."
+        },
+        {
+          "nom": "Approche non conventionnelle",
+          "data": "Il y a une approche non conventionnelle des ressources matérielles, avec un intérêt pour les moyens alternatifs de gagner de l'argent."
+        }
+      ]
+    },
+    {
+      "maison": "Maison II",
+      "nom": "Pluton",
+      "data": [
+        {
+          "nom": "Transformation financière",
+          "data": "Pluton en Maison II indique des transformations profondes et parfois radicales dans la gestion des finances. La personne peut traverser des périodes de perte suivies de régénération."
+        },
+        {
+          "nom": "Pouvoir et contrôle",
+          "data": "Il peut y avoir un désir de contrôle sur les ressources matérielles, avec une tendance à utiliser les finances comme un moyen de puissance ou d'influence."
+        }
+      ]
+    },
+    {
+      "maison": "Maison III",
+      "nom": "Soleil",
+      "data": [
+        {
+          "nom": "Expression personnelle",
+          "data": "Le Soleil en Maison III indique une forte expression personnelle dans la communication. La personne aime partager ses idées et se distingue par son éloquence."
+        },
+        {
+          "nom": "Relations avec les proches",
+          "data": "Les relations avec les frères, sœurs, et voisins sont importantes et peuvent jouer un rôle clé dans l'identité personnelle."
+        }
+      ]
+    },
+    {
+      "maison": "Maison III",
+      "nom": "Saturne",
+      "data": [
+        {
+          "nom": "Pensée structurée",
+          "data": "Saturne en Maison III confère une approche sérieuse et méthodique à la communication et à l'apprentissage. La personne peut être réfléchie et disciplinée dans ses échanges."
+        },
+        {
+          "nom": "Difficultés de communication",
+          "data": "Il peut y avoir des défis liés à la communication, comme une tendance à la réserve ou à la timidité, surtout dans les interactions avec les proches."
+        }
+      ]
+    },
+    {
+      "maison": "Maison III",
+      "nom": "Mars",
+      "data": [
+        {
+          "nom": "Communication directe",
+          "data": "Mars en Maison III apporte une communication directe et parfois agressive. La personne peut exprimer ses idées avec force et conviction, sans craindre les conflits."
+        },
+        {
+          "nom": "Esprit compétitif",
+          "data": "Il y a un esprit compétitif dans les échanges intellectuels. La personne peut chercher à convaincre ou à dominer dans les discussions."
+        }
+      ]
+    },
+    {
+      "maison": "Maison III",
+      "nom": "Mercure",
+      "data": [
+        {
+          "nom": "Curiosité intellectuelle",
+          "data": "Mercure en Maison III renforce la curiosité intellectuelle et les capacités de communication. La personne est souvent perçue comme bavarde, intelligente, et pleine de ressources."
+        },
+        {
+          "nom": "Mobilité et adaptabilité",
+          "data": "Il y a un goût pour les déplacements et les changements. La personne s'adapte facilement aux nouvelles informations et aux environnements variés."
+        }
+      ]
+    },
+    {
+      "maison": "Maison III",
+      "nom": "Vénus",
+      "data": [
+        {
+          "nom": "Charme dans la communication",
+          "data": "Vénus en Maison III confère un charme naturel dans la communication. La personne peut avoir un talent pour la diplomatie et l'harmonie dans les échanges."
+        },
+        {
+          "nom": "Affection pour les proches",
+          "data": "Les relations avec les frères, sœurs, et voisins sont souvent agréables et empreintes d'affection. La personne valorise les interactions harmonieuses avec son entourage immédiat."
+        }
+      ]
+    },
+    {
+      "maison": "Maison III",
+      "nom": "Neptune",
+      "data": [
+        {
+          "nom": "Imagination dans la pensée",
+          "data": "Neptune en Maison III apporte une pensée imaginative et parfois intuitive. La personne peut être rêveuse et avoir un intérêt pour la poésie, la musique, ou les sujets mystiques."
+        },
+        {
+          "nom": "Confusion dans la communication",
+          "data": "Il peut y avoir une tendance à la confusion ou à la malentendu dans les échanges. La personne doit faire attention à la clarté de sa communication."
+        }
+      ]
+    },
+    {
+      "maison": "Maison III",
+      "nom": "Jupiter",
+      "data": [
+        {
+          "nom": "Optimisme intellectuel",
+          "data": "Jupiter en Maison III apporte un optimisme et une ouverture d'esprit dans les échanges intellectuels. La personne aime apprendre et partager ses connaissances avec enthousiasme."
+        },
+        {
+          "nom": "Grande capacité d'apprentissage",
+          "data": "Il y a un fort désir d'élargir ses horizons intellectuels. La personne peut exceller dans les études et les voyages éducatifs."
+        }
+      ]
+    },
+    {
+      "maison": "Maison III",
+      "nom": "Lune",
+      "data": [
+        {
+          "nom": "Communication émotionnelle",
+          "data": "La Lune en Maison III indique une communication teintée d'émotions. La personne peut être très réceptive aux sentiments des autres et exprime ses pensées de manière sensible."
+        },
+        {
+          "nom": "Variabilité des idées",
+          "data": "Les idées et les opinions peuvent être sujettes à des fluctuations fréquentes, en fonction de l'état émotionnel de la personne."
+        }
+      ]
+    },
+    {
+      "maison": "Maison III",
+      "nom": "Uranus",
+      "data": [
+        {
+          "nom": "Originalité intellectuelle",
+          "data": "Uranus en Maison III confère une pensée originale et non conventionnelle. La personne est souvent innovante dans ses idées et peut être attirée par les sciences ou les technologies avancées."
+        },
+        {
+          "nom": "Communication imprévisible",
+          "data": "Il peut y avoir une imprévisibilité dans la communication. La personne pourrait exprimer soudainement des idées radicales ou surprenantes."
+        }
+      ]
+    },
+    {
+      "maison": "Maison III",
+      "nom": "Pluton",
+      "data": [
+        {
+          "nom": "Intensité mentale",
+          "data": "Pluton en Maison III apporte une intensité et une profondeur dans la pensée et la communication. La personne peut être très persuasive et avoir un intérêt pour les sujets tabous ou profonds."
+        },
+        {
+          "nom": "Transformation par la connaissance",
+          "data": "Il peut y avoir une quête de transformation personnelle à travers l'acquisition de connaissances. La personne utilise l'information comme un outil de pouvoir."
+        }
+      ]
+    },
+    {
+      "maison": "Maison IV",
+      "nom": "Soleil",
+      "data": [
+        {
+          "nom": "Identité familiale",
+          "data": "Le Soleil en Maison IV indique une forte identification avec la famille et les racines. La personne accorde une grande importance à son foyer et à ses origines."
+        },
+        {
+          "nom": "Leadership domestique",
+          "data": "Il y a un désir naturel de diriger ou d'avoir un rôle central au sein de la famille. La personne peut se sentir appelée à être le pilier de son foyer."
+        }
+      ]
+    },
+    {
+      "maison": "Maison IV",
+      "nom": "Saturne",
+      "data": [
+        {
+          "nom": "Responsabilité familiale",
+          "data": "Saturne en Maison IV suggère une forte responsabilité envers la famille et le foyer. La personne peut avoir un rôle sérieux ou de soutien dans sa vie domestique."
+        },
+        {
+          "nom": "Challenges familiaux",
+          "data": "Cette position peut indiquer des défis ou des restrictions au sein du foyer, comme une enfance stricte ou des responsabilités lourdes à un jeune âge."
+        }
+      ]
+    },
+    {
+      "maison": "Maison IV",
+      "nom": "Mars",
+      "data": [
+        {
+          "nom": "Énergie domestique",
+          "data": "Mars en Maison IV apporte une énergie dynamique et parfois conflictuelle au sein du foyer. La personne peut être active et entreprenante à la maison."
+        },
+        {
+          "nom": "Conflits familiaux",
+          "data": "Il peut y avoir une tendance à des conflits ou des tensions avec les membres de la famille, particulièrement dans l'enfance."
+        }
+      ]
+    },
+    {
+      "maison": "Maison IV",
+      "nom": "Mercure",
+      "data": [
+        {
+          "nom": "Communication familiale",
+          "data": "Mercure en Maison IV met l'accent sur la communication au sein du foyer. La personne peut être très impliquée dans les discussions familiales et dans la transmission des traditions."
+        },
+        {
+          "nom": "Mobilité liée au foyer",
+          "data": "Il peut y avoir une tendance à déménager fréquemment ou à changer de résidence, en raison d'un besoin de mouvement ou de nouvelles expériences."
+        }
+      ]
+    },
+    {
+      "maison": "Maison IV",
+      "nom": "Vénus",
+      "data": [
+        {
+          "nom": "Harmonie domestique",
+          "data": "Vénus en Maison IV favorise une atmosphère de paix et d'harmonie au sein du foyer. La personne apprécie un environnement familial agréable et esthétiquement plaisant."
+        },
+        {
+          "nom": "Attachement au foyer",
+          "data": "Il y a un fort attachement émotionnel à la maison et aux valeurs familiales. La personne peut investir dans la beauté et le confort de son lieu de vie."
+        }
+      ]
+    },
+    {
+      "maison": "Maison IV",
+      "nom": "Neptune",
+      "data": [
+        {
+          "nom": "Ambiance mystique ou floue",
+          "data": "Neptune en Maison IV apporte une qualité rêveuse ou mystique à l'environnement domestique. La personne peut avoir des souvenirs flous ou idéalisés de son enfance."
+        },
+        {
+          "nom": "Confusion familiale",
+          "data": "Il peut y avoir des malentendus ou de la confusion au sein de la famille. La personne pourrait aussi être attirée par un mode de vie communautaire ou spirituel."
+        }
+      ]
+    },
+    {
+      "maison": "Maison IV",
+      "nom": "Jupiter",
+      "data": [
+        {
+          "nom": "Expansion du foyer",
+          "data": "Jupiter en Maison IV indique une expansion ou une prospérité au sein du foyer. La personne peut venir d'une famille nombreuse ou vivre dans un environnement spacieux et accueillant."
+        },
+        {
+          "nom": "Protection familiale",
+          "data": "Il y a un sens de protection et d'optimisme autour du foyer. La personne peut bénéficier d'un soutien familial généreux et bienveillant."
+        }
+      ]
+    },
+    {
+      "maison": "Maison IV",
+      "nom": "Lune",
+      "data": [
+        {
+          "nom": "Attachement émotionnel à la maison",
+          "data": "La Lune en Maison IV crée un fort lien émotionnel avec le foyer et la famille. La personne est profondément connectée à ses racines et peut être très nostalgique."
+        },
+        {
+          "nom": "Variabilité du foyer",
+          "data": "L'environnement domestique peut être sujet à des changements fréquents, reflétant les besoins émotionnels fluctuants de la personne."
+        }
+      ]
+    },
+    {
+      "maison": "Maison IV",
+      "nom": "Uranus",
+      "data": [
+        {
+          "nom": "Instauration du changement dans le foyer",
+          "data": "Uranus en Maison IV apporte une énergie de changement et de révolution au sein du foyer. La personne peut avoir connu une enfance non conventionnelle ou rebelle."
+        },
+        {
+          "nom": "Instabilité domestique",
+          "data": "Il peut y avoir une certaine instabilité ou imprévisibilité dans la vie familiale, avec des déménagements fréquents ou des changements soudains dans l'environnement domestique."
+        }
+      ]
+    },
+    {
+      "maison": "Maison IV",
+      "nom": "Pluton",
+      "data": [
+        {
+          "nom": "Transformation familiale",
+          "data": "Pluton en Maison IV suggère des transformations profondes et parfois intenses dans le domaine familial. La personne peut vivre des dynamiques familiales complexes ou des régénérations au sein du foyer."
+        },
+        {
+          "nom": "Pouvoir et contrôle au sein du foyer",
+          "data": "Il peut y avoir des luttes de pouvoir ou une quête de contrôle dans la famille. La personne peut être confrontée à des situations de crise domestique qui nécessitent une profonde transformation."
+        }
+      ]
+    },
+    {
+      "maison": "Maison V",
+      "nom": "Soleil",
+      "data": [
+        {
+          "nom": "Expression créative",
+          "data": "Le Soleil en Maison V accentue l'importance de l'expression personnelle à travers des activités créatives. La personne se réalise en montrant ses talents et en vivant ses passions."
+        },
+        {
+          "nom": "Importance des plaisirs",
+          "data": "Il y a un fort besoin de profiter de la vie, d'explorer le plaisir et la romance. La personne est attirée par les loisirs et les expériences qui lui permettent de briller."
+        }
+      ]
+    },
+    {
+      "maison": "Maison V",
+      "nom": "Saturne",
+      "data": [
+        {
+          "nom": "Responsabilité dans la créativité",
+          "data": "Saturne en Maison V apporte un sens de responsabilité ou de discipline dans les activités créatives. La personne peut aborder ses passions avec sérieux et rigueur."
+        },
+        {
+          "nom": "Défis dans l'expression personnelle",
+          "data": "Il peut y avoir des blocages ou des inhibitions dans l'expression de soi. La personne pourrait ressentir des restrictions dans les domaines de la créativité ou des loisirs."
+        }
+      ]
+    },
+    {
+      "maison": "Maison V",
+      "nom": "Mars",
+      "data": [
+        {
+          "nom": "Énergie créative intense",
+          "data": "Mars en Maison V confère une énergie puissante et proactive dans les activités créatives. La personne aborde ses passions avec enthousiasme et vigueur."
+        },
+        {
+          "nom": "Amour passionné",
+          "data": "Il y a une tendance à vivre les relations amoureuses avec intensité et passion. La personne peut être impulsive ou chercher des aventures excitantes."
+        }
+      ]
+    },
+    {
+      "maison": "Maison V",
+      "nom": "Mercure",
+      "data": [
+        {
+          "nom": "Esprit créatif",
+          "data": "Mercure en Maison V favorise un esprit vif et créatif, avec un intérêt pour les jeux intellectuels et les activités ludiques. La personne peut exceller dans les domaines nécessitant de la créativité mentale."
+        },
+        {
+          "nom": "Communication dans les loisirs",
+          "data": "La communication est un aspect clé dans les loisirs et les relations amoureuses. La personne aime exprimer ses idées et échanger dans des contextes créatifs."
+        }
+      ]
+    },
+    {
+      "maison": "Maison V",
+      "nom": "Vénus",
+      "data": [
+        {
+          "nom": "Romantisme et amour",
+          "data": "Vénus en Maison V favorise un fort attrait pour l'amour et la romance. La personne est généralement charmante et attirée par les plaisirs de la vie, y compris les arts et la beauté."
+        },
+        {
+          "nom": "Créativité harmonieuse",
+          "data": "Il y a une grande appréciation pour les arts et la beauté. La personne peut avoir des talents artistiques et cherche à créer de l'harmonie à travers ses œuvres."
+        }
+      ]
+    },
+    {
+      "maison": "Maison V",
+      "nom": "Neptune",
+      "data": [
+        {
+          "nom": "Inspiration artistique",
+          "data": "Neptune en Maison V apporte une inspiration artistique profonde et un amour pour les formes d'expression créative mystiques ou idéalisées. La personne peut être très imaginative et rêveuse dans ses activités."
+        },
+        {
+          "nom": "Romance idéalisée",
+          "data": "Il peut y avoir une tendance à idéaliser les relations amoureuses, recherchant un amour spirituel ou platonique. La personne pourrait aussi être attirée par des expériences amoureuses envoûtantes ou illusoires."
+        }
+      ]
+    },
+    {
+      "maison": "Maison V",
+      "nom": "Jupiter",
+      "data": [
+        {
+          "nom": "Expansion créative",
+          "data": "Jupiter en Maison V indique une grande expansion et un succès potentiel dans les domaines créatifs. La personne a une approche généreuse et optimiste des loisirs et de l'amour."
+        },
+        {
+          "nom": "Chance en amour",
+          "data": "Il y a souvent une grande chance ou des opportunités abondantes dans les affaires de cœur. La personne peut vivre des expériences romantiques enrichissantes et abondantes."
+        }
+      ]
+    },
+    {
+      "maison": "Maison V",
+      "nom": "Lune",
+      "data": [
+        {
+          "nom": "Expression émotionnelle",
+          "data": "La Lune en Maison V met l'accent sur l'expression des émotions à travers des activités créatives ou ludiques. La personne peut se sentir fortement connectée à ses œuvres et à ses passions."
+        },
+        {
+          "nom": "Sensibilité en amour",
+          "data": "Il y a une sensibilité accrue dans les relations amoureuses, avec un besoin de sécurité émotionnelle dans les romances. La personne peut être très attentive aux besoins émotionnels de ses partenaires."
+        }
+      ]
+    },
+    {
+      "maison": "Maison V",
+      "nom": "Uranus",
+      "data": [
+        {
+          "nom": "Originalité créative",
+          "data": "Uranus en Maison V favorise l'originalité et l'innovation dans les activités créatives. La personne peut se démarquer par son approche unique et non conventionnelle de la créativité."
+        },
+        {
+          "nom": "Relations amoureuses imprévisibles",
+          "data": "Les relations amoureuses peuvent être marquées par l'imprévisibilité et le changement. La personne peut rechercher des relations peu conventionnelles ou soudaines."
+        }
+      ]
+    },
+    {
+      "maison": "Maison V",
+      "nom": "Pluton",
+      "data": [
+        {
+          "nom": "Transformation créative",
+          "data": "Pluton en Maison V suggère une intensité et une profondeur dans l'expression créative. La personne peut être attirée par des formes d'art qui explorent des thèmes de pouvoir, de transformation, ou de renaissance."
+        },
+        {
+          "nom": "Relations amoureuses intenses",
+          "data": "Les relations amoureuses peuvent être intenses et transformatrices, avec une profondeur émotionnelle qui peut conduire à des expériences puissantes, voire obsédantes."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VI",
+      "nom": "Soleil",
+      "data": [
+        {
+          "nom": "Santé et Vitalité",
+          "data": "Le Soleil en Maison VI indique une grande vitalité et une forte conscience de la santé. La personne peut être motivée par des activités qui améliorent le bien-être physique."
+        },
+        {
+          "nom": "Travail et Service",
+          "data": "Cette position suggère que l'individu pourrait se réaliser par le biais de son travail ou de services rendus aux autres. Le Soleil met en avant la fierté et l'identité liées au domaine professionnel."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VI",
+      "nom": "Saturne",
+      "data": [
+        {
+          "nom": "Discipline au Travail",
+          "data": "Saturne en Maison VI implique une approche sérieuse et disciplinée du travail. Il y a une tendance à être méthodique et à rechercher la perfection dans les tâches quotidiennes."
+        },
+        {
+          "nom": "Problèmes de Santé",
+          "data": "Cette position peut également indiquer des défis ou des restrictions en matière de santé, nécessitant un suivi rigoureux et une approche pratique pour maintenir le bien-être."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VI",
+      "nom": "Mars",
+      "data": [
+        {
+          "nom": "Énergie au Travail",
+          "data": "Mars en Maison VI indique une grande énergie et dynamisme dans le travail quotidien. La personne peut être très active et entreprenante dans ses tâches professionnelles."
+        },
+        {
+          "nom": "Stress et Conflits",
+          "data": "Il peut y avoir des conflits ou des tensions au travail, avec une tendance à être impatient ou à prendre des initiatives de manière impulsive."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VI",
+      "nom": "Mercure",
+      "data": [
+        {
+          "nom": "Compétences Analytiques",
+          "data": "Mercure en Maison VI favorise des compétences analytiques et une attention aux détails dans le travail. La personne est souvent efficace dans l'organisation et la gestion des tâches."
+        },
+        {
+          "nom": "Santé Mentale",
+          "data": "Cette position peut également mettre en avant l'importance de la santé mentale, avec un besoin de structurer ses pensées et ses routines pour éviter le stress."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VI",
+      "nom": "Vénus",
+      "data": [
+        {
+          "nom": "Ambiance au Travail",
+          "data": "Vénus en Maison VI indique une atmosphère harmonieuse et agréable au travail. La personne peut rechercher la beauté et l'équilibre dans ses environnements professionnels."
+        },
+        {
+          "nom": "Soins de Santé",
+          "data": "Il peut également y avoir un intérêt pour les activités qui améliorent la beauté ou le bien-être, comme les soins personnels ou les pratiques de relaxation."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VI",
+      "nom": "Neptune",
+      "data": [
+        {
+          "nom": "Idéalisation du Travail",
+          "data": "Neptune en Maison VI peut indiquer une vision idéaliste ou floue du travail. La personne peut avoir des difficultés à rester réaliste sur ses tâches ou ses responsabilités."
+        },
+        {
+          "nom": "Sensibilité au Stress",
+          "data": "Cette position peut aussi rendre l'individu plus sensible au stress ou aux problèmes de santé liés à l'anxiété et aux tensions émotionnelles."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VI",
+      "nom": "Jupiter",
+      "data": [
+        {
+          "nom": "Opportunités Professionnelles",
+          "data": "Jupiter en Maison VI est souvent associé à des opportunités de croissance et d'expansion dans le domaine professionnel. La personne peut rencontrer des chances favorables dans son travail."
+        },
+        {
+          "nom": "Santé Optimiste",
+          "data": "Cette position favorise généralement une approche optimiste et expansive de la santé, avec une tendance à adopter des modes de vie sains et positifs."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VI",
+      "nom": "Lune",
+      "data": [
+        {
+          "nom": "Émotions au Travail",
+          "data": "La Lune en Maison VI montre que les émotions jouent un rôle important dans le milieu de travail. La personne peut être très sensible à l'environnement professionnel et à la dynamique de l'équipe."
+        },
+        {
+          "nom": "Soins Quotidiens",
+          "data": "Il peut également y avoir une tendance à se préoccuper des soins quotidiens et des besoins émotionnels, cherchant du confort et de la sécurité dans les routines de la vie quotidienne."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VI",
+      "nom": "Uranus",
+      "data": [
+        {
+          "nom": "Innovations au Travail",
+          "data": "Uranus en Maison VI favorise des approches innovantes et originales dans le travail. La personne peut être attirée par des méthodes non conventionnelles et des réformes dans son environnement professionnel."
+        },
+        {
+          "nom": "Changements Imprévus",
+          "data": "Il peut y avoir des changements inattendus ou des interruptions dans la routine quotidienne, avec une tendance à rechercher une certaine liberté dans les responsabilités de travail."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VI",
+      "nom": "Pluton",
+      "data": [
+        {
+          "nom": "Transformation Professionnelle",
+          "data": "Pluton en Maison VI suggère des transformations profondes dans la carrière et le travail. La personne peut être attirée par des changements radicaux ou des processus de régénération dans son environnement professionnel."
+        },
+        {
+          "nom": "Intensité au Travail",
+          "data": "Cette position peut aussi indiquer une intensité émotionnelle ou une approche obsessionnelle des tâches, avec un désir de contrôler ou de transformer les aspects liés au travail et à la santé."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VII",
+      "nom": "Soleil",
+      "data": [
+        {
+          "nom": "Relations Partenariales",
+          "data": "Le Soleil en Maison VII met en avant l'importance des partenariats et des relations de longue durée. La personne peut rechercher des relations où elle peut s'épanouir et se réaliser."
+        },
+        {
+          "nom": "Identité à Travers les Autres",
+          "data": "Cette position indique que l'identité personnelle est souvent façonnée par les interactions et les relations. L'individu peut trouver du sens et du but à travers ses relations avec les autres."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VII",
+      "nom": "Saturne",
+      "data": [
+        {
+          "nom": "Engagement et Responsabilité",
+          "data": "Saturne en Maison VII souligne l'importance des engagements sérieux et des responsabilités dans les relations. Les partenariats peuvent être marqués par des défis et la nécessité de travailler dur pour maintenir l'harmonie."
+        },
+        {
+          "nom": "Sécurité Relationnelle",
+          "data": "Cette position peut aussi indiquer une recherche de stabilité et de sécurité dans les relations, avec une tendance à être prudent et réservé dans les engagements."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VII",
+      "nom": "Mars",
+      "data": [
+        {
+          "nom": "Dynamisme Relationnel",
+          "data": "Mars en Maison VII apporte de l'énergie et de la passion aux relations. La personne peut être très active dans ses partenariats et rechercher des relations dynamiques et stimulantes."
+        },
+        {
+          "nom": "Conflits Relationnels",
+          "data": "Cette position peut également entraîner des tensions ou des conflits dans les relations, avec une tendance à être assertif ou combatif dans les interactions avec les autres."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VII",
+      "nom": "Mercure",
+      "data": [
+        {
+          "nom": "Communication dans les Relations",
+          "data": "Mercure en Maison VII favorise une communication ouverte et intellectuelle dans les relations. La personne peut être attirée par des partenaires avec qui elle peut partager des échanges d'idées."
+        },
+        {
+          "nom": "Analytique dans les Partenariats",
+          "data": "Cette position peut aussi indiquer une tendance à analyser et à réfléchir sur les dynamiques relationnelles, avec une approche rationnelle des partenariats."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VII",
+      "nom": "Vénus",
+      "data": [
+        {
+          "nom": "Harmonie Relationnelle",
+          "data": "Vénus en Maison VII apporte une qualité harmonieuse et équilibrée aux relations. La personne peut rechercher des relations épanouissantes et agréables, avec une grande appréciation de la beauté et de l'amour."
+        },
+        {
+          "nom": "Attraction des Partenaires",
+          "data": "Cette position indique souvent une tendance à attirer des partenaires charmants et compatissants, et à valoriser les relations basées sur l'affection et la compréhension mutuelle."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VII",
+      "nom": "Neptune",
+      "data": [
+        {
+          "nom": "Idéalisation des Relations",
+          "data": "Neptune en Maison VII peut entraîner une idéalisation des partenariats, avec une tendance à voir les relations sous un angle romantique ou irréaliste."
+        },
+        {
+          "nom": "Sensibilité Relationnelle",
+          "data": "Cette position peut également rendre la personne très sensible aux dynamiques relationnelles, avec un potentiel pour les malentendus ou les illusions dans les relations."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VII",
+      "nom": "Jupiter",
+      "data": [
+        {
+          "nom": "Expansion des Relations",
+          "data": "Jupiter en Maison VII favorise l'expansion et la croissance à travers les relations. La personne peut rencontrer des partenaires influents et vivre des expériences enrichissantes grâce aux relations."
+        },
+        {
+          "nom": "Optimisme Relationnel",
+          "data": "Cette position est souvent associée à une attitude optimiste et généreuse dans les relations, avec un désir de faire grandir et d'explorer les partenariats."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VII",
+      "nom": "Lune",
+      "data": [
+        {
+          "nom": "Émotions dans les Relations",
+          "data": "La Lune en Maison VII montre que les émotions jouent un rôle central dans les relations. La personne peut rechercher des partenariats qui offrent confort et sécurité émotionnelle."
+        },
+        {
+          "nom": "Besoin de Complicité",
+          "data": "Cette position indique un fort besoin de complicité et de connexion émotionnelle dans les relations, avec une tendance à être très réceptif aux besoins et aux sentiments des partenaires."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VII",
+      "nom": "Uranus",
+      "data": [
+        {
+          "nom": "Relations Non Conventionnelles",
+          "data": "Uranus en Maison VII apporte une approche non conventionnelle et originale aux relations. La personne peut être attirée par des partenaires atypiques ou par des dynamiques relationnelles uniques."
+        },
+        {
+          "nom": "Changements Inattendus",
+          "data": "Cette position peut également entraîner des changements imprévus ou des bouleversements dans les relations, avec une tendance à rechercher une certaine liberté ou indépendance au sein des partenariats."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VII",
+      "nom": "Pluton",
+      "data": [
+        {
+          "nom": "Transformation des Relations",
+          "data": "Pluton en Maison VII indique des transformations profondes et puissantes dans les relations. Les partenariats peuvent être marqués par des changements radicaux et des dynamiques de pouvoir intenses."
+        },
+        {
+          "nom": "Intensité Emotionnelle",
+          "data": "Cette position peut aussi suggérer une intensité émotionnelle dans les relations, avec un désir de comprendre et de transformer les dynamiques relationnelles en profondeur."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VIII",
+      "nom": "Soleil",
+      "data": [
+        {
+          "nom": "Transformation Personnelle",
+          "data": "Le Soleil en Maison VIII indique un fort potentiel de transformation personnelle. La personne peut vivre des expériences profondes et intenses qui conduisent à une croissance et à une régénération significatives."
+        },
+        {
+          "nom": "Pouvoir et Influence",
+          "data": "Cette position peut aussi suggérer un désir de pouvoir et d'influence, avec une tendance à explorer les dynamiques de contrôle et de pouvoir dans les relations et les ressources partagées."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VIII",
+      "nom": "Saturne",
+      "data": [
+        {
+          "nom": "Responsabilités Financières",
+          "data": "Saturne en Maison VIII met l'accent sur les responsabilités et les restrictions concernant les finances partagées et les ressources communes. La personne peut être confrontée à des défis liés à la gestion des ressources ou à des héritages."
+        },
+        {
+          "nom": "Transformation Rigoureuse",
+          "data": "Cette position indique également une approche sérieuse et rigoureuse des processus de transformation et de régénération, avec une tendance à se confronter aux aspects les plus profonds et difficiles de la vie."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VIII",
+      "nom": "Mars",
+      "data": [
+        {
+          "nom": "Énergie Intense",
+          "data": "Mars en Maison VIII apporte une énergie intense et passionnée aux questions de transformation personnelle et de ressources partagées. La personne peut être motivée à explorer des sujets profonds avec vigueur."
+        },
+        {
+          "nom": "Conflits sur les Ressources",
+          "data": "Cette position peut aussi entraîner des conflits ou des tensions liés aux finances communes ou aux questions de pouvoir, avec une tendance à être assertif ou compétitif dans ces domaines."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VIII",
+      "nom": "Mercure",
+      "data": [
+        {
+          "nom": "Recherche et Analyse",
+          "data": "Mercure en Maison VIII favorise la recherche et l'analyse des mystères de la vie. La personne peut être attirée par des sujets occultes, psychologiques ou des enquêtes approfondies."
+        },
+        {
+          "nom": "Communication sur les Finances",
+          "data": "Cette position peut également suggérer une tendance à communiquer de manière analytique ou stratégique sur les questions financières ou les ressources partagées."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VIII",
+      "nom": "Vénus",
+      "data": [
+        {
+          "nom": "Attraction et Partage",
+          "data": "Vénus en Maison VIII indique une approche harmonieuse et attrayante des finances partagées et des ressources communes. La personne peut rechercher l'équilibre et la beauté dans ces aspects de la vie."
+        },
+        {
+          "nom": "Relations Intimes",
+          "data": "Cette position favorise également des relations intimes profondes et significatives, avec une tendance à rechercher des connexions émotionnelles et sexuelles profondes et enrichissantes."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VIII",
+      "nom": "Neptune",
+      "data": [
+        {
+          "nom": "Idéalisation des Ressources",
+          "data": "Neptune en Maison VIII peut conduire à une idéalisation ou à des illusions concernant les finances partagées et les ressources communes. La personne peut avoir des difficultés à voir les choses clairement dans ces domaines."
+        },
+        {
+          "nom": "Sensibilité Psychologique",
+          "data": "Cette position indique également une sensibilité accrue aux dynamiques psychologiques et aux processus de transformation, avec une tendance à explorer les dimensions spirituelles ou mystiques des expériences intenses."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VIII",
+      "nom": "Jupiter",
+      "data": [
+        {
+          "nom": "Croissance et Expansion",
+          "data": "Jupiter en Maison VIII favorise la croissance et l'expansion à travers les transformations personnelles et les ressources partagées. La personne peut bénéficier de chance et d'opportunités dans ces domaines."
+        },
+        {
+          "nom": "Optimisme Face aux Changements",
+          "data": "Cette position apporte un optimisme et une perspective expansive face aux processus de changement, avec une tendance à aborder les défis de manière positive et à rechercher des opportunités de développement."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VIII",
+      "nom": "Lune",
+      "data": [
+        {
+          "nom": "Émotions Intenses",
+          "data": "La Lune en Maison VIII montre que les émotions jouent un rôle important dans les questions de transformation et de ressources partagées. La personne peut avoir des réactions émotionnelles profondes et instinctives face aux changements."
+        },
+        {
+          "nom": "Besoin de Sécurité Emotionnelle",
+          "data": "Cette position indique également un fort besoin de sécurité émotionnelle dans les relations intimes et les questions financières, avec une tendance à rechercher une connexion émotionnelle stable et rassurante."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VIII",
+      "nom": "Uranus",
+      "data": [
+        {
+          "nom": "Changements Inattendus",
+          "data": "Uranus en Maison VIII peut apporter des changements inattendus et des bouleversements dans les domaines de la transformation personnelle et des ressources partagées. La personne peut être attirée par des expériences nouvelles et non conventionnelles."
+        },
+        {
+          "nom": "Exploration des Mystères",
+          "data": "Cette position favorise également une approche innovante et originale des questions profondes et mystiques, avec une tendance à explorer des sujets ou des pratiques atypiques dans le domaine psychologique et financier."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VIII",
+      "nom": "Pluton",
+      "data": [
+        {
+          "nom": "Transformation Profonde",
+          "data": "Pluton en Maison VIII indique des transformations profondes et puissantes, souvent liées à la psychologie, aux finances partagées ou aux dynamiques de pouvoir. La personne peut traverser des expériences radicales de régénération."
+        },
+        {
+          "nom": "Pouvoir et Contrôle",
+          "data": "Cette position peut également suggérer une intense dynamique de pouvoir et de contrôle dans les relations et les finances, avec une tendance à explorer et à comprendre les aspects les plus cachés de ces domaines."
+        }
+      ]
+    },
+    {
+      "maison": "Maison IX",
+      "nom": "Soleil",
+      "data": [
+        {
+          "nom": "Expansion Personnelle",
+          "data": "Le Soleil en Maison IX indique un fort désir d'expansion personnelle à travers l'exploration de nouvelles philosophies, voyages et apprentissages. La personne peut trouver du sens et de la réalisation dans la découverte de nouvelles idées et cultures."
+        },
+        {
+          "nom": "Leadership dans l'Enseignement",
+          "data": "Cette position peut aussi suggérer des talents naturels pour le leadership et l'enseignement, avec un intérêt marqué pour partager ses connaissances et inspirer les autres."
+        }
+      ]
+    },
+    {
+      "maison": "Maison IX",
+      "nom": "Saturne",
+      "data": [
+        {
+          "nom": "Responsabilités en Voyage et Études",
+          "data": "Saturne en Maison IX met l'accent sur les responsabilités et les défis liés aux voyages, à l'éducation supérieure, et aux croyances philosophiques. La personne peut ressentir des contraintes ou des obstacles dans ces domaines."
+        },
+        {
+          "nom": "Discipline dans l'Apprentissage",
+          "data": "Cette position indique également une approche disciplinée et sérieuse de l'apprentissage et de l'acquisition de connaissances, avec une tendance à suivre des études approfondies et rigoureuses."
+        }
+      ]
+    },
+    {
+      "maison": "Maison IX",
+      "nom": "Mars",
+      "data": [
+        {
+          "nom": "Énergie pour l'Aventure",
+          "data": "Mars en Maison IX apporte une énergie dynamique et passionnée pour l'aventure, les voyages et les études. La personne peut être motivée à explorer de nouveaux horizons avec enthousiasme."
+        },
+        {
+          "nom": "Débats et Conflits Idéologiques",
+          "data": "Cette position peut également entraîner des conflits ou des débats intenses sur les croyances et les philosophies, avec une tendance à défendre ses idées avec vigueur."
+        }
+      ]
+    },
+    {
+      "maison": "Maison IX",
+      "nom": "Mercure",
+      "data": [
+        {
+          "nom": "Communication Philosophique",
+          "data": "Mercure en Maison IX favorise la communication intellectuelle et philosophique. La personne peut être attirée par les échanges d'idées sur des sujets d'importance mondiale ou spirituelle."
+        },
+        {
+          "nom": "Curiosité pour l'Apprentissage",
+          "data": "Cette position indique également une grande curiosité et un désir d'apprendre, avec une tendance à rechercher des informations variées et à explorer de nouvelles perspectives."
+        }
+      ]
+    },
+    {
+      "maison": "Maison IX",
+      "nom": "Vénus",
+      "data": [
+        {
+          "nom": "Appréciation de la Culture",
+          "data": "Vénus en Maison IX indique une forte appréciation pour la culture, les arts et les voyages. La personne peut rechercher des expériences esthétiques et enrichissantes à l'étranger ou à travers l'étude de différentes cultures."
+        },
+        {
+          "nom": "Relations à l'Étranger",
+          "data": "Cette position favorise également les relations harmonieuses avec des personnes d'horizons divers, avec une tendance à attirer des partenaires intéressés par la culture et l'expansion personnelle."
+        }
+      ]
+    },
+    {
+      "maison": "Maison IX",
+      "nom": "Neptune",
+      "data": [
+        {
+          "nom": "Idéalisation des Voyages",
+          "data": "Neptune en Maison IX peut conduire à une idéalisation ou une vision floue des voyages, des études et des croyances. La personne peut avoir des rêves ou des aspirations élevés dans ces domaines, parfois difficiles à réaliser."
+        },
+        {
+          "nom": "Recherche Spirituelle",
+          "data": "Cette position indique également une forte inclinaison vers la recherche spirituelle et l'exploration des mystères de la vie, avec une tendance à être attiré par des philosophies et des pratiques mystiques."
+        }
+      ]
+    },
+    {
+      "maison": "Maison IX",
+      "nom": "Jupiter",
+      "data": [
+        {
+          "nom": "Croissance à Travers les Voyages",
+          "data": "Jupiter en Maison IX favorise la croissance et l'expansion par les voyages, les études et les expériences culturelles. La personne peut bénéficier de chance et d'opportunités à travers l'exploration de nouveaux horizons."
+        },
+        {
+          "nom": "Optimisme pour l'Apprentissage",
+          "data": "Cette position apporte un optimisme et une perspective expansive dans le domaine de l'apprentissage, avec un désir d'explorer de nouvelles idées et de vivre des expériences enrichissantes."
+        }
+      ]
+    },
+    {
+      "maison": "Maison IX",
+      "nom": "Lune",
+      "data": [
+        {
+          "nom": "Émotions liées aux Voyages",
+          "data": "La Lune en Maison IX montre que les émotions jouent un rôle important dans les voyages et l'apprentissage. La personne peut être profondément affectée par ses expériences d'expansion personnelle et ses explorations."
+        },
+        {
+          "nom": "Recherche de Sécurité à l'Étranger",
+          "data": "Cette position indique également un besoin de sécurité émotionnelle dans les contextes d'étranger et d'études, avec une tendance à chercher des connexions émotionnelles significatives au-delà des frontières."
+        }
+      ]
+    },
+    {
+      "maison": "Maison IX",
+      "nom": "Uranus",
+      "data": [
+        {
+          "nom": "Innovations et Changements",
+          "data": "Uranus en Maison IX favorise les approches innovantes et les changements soudains dans les domaines des voyages, des études et des croyances. La personne peut être attirée par des idées et des pratiques non conventionnelles."
+        },
+        {
+          "nom": "Exploration des Nouvelles Idées",
+          "data": "Cette position indique également une forte tendance à explorer des philosophies et des concepts avant-gardistes, avec une recherche d'expériences uniques et stimulantes."
+        }
+      ]
+    },
+    {
+      "maison": "Maison IX",
+      "nom": "Pluton",
+      "data": [
+        {
+          "nom": "Transformation par l'Apprentissage",
+          "data": "Pluton en Maison IX indique des transformations profondes et puissantes à travers l'apprentissage, les voyages et les croyances. La personne peut vivre des expériences de changement radical en explorant ces domaines."
+        },
+        {
+          "nom": "Pouvoir et Philosophie",
+          "data": "Cette position peut également suggérer une intense dynamique de pouvoir liée aux croyances et à la philosophie, avec une tendance à rechercher une compréhension profonde et transformative des concepts spirituels et intellectuels."
+        }
+      ]
+    },
+    {
+      "maison": "Maison X",
+      "nom": "Soleil",
+      "data": [
+        {
+          "nom": "Réussite Professionnelle",
+          "data": "Le Soleil en Maison X indique une forte motivation pour atteindre des objectifs professionnels et sociaux. La personne peut avoir un désir profond de se réaliser et de se faire reconnaître dans sa carrière."
+        },
+        {
+          "nom": "Leadership et Autorité",
+          "data": "Cette position suggère également des talents pour le leadership et l'autorité. La personne peut se sentir naturellement attirée par des rôles de gestion ou de direction."
+        }
+      ]
+    },
+    {
+      "maison": "Maison X",
+      "nom": "Saturne",
+      "data": [
+        {
+          "nom": "Responsabilités Professionnelles",
+          "data": "Saturne en Maison X met l'accent sur les responsabilités et les défis liés à la carrière et à la position sociale. La personne peut rencontrer des obstacles ou des exigences élevées dans son domaine professionnel."
+        },
+        {
+          "nom": "Ambition et Discipline",
+          "data": "Cette position indique également une grande ambition et une approche disciplinée des objectifs professionnels. La personne est souvent prête à travailler dur pour atteindre ses aspirations."
+        }
+      ]
+    },
+    {
+      "maison": "Maison X",
+      "nom": "Mars",
+      "data": [
+        {
+          "nom": "Énergie et Ambition",
+          "data": "Mars en Maison X apporte une énergie dynamique et une forte ambition dans la carrière. La personne peut être motivée à prendre des initiatives audacieuses et à poursuivre activement ses objectifs professionnels."
+        },
+        {
+          "nom": "Conflits Professionnels",
+          "data": "Cette position peut aussi entraîner des conflits ou des tensions dans le milieu professionnel, avec une tendance à se battre pour ses objectifs ou à être confronté à des défis compétitifs."
+        }
+      ]
+    },
+    {
+      "maison": "Maison X",
+      "nom": "Mercure",
+      "data": [
+        {
+          "nom": "Communication dans la Carrière",
+          "data": "Mercure en Maison X favorise des compétences de communication efficaces dans le contexte professionnel. La personne peut être habile dans la gestion des affaires ou dans les rôles qui nécessitent des échanges d'idées."
+        },
+        {
+          "nom": "Pensée Stratégique",
+          "data": "Cette position indique également une capacité à penser de manière stratégique et analytique concernant les objectifs de carrière, avec un intérêt pour la planification et l'organisation professionnelle."
+        }
+      ]
+    },
+    {
+      "maison": "Maison X",
+      "nom": "Vénus",
+      "data": [
+        {
+          "nom": "Harmonie Professionnelle",
+          "data": "Vénus en Maison X apporte une qualité harmonieuse et diplomatique aux relations professionnelles. La personne peut rechercher l'équilibre et l'esthétique dans son environnement de travail."
+        },
+        {
+          "nom": "Attraction dans la Carrière",
+          "data": "Cette position peut également suggérer que la personne est attirée par des carrières liées aux arts, à la beauté ou à des professions où les relations interpersonnelles jouent un rôle important."
+        }
+      ]
+    },
+    {
+      "maison": "Maison X",
+      "nom": "Neptune",
+      "data": [
+        {
+          "nom": "Idéalisation de la Carrière",
+          "data": "Neptune en Maison X peut conduire à une idéalisation ou une vision floue des objectifs professionnels. La personne peut avoir des aspirations élevées ou des rêves concernant sa carrière, parfois difficile à concrétiser."
+        },
+        {
+          "nom": "Créativité et Inspiration",
+          "data": "Cette position indique également une forte créativité et une inspiration dans le domaine professionnel, avec un intérêt pour des carrières liées à l'art, la spiritualité ou les services humanitaires."
+        }
+      ]
+    },
+    {
+      "maison": "Maison X",
+      "nom": "Jupiter",
+      "data": [
+        {
+          "nom": "Opportunités Professionnelles",
+          "data": "Jupiter en Maison X favorise les opportunités de croissance et d'expansion dans la carrière. La personne peut bénéficier de chance et d'opportunités dans son domaine professionnel."
+        },
+        {
+          "nom": "Optimisme et Vision",
+          "data": "Cette position apporte un optimisme et une vision expansive concernant les objectifs professionnels, avec une tendance à viser haut et à rechercher des opportunités d'expansion dans la carrière."
+        }
+      ]
+    },
+    {
+      "maison": "Maison X",
+      "nom": "Lune",
+      "data": [
+        {
+          "nom": "Émotions dans la Carrière",
+          "data": "La Lune en Maison X montre que les émotions jouent un rôle important dans la carrière et les aspirations professionnelles. La personne peut être profondément affectée par ses expériences professionnelles."
+        },
+        {
+          "nom": "Besoin de Sécurité Professionnelle",
+          "data": "Cette position indique également un besoin de sécurité et de soutien émotionnel dans le milieu professionnel, avec une tendance à rechercher un environnement de travail stable et rassurant."
+        }
+      ]
+    },
+    {
+      "maison": "Maison X",
+      "nom": "Uranus",
+      "data": [
+        {
+          "nom": "Innovation et Changements Professionnels",
+          "data": "Uranus en Maison X favorise les innovations et les changements soudains dans le domaine professionnel. La personne peut être attirée par des carrières non conventionnelles ou par des rôles qui impliquent de la technologie et du progrès."
+        },
+        {
+          "nom": "Indépendance et Originalité",
+          "data": "Cette position indique également un fort désir d'indépendance et d'originalité dans le travail, avec une tendance à rechercher des rôles où la liberté et la créativité sont valorisées."
+        }
+      ]
+    },
+    {
+      "maison": "Maison X",
+      "nom": "Pluton",
+      "data": [
+        {
+          "nom": "Transformation Professionnelle",
+          "data": "Pluton en Maison X indique des transformations profondes et puissantes dans la carrière et la position sociale. La personne peut vivre des changements radicaux dans ses objectifs professionnels ou son rôle social."
+        },
+        {
+          "nom": "Pouvoir et Contrôle",
+          "data": "Cette position peut également suggérer une intense dynamique de pouvoir et de contrôle dans le milieu professionnel, avec une tendance à explorer les aspects cachés du pouvoir et de l'autorité."
+        }
+      ]
+    },
+    {
+      "maison": "Maison XI",
+      "nom": "Soleil",
+      "data": [
+        {
+          "nom": "Objectifs et Aspirations",
+          "data": "Le Soleil en Maison XI indique un fort désir de réalisation personnelle à travers les objectifs et les aspirations collectives. La personne peut trouver du sens en travaillant vers des objectifs communs et en s'impliquant dans des groupes ou des organisations."
+        },
+        {
+          "nom": "Leadership dans les Groupes",
+          "data": "Cette position suggère également des talents naturels pour le leadership au sein de groupes ou de réseaux sociaux, avec une tendance à être une figure centrale dans les activités collectives."
+        }
+      ]
+    },
+    {
+      "maison": "Maison XI",
+      "nom": "Saturne",
+      "data": [
+        {
+          "nom": "Responsabilités Sociales",
+          "data": "Saturne en Maison XI met l'accent sur les responsabilités et les défis liés aux associations, aux groupes sociaux et aux objectifs collectifs. La personne peut rencontrer des obstacles ou des contraintes dans ces domaines."
+        },
+        {
+          "nom": "Engagement à Long Terme",
+          "data": "Cette position indique également un engagement sérieux et à long terme envers les objectifs collectifs et les causes sociales, avec une approche disciplinée des relations de groupe et des projets de groupe."
+        }
+      ]
+    },
+    {
+      "maison": "Maison XI",
+      "nom": "Mars",
+      "data": [
+        {
+          "nom": "Énergie pour les Projets Collectifs",
+          "data": "Mars en Maison XI apporte une énergie dynamique et motivée aux projets collectifs et aux aspirations sociales. La personne peut être active et déterminée dans la poursuite des objectifs communs."
+        },
+        {
+          "nom": "Conflits dans les Groupes",
+          "data": "Cette position peut également entraîner des conflits ou des tensions au sein des groupes sociaux ou des associations, avec une tendance à se battre pour ses idées ou ses objectifs dans ces contextes."
+        }
+      ]
+    },
+    {
+      "maison": "Maison XI",
+      "nom": "Mercure",
+      "data": [
+        {
+          "nom": "Communication dans les Réseaux",
+          "data": "Mercure en Maison XI favorise les compétences de communication au sein des groupes sociaux et des réseaux. La personne peut être habile dans les échanges d'idées et dans la gestion des relations de groupe."
+        },
+        {
+          "nom": "Curiosité pour les Groupes",
+          "data": "Cette position indique également une grande curiosité et un intérêt pour les activités de groupe et les causes sociales, avec une tendance à explorer de nouvelles idées et perspectives au sein des associations."
+        }
+      ]
+    },
+    {
+      "maison": "Maison XI",
+      "nom": "Vénus",
+      "data": [
+        {
+          "nom": "Harmonie dans les Relations Sociales",
+          "data": "Vénus en Maison XI apporte une qualité harmonieuse et diplomatique aux relations dans les groupes sociaux et les réseaux. La personne peut rechercher l'équilibre et la coopération dans ses interactions sociales."
+        },
+        {
+          "nom": "Attraction dans les Associations",
+          "data": "Cette position peut également suggérer que la personne est attirée par des activités ou des causes qui impliquent des relations harmonieuses et des aspects esthétiques ou artistiques dans les groupes sociaux."
+        }
+      ]
+    },
+    {
+      "maison": "Maison XI",
+      "nom": "Neptune",
+      "data": [
+        {
+          "nom": "Idéalisation des Groupes",
+          "data": "Neptune en Maison XI peut conduire à une idéalisation ou à une vision floue des objectifs collectifs et des associations. La personne peut avoir des aspirations élevées ou des rêves concernant les activités sociales, parfois difficiles à réaliser."
+        },
+        {
+          "nom": "Recherche Spirituelle en Groupe",
+          "data": "Cette position indique également une forte inclinaison vers la recherche spirituelle ou l'exploration des mystères au sein des groupes et des associations, avec un intérêt pour les causes humanitaires ou mystiques."
+        }
+      ]
+    },
+    {
+      "maison": "Maison XI",
+      "nom": "Jupiter",
+      "data": [
+        {
+          "nom": "Opportunités à Travers les Réseaux",
+          "data": "Jupiter en Maison XI favorise les opportunités de croissance et d'expansion à travers les réseaux sociaux et les projets collectifs. La personne peut bénéficier de chance et d'opportunités en s'impliquant dans des groupes ou des causes communes."
+        },
+        {
+          "nom": "Optimisme pour les Objectifs Collectifs",
+          "data": "Cette position apporte un optimisme et une perspective expansive concernant les objectifs collectifs, avec une tendance à viser haut et à rechercher des opportunités de développement dans les activités de groupe."
+        }
+      ]
+    },
+    {
+      "maison": "Maison XI",
+      "nom": "Lune",
+      "data": [
+        {
+          "nom": "Émotions dans les Relations Sociales",
+          "data": "La Lune en Maison XI montre que les émotions jouent un rôle important dans les interactions sociales et les objectifs collectifs. La personne peut être profondément affectée par ses expériences au sein des groupes ou des associations."
+        },
+        {
+          "nom": "Besoin de Soutien Social",
+          "data": "Cette position indique également un besoin de soutien émotionnel et de sécurité dans le contexte social, avec une tendance à rechercher des connexions significatives et rassurantes au sein des groupes."
+        }
+      ]
+    },
+    {
+      "maison": "Maison XI",
+      "nom": "Uranus",
+      "data": [
+        {
+          "nom": "Innovations et Changements dans les Groupes",
+          "data": "Uranus en Maison XI favorise les innovations et les changements soudains dans les groupes sociaux et les projets collectifs. La personne peut être attirée par des causes ou des activités non conventionnelles et avant-gardistes."
+        },
+        {
+          "nom": "Indépendance au sein des Réseaux",
+          "data": "Cette position indique également un fort désir d'indépendance et d'originalité dans les relations sociales, avec une tendance à rechercher des rôles où la liberté et la créativité sont valorisées."
+        }
+      ]
+    },
+    {
+      "maison": "Maison XI",
+      "nom": "Pluton",
+      "data": [
+        {
+          "nom": "Transformation au sein des Groupes",
+          "data": "Pluton en Maison XI indique des transformations profondes et puissantes dans le domaine des groupes sociaux et des objectifs collectifs. La personne peut vivre des changements radicaux dans ses interactions sociales et ses engagements collectifs."
+        },
+        {
+          "nom": "Pouvoir et Influence Sociale",
+          "data": "Cette position peut également suggérer une intense dynamique de pouvoir et d'influence au sein des groupes, avec une tendance à explorer les aspects cachés du pouvoir et des relations sociales."
+        }
+      ]
+    },
+    {
+      "maison": "Maison XII",
+      "nom": "Soleil",
+      "data": [
+        {
+          "nom": "Réflexion Intérieure",
+          "data": "Le Soleil en Maison XII indique une tendance à la réflexion intérieure et à la quête de soi. La personne peut trouver du sens et de la réalisation en explorant son monde intérieur et en se retirant du monde extérieur pour se concentrer sur sa croissance personnelle."
+        },
+        {
+          "nom": "Leadership Subconscient",
+          "data": "Cette position peut également suggérer une capacité à influencer les autres de manière subtile ou discrète, avec un potentiel de leadership qui se manifeste plus dans des contextes privés ou cachés."
+        }
+      ]
+    },
+    {
+      "maison": "Maison XII",
+      "nom": "Saturne",
+      "data": [
+        {
+          "nom": "Responsabilités Cachées",
+          "data": "Saturne en Maison XII met l'accent sur les responsabilités et les défis liés aux aspects cachés ou inconscients de la vie. La personne peut éprouver des contraintes ou des obstacles liés à des problèmes non résolus ou des aspects intérieurs de soi."
+        },
+        {
+          "nom": "Discipline Spirituelle",
+          "data": "Cette position indique également une approche disciplinée et sérieuse des pratiques spirituelles ou psychologiques, avec une tendance à travailler dur sur le développement intérieur et la guérison personnelle."
+        }
+      ]
+    },
+    {
+      "maison": "Maison XII",
+      "nom": "Mars",
+      "data": [
+        {
+          "nom": "Énergie Subconsciente",
+          "data": "Mars en Maison XII apporte une énergie intense et parfois conflictuelle aux aspects cachés de la vie. La personne peut avoir des luttes internes ou des passions profondes qui ne sont pas toujours visibles aux autres."
+        },
+        {
+          "nom": "Conflits Internes",
+          "data": "Cette position peut également entraîner des conflits internes ou des tensions psychologiques, avec une tendance à canaliser l'énergie de manière privée ou introspective."
+        }
+      ]
+    },
+    {
+      "maison": "Maison XII",
+      "nom": "Mercure",
+      "data": [
+        {
+          "nom": "Pensées Inconscientes",
+          "data": "Mercure en Maison XII favorise une introspection mentale et une exploration des pensées inconscientes. La personne peut être particulièrement sensible aux processus mentaux subtils et aux messages cachés."
+        },
+        {
+          "nom": "Communication Privée",
+          "data": "Cette position indique également une tendance à communiquer et à réfléchir de manière privée ou discrète, avec une préférence pour des échanges en petit comité ou dans des contextes intimes."
+        }
+      ]
+    },
+    {
+      "maison": "Maison XII",
+      "nom": "Vénus",
+      "data": [
+        {
+          "nom": "Amour et Compassion Cachés",
+          "data": "Vénus en Maison XII suggère une tendance à l'amour et à la compassion qui se manifestent de manière discrète ou cachée. La personne peut avoir des affinités profondes et empathiques envers les autres qui ne sont pas toujours visibles en public."
+        },
+        {
+          "nom": "Esthétique Intérieure",
+          "data": "Cette position indique également une appréciation de la beauté et de l'harmonie dans des contextes privés ou spirituels, avec un intérêt pour l'art et la créativité dans des environnements intérieurs ou isolés."
+        }
+      ]
+    },
+    {
+      "maison": "Maison XII",
+      "nom": "Neptune",
+      "data": [
+        {
+          "nom": "Illusions et Mystères",
+          "data": "Neptune en Maison XII peut conduire à des illusions ou des mystères concernant les aspects inconscients de la vie. La personne peut être attirée par des pratiques spirituelles, mystiques ou psychologiques pour explorer ces dimensions cachées."
+        },
+        {
+          "nom": "Sensibilité Émotionnelle",
+          "data": "Cette position indique également une grande sensibilité émotionnelle et spirituelle, avec une tendance à ressentir des influences subtiles ou à se connecter à des réalités non matérielles."
+        }
+      ]
+    },
+    {
+      "maison": "Maison XII",
+      "nom": "Jupiter",
+      "data": [
+        {
+          "nom": "Croissance Spirituelle",
+          "data": "Jupiter en Maison XII favorise la croissance et l'expansion à travers l'exploration des dimensions intérieures et spirituelles. La personne peut bénéficier de chance et d'opportunités en se connectant à des aspects plus profonds de soi-même."
+        },
+        {
+          "nom": "Optimisme Caché",
+          "data": "Cette position apporte un optimisme et une perspective expansive concernant les processus internes et spirituels, avec une tendance à trouver des opportunités de croissance dans des contextes privés ou cachés."
+        }
+      ]
+    },
+    {
+      "maison": "Maison XII",
+      "nom": "Lune",
+      "data": [
+        {
+          "nom": "Émotions Inconscientes",
+          "data": "La Lune en Maison XII montre que les émotions jouent un rôle important dans les aspects cachés ou inconscients de la vie. La personne peut être profondément affectée par ses sentiments intérieurs et ses expériences psychologiques."
+        },
+        {
+          "nom": "Besoin de Retraite Émotionnelle",
+          "data": "Cette position indique également un besoin de se retirer et de trouver du réconfort dans des environnements privés ou isolés, avec une tendance à chercher la sécurité émotionnelle dans des contextes personnels ou intérieurs."
+        }
+      ]
+    },
+    {
+      "maison": "Maison XII",
+      "nom": "Uranus",
+      "data": [
+        {
+          "nom": "Innovations Intérieures",
+          "data": "Uranus en Maison XII favorise des changements et des innovations dans le domaine des processus internes et subconscients. La personne peut être attirée par des approches originales ou non conventionnelles pour explorer et comprendre son monde intérieur."
+        },
+        {
+          "nom": "Intuition Subite",
+          "data": "Cette position indique également une forte intuition et des révélations soudaines concernant les aspects cachés de la vie, avec une tendance à faire des découvertes profondes sur soi-même."
+        }
+      ]
+    },
+    {
+      "maison": "Maison XII",
+      "nom": "Pluton",
+      "data": [
+        {
+          "nom": "Transformation Profonde",
+          "data": "Pluton en Maison XII indique des transformations profondes et puissantes dans les aspects inconscients de la vie. La personne peut vivre des changements radicaux à travers l'exploration psychologique et spirituelle."
+        },
+        {
+          "nom": "Pouvoir Caché",
+          "data": "Cette position peut également suggérer une dynamique de pouvoir et d'influence qui se manifeste de manière cachée ou discrète, avec une tendance à explorer les aspects les plus profonds et cachés du pouvoir personnel et des relations."
+        }
+      ]
+    },
+    {
+      "maison": "Maison I",
+      "nom": "Chiron",
+      "data": [
+        {
+          "nom": "Blessures Personnelles",
+          "data": "Chiron en Maison I indique une sensibilité aux blessures personnelles et à l'image de soi. La personne peut avoir des défis liés à l'acceptation de soi ou des cicatrices émotionnelles profondes qui affectent son identité."
+        },
+        {
+          "nom": "Guérison par l'Authenticité",
+          "data": "Cette position suggère également que la guérison passe par l'acceptation de soi et l'authenticité. La personne peut trouver un sens à travers la compréhension et la transformation de ses propres vulnérabilités."
+        }
+      ]
+    },
+    {
+      "maison": "Maison I",
+      "nom": "Nœud Nord",
+      "data": [
+        {
+          "nom": "Développement Personnel",
+          "data": "Le Noeud Nord en Maison I indique que la croissance personnelle et l'évolution de l'identité sont des aspects clés de la vie. La personne est appelée à développer une plus grande confiance en elle-même et à affirmer son individualité."
+        },
+        {
+          "nom": "But de Vie",
+          "data": "Cette position met en avant que le chemin de vie de la personne est lié à l'affirmation de soi et à la découverte de son propre chemin. Le but est de se réaliser pleinement en tant qu'individu."
+        }
+      ]
+    },
+    {
+      "maison": "Maison I",
+      "nom": "Cérès",
+      "data": [
+        {
+          "nom": "Besoin de Nourriture Émotionnelle",
+          "data": "Cérès en Maison I montre un fort besoin de nourrir et de prendre soin de soi-même. La personne peut chercher à satisfaire ses besoins émotionnels et physiques de manière indépendante."
+        },
+        {
+          "nom": "Identité et Soin",
+          "data": "Cette position indique également que l'identité personnelle est fortement liée à la manière dont la personne prend soin d'elle-même et des autres, avec une tendance à exprimer son identité à travers des actes de soin et de soutien."
+        }
+      ]
+    },
+    {
+      "maison": "Maison I",
+      "nom": "Junon",
+      "data": [
+        {
+          "nom": "Partenariats et Identité",
+          "data": "Junon en Maison I suggère que les partenariats et les relations sont essentiels pour l'affirmation de l'identité personnelle. La personne peut rechercher des relations qui renforcent et soutiennent son image de soi."
+        },
+        {
+          "nom": "Engagement Personnel",
+          "data": "Cette position indique également une forte inclination à s'engager dans des relations sérieuses et équilibrées, avec une attention particulière à l'équité et à la loyauté dans les interactions personnelles."
+        }
+      ]
+    },
+    {
+      "maison": "Maison I",
+      "nom": "Pallas",
+      "data": [
+        {
+          "nom": "Intelligence et Stratégie",
+          "data": "Pallas en Maison I favorise une approche intelligente et stratégique dans la gestion de l'image de soi et des projets personnels. La personne peut utiliser sa sagesse et son discernement pour affirmer son identité."
+        },
+        {
+          "nom": "Créativité et Autonomie",
+          "data": "Cette position indique également une tendance à exprimer sa créativité et à développer des solutions originales de manière autonome, avec une forte capacité à résoudre les problèmes personnels."
+        }
+      ]
+    },
+    {
+      "maison": "Maison I",
+      "nom": "Fortune",
+      "data": [
+        {
+          "nom": "Chance et Réussite Personnelle",
+          "data": "Fortune en Maison I apporte une touche de chance et de succès personnel dans l'affirmation de soi et les entreprises personnelles. La personne peut connaître des moments favorables dans l'expression de son identité."
+        },
+        {
+          "nom": "Optimisme et Croissance",
+          "data": "Cette position favorise également un optimisme naturel et une propension à se lancer dans des nouvelles aventures avec une attitude positive, contribuant à la croissance personnelle et au succès."
+        }
+      ]
+    },
+    {
+      "maison": "Maison I",
+      "nom": "Vertex",
+      "data": [
+        {
+          "nom": "Rencontres Décisives",
+          "data": "Le Vertex en Maison I indique que les rencontres et les relations significatives peuvent jouer un rôle important dans la définition de l'identité personnelle. La personne peut vivre des expériences cruciales qui influencent son développement personnel."
+        },
+        {
+          "nom": "Destin et Réalisation Personnelle",
+          "data": "Cette position suggère également que des événements destinés à façonner l'identité personnelle peuvent survenir, contribuant à la réalisation du soi à travers des interactions clés et des expériences marquantes."
+        }
+      ]
+    },
+    {
+      "maison": "Maison I",
+      "nom": "Vesta",
+      "data": [
+        {
+          "nom": "Dévouement Personnel",
+          "data": "Vesta en Maison I indique une forte concentration sur le dévouement personnel et la réalisation de soi. La personne peut se consacrer intensément à ses objectifs personnels et à la poursuite de sa véritable vocation."
+        },
+        {
+          "nom": "Expression Authentique",
+          "data": "Cette position favorise également une quête pour exprimer son identité de manière authentique, avec une inclination à se concentrer sur des activités et des intérêts qui résonnent profondément avec son vrai soi."
+        }
+      ]
+    },
+    {
+      "maison": "Maison I",
+      "nom": "Lilith",
+      "data": [
+        {
+          "nom": "Expression des Désirs Profonds",
+          "data": "Lilith en Maison I met en avant une expression intense des désirs et des besoins personnels. La personne peut avoir une forte volonté de revendiquer son autonomie et d'affirmer ses désirs personnels."
+        },
+        {
+          "nom": "Confrontation de l'Ombre",
+          "data": "Cette position peut également indiquer une confrontation avec des aspects cachés ou non acceptés de soi-même, avec une tendance à explorer et à intégrer les parts plus sombres de sa personnalité."
+        }
+      ]
+    },
+    {
+      "maison": "Maison I",
+      "nom": "Point Est",
+      "data": [
+        {
+          "nom": "Renouveau Personnel",
+          "data": "Le Point Est en Maison I indique un potentiel de renouveau et de renaissance personnelle. La personne peut expérimenter des changements significatifs dans son identité et son apparence, marquant des débuts importants dans sa vie."
+        },
+        {
+          "nom": "Identification avec l'Environnement",
+          "data": "Cette position suggère également que la personne peut sentir un profond lien entre son identité et son environnement extérieur, avec une tendance à évoluer en fonction des influences et des interactions avec le monde extérieur."
+        }
+      ]
+    },
+    {
+      "maison": "Maison II",
+      "nom": "Chiron",
+      "data": [
+        {
+          "nom": "Blessures Financières",
+          "data": "Chiron en Maison II peut indiquer des blessures ou des défis liés aux finances personnelles et aux possessions. La personne peut éprouver des difficultés à se sentir en sécurité financièrement ou à gérer ses ressources de manière satisfaisante."
+        },
+        {
+          "nom": "Guérison par la Sécurité",
+          "data": "Cette position suggère également que la guérison et la croissance personnelle passent par la compréhension et la gestion de ses ressources matérielles, avec une tendance à trouver du réconfort en établissant une sécurité financière ou matérielle."
+        }
+      ]
+    },
+    {
+      "maison": "Maison II",
+      "nom": "Nœud Nord",
+      "data": [
+        {
+          "nom": "Croissance par la Sécurité",
+          "data": "Le Noeud Nord en Maison II indique que la croissance personnelle et le développement de la vie passent par la gestion des finances et des possessions. La personne est appelée à apprendre à créer et à maintenir une sécurité matérielle."
+        },
+        {
+          "nom": "Valeurs Personnelles",
+          "data": "Cette position met en avant l'importance de définir et de vivre selon ses propres valeurs personnelles, en intégrant les leçons apprises à travers les expériences liées à la sécurité et aux ressources."
+        }
+      ]
+    },
+    {
+      "maison": "Maison II",
+      "nom": "Cérès",
+      "data": [
+        {
+          "nom": "Soin des Ressources",
+          "data": "Cérès en Maison II indique une forte connexion entre le soin personnel et la gestion des ressources. La personne peut ressentir un besoin profond de prendre soin de ses finances et de ses possessions comme une forme d'expression personnelle et de sécurité."
+        },
+        {
+          "nom": "Nourriture et Sécurité",
+          "data": "Cette position suggère également que les besoins matériels et financiers sont liés à un sentiment de sécurité et de bien-être. La personne peut chercher à nourrir et à stabiliser ses ressources pour se sentir en sécurité."
+        }
+      ]
+    },
+    {
+      "maison": "Maison II",
+      "nom": "Junon",
+      "data": [
+        {
+          "nom": "Partenariats Financiers",
+          "data": "Junon en Maison II indique que les relations et les partenariats peuvent jouer un rôle important dans la gestion des finances personnelles. La personne peut rechercher des accords équilibrés et équitables dans les affaires financières et les possessions."
+        },
+        {
+          "nom": "Engagement envers les Valeurs",
+          "data": "Cette position suggère également une forte inclinaison à s'engager dans des relations ou des activités qui reflètent ses valeurs et ses besoins matériels, avec une attention particulière à l'équité et à la loyauté."
+        }
+      ]
+    },
+    {
+      "maison": "Maison II",
+      "nom": "Pallas",
+      "data": [
+        {
+          "nom": "Stratégie Financière",
+          "data": "Pallas en Maison II favorise une approche stratégique et intelligente dans la gestion des finances et des possessions. La personne peut utiliser ses compétences analytiques pour optimiser et planifier ses ressources de manière efficace."
+        },
+        {
+          "nom": "Créativité dans les Ressources",
+          "data": "Cette position indique également une tendance à utiliser la créativité et la sagesse pour gérer ses biens et ses finances, avec une capacité à développer des solutions innovantes pour les défis matériels."
+        }
+      ]
+    },
+    {
+      "maison": "Maison II",
+      "nom": "Fortune",
+      "data": [
+        {
+          "nom": "Chance Financière",
+          "data": "Fortune en Maison II apporte une touche de chance et de succès dans le domaine des finances personnelles et des possessions. La personne peut connaître des opportunités favorables pour améliorer sa situation matérielle."
+        },
+        {
+          "nom": "Croissance par la Sécurité",
+          "data": "Cette position favorise également une croissance et une prospérité personnelle liées à la gestion des ressources, avec un potentiel de succès dans la création de sécurité et de stabilité matérielle."
+        }
+      ]
+    },
+    {
+      "maison": "Maison II",
+      "nom": "Vertex",
+      "data": [
+        {
+          "nom": "Rencontres Déterminantes",
+          "data": "Le Vertex en Maison II indique que des rencontres et des événements significatifs peuvent avoir un impact sur les finances et les possessions. La personne peut vivre des expériences marquantes liées à ses ressources et à sa sécurité matérielle."
+        },
+        {
+          "nom": "Destin et Ressources",
+          "data": "Cette position suggère également que le destin de la personne est lié à la gestion des ressources et des finances, avec des opportunités ou des défis importants qui influencent sa situation matérielle."
+        }
+      ]
+    },
+    {
+      "maison": "Maison II",
+      "nom": "Vesta",
+      "data": [
+        {
+          "nom": "Dévouement aux Finances",
+          "data": "Vesta en Maison II indique un fort dévouement à la gestion des finances et des possessions. La personne peut se concentrer intensément sur la création et la maintenance de la sécurité matérielle, en mettant l'accent sur la gestion minutieuse de ses ressources."
+        },
+        {
+          "nom": "Investissement Personnel",
+          "data": "Cette position suggère également une volonté d'investir du temps et des efforts personnels dans des projets ou des activités qui améliorent sa situation financière et matérielle."
+        }
+      ]
+    },
+    {
+      "maison": "Maison II",
+      "nom": "Lilith",
+      "data": [
+        {
+          "nom": "Revendication des Ressources",
+          "data": "Lilith en Maison II met en avant une forte volonté de revendiquer et de sécuriser ses ressources matérielles. La personne peut avoir une approche intense ou non conventionnelle concernant les finances et les possessions."
+        },
+        {
+          "nom": "Confrontation aux Limites",
+          "data": "Cette position peut également indiquer des confrontations avec les limites ou les tabous liés à l'argent et aux biens matériels, avec une tendance à explorer des aspects moins visibles ou plus profonds de la gestion des ressources."
+        }
+      ]
+    },
+    {
+      "maison": "Maison II",
+      "nom": "Point Est",
+      "data": [
+        {
+          "nom": "Renouveau Financier",
+          "data": "Le Point Est en Maison II indique un potentiel de renouveau et de transformation dans le domaine des finances et des possessions. La personne peut expérimenter des changements importants dans sa manière de gérer ses ressources."
+        },
+        {
+          "nom": "Identification avec la Sécurité",
+          "data": "Cette position suggère également un lien profond entre l'identité personnelle et la gestion des ressources, avec une tendance à évoluer et à s'adapter aux nouvelles opportunités et défis matériels."
+        }
+      ]
+    },
+    {
+      "maison": "Maison III",
+      "nom": "Chiron",
+      "data": [
+        {
+          "nom": "Blessures Communicationnelles",
+          "data": "Chiron en Maison III peut indiquer des blessures ou des défis liés à la communication et aux échanges. La personne peut éprouver des difficultés à exprimer ses pensées ou à se faire comprendre par les autres."
+        },
+        {
+          "nom": "Guérison par l'Expression",
+          "data": "Cette position suggère que la guérison passe par l'amélioration de ses compétences en communication et la résolution des blocages mentaux. La personne peut trouver du réconfort en apprenant à mieux exprimer ses idées et ses émotions."
+        }
+      ]
+    },
+    {
+      "maison": "Maison III",
+      "nom": "Nœud Nord",
+      "data": [
+        {
+          "nom": "Croissance par l'Échange",
+          "data": "Le Noeud Nord en Maison III indique que la croissance personnelle passe par le développement des compétences en communication et l'engagement dans des échanges intellectuels. La personne est appelée à apprendre et à partager ses connaissances."
+        },
+        {
+          "nom": "But de Vie et Connexions",
+          "data": "Cette position met en avant que le chemin de vie de la personne est lié à l'expansion de ses relations sociales et à la recherche de nouvelles connaissances à travers des interactions quotidiennes et des échanges d'idées."
+        }
+      ]
+    },
+    {
+      "maison": "Maison III",
+      "nom": "Cérès",
+      "data": [
+        {
+          "nom": "Soin par la Communication",
+          "data": "Cérès en Maison III indique une tendance à prendre soin des autres à travers la communication et les échanges. La personne peut ressentir un besoin de nourrir et de soutenir les autres en partageant ses connaissances et en offrant des conseils."
+        },
+        {
+          "nom": "Nourriture Intellectuelle",
+          "data": "Cette position suggère également que la personne trouve du réconfort et un sentiment de sécurité dans l'apprentissage et le partage d'idées, avec une préférence pour les environnements intellectuels et les interactions sociales enrichissantes."
+        }
+      ]
+    },
+    {
+      "maison": "Maison III",
+      "nom": "Junon",
+      "data": [
+        {
+          "nom": "Partenariats Intellectuels",
+          "data": "Junon en Maison III indique que les partenariats et les relations peuvent jouer un rôle important dans le développement intellectuel et les échanges de pensée. La personne peut rechercher des relations qui favorisent une communication enrichissante et un apprentissage mutuel."
+        },
+        {
+          "nom": "Engagement dans la Communication",
+          "data": "Cette position suggère également une forte inclination à s'engager dans des projets ou des activités qui impliquent des échanges intellectuels, avec une attention particulière à la qualité et à l'équité dans les interactions."
+        }
+      ]
+    },
+    {
+      "maison": "Maison III",
+      "nom": "Pallas",
+      "data": [
+        {
+          "nom": "Stratégie Mentale",
+          "data": "Pallas en Maison III favorise une approche stratégique et intelligente dans les échanges et la communication. La personne peut utiliser ses compétences analytiques pour résoudre des problèmes mentaux et développer des solutions créatives."
+        },
+        {
+          "nom": "Créativité dans les Idées",
+          "data": "Cette position indique également une tendance à exprimer sa créativité à travers la communication et le partage d'idées, avec une capacité à penser de manière originale et à influencer les autres avec des concepts innovants."
+        }
+      ]
+    },
+    {
+      "maison": "Maison III",
+      "nom": "Fortune",
+      "data": [
+        {
+          "nom": "Chance dans les Échanges",
+          "data": "Fortune en Maison III apporte une touche de chance et de succès dans le domaine de la communication et des interactions sociales. La personne peut connaître des opportunités favorables pour établir des connexions et partager ses idées."
+        },
+        {
+          "nom": "Croissance par l'Apprentissage",
+          "data": "Cette position favorise également une croissance personnelle à travers l'apprentissage et l'expansion des connaissances, avec un potentiel de succès dans les projets liés à l'éducation et aux échanges intellectuels."
+        }
+      ]
+    },
+    {
+      "maison": "Maison III",
+      "nom": "Vertex",
+      "data": [
+        {
+          "nom": "Rencontres Intellectuelles",
+          "data": "Le Vertex en Maison III indique que des rencontres significatives et des événements importants peuvent avoir un impact sur les domaines de la communication et de l'apprentissage. La personne peut vivre des expériences marquantes qui influencent sa façon de penser et de s'exprimer."
+        },
+        {
+          "nom": "Destin et Échanges",
+          "data": "Cette position suggère également que le destin de la personne est lié à la manière dont elle interagit avec les autres et apprend de ses expériences, avec des opportunités de croissance à travers des échanges intellectuels et des connexions sociales."
+        }
+      ]
+    },
+    {
+      "maison": "Maison III",
+      "nom": "Vesta",
+      "data": [
+        {
+          "nom": "Dévouement à la Communication",
+          "data": "Vesta en Maison III indique un fort dévouement à la communication et aux échanges intellectuels. La personne peut se concentrer intensément sur le développement de ses compétences en communication et sur des projets liés à l'éducation et aux médias."
+        },
+        {
+          "nom": "Investissement Personnel",
+          "data": "Cette position suggère également une volonté d'investir du temps et des efforts personnels dans des activités qui impliquent l'apprentissage et le partage d'idées, avec une attention particulière à la qualité et à l'efficacité des interactions."
+        }
+      ]
+    },
+    {
+      "maison": "Maison III",
+      "nom": "Lilith",
+      "data": [
+        {
+          "nom": "Expression Intense des Idées",
+          "data": "Lilith en Maison III met en avant une forte volonté d'exprimer ses pensées et ses idées de manière intense et authentique. La personne peut avoir une approche non conventionnelle ou provocatrice dans ses communications."
+        },
+        {
+          "nom": "Confrontation aux Normes",
+          "data": "Cette position peut également indiquer des confrontations avec les normes ou les attentes sociales concernant la communication, avec une tendance à explorer des aspects moins acceptés ou plus profonds de l'échange intellectuel."
+        }
+      ]
+    },
+    {
+      "maison": "Maison III",
+      "nom": "Point Est",
+      "data": [
+        {
+          "nom": "Renouveau dans l'Apprentissage",
+          "data": "Le Point Est en Maison III indique un potentiel de renouveau et de transformation dans le domaine de l'apprentissage et des échanges. La personne peut expérimenter des changements importants dans sa manière d'apprendre et de communiquer."
+        },
+        {
+          "nom": "Identification avec les Échanges",
+          "data": "Cette position suggère également un lien profond entre l'identité personnelle et les interactions intellectuelles, avec une tendance à évoluer et à s'adapter aux nouvelles opportunités et défis dans les domaines de la communication et de l'éducation."
+        }
+      ]
+    },
+    {
+      "maison": "Maison IV",
+      "nom": "Chiron",
+      "data": [
+        {
+          "nom": "Blessures Familiales",
+          "data": "Chiron en Maison IV peut indiquer des blessures liées à la famille, à la maison ou à la sécurité émotionnelle. La personne peut éprouver des défis autour des dynamiques familiales ou du sentiment d'appartenance."
+        },
+        {
+          "nom": "Guérison par la Réconciliation",
+          "data": "Cette position suggère que la guérison passe par la réconciliation avec le passé familial et la création d'un espace sûr et nourrissant à la maison. La personne peut trouver du réconfort en travaillant sur ses racines et ses relations familiales."
+        }
+      ]
+    },
+    {
+      "maison": "Maison IV",
+      "nom": "Nœud Nord",
+      "data": [
+        {
+          "nom": "Croissance par la Famille",
+          "data": "Le Noeud Nord en Maison IV indique que la croissance personnelle passe par l'exploration et la compréhension des racines familiales et des dynamiques domestiques. La personne est appelée à développer un sens profond de sécurité émotionnelle."
+        },
+        {
+          "nom": "But de Vie et Sécurité",
+          "data": "Cette position met en avant que le chemin de vie de la personne est lié à la création d'un foyer stable et nourrissant, ainsi qu'à la compréhension et à la gestion des aspects émotionnels et familiaux de sa vie."
+        }
+      ]
+    },
+    {
+      "maison": "Maison IV",
+      "nom": "Cérès",
+      "data": [
+        {
+          "nom": "Soin à la Maison",
+          "data": "Cérès en Maison IV indique un fort besoin de prendre soin de la maison et de la famille. La personne peut ressentir une connexion profonde entre le soin des autres et la création d'un environnement domestique nourrissant."
+        },
+        {
+          "nom": "Nourriture Émotionnelle",
+          "data": "Cette position suggère également que le bien-être émotionnel et la sécurité personnelle sont liés à la qualité de l'environnement domestique et familial, avec une tendance à trouver du réconfort en établissant un foyer chaleureux et stable."
+        }
+      ]
+    },
+    {
+      "maison": "Maison IV",
+      "nom": "Junon",
+      "data": [
+        {
+          "nom": "Partenariats Familiaux",
+          "data": "Junon en Maison IV indique que les relations et les partenariats peuvent jouer un rôle important dans le développement du foyer et de la vie familiale. La personne peut rechercher des relations qui favorisent un environnement domestique équilibré."
+        },
+        {
+          "nom": "Engagement dans la Vie Domestique",
+          "data": "Cette position suggère également une forte inclination à s'engager dans des projets ou des activités liés à la gestion du foyer et à l'amélioration des relations familiales, avec une attention particulière à l'équité et à la loyauté."
+        }
+      ]
+    },
+    {
+      "maison": "Maison IV",
+      "nom": "Pallas",
+      "data": [
+        {
+          "nom": "Stratégie Domestique",
+          "data": "Pallas en Maison IV favorise une approche stratégique et intelligente dans la gestion du foyer et des affaires familiales. La personne peut utiliser ses compétences analytiques pour résoudre les problèmes domestiques et améliorer l'environnement familial."
+        },
+        {
+          "nom": "Créativité dans l'Aménagement",
+          "data": "Cette position indique également une tendance à exprimer sa créativité dans l'aménagement et la décoration du foyer, avec une capacité à développer des solutions innovantes pour créer un espace domestique harmonieux."
+        }
+      ]
+    },
+    {
+      "maison": "Maison IV",
+      "nom": "Fortune",
+      "data": [
+        {
+          "nom": "Chance à la Maison",
+          "data": "Fortune en Maison IV apporte une touche de chance et de succès dans les affaires domestiques et familiales. La personne peut connaître des opportunités favorables pour améliorer son environnement familial et sa vie à la maison."
+        },
+        {
+          "nom": "Croissance par la Sécurité Émotionnelle",
+          "data": "Cette position favorise également une croissance personnelle à travers la création d'un foyer stable et nourrissant, avec un potentiel de succès dans la gestion des aspects émotionnels et domestiques de la vie."
+        }
+      ]
+    },
+    {
+      "maison": "Maison IV",
+      "nom": "Vertex",
+      "data": [
+        {
+          "nom": "Rencontres Familiales",
+          "data": "Le Vertex en Maison IV indique que des rencontres significatives et des événements importants peuvent avoir un impact sur les aspects domestiques et familiaux de la vie. La personne peut vivre des expériences marquantes liées à la maison et à la famille."
+        },
+        {
+          "nom": "Destin et Environnement Domestique",
+          "data": "Cette position suggère également que le destin de la personne est lié à la gestion et à l'évolution de son environnement domestique, avec des opportunités de croissance à travers les expériences familiales et les aspects du foyer."
+        }
+      ]
+    },
+    {
+      "maison": "Maison IV",
+      "nom": "Vesta",
+      "data": [
+        {
+          "nom": "Dévouement à la Maison",
+          "data": "Vesta en Maison IV indique un fort dévouement à la gestion et à l'amélioration du foyer. La personne peut se concentrer intensément sur la création d'un environnement domestique stable et sécurisant, investissant du temps et des efforts dans les aspects familiaux."
+        },
+        {
+          "nom": "Investissement Personnel",
+          "data": "Cette position suggère également une volonté d'investir personnellement dans des projets liés à la maison et à la famille, avec une attention particulière à la qualité et à la stabilité des aspects domestiques."
+        }
+      ]
+    },
+    {
+      "maison": "Maison IV",
+      "nom": "Lilith",
+      "data": [
+        {
+          "nom": "Expression Intense des Besoins Familiaux",
+          "data": "Lilith en Maison IV met en avant une forte volonté d'exprimer ses besoins et ses désirs liés à la famille et au foyer. La personne peut avoir une approche intense ou non conventionnelle dans la gestion des dynamiques familiales."
+        },
+        {
+          "nom": "Confrontation aux Limites Familiales",
+          "data": "Cette position peut également indiquer des confrontations avec les normes ou les attentes sociales concernant la famille et la maison, avec une tendance à explorer des aspects moins acceptés ou plus profonds de la vie domestique."
+        }
+      ]
+    },
+    {
+      "maison": "Maison IV",
+      "nom": "Point Est",
+      "data": [
+        {
+          "nom": "Renouveau dans la Vie Domestique",
+          "data": "Le Point Est en Maison IV indique un potentiel de renouveau et de transformation dans le domaine de la maison et de la famille. La personne peut expérimenter des changements importants dans son environnement domestique et familial."
+        },
+        {
+          "nom": "Identification avec le Foyer",
+          "data": "Cette position suggère également un lien profond entre l'identité personnelle et l'environnement domestique, avec une tendance à évoluer et à s'adapter aux nouvelles opportunités et défis dans les aspects familiaux et de la maison."
+        }
+      ]
+    },
+    {
+      "maison": "Maison V",
+      "nom": "Chiron",
+      "data": [
+        {
+          "nom": "Blessures Créatives",
+          "data": "Chiron en Maison V peut indiquer des blessures liées à l'expression créative, aux loisirs ou aux plaisirs. La personne peut éprouver des défis dans la manière dont elle exprime sa créativité ou dans ses activités récréatives."
+        },
+        {
+          "nom": "Guérison par la Créativité",
+          "data": "Cette position suggère que la guérison passe par l'exploration et l'expression de ses talents créatifs et par la recherche de plaisirs authentiques. La personne peut trouver du réconfort en engageant ses passions et en s'exprimant de manière créative."
+        }
+      ]
+    },
+    {
+      "maison": "Maison V",
+      "nom": "Nœud Nord",
+      "data": [
+        {
+          "nom": "Croissance par la Créativité",
+          "data": "Le Noeud Nord en Maison V indique que la croissance personnelle passe par l'exploration des talents créatifs et la poursuite des plaisirs personnels. La personne est appelée à développer ses compétences artistiques et à s'engager pleinement dans ses passions."
+        },
+        {
+          "nom": "But de Vie et Expression",
+          "data": "Cette position met en avant que le chemin de vie de la personne est lié à l'expression créative et à la recherche de plaisir, avec un potentiel de réalisation personnelle à travers des activités qui apportent joie et satisfaction."
+        }
+      ]
+    },
+    {
+      "maison": "Maison V",
+      "nom": "Cérès",
+      "data": [
+        {
+          "nom": "Soin à Travers les Loisirs",
+          "data": "Cérès en Maison V indique une tendance à prendre soin des autres à travers les loisirs et les activités créatives. La personne peut ressentir un besoin de nourrir et de soutenir les autres en partageant des activités récréatives et créatives."
+        },
+        {
+          "nom": "Nourriture par la Créativité",
+          "data": "Cette position suggère également que la personne trouve du réconfort et un sentiment de sécurité dans l'engagement dans des activités créatives et de loisirs, avec une tendance à chercher du bien-être à travers ses passions."
+        }
+      ]
+    },
+    {
+      "maison": "Maison V",
+      "nom": "Junon",
+      "data": [
+        {
+          "nom": "Partenariats Créatifs",
+          "data": "Junon en Maison V indique que les relations et les partenariats peuvent jouer un rôle important dans les activités créatives et récréatives. La personne peut rechercher des partenaires qui partagent ses passions et ses intérêts artistiques."
+        },
+        {
+          "nom": "Engagement dans les Loisirs",
+          "data": "Cette position suggère également une forte inclination à s'engager dans des projets ou des activités récréatives qui impliquent des relations ou des collaborations, avec une attention particulière à l'équité et à la loyauté dans ces engagements."
+        }
+      ]
+    },
+    {
+      "maison": "Maison V",
+      "nom": "Pallas",
+      "data": [
+        {
+          "nom": "Stratégie Créative",
+          "data": "Pallas en Maison V favorise une approche stratégique et intelligente dans les activités créatives et les loisirs. La personne peut utiliser ses compétences analytiques pour développer des projets artistiques et résoudre des problèmes liés à ses passions."
+        },
+        {
+          "nom": "Créativité et Innovation",
+          "data": "Cette position indique également une tendance à exprimer sa créativité de manière innovante et originale, avec une capacité à développer des solutions créatives pour ses projets artistiques et récréatifs."
+        }
+      ]
+    },
+    {
+      "maison": "Maison V",
+      "nom": "Fortune",
+      "data": [
+        {
+          "nom": "Chance dans les Loisirs",
+          "data": "Fortune en Maison V apporte une touche de chance et de succès dans les activités récréatives et créatives. La personne peut connaître des opportunités favorables pour s'engager dans des loisirs et des projets artistiques."
+        },
+        {
+          "nom": "Croissance par le Plaisir",
+          "data": "Cette position favorise également une croissance personnelle à travers l'exploration des plaisirs et des talents créatifs, avec un potentiel de succès dans les projets liés à l'expression personnelle et aux loisirs."
+        }
+      ]
+    },
+    {
+      "maison": "Maison V",
+      "nom": "Vertex",
+      "data": [
+        {
+          "nom": "Rencontres Créatives",
+          "data": "Le Vertex en Maison V indique que des rencontres significatives et des événements importants peuvent avoir un impact sur les activités créatives et récréatives. La personne peut vivre des expériences marquantes liées à ses passions et à ses loisirs."
+        },
+        {
+          "nom": "Destin et Expression Personnelle",
+          "data": "Cette position suggère également que le destin de la personne est lié à l'expression personnelle et à la recherche de plaisir, avec des opportunités de croissance à travers des activités créatives et des relations enrichissantes."
+        }
+      ]
+    },
+    {
+      "maison": "Maison V",
+      "nom": "Vesta",
+      "data": [
+        {
+          "nom": "Dévouement à la Créativité",
+          "data": "Vesta en Maison V indique un fort dévouement à l'expression créative et aux activités récréatives. La personne peut se concentrer intensément sur ses projets artistiques et s'engager pleinement dans ses passions."
+        },
+        {
+          "nom": "Investissement Personnel",
+          "data": "Cette position suggère également une volonté d'investir du temps et des efforts personnels dans des projets créatifs et récréatifs, avec une attention particulière à la qualité et à l'efficacité de ses activités artistiques."
+        }
+      ]
+    },
+    {
+      "maison": "Maison V",
+      "nom": "Lilith",
+      "data": [
+        {
+          "nom": "Expression Intense des Passions",
+          "data": "Lilith en Maison V met en avant une forte volonté d'exprimer ses passions et ses désirs de manière intense et authentique. La personne peut avoir une approche non conventionnelle ou provocatrice dans ses activités créatives et récréatives."
+        },
+        {
+          "nom": "Confrontation aux Normes Créatives",
+          "data": "Cette position peut également indiquer des confrontations avec les normes ou les attentes sociales concernant la créativité et les loisirs, avec une tendance à explorer des aspects moins acceptés ou plus profonds de l'expression personnelle."
+        }
+      ]
+    },
+    {
+      "maison": "Maison V",
+      "nom": "Point Est",
+      "data": [
+        {
+          "nom": "Renouveau dans les Loisirs",
+          "data": "Le Point Est en Maison V indique un potentiel de renouveau et de transformation dans le domaine des activités créatives et des plaisirs personnels. La personne peut expérimenter des changements importants dans ses passions et ses loisirs."
+        },
+        {
+          "nom": "Identification avec l'Expression Personnelle",
+          "data": "Cette position suggère également un lien profond entre l'identité personnelle et les activités créatives, avec une tendance à évoluer et à s'adapter aux nouvelles opportunités et défis dans les domaines du plaisir et de l'expression artistique."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VI",
+      "nom": "Chiron",
+      "data": [
+        {
+          "nom": "Blessures au Travail",
+          "data": "Chiron en Maison VI peut indiquer des blessures ou des défis liés au travail, aux routines quotidiennes ou à la santé. La personne peut éprouver des difficultés à gérer son environnement professionnel ou à maintenir un équilibre entre ses tâches et son bien-être."
+        },
+        {
+          "nom": "Guérison par la Discipline",
+          "data": "Cette position suggère que la guérison passe par l'amélioration des habitudes quotidiennes et la mise en place de routines saines. La personne peut trouver du réconfort en adoptant une approche disciplinée envers sa santé et ses responsabilités professionnelles."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VI",
+      "nom": "Nœud Nord",
+      "data": [
+        {
+          "nom": "Croissance par le Service",
+          "data": "Le Noeud Nord en Maison VI indique que la croissance personnelle passe par l'engagement dans des activités de service, la gestion des responsabilités quotidiennes et la recherche d'une meilleure santé. La personne est appelée à développer ses compétences dans ces domaines."
+        },
+        {
+          "nom": "But de Vie et Routine",
+          "data": "Cette position met en avant que le chemin de vie de la personne est lié à l'amélioration des routines quotidiennes et des pratiques de santé, avec un potentiel de réalisation personnelle à travers l'effort et la discipline dans le travail et le service."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VI",
+      "nom": "Cérès",
+      "data": [
+        {
+          "nom": "Soin au Travail",
+          "data": "Cérès en Maison VI indique une tendance à prendre soin des autres dans un contexte professionnel ou à travers des tâches quotidiennes. La personne peut ressentir un besoin de nourrir et de soutenir les autres dans son environnement de travail ou en fournissant des services."
+        },
+        {
+          "nom": "Nourriture par le Service",
+          "data": "Cette position suggère également que la personne trouve du réconfort et un sentiment de sécurité en s'engageant dans des activités de service et en adoptant des habitudes saines, avec une tendance à chercher du bien-être à travers un travail significatif."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VI",
+      "nom": "Junon",
+      "data": [
+        {
+          "nom": "Partenariats Professionnels",
+          "data": "Junon en Maison VI indique que les relations et les partenariats peuvent jouer un rôle important dans le domaine du travail et des responsabilités quotidiennes. La personne peut rechercher des collaborations qui favorisent un environnement de travail équilibré."
+        },
+        {
+          "nom": "Engagement dans le Service",
+          "data": "Cette position suggère également une forte inclination à s'engager dans des projets ou des tâches qui impliquent une collaboration ou un partenariat, avec une attention particulière à l'équité et à la loyauté dans les responsabilités professionnelles."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VI",
+      "nom": "Pallas",
+      "data": [
+        {
+          "nom": "Stratégie au Travail",
+          "data": "Pallas en Maison VI favorise une approche stratégique et intelligente dans les tâches quotidiennes et les responsabilités professionnelles. La personne peut utiliser ses compétences analytiques pour optimiser les routines de travail et résoudre les problèmes de manière efficace."
+        },
+        {
+          "nom": "Créativité dans la Gestion",
+          "data": "Cette position indique également une tendance à exprimer sa créativité dans l'organisation et la gestion des tâches quotidiennes, avec une capacité à développer des solutions innovantes pour améliorer l'efficacité et le bien-être dans le contexte professionnel."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VI",
+      "nom": "Fortune",
+      "data": [
+        {
+          "nom": "Chance dans le Service",
+          "data": "Fortune en Maison VI apporte une touche de chance et de succès dans les domaines du travail et des responsabilités quotidiennes. La personne peut connaître des opportunités favorables pour s'engager dans des activités de service et améliorer son environnement professionnel."
+        },
+        {
+          "nom": "Croissance par les Habitudes",
+          "data": "Cette position favorise également une croissance personnelle à travers l'amélioration des habitudes quotidiennes et des pratiques de santé, avec un potentiel de succès dans les projets liés au travail et au service."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VI",
+      "nom": "Vertex",
+      "data": [
+        {
+          "nom": "Rencontres Professionnelles",
+          "data": "Le Vertex en Maison VI indique que des rencontres significatives et des événements importants peuvent avoir un impact sur les aspects du travail et des responsabilités quotidiennes. La personne peut vivre des expériences marquantes liées à son environnement professionnel."
+        },
+        {
+          "nom": "Destin et Service",
+          "data": "Cette position suggère également que le destin de la personne est lié à son engagement dans le service et à l'amélioration de ses habitudes quotidiennes, avec des opportunités de croissance à travers les responsabilités professionnelles et la gestion des tâches."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VI",
+      "nom": "Vesta",
+      "data": [
+        {
+          "nom": "Dévouement au Travail",
+          "data": "Vesta en Maison VI indique un fort dévouement à la gestion des responsabilités quotidiennes et au service. La personne peut se concentrer intensément sur ses tâches professionnelles et s'engager pleinement dans ses routines de travail."
+        },
+        {
+          "nom": "Investissement Personnel",
+          "data": "Cette position suggère également une volonté d'investir du temps et des efforts personnels dans des projets liés au travail et à la santé, avec une attention particulière à la qualité et à l'efficacité de ses tâches et de ses pratiques de service."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VI",
+      "nom": "Lilith",
+      "data": [
+        {
+          "nom": "Expression Intense des Tâches",
+          "data": "Lilith en Maison VI met en avant une forte volonté d'exprimer ses besoins et ses désirs dans le contexte du travail et des responsabilités quotidiennes. La personne peut avoir une approche non conventionnelle ou provocatrice dans la gestion de ses tâches et de son environnement professionnel."
+        },
+        {
+          "nom": "Confrontation aux Normes Professionnelles",
+          "data": "Cette position peut également indiquer des confrontations avec les normes ou les attentes sociales concernant le travail et les routines, avec une tendance à explorer des aspects moins acceptés ou plus profonds de la gestion des responsabilités professionnelles."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VI",
+      "nom": "Point Est",
+      "data": [
+        {
+          "nom": "Renouveau dans les Habitudes",
+          "data": "Le Point Est en Maison VI indique un potentiel de renouveau et de transformation dans le domaine des routines quotidiennes et du travail. La personne peut expérimenter des changements importants dans ses habitudes de travail et ses pratiques de santé."
+        },
+        {
+          "nom": "Identification avec le Service",
+          "data": "Cette position suggère également un lien profond entre l'identité personnelle et l'engagement dans les tâches de service, avec une tendance à évoluer et à s'adapter aux nouvelles opportunités et défis dans les aspects professionnels et de la santé."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VII",
+      "nom": "Chiron",
+      "data": [
+        {
+          "nom": "Blessures Relationnelles",
+          "data": "Chiron en Maison VII peut indiquer des blessures ou des défis dans les relations personnelles et professionnelles. La personne peut éprouver des difficultés dans ses partenariats, que ce soit en matière de mariage, de collaboration ou d'engagements significatifs."
+        },
+        {
+          "nom": "Guérison par les Relations",
+          "data": "Cette position suggère que la guérison passe par la compréhension et la résolution des problèmes relationnels. La personne peut trouver du réconfort et de la croissance personnelle en travaillant sur ses relations et en apprenant à établir des partenariats équilibrés et enrichissants."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VII",
+      "nom": "Nœud Nord",
+      "data": [
+        {
+          "nom": "Croissance par les Partenariats",
+          "data": "Le Noeud Nord en Maison VII indique que la croissance personnelle passe par le développement et la compréhension des relations et des partenariats. La personne est appelée à apprendre et à évoluer à travers ses interactions avec les autres."
+        },
+        {
+          "nom": "But de Vie et Engagement",
+          "data": "Cette position met en avant que le chemin de vie de la personne est lié à la formation de relations significatives et équilibrées, avec un potentiel de réalisation personnelle à travers des engagements et des collaborations mutuellement enrichissants."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VII",
+      "nom": "Cérès",
+      "data": [
+        {
+          "nom": "Soin dans les Relations",
+          "data": "Cérès en Maison VII indique une tendance à prendre soin des autres dans le cadre de relations personnelles et professionnelles. La personne peut ressentir un besoin de nourrir et de soutenir ses partenaires et de créer des relations équilibrées et protectrices."
+        },
+        {
+          "nom": "Nourriture par l'Engagement",
+          "data": "Cette position suggère également que la personne trouve du réconfort et un sentiment de sécurité à travers ses relations et ses partenariats, avec une tendance à chercher du bien-être en établissant des liens significatifs et nourrissants."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VII",
+      "nom": "Junon",
+      "data": [
+        {
+          "nom": "Partenariats Équilibrés",
+          "data": "Junon en Maison VII indique que les relations et les partenariats jouent un rôle important dans la vie de la personne. Elle peut rechercher des relations équilibrées, équitables et loyales, et peut également s'engager profondément dans ses collaborations."
+        },
+        {
+          "nom": "Engagement Relationnel",
+          "data": "Cette position suggère également une forte inclination à s'engager dans des relations sérieuses et à travailler sur l'équilibre et la justice dans les partenariats, avec une attention particulière à la fidélité et à l'harmonie dans les relations."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VII",
+      "nom": "Pallas",
+      "data": [
+        {
+          "nom": "Stratégie Relationnelle",
+          "data": "Pallas en Maison VII favorise une approche stratégique et intelligente dans la gestion des relations et des partenariats. La personne peut utiliser ses compétences analytiques pour résoudre les problèmes relationnels et créer des alliances équilibrées et efficaces."
+        },
+        {
+          "nom": "Créativité dans les Partenariats",
+          "data": "Cette position indique également une tendance à exprimer sa créativité dans la formation et la gestion des partenariats, avec une capacité à développer des solutions innovantes pour améliorer les relations et les collaborations."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VII",
+      "nom": "Fortune",
+      "data": [
+        {
+          "nom": "Chance dans les Relations",
+          "data": "Fortune en Maison VII apporte une touche de chance et de succès dans les domaines des relations et des partenariats. La personne peut connaître des opportunités favorables pour établir et maintenir des relations équilibrées et enrichissantes."
+        },
+        {
+          "nom": "Croissance par l'Engagement",
+          "data": "Cette position favorise également une croissance personnelle à travers les relations et les engagements, avec un potentiel de succès dans les projets liés aux partenariats et à la collaboration."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VII",
+      "nom": "Vertex",
+      "data": [
+        {
+          "nom": "Rencontres Significatives",
+          "data": "Le Vertex en Maison VII indique que des rencontres importantes et des événements significatifs peuvent avoir un impact sur les relations et les partenariats. La personne peut vivre des expériences marquantes qui influencent ses engagements et ses interactions avec les autres."
+        },
+        {
+          "nom": "Destin et Relations",
+          "data": "Cette position suggère également que le destin de la personne est lié à la formation et à l'évolution de ses relations, avec des opportunités de croissance à travers les partenariats et les engagements importants."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VII",
+      "nom": "Vesta",
+      "data": [
+        {
+          "nom": "Dévouement aux Partenariats",
+          "data": "Vesta en Maison VII indique un fort dévouement à la gestion des relations et des engagements. La personne peut se concentrer intensément sur ses partenariats et s'engager pleinement dans ses relations pour assurer leur équilibre et leur succès."
+        },
+        {
+          "nom": "Investissement Personnel",
+          "data": "Cette position suggère également une volonté d'investir du temps et des efforts personnels dans les relations et les partenariats, avec une attention particulière à la qualité et à l'efficacité de ses engagements relationnels."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VII",
+      "nom": "Lilith",
+      "data": [
+        {
+          "nom": "Expression Intense dans les Relations",
+          "data": "Lilith en Maison VII met en avant une forte volonté d'exprimer ses besoins et ses désirs dans le contexte des relations et des partenariats. La personne peut avoir une approche non conventionnelle ou provocatrice dans la gestion de ses engagements relationnels."
+        },
+        {
+          "nom": "Confrontation aux Normes Relationnelles",
+          "data": "Cette position peut également indiquer des confrontations avec les normes ou les attentes sociales concernant les relations, avec une tendance à explorer des aspects moins acceptés ou plus profonds des engagements et des interactions avec les autres."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VII",
+      "nom": "Point Est",
+      "data": [
+        {
+          "nom": "Renouveau dans les Relations",
+          "data": "Le Point Est en Maison VII indique un potentiel de renouveau et de transformation dans le domaine des relations et des partenariats. La personne peut expérimenter des changements importants dans ses interactions et ses engagements relationnels."
+        },
+        {
+          "nom": "Identification avec les Partenariats",
+          "data": "Cette position suggère également un lien profond entre l'identité personnelle et les relations, avec une tendance à évoluer et à s'adapter aux nouvelles opportunités et défis dans les domaines des partenariats et des engagements."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VIII",
+      "nom": "Chiron",
+      "data": [
+        {
+          "nom": "Blessures au Niveau Profond",
+          "data": "Chiron en Maison VIII peut indiquer des blessures profondes liées aux transformations personnelles, aux ressources partagées ou aux questions de pouvoir. La personne peut éprouver des défis dans la gestion des crises ou des aspects intimes de la vie."
+        },
+        {
+          "nom": "Guérison par la Transformation",
+          "data": "Cette position suggère que la guérison passe par la compréhension et la gestion des transformations profondes et des crises personnelles. La personne peut trouver du réconfort en explorant les aspects cachés de soi-même et en se confrontant aux défis liés aux ressources partagées."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VIII",
+      "nom": "Nœud Nord",
+      "data": [
+        {
+          "nom": "Croissance par la Transformation",
+          "data": "Le Noeud Nord en Maison VIII indique que la croissance personnelle passe par la gestion des transformations profondes et des questions liées aux ressources partagées et au pouvoir. La personne est appelée à évoluer en affrontant les aspects intimes et cachés de la vie."
+        },
+        {
+          "nom": "But de Vie et Ressources Partagées",
+          "data": "Cette position met en avant que le chemin de vie de la personne est lié à l'exploration des aspects profonds de l'existence, avec un potentiel de réalisation personnelle à travers la compréhension et la gestion des ressources partagées et des crises."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VIII",
+      "nom": "Cérès",
+      "data": [
+        {
+          "nom": "Soin dans les Transformations",
+          "data": "Cérès en Maison VIII indique une tendance à prendre soin des autres dans les contextes de transformation et de crise. La personne peut ressentir un besoin de nourrir et de soutenir les autres lorsqu'ils traversent des périodes de profonde transformation."
+        },
+        {
+          "nom": "Nourriture par la Gestion des Crises",
+          "data": "Cette position suggère également que la personne trouve du réconfort et un sentiment de sécurité en gérant des situations de crise et en naviguant à travers des transformations profondes, avec une tendance à chercher du bien-être en prenant soin des aspects intimes et cachés de la vie."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VIII",
+      "nom": "Junon",
+      "data": [
+        {
+          "nom": "Partenariats Financiers",
+          "data": "Junon en Maison VIII indique que les relations et les partenariats peuvent jouer un rôle important dans la gestion des ressources partagées et des aspects financiers. La personne peut rechercher des collaborations qui favorisent la gestion équilibrée des finances et des ressources communes."
+        },
+        {
+          "nom": "Engagement dans les Transformations",
+          "data": "Cette position suggère également une forte inclination à s'engager dans des partenariats ou des projets qui impliquent des transformations profondes ou des questions financières, avec une attention particulière à l'équité et à la loyauté dans ces engagements."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VIII",
+      "nom": "Pallas",
+      "data": [
+        {
+          "nom": "Stratégie Financière",
+          "data": "Pallas en Maison VIII favorise une approche stratégique et intelligente dans la gestion des ressources partagées et des finances. La personne peut utiliser ses compétences analytiques pour optimiser les aspects financiers et résoudre les problèmes liés aux crises."
+        },
+        {
+          "nom": "Créativité dans la Transformation",
+          "data": "Cette position indique également une tendance à exprimer sa créativité dans la gestion des transformations et des ressources communes, avec une capacité à développer des solutions innovantes pour naviguer à travers les défis liés aux aspects intimes et financiers."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VIII",
+      "nom": "Fortune",
+      "data": [
+        {
+          "nom": "Chance dans les Finances",
+          "data": "Fortune en Maison VIII apporte une touche de chance et de succès dans les domaines des ressources partagées et des finances. La personne peut connaître des opportunités favorables pour gérer les finances et surmonter les crises financières."
+        },
+        {
+          "nom": "Croissance par les Transformations",
+          "data": "Cette position favorise également une croissance personnelle à travers la gestion des transformations profondes et des aspects financiers, avec un potentiel de succès dans les projets liés aux ressources communes et à la résolution de crises."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VIII",
+      "nom": "Vertex",
+      "data": [
+        {
+          "nom": "Rencontres Profondes",
+          "data": "Le Vertex en Maison VIII indique que des rencontres importantes et des événements significatifs peuvent avoir un impact sur les aspects des ressources partagées et des transformations profondes. La personne peut vivre des expériences marquantes liées à la gestion des finances ou des crises."
+        },
+        {
+          "nom": "Destin et Transformations",
+          "data": "Cette position suggère également que le destin de la personne est lié à l'exploration et à la gestion des transformations profondes, avec des opportunités de croissance à travers les défis liés aux ressources partagées et aux aspects intimes."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VIII",
+      "nom": "Vesta",
+      "data": [
+        {
+          "nom": "Dévouement à la Gestion des Ressources",
+          "data": "Vesta en Maison VIII indique un fort dévouement à la gestion des ressources partagées et des aspects financiers. La personne peut se concentrer intensément sur les questions de pouvoir et de transformation, en investissant du temps et des efforts dans la gestion des finances et des crises."
+        },
+        {
+          "nom": "Investissement Personnel",
+          "data": "Cette position suggère également une volonté d'investir du temps et des efforts personnels dans des projets liés à la gestion des transformations et des ressources communes, avec une attention particulière à la qualité et à l'efficacité dans ces domaines."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VIII",
+      "nom": "Lilith",
+      "data": [
+        {
+          "nom": "Expression Intense des Ressources",
+          "data": "Lilith en Maison VIII met en avant une forte volonté d'exprimer ses besoins et ses désirs dans le contexte des ressources partagées et des transformations profondes. La personne peut avoir une approche non conventionnelle ou provocatrice dans la gestion des finances et des crises."
+        },
+        {
+          "nom": "Confrontation aux Normes Financières",
+          "data": "Cette position peut également indiquer des confrontations avec les normes ou les attentes sociales concernant les finances et les transformations, avec une tendance à explorer des aspects moins acceptés ou plus profonds des questions financières et des crises."
+        }
+      ]
+    },
+    {
+      "maison": "Maison VIII",
+      "nom": "Point Est",
+      "data": [
+        {
+          "nom": "Renouveau dans les Ressources",
+          "data": "Le Point Est en Maison VIII indique un potentiel de renouveau et de transformation dans le domaine des ressources partagées et des finances. La personne peut expérimenter des changements importants dans la gestion de ses finances et des aspects intimes de sa vie."
+        },
+        {
+          "nom": "Identification avec les Transformations",
+          "data": "Cette position suggère également un lien profond entre l'identité personnelle et les transformations profondes, avec une tendance à évoluer et à s'adapter aux nouvelles opportunités et défis dans les domaines des ressources partagées et des crises."
+        }
+      ]
+    },
+    {
+      "maison": "Maison IX",
+      "nom": "Chiron",
+      "data": [
+        {
+          "nom": "Blessures sur le Chemin de Vie",
+          "data": "Chiron en Maison IX peut indiquer des blessures liées aux croyances personnelles, à l'éducation ou aux voyages. La personne peut éprouver des difficultés à trouver un sens profond ou à comprendre les philosophies qui donnent sens à sa vie."
+        },
+        {
+          "nom": "Guérison par la Connaissance",
+          "data": "Cette position suggère que la guérison passe par l'exploration des croyances, l'éducation et les expériences de voyage. La personne peut trouver du réconfort en élargissant ses horizons et en cherchant des vérités plus profondes."
+        }
+      ]
+    },
+    {
+      "maison": "Maison IX",
+      "nom": "Nœud Nord",
+      "data": [
+        {
+          "nom": "Croissance par l'Éducation",
+          "data": "Le Noeud Nord en Maison IX indique que la croissance personnelle passe par l'exploration de nouvelles philosophies, l'éducation et les voyages. La personne est appelée à développer sa compréhension du monde et à élargir ses horizons."
+        },
+        {
+          "nom": "But de Vie et Philosophie",
+          "data": "Cette position met en avant que le chemin de vie de la personne est lié à l'acquisition de connaissances profondes et à la recherche de sens à travers les croyances et les expériences internationales."
+        }
+      ]
+    },
+    {
+      "maison": "Maison IX",
+      "nom": "Cérès",
+      "data": [
+        {
+          "nom": "Soin par l'Éducation",
+          "data": "Cérès en Maison IX indique une tendance à prendre soin des autres à travers l'éducation et le partage de connaissances. La personne peut ressentir un besoin de nourrir et de soutenir les autres dans leur quête de compréhension et d'expansion personnelle."
+        },
+        {
+          "nom": "Nourriture par les Voyages",
+          "data": "Cette position suggère également que la personne trouve du réconfort et un sentiment de sécurité en explorant le monde et en acquérant de nouvelles expériences, avec une tendance à chercher du bien-être à travers les voyages et les études."
+        }
+      ]
+    },
+    {
+      "maison": "Maison IX",
+      "nom": "Junon",
+      "data": [
+        {
+          "nom": "Partenariats Éducatifs",
+          "data": "Junon en Maison IX indique que les relations et les partenariats peuvent jouer un rôle important dans le domaine de l'éducation et des voyages. La personne peut rechercher des collaborations qui favorisent l'expansion des connaissances et les expériences internationales."
+        },
+        {
+          "nom": "Engagement dans la Philosophie",
+          "data": "Cette position suggère également une forte inclination à s'engager dans des projets ou des partenariats liés à la philosophie et à l'éducation, avec une attention particulière à l'équité et à l'harmonie dans ces engagements."
+        }
+      ]
+    },
+    {
+      "maison": "Maison IX",
+      "nom": "Pallas",
+      "data": [
+        {
+          "nom": "Stratégie Éducative",
+          "data": "Pallas en Maison IX favorise une approche stratégique et intelligente dans l'acquisition de connaissances et la gestion des études. La personne peut utiliser ses compétences analytiques pour optimiser son apprentissage et ses voyages."
+        },
+        {
+          "nom": "Créativité dans la Recherche",
+          "data": "Cette position indique également une tendance à exprimer sa créativité dans l'exploration de nouvelles idées et philosophies, avec une capacité à développer des solutions innovantes pour comprendre et partager des connaissances."
+        }
+      ]
+    },
+    {
+      "maison": "Maison IX",
+      "nom": "Fortune",
+      "data": [
+        {
+          "nom": "Chance dans les Voyages",
+          "data": "Fortune en Maison IX apporte une touche de chance et de succès dans les domaines de l'éducation et des voyages. La personne peut connaître des opportunités favorables pour explorer le monde et acquérir des connaissances."
+        },
+        {
+          "nom": "Croissance par l'Éducation",
+          "data": "Cette position favorise également une croissance personnelle à travers l'acquisition de nouvelles connaissances et l'exploration des philosophies, avec un potentiel de succès dans les projets liés à l'éducation et aux expériences internationales."
+        }
+      ]
+    },
+    {
+      "maison": "Maison IX",
+      "nom": "Vertex",
+      "data": [
+        {
+          "nom": "Rencontres Philosophiques",
+          "data": "Le Vertex en Maison IX indique que des rencontres importantes et des événements significatifs peuvent avoir un impact sur les croyances personnelles et les expériences internationales. La personne peut vivre des expériences marquantes liées à l'éducation ou aux voyages."
+        },
+        {
+          "nom": "Destin et Connaissance",
+          "data": "Cette position suggère également que le destin de la personne est lié à la recherche de sens et à l'exploration des philosophies, avec des opportunités de croissance à travers les expériences éducatives et les voyages."
+        }
+      ]
+    },
+    {
+      "maison": "Maison IX",
+      "nom": "Vesta",
+      "data": [
+        {
+          "nom": "Dévouement à l'Éducation",
+          "data": "Vesta en Maison IX indique un fort dévouement à l'acquisition de connaissances et à l'exploration des philosophies. La personne peut se concentrer intensément sur ses études et ses voyages, investissant du temps et des efforts dans l'expansion de sa compréhension du monde."
+        },
+        {
+          "nom": "Investissement Personnel",
+          "data": "Cette position suggère également une volonté d'investir personnellement dans des projets éducatifs et des expériences internationales, avec une attention particulière à la qualité et à l'efficacité dans ces domaines."
+        }
+      ]
+    },
+    {
+      "maison": "Maison IX",
+      "nom": "Lilith",
+      "data": [
+        {
+          "nom": "Expression Intense des Croyances",
+          "data": "Lilith en Maison IX met en avant une forte volonté d'exprimer ses croyances et ses désirs dans le contexte de l'éducation et des voyages. La personne peut avoir une approche non conventionnelle ou provocatrice dans la recherche de sens et l'exploration des philosophies."
+        },
+        {
+          "nom": "Confrontation aux Normes Éducatives",
+          "data": "Cette position peut également indiquer des confrontations avec les normes ou les attentes sociales concernant l'éducation et les croyances, avec une tendance à explorer des aspects moins acceptés ou plus profonds des connaissances et des voyages."
+        }
+      ]
+    },
+    {
+      "maison": "Maison IX",
+      "nom": "Point Est",
+      "data": [
+        {
+          "nom": "Renouveau dans les Croyances",
+          "data": "Le Point Est en Maison IX indique un potentiel de renouveau et de transformation dans le domaine des croyances personnelles et de l'éducation. La personne peut expérimenter des changements importants dans sa vision du monde et dans ses expériences internationales."
+        },
+        {
+          "nom": "Identification avec l'Éducation",
+          "data": "Cette position suggère également un lien profond entre l'identité personnelle et les expériences éducatives et philosophiques, avec une tendance à évoluer et à s'adapter aux nouvelles opportunités et défis dans ces domaines."
+        }
+      ]
+    },
+    {
+      "maison": "Maison X",
+      "nom": "Chiron",
+      "data": [
+        {
+          "nom": "Blessures Professionnelles",
+          "data": "Chiron en Maison X peut indiquer des blessures ou des défis liés à la carrière, la réputation ou l'autorité. La personne peut éprouver des difficultés à atteindre ses objectifs professionnels ou à se réaliser pleinement dans sa vocation."
+        },
+        {
+          "nom": "Guérison par la Réalisation Professionnelle",
+          "data": "Cette position suggère que la guérison passe par la compréhension et la résolution des défis liés à la carrière. La personne peut trouver du réconfort en travaillant sur ses aspirations professionnelles et en réévaluant ses objectifs de vie."
+        }
+      ]
+    },
+    {
+      "maison": "Maison X",
+      "nom": "Nœud Nord",
+      "data": [
+        {
+          "nom": "Croissance par la Carrière",
+          "data": "Le Noeud Nord en Maison X indique que la croissance personnelle passe par la réalisation professionnelle et le développement de la carrière. La personne est appelée à évoluer en atteignant ses objectifs professionnels et en assumant des rôles de leadership."
+        },
+        {
+          "nom": "But de Vie et Réputation",
+          "data": "Cette position met en avant que le chemin de vie de la personne est lié à la construction d'une carrière réussie et à la gestion de sa réputation. La personne peut trouver un sens profond en atteignant ses objectifs professionnels et en exerçant une influence positive dans son domaine."
+        }
+      ]
+    },
+    {
+      "maison": "Maison X",
+      "nom": "Cérès",
+      "data": [
+        {
+          "nom": "Soin dans la Carrière",
+          "data": "Cérès en Maison X indique une tendance à prendre soin des autres dans le cadre professionnel. La personne peut ressentir un besoin de nourrir et de soutenir ses collègues ou d'assurer le bien-être dans son environnement de travail."
+        },
+        {
+          "nom": "Nourriture par la Réalisation Professionnelle",
+          "data": "Cette position suggère également que la personne trouve du réconfort et un sentiment de sécurité en atteignant ses objectifs professionnels et en s'investissant pleinement dans sa carrière, avec une tendance à chercher du bien-être à travers ses réussites professionnelles."
+        }
+      ]
+    },
+    {
+      "maison": "Maison X",
+      "nom": "Junon",
+      "data": [
+        {
+          "nom": "Partenariats Professionnels",
+          "data": "Junon en Maison X indique que les relations et les partenariats jouent un rôle important dans la carrière et la réputation. La personne peut rechercher des collaborations qui favorisent l'avancement professionnel et la réalisation de ses objectifs de carrière."
+        },
+        {
+          "nom": "Engagement dans la Carrière",
+          "data": "Cette position suggère également une forte inclination à s'engager dans des projets ou des partenariats professionnels, avec une attention particulière à l'équité et à l'harmonie dans ces engagements, pour assurer le succès et la reconnaissance dans le domaine professionnel."
+        }
+      ]
+    },
+    {
+      "maison": "Maison X",
+      "nom": "Pallas",
+      "data": [
+        {
+          "nom": "Stratégie Professionnelle",
+          "data": "Pallas en Maison X favorise une approche stratégique et intelligente dans la gestion de la carrière et des objectifs professionnels. La personne peut utiliser ses compétences analytiques pour planifier et optimiser ses réussites professionnelles."
+        },
+        {
+          "nom": "Créativité dans la Réalisation",
+          "data": "Cette position indique également une tendance à exprimer sa créativité dans le cadre professionnel, avec une capacité à développer des solutions innovantes pour atteindre ses objectifs de carrière et se démarquer dans son domaine."
+        }
+      ]
+    },
+    {
+      "maison": "Maison X",
+      "nom": "Fortune",
+      "data": [
+        {
+          "nom": "Chance dans la Carrière",
+          "data": "Fortune en Maison X apporte une touche de chance et de succès dans le domaine professionnel. La personne peut connaître des opportunités favorables pour avancer dans sa carrière et réaliser ses aspirations professionnelles."
+        },
+        {
+          "nom": "Croissance par la Réalisation Professionnelle",
+          "data": "Cette position favorise également une croissance personnelle à travers la réussite professionnelle, avec un potentiel de succès dans les projets de carrière et une réalisation personnelle à travers les accomplissements professionnels."
+        }
+      ]
+    },
+    {
+      "maison": "Maison X",
+      "nom": "Vertex",
+      "data": [
+        {
+          "nom": "Rencontres Professionnelles",
+          "data": "Le Vertex en Maison X indique que des rencontres importantes et des événements significatifs peuvent avoir un impact sur la carrière et la réputation. La personne peut vivre des expériences marquantes liées à son développement professionnel."
+        },
+        {
+          "nom": "Destin et Réalisation",
+          "data": "Cette position suggère également que le destin de la personne est lié à la réalisation de ses objectifs professionnels, avec des opportunités de croissance à travers des événements et des rencontres influents dans le domaine de la carrière."
+        }
+      ]
+    },
+    {
+      "maison": "Maison X",
+      "nom": "Vesta",
+      "data": [
+        {
+          "nom": "Dévouement à la Carrière",
+          "data": "Vesta en Maison X indique un fort dévouement à la gestion de la carrière et à la réalisation des objectifs professionnels. La personne peut se concentrer intensément sur son travail et investir du temps et des efforts pour atteindre ses ambitions professionnelles."
+        },
+        {
+          "nom": "Investissement Personnel",
+          "data": "Cette position suggère également une volonté d'investir personnellement dans des projets de carrière, avec une attention particulière à la qualité et à l'efficacité dans les efforts pour atteindre des succès professionnels."
+        }
+      ]
+    },
+    {
+      "maison": "Maison X",
+      "nom": "Lilith",
+      "data": [
+        {
+          "nom": "Expression Intense dans la Carrière",
+          "data": "Lilith en Maison X met en avant une forte volonté d'exprimer ses besoins et ses désirs dans le cadre professionnel. La personne peut avoir une approche non conventionnelle ou provocatrice dans la gestion de sa carrière et dans la poursuite de ses objectifs professionnels."
+        },
+        {
+          "nom": "Confrontation aux Normes Professionnelles",
+          "data": "Cette position peut également indiquer des confrontations avec les normes ou les attentes sociales concernant la carrière, avec une tendance à explorer des aspects moins acceptés ou plus profonds du développement professionnel et de la réputation."
+        }
+      ]
+    },
+    {
+      "maison": "Maison X",
+      "nom": "Point Est",
+      "data": [
+        {
+          "nom": "Renouveau dans la Carrière",
+          "data": "Le Point Est en Maison X indique un potentiel de renouveau et de transformation dans le domaine professionnel. La personne peut expérimenter des changements importants dans sa carrière et dans la gestion de sa réputation."
+        },
+        {
+          "nom": "Identification avec la Réalisation Professionnelle",
+          "data": "Cette position suggère également un lien profond entre l'identité personnelle et les réussites professionnelles, avec une tendance à évoluer et à s'adapter aux nouvelles opportunités et défis dans le domaine de la carrière."
+        }
+      ]
+    },
+    {
+      "maison": "Maison XI",
+      "nom": "Chiron",
+      "data": [
+        {
+          "nom": "Blessures dans les Relations Sociales",
+          "data": "Chiron en Maison XI peut indiquer des blessures liées aux amitiés, aux groupes sociaux, ou aux objectifs collectifs. La personne peut éprouver des difficultés à se connecter avec les autres ou à trouver un sens dans ses interactions sociales."
+        },
+        {
+          "nom": "Guérison par l'Engagement Social",
+          "data": "Cette position suggère que la guérison passe par l'engagement dans des causes sociales ou des groupes. La personne peut trouver du réconfort en contribuant à des objectifs communs et en travaillant sur les dynamiques relationnelles au sein de groupes."
+        }
+      ]
+    },
+    {
+      "maison": "Maison XI",
+      "nom": "Nœud Nord",
+      "data": [
+        {
+          "nom": "Croissance par les Relations Sociales",
+          "data": "Le Noeud Nord en Maison XI indique que la croissance personnelle passe par l'engagement dans des groupes sociaux, des amitiés, et des objectifs collectifs. La personne est appelée à évoluer en contribuant activement à des causes communes et en renforçant ses liens sociaux."
+        },
+        {
+          "nom": "But de Vie et Objectifs Collectifs",
+          "data": "Cette position met en avant que le chemin de vie de la personne est lié à la réalisation d'objectifs collectifs et à l'implication dans des groupes sociaux. La personne peut trouver un sens profond en travaillant avec les autres pour atteindre des buts communs."
+        }
+      ]
+    },
+    {
+      "maison": "Maison XI",
+      "nom": "Cérès",
+      "data": [
+        {
+          "nom": "Soin dans les Groupes Sociaux",
+          "data": "Cérès en Maison XI indique une tendance à prendre soin des autres dans le cadre des amitiés et des groupes sociaux. La personne peut ressentir un besoin de nourrir et de soutenir ses amis ou de jouer un rôle de soutien dans des causes collectives."
+        },
+        {
+          "nom": "Nourriture par les Relations Sociales",
+          "data": "Cette position suggère également que la personne trouve du réconfort et un sentiment de sécurité en s'investissant dans des groupes sociaux et des objectifs collectifs, avec une tendance à chercher du bien-être à travers ses interactions sociales."
+        }
+      ]
+    },
+    {
+      "maison": "Maison XI",
+      "nom": "Junon",
+      "data": [
+        {
+          "nom": "Partenariats Sociaux",
+          "data": "Junon en Maison XI indique que les relations et les partenariats jouent un rôle important dans le domaine des amitiés et des objectifs collectifs. La personne peut rechercher des collaborations qui favorisent le succès commun et l'harmonie dans les groupes sociaux."
+        },
+        {
+          "nom": "Engagement dans les Causes Collectives",
+          "data": "Cette position suggère également une forte inclination à s'engager dans des projets ou des causes collectives, avec une attention particulière à l'équité et à l'harmonie dans ces engagements sociaux."
+        }
+      ]
+    },
+    {
+      "maison": "Maison XI",
+      "nom": "Pallas",
+      "data": [
+        {
+          "nom": "Stratégie Sociale",
+          "data": "Pallas en Maison XI favorise une approche stratégique et intelligente dans la gestion des amitiés et des objectifs collectifs. La personne peut utiliser ses compétences analytiques pour organiser et optimiser ses interactions sociales et ses engagements de groupe."
+        },
+        {
+          "nom": "Créativité dans les Objectifs Communs",
+          "data": "Cette position indique également une tendance à exprimer sa créativité dans le cadre des causes collectives, avec une capacité à développer des solutions innovantes pour atteindre des objectifs communs et collaborer efficacement avec les autres."
+        }
+      ]
+    },
+    {
+      "maison": "Maison XI",
+      "nom": "Fortune",
+      "data": [
+        {
+          "nom": "Chance dans les Relations Sociales",
+          "data": "Fortune en Maison XI apporte une touche de chance et de succès dans le domaine des amitiés et des objectifs collectifs. La personne peut connaître des opportunités favorables pour développer des relations sociales positives et atteindre des buts communs."
+        },
+        {
+          "nom": "Croissance par l'Engagement Social",
+          "data": "Cette position favorise également une croissance personnelle à travers les interactions sociales et les projets collectifs, avec un potentiel de succès dans les initiatives de groupe et les causes communes."
+        }
+      ]
+    },
+    {
+      "maison": "Maison XI",
+      "nom": "Vertex",
+      "data": [
+        {
+          "nom": "Rencontres Sociales Importantes",
+          "data": "Le Vertex en Maison XI indique que des rencontres importantes et des événements significatifs peuvent avoir un impact sur les amitiés et les objectifs collectifs. La personne peut vivre des expériences marquantes liées à ses interactions sociales et ses engagements de groupe."
+        },
+        {
+          "nom": "Destin et Objectifs Communs",
+          "data": "Cette position suggère également que le destin de la personne est lié à la réalisation d'objectifs collectifs et à la gestion des relations sociales, avec des opportunités de croissance à travers des engagements de groupe influents."
+        }
+      ]
+    },
+    {
+      "maison": "Maison XI",
+      "nom": "Vesta",
+      "data": [
+        {
+          "nom": "Dévouement aux Causes Collectives",
+          "data": "Vesta en Maison XI indique un fort dévouement aux objectifs collectifs et aux groupes sociaux. La personne peut se concentrer intensément sur ses engagements sociaux et investir du temps et des efforts pour contribuer à des causes communes."
+        },
+        {
+          "nom": "Investissement Personnel dans les Groupes",
+          "data": "Cette position suggère également une volonté d'investir personnellement dans des projets de groupe et des causes collectives, avec une attention particulière à la qualité et à l'efficacité dans ces engagements sociaux."
+        }
+      ]
+    },
+    {
+      "maison": "Maison XI",
+      "nom": "Lilith",
+      "data": [
+        {
+          "nom": "Expression Intense dans les Relations Sociales",
+          "data": "Lilith en Maison XI met en avant une forte volonté d'exprimer ses besoins et ses désirs dans le cadre des amitiés et des objectifs collectifs. La personne peut avoir une approche non conventionnelle ou provocatrice dans ses engagements sociaux et ses interactions de groupe."
+        },
+        {
+          "nom": "Confrontation aux Normes Sociales",
+          "data": "Cette position peut également indiquer des confrontations avec les normes ou les attentes sociales concernant les relations et les objectifs collectifs, avec une tendance à explorer des aspects moins acceptés ou plus profonds des interactions sociales et des projets de groupe."
+        }
+      ]
+    },
+    {
+      "maison": "Maison XI",
+      "nom": "Point Est",
+      "data": [
+        {
+          "nom": "Renouveau dans les Relations Sociales",
+          "data": "Le Point Est en Maison XI indique un potentiel de renouveau et de transformation dans le domaine des amitiés et des objectifs collectifs. La personne peut expérimenter des changements importants dans ses relations sociales et dans ses engagements de groupe."
+        },
+        {
+          "nom": "Identification avec les Objectifs Communs",
+          "data": "Cette position suggère également un lien profond entre l'identité personnelle et les projets collectifs, avec une tendance à évoluer et à s'adapter aux nouvelles opportunités et défis dans le domaine des relations sociales et des objectifs de groupe."
+        }
+      ]
+    },
+    {
+      "maison": "Maison XII",
+      "nom": "Chiron",
+      "data": [
+        {
+          "nom": "Blessures Intérieures",
+          "data": "Chiron en Maison XII peut indiquer des blessures profondes et des douleurs émotionnelles souvent cachées ou non reconnues. La personne peut éprouver des difficultés à affronter ses peurs et ses vulnérabilités intérieures."
+        },
+        {
+          "nom": "Guérison par l'Introspection",
+          "data": "Cette position suggère que la guérison passe par un travail intérieur et une introspection profonde. La personne peut trouver du réconfort en explorant ses émotions cachées et en s'engageant dans des pratiques spirituelles ou thérapeutiques."
+        }
+      ]
+    },
+    {
+      "maison": "Maison XII",
+      "nom": "Nœud Nord",
+      "data": [
+        {
+          "nom": "Croissance par l'Introspection",
+          "data": "Le Noeud Nord en Maison XII indique que la croissance personnelle passe par la découverte de soi, l'introspection, et la résolution de problèmes subconscients. La personne est appelée à évoluer en explorant les aspects cachés de sa psyché et en travaillant sur ses défis intérieurs."
+        },
+        {
+          "nom": "But de Vie et Spiritualité",
+          "data": "Cette position met en avant que le chemin de vie de la personne est lié à la recherche spirituelle et à la compréhension des dimensions invisibles de la vie. La personne peut trouver un sens profond en se connectant à son monde intérieur et en affrontant ses propres mystères."
+        }
+      ]
+    },
+    {
+      "maison": "Maison XII",
+      "nom": "Cérès",
+      "data": [
+        {
+          "nom": "Soin des Aspects Cachés",
+          "data": "Cérès en Maison XII indique une tendance à prendre soin des aspects cachés ou inconscients de la vie des autres. La personne peut ressentir un besoin de nourrir et de soutenir ceux qui sont en souffrance ou qui se trouvent dans des situations difficiles."
+        },
+        {
+          "nom": "Nourriture par l'Introspection",
+          "data": "Cette position suggère également que la personne trouve du réconfort en explorant ses propres émotions et en se connectant à ses besoins intérieurs. Le bien-être peut provenir d'une profonde compréhension de soi et d'un engagement dans des pratiques spirituelles ou introspectives."
+        }
+      ]
+    },
+    {
+      "maison": "Maison XII",
+      "nom": "Junon",
+      "data": [
+        {
+          "nom": "Partenariats et Vie Intérieure",
+          "data": "Junon en Maison XII indique que les relations et les partenariats peuvent avoir un impact profond sur la vie intérieure et les défis personnels. La personne peut rechercher des relations qui favorisent la guérison et la compréhension des aspects cachés de soi-même."
+        },
+        {
+          "nom": "Engagement dans la Spiritualité",
+          "data": "Cette position suggère également une forte inclination à s'engager dans des projets ou des partenariats liés à la spiritualité ou au soutien des autres dans des contextes invisibles ou inconscients, avec une attention particulière à l'harmonie et à l'équité dans ces engagements."
+        }
+      ]
+    },
+    {
+      "maison": "Maison XII",
+      "nom": "Pallas",
+      "data": [
+        {
+          "nom": "Stratégie Intérieure",
+          "data": "Pallas en Maison XII favorise une approche stratégique et intelligente pour résoudre les problèmes internes et les défis subconscients. La personne peut utiliser ses compétences analytiques pour explorer et comprendre les aspects cachés de sa psyché."
+        },
+        {
+          "nom": "Créativité dans l'Introspection",
+          "data": "Cette position indique également une tendance à exprimer sa créativité dans la gestion des problèmes émotionnels et spirituels, avec une capacité à développer des solutions innovantes pour aborder les défis intérieurs et comprendre les dimensions profondes de soi-même."
+        }
+      ]
+    },
+    {
+      "maison": "Maison XII",
+      "nom": "Fortune",
+      "data": [
+        {
+          "nom": "Chance dans les Domaines Cachés",
+          "data": "Fortune en Maison XII apporte une touche de chance et de succès dans les domaines cachés de la vie, tels que les aspects inconscients et les pratiques spirituelles. La personne peut connaître des opportunités favorables pour explorer et comprendre son monde intérieur."
+        },
+        {
+          "nom": "Croissance par l'Introspection",
+          "data": "Cette position favorise également une croissance personnelle à travers la découverte de soi et l'engagement dans des pratiques introspectives, avec un potentiel de succès dans la compréhension et la résolution des défis intérieurs."
+        }
+      ]
+    },
+    {
+      "maison": "Maison XII",
+      "nom": "Vertex",
+      "data": [
+        {
+          "nom": "Rencontres et Expériences Intérieures",
+          "data": "Le Vertex en Maison XII indique que des rencontres importantes et des événements significatifs peuvent avoir un impact sur la vie intérieure et les défis personnels. La personne peut vivre des expériences marquantes liées à son monde subconscient et à ses besoins spirituels."
+        },
+        {
+          "nom": "Destin et Introspection",
+          "data": "Cette position suggère également que le destin de la personne est lié à l'exploration des aspects cachés de soi-même et à la compréhension de sa propre psyché, avec des opportunités de croissance à travers des événements et des rencontres influents dans le domaine intérieur."
+        }
+      ]
+    },
+    {
+      "maison": "Maison XII",
+      "nom": "Vesta",
+      "data": [
+        {
+          "nom": "Dévouement à la Vie Intérieure",
+          "data": "Vesta en Maison XII indique un fort dévouement à la gestion des aspects intérieurs et spirituels de la vie. La personne peut se concentrer intensément sur l'exploration de son monde intérieur et investir du temps et des efforts dans des pratiques introspectives ou spirituelles."
+        },
+        {
+          "nom": "Investissement Personnel dans l'Introspection",
+          "data": "Cette position suggère également une volonté d'investir personnellement dans la compréhension de soi-même et la résolution de problèmes émotionnels, avec une attention particulière à la qualité et à l'efficacité dans les efforts pour explorer les dimensions cachées de sa vie."
+        }
+      ]
+    },
+    {
+      "maison": "Maison XII",
+      "nom": "Lilith",
+      "data": [
+        {
+          "nom": "Expression Intense des Peurs Intérieures",
+          "data": "Lilith en Maison XII met en avant une forte volonté d'exprimer ses besoins et ses désirs dans le cadre des aspects cachés de la vie. La personne peut avoir une approche non conventionnelle ou provocatrice dans la gestion de ses émotions et de ses peurs inconscientes."
+        },
+        {
+          "nom": "Confrontation aux Mystères Intérieurs",
+          "data": "Cette position peut également indiquer des confrontations avec les aspects les plus profonds de la psyché, avec une tendance à explorer des dimensions moins acceptées ou plus profondes du monde intérieur et des problèmes personnels."
+        }
+      ]
+    },
+    {
+      "maison": "Maison XII",
+      "nom": "Point Est",
+      "data": [
+        {
+          "nom": "Renouveau dans la Vie Intérieure",
+          "data": "Le Point Est en Maison XII indique un potentiel de renouveau et de transformation dans le domaine de la vie intérieure. La personne peut expérimenter des changements importants dans ses émotions, ses croyances subconscientes, et ses pratiques spirituelles."
+        },
+        {
+          "nom": "Identification avec les Aspects Cachés",
+          "data": "Cette position suggère également un lien profond entre l'identité personnelle et les aspects cachés de la vie, avec une tendance à évoluer et à s'adapter aux nouvelles opportunités et défis dans le domaine de l'introspection et de la spiritualité."
+        }
+      ]
+    }
+  ],
   "desc": [
     {
       "nom": "Chiron",

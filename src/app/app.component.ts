@@ -38,7 +38,6 @@ export class AppComponent implements OnInit
   hover:any = "Sélectionnez un point";
   svg: any = [];
   svgid:any="";
-  maisons:any = [];
   svgs: any;
   fileContent: any;
   clicked:any;
@@ -54,6 +53,9 @@ export class AppComponent implements OnInit
   clicked2:any = this.menu[0];
   elements = {feu:["Bélier","Lion","Sagittaire"],air:["Gémeaux","Balance","Verseau"],terre:["Taureau","Vierge","Capricorne"],eau:["Cancer","Scorpion","Poissons"]};
   planetes = ["Soleil","Saturne","Mars","Mercure","Vénus","Neptune","Jupiter","Lune","Uranus","Pluton"];
+  signes = ["Gémeaux", "Cancer", "Lion", "Vierge", "Balance", "Scorpion", "Sagittaire", "Capricorne", "Verseau", "Poissons", "Bélier", "Taureau"];
+  maisons = ["Maison I", "Maison II", "Maison III", "Maison IV", "Maison V", "Maison VI", "Maison VII", "Maison VIII", "Maison IX", "Maison X", "Maison XI", "Maison XII"];
+  asteroides = ["Chiron","Nœud Nord","Nœud Sud","Cérès","Junon","Pallas","Fortune","Vertex","Vesta","Lilith","Point Est"];
 
   API_URL = 'https://api.openai.com/v1/chat/completions';
   
@@ -64,7 +66,7 @@ export class AppComponent implements OnInit
   
   ngOnInit(): void 
   {
-    //this.readFile();
+    this.readFile();
     //this.readSigneGpt();
   }
 
@@ -326,7 +328,7 @@ processFileContent(): void {
 		return {nom:nom,x:x,y:y,type:type,id:id};
 	}
 
-  signes(objet: any)
+  signes2(objet: any)
 	{
     objet = objet.replace(/[^0-9]/g,"");
 		switch(objet)
@@ -538,7 +540,7 @@ processFileContent(): void {
         {
           let nom = s.substring(s.indexOf("\"")+1);
           nom = nom.substring(0,nom.indexOf("\""));
-          let signe = this.signes(nom);
+          let signe = this.signes2(nom);
           let objet:any = document.getElementById(nom);
           objet.addEventListener('click', () => {this.click(signe)});
           objet.addEventListener('mouseover', (event:any) => {this.hover=signe ;this.addClass(nom)});
@@ -595,6 +597,95 @@ processFileContent(): void {
 
   click(s:string)
   {
+    this.focus = [];
+    this.clicked = s;
+    this.desc = this.infos.desc.find((d:any)=>d.nom == s).infos;
+    this.type = "Planetes";
+    if(this.asteroides.includes(s))this.type = "Asteroides";
+    else if(this.maisons.includes(s))this.type = "Maisons";
+    else if(this.signes.includes(s))this.type = "Signes";
+    let data = this.data;
+
+    console.log(this.type);
+    if(this.type=="Asteroides"||this.type=="Planetes")
+    {
+      data = data.filter((d:any)=>d.nom==s);
+      let ligne = data.find((d:any)=>d.nom==s);
+      console.log(data);
+      data.forEach((d:any)=>{
+        let signe = this.infos.data.find((i:any)=>i.nom==d.signe).data;
+        if(s!="Nœud Sud")
+        {
+          //Planete ou Asteroide en Maison
+          let x = this.infos.maisons.find((m:any)=>m.maison==d.maison&&m.nom==d.nom);
+          this.focus.push({nom:x.maison,data:x.data,type:"Maisons"});
+        }
+        //Planete ou Asteroide dans signe
+        let x = signe.find((s:any)=>s.nom==d.nom);
+        this.focus.push({nom:ligne.signe,data:x.data,type:"Signes"});
+      });
+      
+      let aspects = this.aspects.filter((a:any)=>a.from==s||a.to==s);
+      aspects.forEach((a:any)=>{
+        let infos = this.infos.aspects.find((i:any)=>i.from==a.from&&i.type==a.type&&i.to==a.to);
+        this.focus.push({nom:infos.from + " " + infos.type + " " + infos.to,data:infos.data,type:"Aspects"});
+      });
+
+      let domiciles = this.infos.domiciles.filter((d:any)=>d.nom==s&&d.signe==ligne.signe);
+      domiciles.forEach((d:any)=>{
+        this.focus.push({nom: d.nom + ", " + d.type + " en " + d.signe, data:d.data,type:"Dignités"});
+      })
+    }
+    else if(this.type=="Maisons")
+    {
+      data = data.filter((d:any)=>this.maisons.includes(d.maison));
+      data = data.filter((d:any)=>d.maison==s);
+      console.log(data);
+      data.forEach((d:any)=>{
+        let signe = this.infos.data.find((i:any)=>i.nom==d.signe).data;
+        if(!d.nom){
+          //Maison dans signe
+          let x = signe.find((s:any)=>s.nom==d.maison);
+          let ligne = data.find((d:any)=>d.maison==s&&!d.nom);
+          this.focus.push({nom:ligne.signe,data:x.data,type:"Signes"});
+        }
+        else{
+          //Planete ou Asteroide en Maison
+          let x = this.infos.maisons.find((m:any)=>m.maison==d.maison&&m.nom==d.nom);
+          let ligne = data.find((d:any)=>d.maison==s&&d.nom);
+          this.focus.push({nom:ligne.nom,data:x.data,type:this.planetes.includes(x.nom)?"Planetes":"Asteroides"});
+        }
+      });
+    }
+    else if(this.type=="Signes")
+    {
+      data = data.filter((d:any)=>this.signes.includes(d.signe));
+      data = data.filter((d:any)=>d.signe==s);
+      console.log(data);
+      let ligne = data.find((d:any)=>d.signe==s&&!d.nom);
+      data.forEach((d:any)=>{
+        let signe = this.infos.data.find((i:any)=>i.nom==d.signe).data;
+        if(!d.nom){
+          //Maison dans signe
+          let x = signe.find((s:any)=>s.nom==d.maison);
+          this.focus.push({nom:ligne.maison,data:x.data,type:"Maisons"});
+        }
+        else{
+          //Planete ou Asteroide dans signe
+          let x = signe.find((s:any)=>s.nom==d.nom);
+          this.focus.push({nom:x.nom,data:x.data,type:this.planetes.includes(x.nom)?"Planetes":"Asteroides"});
+        }
+      });
+    }
+    const unique = [...new Set(this.focus.map((item:any) => item.type))];
+    this.types = unique;
+    this.type = unique[0];
+    console.log("this.types",this.types);
+    console.log(this.focus);
+  }
+
+  click2(s:string)
+  {
     this.clicked = s;
     this.desc = this.infos.desc.find((d:any)=>d.nom == s).infos;
     let signe = this.infos.data.find((i:any)=>i.nom==s);
@@ -613,6 +704,7 @@ processFileContent(): void {
       }
       let infos = signe.find((d:any)=>d.nom==s);
 
+      console.log(infos);
       if(this.planetes.includes(infos.nom))
         data.push({nom:infos.nom,datas:infos.data,type:"Planetes"});
       else
@@ -633,6 +725,7 @@ processFileContent(): void {
       this.types = unique;
       this.type = unique[0];
       this.focus = data;
+      console.log("1",data);
       return;
     }
     signe = signe.data;
@@ -661,6 +754,7 @@ processFileContent(): void {
     const unique = [...new Set(data.map((item:any) => item.type))];
     this.types = unique;
     this.type = unique[0];
+    console.log("2",data);
     this.focus = data;
   }
 }
