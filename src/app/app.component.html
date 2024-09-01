@@ -33,7 +33,7 @@
       <p>{{desc}}</p>
       <img class="fondbloc" src="./assets/bloc.png"/>
     </div>
-  
+    
     <div class="textes">
       <div *ngFor="let obj of focus;let i=index" class="data" [class.lastdata]="i==focus.length-1">
         <p class="typelien">{{obj.type?obj.type:""}}</p>
