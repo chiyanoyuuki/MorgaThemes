@@ -30470,5 +30470,3367 @@
         }
       ]
     }
+  ],
+  "stelliums": [
+    {
+      "noms": ["Soleil", "Saturne", "Mars"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Intensité et Ambition",
+          "data": "Ce stellium combine la vitalité du Soleil, l'ambition de Saturne, et l'énergie de Mars. Les individus avec ce stellium sont souvent très déterminés, avec un fort désir de transformation personnelle et de réussite. Ils peuvent être perçus comme très passionnés et persévérants, mais aussi parfois excessivement rigides ou conflictuels."
+        },
+        {
+          "nom": "Défis et Croissance",
+          "data": "Le mélange de la discipline de Saturne avec l'impulsivité de Mars peut entraîner des conflits internes ou des défis dans la gestion de la colère et des frustrations. Cependant, cela peut aussi conduire à une profonde croissance personnelle et à des réalisations significatives grâce à un travail acharné et une gestion stratégique des ressources."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Saturne", "Mercure"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Pensée Profonde",
+          "data": "Ce stellium associe la vitalité solaire à la structure mentale de Saturne et à l'intellect de Mercure. Cela peut entraîner une pensée très profonde, analytique et rigoureuse. Les individus peuvent exceller dans des domaines nécessitant une concentration intense et une capacité à analyser des situations complexes."
+        },
+        {
+          "nom": "Communication Rigide",
+          "data": "La combinaison de Saturne et Mercure peut rendre la communication plus sérieuse et peut-être rigide. Les individus peuvent avoir des difficultés à exprimer leurs émotions ou à s'ouvrir aux autres, préférant une approche plus méthodique et réfléchie dans leurs interactions."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Saturne", "Vénus"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Relations Intenses",
+          "data": "Le Soleil en Scorpion avec Saturne et Vénus indique des relations profondément intenses et sérieuses. Ces individus recherchent des connexions émotionnelles profondes et peuvent avoir des attentes élevées en amour. Ils sont souvent loyaux mais peuvent éprouver des difficultés avec les questions de contrôle et de possessivité."
+        },
+        {
+          "nom": "Stabilité Amoureuse",
+          "data": "Saturne apporte une certaine stabilité à la nature passionnée de Vénus en Scorpion, ce qui peut se traduire par des relations durables et engagées. Cependant, il peut aussi y avoir des défis autour de la gestion des attentes et des désirs dans les relations."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Saturne", "Neptune"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Idéalisme Réaliste",
+          "data": "Le mélange de l'énergie solaire, de la discipline de Saturne, et du rêve de Neptune peut créer une approche réaliste mais idéaliste des objectifs. Les individus peuvent avoir des visions claires et des objectifs élevés, combinés avec une approche pratique pour les réaliser."
+        },
+        {
+          "nom": "Défis d'Illusions",
+          "data": "Cependant, il peut y avoir des défis à gérer les illusions ou les attentes irréalistes. La présence de Neptune peut brouiller les limites entre la réalité et le rêve, tandis que Saturne tente de structurer et de concrétiser ces visions."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Saturne", "Jupiter"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Croissance avec Structure",
+          "data": "Ce stellium combine l'expansion de Jupiter avec la discipline de Saturne et la force du Soleil. Les individus peuvent expérimenter une grande croissance personnelle et professionnelle, avec une capacité à étendre leurs horizons tout en restant disciplinés et concentrés sur leurs objectifs."
+        },
+        {
+          "nom": "Optimisme Réaliste",
+          "data": "Le mélange de Saturne et Jupiter peut mener à une vision équilibrée entre optimisme et réalisme. Les individus peuvent être capables de maintenir des attentes élevées tout en travaillant dur pour atteindre leurs objectifs, mais doivent faire attention à ne pas se fixer des buts trop ambitieux ou irréalistes."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Saturne", "Lune"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Émotions Intenses",
+          "data": "Le Soleil en Scorpion avec Saturne et la Lune crée une dynamique de profonde intensité émotionnelle et de contrôle. Les individus peuvent éprouver des sentiments très puissants mais peuvent également lutter pour exprimer ou partager ces émotions ouvertement."
+        },
+        {
+          "nom": "Stabilité Émotionnelle",
+          "data": "Saturne peut apporter une structure et une stabilité aux émotions de la Lune, aidant à gérer les hauts et les bas émotionnels de manière plus contrôlée. Cependant, cela peut aussi conduire à une répression émotionnelle si les sentiments sont trop intensément contrôlés."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Saturne", "Uranus"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Transformation et Innovation",
+          "data": "Ce stellium associe l'énergie dynamique de l'Uranus à la structure de Saturne et à la vitalité du Soleil. Les individus peuvent être attirés par des changements profonds et des réformes, avec une capacité à transformer des aspects fondamentaux de leur vie de manière innovante."
+        },
+        {
+          "nom": "Conflits de Structure",
+          "data": "Il peut y avoir des conflits entre le désir de changement radical d'Uranus et le besoin de structure de Saturne. Cela peut créer une tension entre les besoins de sécurité et le désir de liberté ou d'expérimentation."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Saturne", "Pluton"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Pouvoir et Transformation",
+          "data": "Le Soleil en Scorpion avec Saturne et Pluton crée une combinaison puissante pour la transformation personnelle et le contrôle. Les individus peuvent éprouver une forte volonté de transformation intérieure et de gestion du pouvoir, avec une capacité à se régénérer à travers des défis importants."
+        },
+        {
+          "nom": "Défis de Pouvoir",
+          "data": "Les tensions peuvent surgir autour des questions de pouvoir et de contrôle. Il peut y avoir des défis à équilibrer les besoins de transformation profonde avec les exigences de discipline et de structure, ainsi qu'une tendance à des luttes de pouvoir dans les relations personnelles ou professionnelles."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mars", "Mercure"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Pensée Dynamique",
+          "data": "Le Soleil en Scorpion avec Mars et Mercure indique une combinaison d'énergie dynamique et de pensée incisive. Les individus peuvent être très perspicaces, avec une capacité à agir rapidement sur leurs idées et à transformer leurs pensées en actions efficaces."
+        },
+        {
+          "nom": "Impulsivité Mentale",
+          "data": "Il peut y avoir une tendance à l'impulsivité ou à des débats intenses, avec une propension à utiliser la logique pour soutenir des actions immédiates. Les interactions peuvent être marquées par une intense énergie mentale et une forte détermination à communiquer."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mars", "Vénus"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Passion et Désir",
+          "data": "Ce stellium combine la passion de Mars avec l'énergie solaire et la sensualité de Vénus. Les individus peuvent être très charismatiques et attirants, avec une approche intense et passionnée dans leurs relations et leurs objectifs."
+        },
+        {
+          "nom": "Conflits Relationnels",
+          "data": "Il peut y avoir des conflits entre les désirs personnels et les besoins relationnels. Les individus doivent apprendre à équilibrer leur énergie et leurs passions dans les relations, en évitant la possessivité ou les comportements excessivement dominants."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mars", "Neptune"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Vision Intense",
+          "data": "Le Soleil avec Mars et Neptune en Scorpion indique une forte vision personnelle et une grande énergie créative. Les individus peuvent avoir une vision très intense de leurs objectifs, avec une capacité à transformer leurs rêves en réalité grâce à leur dynamisme."
+        },
+        {
+          "nom": "Défis de Réalité",
+          "data": "Cependant, la présence de Neptune peut introduire des illusions ou des confusions autour de l'action. Les individus doivent être prudents avec la tendance à idéaliser ou à se lancer dans des projets sans une évaluation réaliste."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mars", "Jupiter"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Expansion Energique",
+          "data": "Ce stellium combine la vitalité du Soleil, l'énergie de Mars, et l'expansion de Jupiter. Les individus peuvent être extrêmement dynamiques, avec un fort désir de réussir et d'élargir leurs horizons personnels ou professionnels."
+        },
+        {
+          "nom": "Risques d'Excès",
+          "data": "La combinaison de Mars et Jupiter peut conduire à des comportements impulsifs ou à des prises de risques excessives. Les individus doivent trouver un équilibre entre leur enthousiasme et les réalités pratiques pour éviter des excès ou des complications."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mars", "Lune"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Émotions Actives",
+          "data": "Le Soleil en Scorpion avec Mars et la Lune crée une combinaison d'énergie émotionnelle active. Les individus peuvent être très motivés par leurs sentiments et peuvent exprimer leurs émotions de manière très dynamique et directe."
+        },
+        {
+          "nom": "Tension Émotionnelle",
+          "data": "Il peut y avoir une tendance à des conflits internes ou à des réactions émotionnelles impulsives. Les individus doivent apprendre à canaliser leur énergie émotionnelle de manière constructive pour éviter des tensions ou des conflits personnels."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mars", "Uranus"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Innovation Dynamique",
+          "data": "Le Soleil avec Mars et Uranus en Scorpion indique une énergie dynamique orientée vers l'innovation et le changement. Les individus peuvent être des agents de changement, avec une forte volonté d'expérimenter et de transformer leur environnement."
+        },
+        {
+          "nom": "Conflits de Changement",
+          "data": "La combinaison de Mars et Uranus peut entraîner des conflits autour de la nécessité de changement et d'indépendance. Les individus peuvent avoir du mal à concilier leur désir d'innovation avec des structures ou des attentes établies."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mars", "Pluton"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Transformation Active",
+          "data": "Ce stellium combine la puissance du Soleil, l'énergie de Mars, et la profondeur de Pluton. Les individus peuvent être profondément engagés dans des processus de transformation personnelle, avec une grande force intérieure et une capacité à surmonter des défis importants."
+        },
+        {
+          "nom": "Pouvoir et Conflit",
+          "data": "Il peut y avoir une intensité élevée autour des questions de pouvoir et de contrôle. Les individus doivent être conscients des dynamiques de pouvoir dans leurs relations et s'efforcer d'utiliser leur énergie de manière constructive pour éviter des confrontations destructrices."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mercure", "Vénus"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Communication Passionnée",
+          "data": "Ce stellium combine la vitalité du Soleil avec la communication de Mercure et la sensualité de Vénus. Les individus peuvent exprimer leurs sentiments et leurs désirs de manière très passionnée et convaincante, avec une capacité à captiver et à séduire dans leurs interactions."
+        },
+        {
+          "nom": "Défis Relationnels",
+          "data": "La passion dans la communication peut parfois mener à des conflits ou à des malentendus dans les relations. Les individus doivent faire attention à ne pas laisser leurs émotions influencer de manière excessive leurs échanges et à maintenir un équilibre dans leurs interactions."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mercure", "Neptune"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Pensée Intuitive",
+          "data": "Ce stellium associe la vitalité solaire avec l'intellect de Mercure et la vision spirituelle de Neptune. Les individus peuvent posséder une pensée très intuitive, avec une capacité à comprendre des concepts abstraits et à explorer des idées profondes."
+        },
+        {
+          "nom": "Rêves et Illusions",
+          "data": "La combinaison de Neptune peut introduire des éléments d'illusion ou de confusion dans la pensée. Les individus doivent être prudents avec les tendances à idéaliser ou à se perdre dans des fantasmes, en cherchant à maintenir une certaine clarté mentale."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mercure", "Jupiter"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Esprit Expansif",
+          "data": "Le Soleil avec Mercure et Jupiter en Scorpion indique une pensée expansive et optimiste. Les individus peuvent avoir une grande capacité à apprendre et à communiquer des idées de manière inspirante, avec un esprit ouvert à de nouvelles possibilités."
+        },
+        {
+          "nom": "Risque d'Excès",
+          "data": "Il peut y avoir une tendance à exagérer ou à aller au-delà des limites dans la communication ou la recherche de connaissances. Les individus doivent équilibrer leur enthousiasme avec une évaluation réaliste des faits et des informations."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mercure", "Lune"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Émotions Intellectuelles",
+          "data": "Ce stellium combine l'énergie du Soleil, l'intellect de Mercure et les émotions de la Lune. Les individus peuvent avoir une approche analytique et réfléchie de leurs sentiments, avec une capacité à articuler et à comprendre leurs émotions de manière profonde."
+        },
+        {
+          "nom": "Défis Émotionnels",
+          "data": "Il peut y avoir une tendance à rationaliser ou à intellectualiser les émotions, ce qui peut entraîner des difficultés à vivre pleinement les sentiments. Les individus doivent chercher à équilibrer leur analyse intellectuelle avec une expérience émotionnelle authentique."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mercure", "Uranus"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Pensée Innovante",
+          "data": "Le Soleil en Scorpion avec Mercure et Uranus indique une pensée innovante et originale. Les individus peuvent avoir des idées originales et créatives, avec une capacité à penser en dehors des sentiers battus et à explorer des concepts novateurs."
+        },
+        {
+          "nom": "Imprévisibilité Mentale",
+          "data": "La présence d'Uranus peut introduire de l'imprévisibilité dans la pensée et la communication. Les individus doivent gérer les tendances à des changements soudains ou des idées excentriques qui peuvent parfois être difficiles à concrétiser."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mercure", "Pluton"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Analyse Profonde",
+          "data": "Ce stellium combine l'énergie du Soleil avec l'intellect de Mercure et la profondeur de Pluton. Les individus peuvent avoir une capacité exceptionnelle à analyser des situations complexes et à explorer des vérités cachées avec une grande perspicacité."
+        },
+        {
+          "nom": "Défis de Pouvoir Intellectuel",
+          "data": "Il peut y avoir des défis autour des questions de pouvoir et de contrôle dans la communication. Les individus doivent faire attention à ne pas utiliser leur compréhension profonde pour manipuler ou dominer les autres, cherchant plutôt à utiliser leur influence de manière constructive."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Vénus", "Neptune"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Amour Idéaliste",
+          "data": "Le Soleil en Scorpion avec Vénus et Neptune indique une approche profondément idéaliste et romantique de l'amour. Les individus peuvent rechercher des connexions émotionnelles intenses et spirituelles, avec un désir de vivre des relations transcendantes."
+        },
+        {
+          "nom": "Rêves et Illusions Amoureuses",
+          "data": "La présence de Neptune peut introduire des illusions ou des attentes irréalistes dans les relations. Les individus doivent être conscients de leurs tendances à idéaliser les partenaires ou à se perdre dans des fantasmes amoureux."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Vénus", "Jupiter"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Passion et Abondance",
+          "data": "Ce stellium combine la vitalité solaire avec la sensualité de Vénus et l'expansion de Jupiter. Les individus peuvent vivre des expériences émotionnelles intenses et abondantes, avec une tendance à rechercher des plaisirs et des succès dans leurs relations."
+        },
+        {
+          "nom": "Risques d'Excès Relationnels",
+          "data": "Il peut y avoir une tendance à des excès ou à des comportements de surconsommation dans les relations ou les finances. Les individus doivent trouver un équilibre entre leur désir de luxe et de plaisir et la gestion pratique de leurs ressources."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Vénus", "Lune"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Harmonie Émotionnelle",
+          "data": "Le Soleil en Scorpion avec Vénus et la Lune indique une recherche d'harmonie émotionnelle et affective. Les individus peuvent vivre des relations profondes et satisfaisantes, avec une capacité à équilibrer leurs besoins émotionnels et relationnels."
+        },
+        {
+          "nom": "Défis Émotionnels",
+          "data": "Il peut y avoir des défis autour des besoins émotionnels et des attentes dans les relations. Les individus doivent être attentifs à ne pas se laisser emporter par leurs émotions ou à chercher des approbations excessives dans leurs interactions."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Vénus", "Uranus"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Relations Innovantes",
+          "data": "Ce stellium combine la vitalité du Soleil, la sensualité de Vénus, et l'originalité d'Uranus. Les individus peuvent vivre des relations non conventionnelles et créatives, avec un attrait pour les expériences nouvelles et les connexions uniques."
+        },
+        {
+          "nom": "Imprévisibilité Relationnelle",
+          "data": "La présence d'Uranus peut introduire de l'imprévisibilité et des changements soudains dans les relations. Les individus doivent être prêts à accepter les évolutions inattendues et à gérer les changements dans leurs dynamiques relationnelles."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Vénus", "Pluton"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Passion Profonde",
+          "data": "Le Soleil avec Vénus et Pluton en Scorpion indique une passion profonde et une intensité émotionnelle dans les relations. Les individus peuvent rechercher des connexions intenses et significatives, avec une capacité à transformer et à régénérer leurs expériences affectives."
+        },
+        {
+          "nom": "Défis de Pouvoir Relationnel",
+          "data": "Il peut y avoir des défis autour des questions de pouvoir et de contrôle dans les relations. Les individus doivent être conscients des dynamiques de domination ou de manipulation et chercher à établir des relations basées sur l'équilibre et la confiance."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Neptune", "Jupiter"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Vision Inspirante",
+          "data": "Ce stellium combine la vitalité du Soleil avec la vision spirituelle de Neptune et l'expansion de Jupiter. Les individus peuvent avoir une vision inspirante et optimiste de leurs objectifs et de leurs aspirations, avec une capacité à rêver grand et à croire en leurs capacités."
+        },
+        {
+          "nom": "Risques d'Illusions",
+          "data": "La présence de Neptune peut introduire des illusions ou des attentes irréalistes. Les individus doivent équilibrer leur vision optimiste avec une évaluation pratique des possibilités et des limites."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Neptune", "Lune"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Émotions Spirituelles",
+          "data": "Le Soleil avec Neptune et la Lune en Scorpion indique une profonde connexion entre les émotions et les aspirations spirituelles. Les individus peuvent ressentir des émotions intenses avec une forte composante spirituelle ou mystique."
+        },
+        {
+          "nom": "Défis de Clarté Émotionnelle",
+          "data": "Il peut y avoir des défis à maintenir une clarté émotionnelle en raison de la présence de Neptune. Les individus doivent être attentifs à ne pas se perdre dans des illusions ou des fantasmes émotionnels, en cherchant à rester ancrés dans la réalité."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Neptune", "Uranus"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Créativité Innovante",
+          "data": "Le Soleil en Scorpion avec Neptune et Uranus indique une grande créativité et une vision originale. Les individus peuvent être attirés par des idées innovantes et des projets artistiques ou spirituels avec une forte dose d'originalité."
+        },
+        {
+          "nom": "Imprévisibilité Visionnaire",
+          "data": "La combinaison de Neptune et Uranus peut introduire une imprévisibilité dans la manière dont les idées sont développées ou réalisées. Les individus doivent gérer les tendances à l'expérimentation excessive ou à la confusion dans leur quête de nouvelles expériences."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Neptune", "Pluton"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Transformation Spirituelle",
+          "data": "Le Soleil en Scorpion avec Neptune et Pluton indique une profonde transformation spirituelle et personnelle. Les individus peuvent vivre des processus de régénération intérieure avec une forte dimension mystique et introspective."
+        },
+        {
+          "nom": "Défis de Réalité",
+          "data": "La présence de Neptune peut créer des défis dans la distinction entre réalité et illusion pendant les processus de transformation. Les individus doivent être attentifs à ne pas se laisser emporter par des visions idéalisées ou irréalistes."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Jupiter", "Lune"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Émotions Optimistes",
+          "data": "Ce stellium combine la vitalité du Soleil avec l'expansion de Jupiter et la sensibilité de la Lune. Les individus peuvent ressentir des émotions optimistes et enthousiastes, avec une tendance à chercher des expériences enrichissantes et épanouissantes."
+        },
+        {
+          "nom": "Défis d'Excès Émotionnel",
+          "data": "La combinaison de Jupiter et de la Lune peut entraîner des émotions intenses et parfois excessives. Les individus doivent équilibrer leur enthousiasme avec une gestion réaliste de leurs sentiments et éviter de se laisser emporter par des attentes démesurées."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Jupiter", "Uranus"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Vision Dynamique",
+          "data": "Le Soleil en Scorpion avec Jupiter et Uranus indique une approche dynamique et innovante de la vie. Les individus peuvent être attirés par des idées grandioses et des projets révolutionnaires, avec une capacité à voir au-delà des limites conventionnelles."
+        },
+        {
+          "nom": "Imprévisibilité et Excès",
+          "data": "La combinaison de Jupiter et Uranus peut entraîner une imprévisibilité et des comportements excentriques. Les individus doivent faire attention à ne pas se lancer dans des projets irréalistes ou à se laisser emporter par des ambitions excessives."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Jupiter", "Pluton"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Transformation Expansive",
+          "data": "Ce stellium associe la vitalité solaire, l'expansion de Jupiter et la profondeur de Pluton. Les individus peuvent vivre une transformation profonde avec une grande capacité à se régénérer et à croître personnellement ou professionnellement."
+        },
+        {
+          "nom": "Défis de Pouvoir et Expansion",
+          "data": "Il peut y avoir des défis autour des questions de pouvoir et d'expansion. Les individus doivent équilibrer leur désir de croissance avec une gestion prudente des dynamiques de pouvoir et des attentes."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Uranus", "Lune"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Émotions Innovantes",
+          "data": "Le Soleil avec Uranus et la Lune en Scorpion indique des émotions et des idées innovantes. Les individus peuvent être attirés par des expériences émotionnelles uniques et des changements soudains dans leur vie émotionnelle."
+        },
+        {
+          "nom": "Défis de Stabilité Émotionnelle",
+          "data": "La présence d'Uranus peut introduire des changements imprévus ou des instabilités dans les émotions. Les individus doivent trouver des moyens de gérer ces fluctuations et de maintenir une certaine stabilité émotionnelle."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Uranus", "Pluton"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Transformation Radical",
+          "data": "Ce stellium combine la vitalité du Soleil avec l'originalité d'Uranus et la profondeur de Pluton. Les individus peuvent vivre des transformations radicales avec une capacité à bouleverser les normes et à apporter des changements profonds."
+        },
+        {
+          "nom": "Défis de Changement Profond",
+          "data": "La combinaison de Uranus et Pluton peut conduire à des défis importants autour des changements profonds et des crises de pouvoir. Les individus doivent naviguer soigneusement dans ces transformations pour éviter des conflits ou des bouleversements excessifs."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Pluton", "Lune"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Transformation Émotionnelle",
+          "data": "Le Soleil avec Pluton et la Lune en Scorpion indique une forte capacité à transformer les émotions et les dynamiques internes. Les individus peuvent vivre des processus de régénération profonde et une grande profondeur émotionnelle."
+        },
+        {
+          "nom": "Défis de Contrôle Émotionnel",
+          "data": "La combinaison de Pluton et de la Lune peut créer des défis autour du contrôle émotionnel et des dynamiques de pouvoir. Les individus doivent travailler à équilibrer leur intensité émotionnelle avec une gestion constructive des relations et des sentiments."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mars", "Mercure"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Discipline Mentale",
+          "data": "Ce stellium combine la rigueur de Saturne avec l'énergie de Mars et la communication de Mercure. Les individus peuvent avoir une approche disciplinée et déterminée dans leur pensée et leur communication, avec une capacité à se concentrer sur des objectifs précis."
+        },
+        {
+          "nom": "Tension Intellectuelle",
+          "data": "La combinaison de Mars et Saturne peut introduire des tensions ou des conflits dans la communication. Les individus doivent être conscients des risques de confrontations verbales et apprendre à gérer les désaccords de manière constructive."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mars", "Vénus"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Responsabilité Amoureuse",
+          "data": "Le Soleil avec Mars et Vénus en Scorpion indique une approche sérieuse et engagée dans les relations. Les individus peuvent ressentir un fort sens des responsabilités et une détermination à travailler sur leurs relations amoureuses."
+        },
+        {
+          "nom": "Défis Relationnels",
+          "data": "Il peut y avoir des défis à équilibrer l'intensité émotionnelle et les attentes dans les relations. Les individus doivent être attentifs à ne pas imposer des attentes trop strictes à leurs partenaires ou à eux-mêmes."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mars", "Neptune"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Discipline Spirituelle",
+          "data": "Ce stellium associe la structure de Saturne avec l'énergie de Mars et la vision spirituelle de Neptune. Les individus peuvent être motivés à suivre une discipline rigoureuse dans leur quête spirituelle ou artistique."
+        },
+        {
+          "nom": "Conflits entre Réalité et Idéal",
+          "data": "La combinaison de Neptune avec Saturne peut introduire des tensions entre les attentes idéalisées et les réalités pratiques. Les individus doivent naviguer entre leurs aspirations spirituelles et les exigences concrètes de la vie."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mars", "Jupiter"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Ambition Stratégique",
+          "data": "Le Soleil avec Mars et Jupiter en Scorpion indique une ambition stratégique et une forte détermination à réussir. Les individus peuvent être capables de travailler de manière disciplinée pour atteindre des objectifs importants."
+        },
+        {
+          "nom": "Défis d'Excès",
+          "data": "Il peut y avoir une tendance à pousser les limites ou à prendre des risques excessifs en raison de l'influence de Jupiter. Les individus doivent équilibrer leur ambition avec une gestion prudente des ressources et des attentes."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mars", "Lune"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Stabilité Émotionnelle",
+          "data": "Ce stellium combine la rigueur de Saturne avec l'énergie de Mars et les émotions de la Lune. Les individus peuvent travailler à établir une stabilité émotionnelle tout en exprimant leurs sentiments de manière déterminée."
+        },
+        {
+          "nom": "Défis Émotionnels et Conflits",
+          "data": "La combinaison de Mars avec Saturne peut introduire des tensions émotionnelles. Les individus doivent être conscients des risques de conflits internes ou de répressions émotionnelles et apprendre à les gérer efficacement."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mars", "Uranus"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Discipline et Innovation",
+          "data": "Le Soleil avec Mars et Uranus en Scorpion indique une capacité à allier discipline et innovation. Les individus peuvent être motivés à appliquer des approches originales tout en respectant des structures rigoureuses."
+        },
+        {
+          "nom": "Imprévisibilité et Conflits",
+          "data": "La présence d'Uranus peut introduire des imprévus et des changements soudains, ce qui peut entrer en conflit avec le besoin de structure imposé par Saturne. Les individus doivent gérer les changements inattendus tout en maintenant leur discipline."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mars", "Pluton"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Transformation Discipline",
+          "data": "Ce stellium associe la rigueur de Saturne avec l'énergie de Mars et la profondeur de Pluton. Les individus peuvent vivre des transformations profondes avec une approche disciplinée, en surmontant des défis majeurs avec détermination."
+        },
+        {
+          "nom": "Défis de Pouvoir et Contrôle",
+          "data": "La combinaison de Pluton avec Saturne peut introduire des dynamiques complexes de pouvoir et de contrôle. Les individus doivent naviguer soigneusement entre les besoins de contrôle et les exigences de transformation personnelle."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mercure", "Vénus"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Communication Structurée",
+          "data": "Le Soleil avec Mercure et Vénus en Scorpion indique une communication structurée et réfléchie dans les relations. Les individus peuvent être capables de discuter de manière approfondie et sérieuse des sujets relationnels."
+        },
+        {
+          "nom": "Défis dans les Relations",
+          "data": "Il peut y avoir des défis à équilibrer les exigences structurelles avec les besoins émotionnels et relationnels. Les individus doivent travailler à maintenir une communication claire tout en répondant aux besoins affectifs."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mercure", "Neptune"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Pensée Disciplinée",
+          "data": "Ce stellium associe la rigueur de Saturne avec la pensée de Mercure et la vision de Neptune. Les individus peuvent aborder les idées et les projets avec une pensée disciplinée, en cherchant à intégrer des aspects spirituels ou créatifs."
+        },
+        {
+          "nom": "Défis de Clarté Mentale",
+          "data": "La présence de Neptune peut introduire des difficultés de clarté mentale ou des illusions. Les individus doivent équilibrer leur pensée pratique avec des inspirations créatives, en évitant les pièges de la confusion mentale."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mercure", "Jupiter"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Pensée Structurée et Optimiste",
+          "data": "Le Soleil avec Mercure et Jupiter en Scorpion indique une pensée optimiste et structurée. Les individus peuvent être capables de développer des stratégies efficaces et de communiquer leurs idées avec enthousiasme."
+        },
+        {
+          "nom": "Défis d'Excès et d'Optimisme",
+          "data": "Il peut y avoir une tendance à l'exagération ou à des attentes irréalistes. Les individus doivent gérer leur optimisme avec une approche équilibrée et réaliste des faits et des possibilités."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mercure", "Lune"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Pensée Émotionnelle Disciplinée",
+          "data": "Ce stellium associe la rigueur de Saturne avec l'intellect de Mercure et les émotions de la Lune. Les individus peuvent aborder leurs émotions avec une approche réfléchie et structurée, cherchant à comprendre et à gérer leurs sentiments de manière pratique."
+        },
+        {
+          "nom": "Défis Émotionnels et Cognitifs",
+          "data": "Il peut y avoir des défis à équilibrer les exigences intellectuelles et émotionnelles. Les individus doivent veiller à ne pas réprimer leurs sentiments tout en cherchant à maintenir une pensée claire et disciplinée."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mercure", "Uranus"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Innovation Structurée",
+          "data": "Le Soleil avec Mercure et Uranus en Scorpion indique une capacité à structurer des idées innovantes. Les individus peuvent être attirés par des approches originales tout en appliquant des principes rigoureux pour concrétiser leurs idées."
+        },
+        {
+          "nom": "Défis de Stabilité Mentale",
+          "data": "La présence d'Uranus peut introduire des imprévus ou des instabilités dans la pensée. Les individus doivent naviguer entre les changements soudains et le besoin de structure intellectuelle."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mercure", "Pluton"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Analyse Profonde et Structurée",
+          "data": "Ce stellium combine la rigueur de Saturne avec l'intellect de Mercure et la profondeur de Pluton. Les individus peuvent avoir une capacité exceptionnelle à analyser des situations complexes et à comprendre des dynamiques profondes avec une approche structurée."
+        },
+        {
+          "nom": "Défis de Pouvoir Intellectuel",
+          "data": "La combinaison de Pluton peut introduire des dynamiques de pouvoir dans la communication ou l'analyse. Les individus doivent être conscients des risques de manipulation ou de domination dans leurs interactions intellectuelles."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Vénus", "Neptune"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Relations Structurées et Spirituelles",
+          "data": "Le Soleil avec Vénus et Neptune en Scorpion indique une approche sérieuse et spirituelle dans les relations. Les individus peuvent chercher des connexions profondes et significatives avec un sens de responsabilité et de dévouement."
+        },
+        {
+          "nom": "Défis de Réalisme dans l'Amour",
+          "data": "La présence de Neptune peut créer des illusions ou des attentes irréalistes dans les relations. Les individus doivent gérer les aspirations idéalisées tout en maintenant une perspective réaliste et pratique."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Vénus", "Jupiter"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Discipline dans les Relations",
+          "data": "Ce stellium associe la rigueur de Saturne avec la sensualité de Vénus et l'expansion de Jupiter. Les individus peuvent être capables de gérer les aspects pratiques des relations avec un sens du plaisir et de l'optimisme."
+        },
+        {
+          "nom": "Défis d'Excès dans l'Amour",
+          "data": "La combinaison de Jupiter et Vénus peut entraîner des excès ou des attentes démesurées. Les individus doivent équilibrer leur désir de plaisir avec une gestion réaliste des besoins relationnels."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Vénus", "Lune"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Harmonie Émotionnelle Disciplinée",
+          "data": "Le Soleil avec Vénus et la Lune en Scorpion indique une recherche d'harmonie émotionnelle avec une approche disciplinée. Les individus peuvent travailler à établir des relations équilibrées et satisfaisantes avec une structure émotionnelle."
+        },
+        {
+          "nom": "Défis d'Équilibre Émotionnel",
+          "data": "Il peut y avoir des défis à équilibrer les exigences pratiques avec les besoins émotionnels. Les individus doivent naviguer entre leurs responsabilités relationnelles et leurs sentiments personnels."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Vénus", "Uranus"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Relations Innovantes et Structurées",
+          "data": "Ce stellium combine la rigueur de Saturne avec la sensualité de Vénus et l'originalité d'Uranus. Les individus peuvent vivre des relations non conventionnelles avec une approche organisée et innovante."
+        },
+        {
+          "nom": "Défis d'Imprévisibilité",
+          "data": "La présence d'Uranus peut introduire de l'imprévisibilité dans les relations. Les individus doivent être prêts à gérer les changements soudains tout en maintenant une structure relationnelle."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Vénus", "Pluton"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Transformation Relationnelle Disciplinée",
+          "data": "Le Soleil avec Vénus et Pluton en Scorpion indique une transformation profonde dans les relations avec une approche disciplinée. Les individus peuvent vivre des évolutions significatives dans leurs interactions avec une forte intensité."
+        },
+        {
+          "nom": "Défis de Pouvoir dans l'Amour",
+          "data": "La combinaison de Pluton avec Vénus peut introduire des dynamiques de pouvoir et de contrôle dans les relations. Les individus doivent naviguer soigneusement dans ces aspects pour éviter les conflits ou les manipulations."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Neptune", "Jupiter"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Vision Structurée et Expansive",
+          "data": "Ce stellium combine la rigueur de Saturne avec la vision de Neptune et l'expansion de Jupiter. Les individus peuvent développer une vision ambitieuse et bien structurée de leurs objectifs et aspirations."
+        },
+        {
+          "nom": "Défis de Réalisme et Optimisme",
+          "data": "La présence de Neptune peut introduire des éléments d'illusion ou d'idéalisme dans les aspirations. Les individus doivent équilibrer leur optimisme avec une gestion réaliste des objectifs et des attentes."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Neptune", "Lune"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Discipline Émotionnelle et Spirituelle",
+          "data": "Le Soleil avec Neptune et la Lune en Scorpion indique une approche disciplinée des émotions et des aspirations spirituelles. Les individus peuvent chercher à équilibrer leurs besoins émotionnels avec une structure spirituelle."
+        },
+        {
+          "nom": "Défis de Clarté Émotionnelle",
+          "data": "La présence de Neptune peut créer des défis dans la clarté des émotions. Les individus doivent naviguer entre leurs sentiments et leurs aspirations spirituelles pour maintenir une compréhension précise et équilibrée."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Neptune", "Uranus"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Innovation Structurée et Spirituelle",
+          "data": "Ce stellium associe la rigueur de Saturne avec la vision de Neptune et l'originalité d'Uranus. Les individus peuvent être attirés par des idées innovantes et spirituelles, avec une capacité à les structurer de manière pratique."
+        },
+        {
+          "nom": "Défis d'Imprévisibilité Spirituelle",
+          "data": "La présence d'Uranus peut introduire des imprévus dans la recherche spirituelle ou créative. Les individus doivent gérer les changements soudains tout en maintenant une discipline dans leurs aspirations."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Neptune", "Pluton"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Transformation Spirituelle Structurée",
+          "data": "Le Soleil avec Neptune et Pluton en Scorpion indique une transformation profonde dans les domaines spirituels et personnels avec une approche disciplinée. Les individus peuvent vivre des évolutions intenses et significatives."
+        },
+        {
+          "nom": "Défis de Réalité et Transformation",
+          "data": "La présence de Neptune peut introduire des illusions ou des défis dans la transformation personnelle. Les individus doivent équilibrer leur quête de profondeur avec une compréhension réaliste des processus de changement."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Jupiter", "Lune"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Optimisme Structuré",
+          "data": "Ce stellium associe la rigueur de Saturne avec l'expansion de Jupiter et les émotions de la Lune. Les individus peuvent être capables de gérer leurs émotions et leurs aspirations avec une approche structurée et optimiste."
+        },
+        {
+          "nom": "Défis d'Excès Émotionnel",
+          "data": "La présence de Jupiter peut introduire des excès dans les émotions ou les attentes. Les individus doivent équilibrer leur enthousiasme avec une gestion réaliste des besoins émotionnels et des objectifs."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Jupiter", "Uranus"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Expansion Structurée et Innovante",
+          "data": "Le Soleil avec Jupiter et Uranus en Scorpion indique une capacité à structurer des idées innovantes avec une approche expansive. Les individus peuvent être motivés à appliquer des solutions originales avec une planification rigoureuse."
+        },
+        {
+          "nom": "Défis d'Imprévisibilité et d'Excès",
+          "data": "La combinaison de Jupiter et Uranus peut introduire des imprévus et des excès dans les projets. Les individus doivent gérer les risques de changements soudains et d'optimisme démesuré tout en maintenant une structure."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Jupiter", "Pluton"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Transformation Expansive et Structurée",
+          "data": "Ce stellium combine la rigueur de Saturne avec l'expansion de Jupiter et la profondeur de Pluton. Les individus peuvent vivre des transformations profondes avec une approche structurée et ambitieuse."
+        },
+        {
+          "nom": "Défis de Pouvoir et Expansion",
+          "data": "La présence de Pluton peut introduire des dynamiques complexes de pouvoir et de contrôle. Les individus doivent naviguer entre leur désir d'expansion et les enjeux de transformation personnelle."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Uranus", "Lune"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Stabilité Émotionnelle et Innovation",
+          "data": "Le Soleil avec Uranus et la Lune en Scorpion indique une capacité à combiner stabilité émotionnelle et innovation. Les individus peuvent trouver des moyens créatifs de gérer leurs émotions et de répondre aux changements."
+        },
+        {
+          "nom": "Défis d'Imprévisibilité Émotionnelle",
+          "data": "La présence d'Uranus peut introduire des imprévus dans la gestion des émotions. Les individus doivent apprendre à maintenir un équilibre émotionnel tout en gérant les changements inattendus."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Uranus", "Pluton"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Transformation Structurée et Innovante",
+          "data": "Ce stellium associe la rigueur de Saturne avec l'originalité d'Uranus et la profondeur de Pluton. Les individus peuvent vivre des transformations importantes avec une approche à la fois innovante et disciplinée."
+        },
+        {
+          "nom": "Défis de Pouvoir et d'Imprévisibilité",
+          "data": "La combinaison de Pluton et Uranus peut introduire des dynamiques complexes de pouvoir et d'imprévisibilité. Les individus doivent naviguer soigneusement entre les exigences de transformation et les changements soudains."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Pluton", "Lune"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Transformation Émotionnelle Structurée",
+          "data": "Le Soleil avec Pluton et la Lune en Scorpion indique une capacité à transformer les émotions avec une approche disciplinée. Les individus peuvent vivre des évolutions profondes dans leur vie émotionnelle avec une forte intensité."
+        },
+        {
+          "nom": "Défis de Contrôle Émotionnel",
+          "data": "La présence de Pluton peut créer des défis autour du contrôle émotionnel et des dynamiques de pouvoir. Les individus doivent trouver un équilibre entre leur intensité émotionnelle et les exigences relationnelles."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Mercure", "Vénus"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Énergie Communicationnelle",
+          "data": "Ce stellium associe la passion de Mars avec l'intellect de Mercure et la sensualité de Vénus. Les individus peuvent exprimer leurs désirs et leurs idées avec intensité et charme, avec une capacité à influencer et à séduire par leur communication."
+        },
+        {
+          "nom": "Défis dans les Relations et la Communication",
+          "data": "La combinaison de Mars avec Mercure et Vénus peut créer des tensions dans les relations en raison de l'intensité émotionnelle. Les individus doivent gérer les conflits potentiels et trouver un équilibre entre leurs désirs personnels et les besoins relationnels."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Mercure", "Neptune"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Action Créative",
+          "data": "Ce stellium associe la force d'action de Mars avec la pensée analytique de Mercure et la vision imaginative de Neptune. Les individus peuvent être motivés à poursuivre des projets créatifs et inspirants avec une approche déterminée."
+        },
+        {
+          "nom": "Défis de Clarté et de Réalité",
+          "data": "La présence de Neptune peut introduire des illusions ou des confusions dans les objectifs ou les méthodes. Les individus doivent être attentifs à ne pas se laisser emporter par des visions irréalistes ou des inspirations éphémères."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Mercure", "Jupiter"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Ambition Communicative",
+          "data": "Le Soleil avec Mercure et Jupiter en Scorpion indique une grande ambition et une capacité à exprimer ses idées de manière expansive et influente. Les individus peuvent être dotés d'une forte confiance en eux et d'un désir de partager leur vision."
+        },
+        {
+          "nom": "Défis d'Excès et de Confrontation",
+          "data": "La combinaison de Jupiter avec Mars et Mercure peut mener à des excès dans la communication ou à des conflits de grande envergure. Les individus doivent gérer leur enthousiasme et éviter de se lancer dans des disputes ou des projets irréalistes."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Mercure", "Lune"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Énergie Émotionnelle",
+          "data": "Ce stellium associe l'énergie de Mars avec la pensée analytique de Mercure et les émotions profondes de la Lune. Les individus peuvent exprimer leurs sentiments avec intensité et passion, tout en réfléchissant profondément à leurs émotions."
+        },
+        {
+          "nom": "Défis Émotionnels dans la Communication",
+          "data": "La combinaison de la Lune avec Mars et Mercure peut créer des conflits émotionnels dans la communication. Les individus doivent trouver un équilibre entre exprimer leurs sentiments et maintenir une discussion claire et respectueuse."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Mercure", "Uranus"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Innovation Dynamique",
+          "data": "Le Soleil avec Mercure et Uranus en Scorpion indique une capacité à combiner pensée analytique et innovation. Les individus peuvent être motivés à explorer des idées originales et à appliquer des solutions créatives avec une grande énergie."
+        },
+        {
+          "nom": "Défis d'Imprévisibilité",
+          "data": "La présence d'Uranus peut introduire des imprévus et des changements soudains dans les projets ou les idées. Les individus doivent gérer les perturbations tout en restant concentrés sur leurs objectifs."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Mercure", "Pluton"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Transformation Intellectuelle",
+          "data": "Ce stellium associe la détermination de Mars avec la pensée analytique de Mercure et la profondeur de Pluton. Les individus peuvent vivre des transformations profondes dans leur manière de penser et de communiquer, avec une grande intensité."
+        },
+        {
+          "nom": "Défis de Pouvoir et de Contrôle",
+          "data": "La combinaison de Pluton avec Mars et Mercure peut introduire des dynamiques de pouvoir ou de contrôle dans la communication. Les individus doivent naviguer avec soin pour éviter les manipulations ou les confrontations excessives."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Vénus", "Neptune"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Passion Créative",
+          "data": "Le Soleil avec Vénus et Neptune en Scorpion indique une forte passion dans les domaines créatifs et relationnels. Les individus peuvent être attirés par des expériences artistiques et émotionnelles intenses, avec une sensibilité accrue."
+        },
+        {
+          "nom": "Défis d'Illusion et d'Émotion",
+          "data": "La présence de Neptune peut créer des illusions ou des attentes irréalistes dans les relations et les projets créatifs. Les individus doivent faire attention à ne pas se laisser emporter par des idéalisations et à maintenir une perspective équilibrée."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Vénus", "Jupiter"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Ambition Relationnelle",
+          "data": "Ce stellium combine l'énergie de Mars avec la sensualité de Vénus et l'expansion de Jupiter. Les individus peuvent vivre des relations intenses et dynamiques avec une forte ambition et une grande capacité à se développer ensemble."
+        },
+        {
+          "nom": "Défis d'Excès dans les Relations",
+          "data": "La présence de Jupiter peut introduire des excès ou des attentes démesurées dans les relations. Les individus doivent équilibrer leur enthousiasme avec une gestion réaliste des besoins émotionnels et relationnels."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Vénus", "Lune"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Passion Émotionnelle",
+          "data": "Le Soleil avec Vénus et la Lune en Scorpion indique une forte connexion entre passion et émotions. Les individus peuvent éprouver des sentiments intenses dans leurs relations et exprimer leur amour avec une grande profondeur."
+        },
+        {
+          "nom": "Défis Émotionnels et Relationnels",
+          "data": "La combinaison de Vénus et de la Lune avec Mars peut créer des tensions émotionnelles dans les relations. Les individus doivent travailler à équilibrer leur passion avec une gestion saine de leurs sentiments."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Vénus", "Uranus"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Innovation Relationnelle",
+          "data": "Ce stellium associe la passion de Mars avec la sensualité de Vénus et l'originalité d'Uranus. Les individus peuvent vivre des relations non conventionnelles avec une forte créativité et un désir d'explorer des expériences nouvelles."
+        },
+        {
+          "nom": "Défis d'Imprévisibilité",
+          "data": "La présence d'Uranus peut introduire de l'imprévisibilité dans les relations et les projets créatifs. Les individus doivent gérer les changements soudains et les imprévus tout en maintenant une connexion stable."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Vénus", "Pluton"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Transformation Passionnelle",
+          "data": "Le Soleil avec Vénus et Pluton en Scorpion indique des transformations profondes dans les relations et les passions. Les individus peuvent vivre des évolutions intenses avec une forte profondeur émotionnelle et personnelle."
+        },
+        {
+          "nom": "Défis de Pouvoir et de Profondeur",
+          "data": "La combinaison de Pluton avec Vénus et Mars peut introduire des dynamiques de pouvoir ou de contrôle dans les relations. Les individus doivent être attentifs aux aspects de manipulation ou de domination dans leurs interactions."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Neptune", "Jupiter"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Expansion Créative",
+          "data": "Ce stellium associe l'énergie de Mars avec la vision imaginative de Neptune et l'expansion de Jupiter. Les individus peuvent être inspirés à poursuivre des projets ambitieux avec une grande créativité et une vision large."
+        },
+        {
+          "nom": "Défis d'Illusion et d'Excès",
+          "data": "La présence de Neptune et Jupiter peut introduire des illusions ou des attentes démesurées dans les projets ou les objectifs. Les individus doivent maintenir un équilibre entre leurs aspirations et la réalité."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Neptune", "Lune"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Passion Émotionnelle et Spirituelle",
+          "data": "Le Soleil avec Neptune et la Lune en Scorpion indique une forte connexion entre passion, émotions et aspirations spirituelles. Les individus peuvent explorer des expériences profondes et mystiques avec une intensité émotionnelle."
+        },
+        {
+          "nom": "Défis de Clarté Émotionnelle",
+          "data": "La présence de Neptune peut créer des illusions ou des confusions dans les émotions. Les individus doivent naviguer entre leurs sentiments et leurs aspirations spirituelles pour maintenir une perspective équilibrée."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Neptune", "Uranus"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Innovation Créative et Spirituelle",
+          "data": "Ce stellium combine l'énergie de Mars avec la vision de Neptune et l'originalité d'Uranus. Les individus peuvent être attirés par des idées innovantes et spirituelles avec une capacité à les mettre en œuvre de manière dynamique."
+        },
+        {
+          "nom": "Défis d'Imprévisibilité Spirituelle",
+          "data": "La présence d'Uranus peut introduire des imprévus dans la recherche spirituelle ou créative. Les individus doivent gérer les changements soudains tout en maintenant une discipline dans leurs aspirations."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Neptune", "Pluton"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Transformation Spirituelle Intense",
+          "data": "Le Soleil avec Neptune et Pluton en Scorpion indique une transformation profonde dans les domaines spirituels et personnels. Les individus peuvent vivre des évolutions intenses avec une forte profondeur et une grande intensité émotionnelle."
+        },
+        {
+          "nom": "Défis de Réalité et Transformation",
+          "data": "La présence de Neptune peut introduire des illusions ou des défis dans la transformation personnelle. Les individus doivent équilibrer leur quête de profondeur avec une compréhension réaliste des processus de changement."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Jupiter", "Lune"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Expansion Émotionnelle Dynamique",
+          "data": "Ce stellium associe l'énergie de Mars avec l'expansion de Jupiter et les émotions de la Lune. Les individus peuvent vivre des émotions intenses avec un grand enthousiasme et une forte ambition."
+        },
+        {
+          "nom": "Défis d'Excès Émotionnel",
+          "data": "La présence de Jupiter peut introduire des excès ou des attentes démesurées dans les émotions. Les individus doivent équilibrer leur enthousiasme avec une gestion réaliste de leurs sentiments."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Jupiter", "Uranus"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Innovation Dynamique et Expansion",
+          "data": "Le Soleil avec Jupiter et Uranus en Scorpion indique une capacité à combiner expansion et innovation avec une grande énergie. Les individus peuvent être motivés à explorer des idées originales et à appliquer des solutions créatives."
+        },
+        {
+          "nom": "Défis d'Imprévisibilité et d'Excès",
+          "data": "La combinaison de Jupiter et Uranus peut introduire des imprévus et des excès dans les projets. Les individus doivent gérer les risques de changements soudains et d'optimisme démesuré tout en maintenant une structure."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Jupiter", "Pluton"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Transformation Expansive et Dynamique",
+          "data": "Ce stellium combine l'énergie de Mars avec l'expansion de Jupiter et la profondeur de Pluton. Les individus peuvent vivre des transformations profondes avec une approche ambitieuse et dynamique."
+        },
+        {
+          "nom": "Défis de Pouvoir et d'Expansion",
+          "data": "La présence de Pluton peut introduire des dynamiques complexes de pouvoir et de contrôle. Les individus doivent naviguer entre leur désir d'expansion et les enjeux de transformation personnelle."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Uranus", "Lune"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Énergie Émotionnelle Innovante",
+          "data": "Le Soleil avec Uranus et la Lune en Scorpion indique une combinaison d'énergie et d'innovation dans la gestion des émotions. Les individus peuvent trouver des moyens créatifs de gérer leurs sentiments et de répondre aux changements."
+        },
+        {
+          "nom": "Défis d'Imprévisibilité Émotionnelle",
+          "data": "La présence d'Uranus peut introduire des imprévus dans la gestion des émotions. Les individus doivent apprendre à maintenir un équilibre émotionnel tout en gérant les changements inattendus."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Uranus", "Pluton"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Transformation Dynamique et Innovante",
+          "data": "Ce stellium associe l'énergie de Mars avec l'originalité d'Uranus et la profondeur de Pluton. Les individus peuvent vivre des transformations importantes avec une approche innovante et énergique."
+        },
+        {
+          "nom": "Défis de Pouvoir et d'Imprévisibilité",
+          "data": "La combinaison de Pluton et Uranus peut introduire des dynamiques complexes de pouvoir et d'imprévisibilité. Les individus doivent naviguer soigneusement entre les exigences de transformation et les changements soudains."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Pluton", "Lune"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Transformation Émotionnelle Dynamique",
+          "data": "Le Soleil avec Pluton et la Lune en Scorpion indique une capacité à transformer les émotions avec une approche énergique. Les individus peuvent vivre des évolutions profondes dans leur vie émotionnelle avec une grande intensité."
+        },
+        {
+          "nom": "Défis de Contrôle Émotionnel",
+          "data": "La présence de Pluton peut créer des défis autour du contrôle émotionnel et des dynamiques de pouvoir. Les individus doivent trouver un équilibre entre leur intensité émotionnelle et les exigences relationnelles."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Vénus", "Neptune"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Communication Créative et Inspirée",
+          "data": "Ce stellium associe l'intellect de Mercure avec la sensualité de Vénus et la vision de Neptune. Les individus peuvent exprimer leurs idées de manière artistique et imaginative, avec une grande profondeur émotionnelle."
+        },
+        {
+          "nom": "Défis d'Illusion dans les Relations",
+          "data": "La présence de Neptune peut introduire des illusions ou des attentes irréalistes dans les relations. Les individus doivent être conscients des idéalisations et maintenir une perspective réaliste dans leurs communications."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Vénus", "Jupiter"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Optimisme Communicationnel",
+          "data": "Ce stellium associe la pensée analytique de Mercure avec la sensualité de Vénus et l'expansion de Jupiter. Les individus peuvent exprimer leurs idées avec enthousiasme et générer des opportunités par leur communication."
+        },
+        {
+          "nom": "Défis d'Excès et de Confrontation",
+          "data": "La présence de Jupiter peut mener à des excès ou à des attentes démesurées dans les communications. Les individus doivent gérer leur enthousiasme et éviter de se lancer dans des débats ou des projets irréalistes."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Vénus", "Lune"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Émotion et Communication Harmonisées",
+          "data": "Ce stellium associe la pensée analytique de Mercure avec la sensualité de Vénus et les émotions de la Lune. Les individus peuvent communiquer leurs sentiments avec clarté et empathie, créant des relations équilibrées."
+        },
+        {
+          "nom": "Défis Émotionnels dans la Communication",
+          "data": "La présence de la Lune peut créer des tensions émotionnelles dans la communication. Les individus doivent trouver un équilibre entre exprimer leurs émotions et maintenir des échanges clairs et constructifs."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Vénus", "Uranus"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Innovation dans les Relations",
+          "data": "Ce stellium associe l'intellect de Mercure avec la sensualité de Vénus et l'originalité d'Uranus. Les individus peuvent aborder les relations avec des idées novatrices et créatives, apportant des changements dans leurs interactions."
+        },
+        {
+          "nom": "Défis d'Imprévisibilité",
+          "data": "La présence d'Uranus peut introduire des imprévus dans les communications et les relations. Les individus doivent gérer les changements soudains et les surprises tout en maintenant une connexion stable."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Vénus", "Pluton"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Transformation dans la Communication",
+          "data": "Le Soleil avec Vénus et Pluton en Scorpion indique une capacité à transformer les relations et les interactions par une communication intense. Les individus peuvent vivre des évolutions profondes dans leur manière de penser et d'exprimer leurs émotions."
+        },
+        {
+          "nom": "Défis de Pouvoir et de Profondeur",
+          "data": "La combinaison de Pluton avec Vénus peut introduire des dynamiques de pouvoir ou de contrôle dans la communication. Les individus doivent naviguer avec soin pour éviter les manipulations ou les confrontations excessives."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Neptune", "Jupiter"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Vision Expansionniste",
+          "data": "Ce stellium associe l'intellect de Mercure avec la vision de Neptune et l'expansion de Jupiter. Les individus peuvent développer des idées ambitieuses et inspirantes, avec une capacité à voir au-delà des limites traditionnelles."
+        },
+        {
+          "nom": "Défis de Réalisme et d'Optimisme",
+          "data": "La présence de Neptune peut introduire des éléments d'illusion ou d'idéalisme dans les objectifs. Les individus doivent équilibrer leur optimisme avec une gestion réaliste des attentes et des aspirations."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Neptune", "Lune"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Inspiration Émotionnelle",
+          "data": "Ce stellium associe la pensée analytique de Mercure avec la vision de Neptune et les émotions de la Lune. Les individus peuvent être inspirés dans leurs communications par une profonde compréhension émotionnelle et spirituelle."
+        },
+        {
+          "nom": "Défis de Clarté Émotionnelle",
+          "data": "La présence de Neptune peut créer des illusions ou des confusions dans la compréhension des émotions. Les individus doivent naviguer entre leurs sentiments et leur intuition pour maintenir une communication claire."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Neptune", "Uranus"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Innovation Spirituelle",
+          "data": "Le Soleil avec Neptune et Uranus en Scorpion indique une capacité à allier créativité et vision spirituelle avec des idées innovantes. Les individus peuvent explorer des concepts avant-gardistes et inspirants avec une grande originalité."
+        },
+        {
+          "nom": "Défis d'Imprévisibilité Spirituelle",
+          "data": "La présence d'Uranus peut introduire des imprévus dans la recherche spirituelle ou créative. Les individus doivent gérer les changements soudains et les inspirations inattendues tout en maintenant une structure."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Neptune", "Pluton"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Transformation Intellectuelle et Spirituelle",
+          "data": "Le Soleil avec Neptune et Pluton en Scorpion indique une transformation profonde dans la manière de penser et de communiquer, avec une forte dimension spirituelle. Les individus peuvent vivre des évolutions importantes dans leur compréhension du monde."
+        },
+        {
+          "nom": "Défis de Réalité et de Pouvoir",
+          "data": "La présence de Neptune peut introduire des illusions dans la transformation intellectuelle. Les individus doivent équilibrer leur quête de profondeur avec une compréhension réaliste des processus de changement."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Jupiter", "Lune"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Optimisme Émotionnel",
+          "data": "Ce stellium associe l'intellect de Mercure avec l'expansion de Jupiter et les émotions de la Lune. Les individus peuvent exprimer leurs sentiments avec enthousiasme et confiance, créant des échanges positifs et dynamiques."
+        },
+        {
+          "nom": "Défis d'Excès Émotionnel",
+          "data": "La présence de Jupiter peut introduire des excès ou des attentes démesurées dans les émotions. Les individus doivent équilibrer leur optimisme avec une gestion réaliste de leurs sentiments et besoins."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Jupiter", "Uranus"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Expansion Intellectuelle Innovante",
+          "data": "Le Soleil avec Jupiter et Uranus en Scorpion indique une capacité à combiner expansion et innovation avec une grande énergie intellectuelle. Les individus peuvent être attirés par des idées originales et ambitieuses."
+        },
+        {
+          "nom": "Défis d'Imprévisibilité et d'Excès",
+          "data": "La combinaison de Jupiter et Uranus peut introduire des imprévus et des excès dans les projets intellectuels. Les individus doivent gérer les changements soudains et les attentes démesurées tout en maintenant un équilibre."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Jupiter", "Pluton"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Transformation Intellectuelle Expansionniste",
+          "data": "Ce stellium associe l'intellect de Mercure avec l'expansion de Jupiter et la profondeur de Pluton. Les individus peuvent vivre des transformations profondes avec une approche ambitieuse et dynamique dans leur pensée."
+        },
+        {
+          "nom": "Défis de Pouvoir et d'Expansion",
+          "data": "La présence de Pluton peut introduire des dynamiques complexes de pouvoir et de contrôle. Les individus doivent équilibrer leur désir d'expansion avec les enjeux de transformation personnelle."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Uranus", "Lune"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Innovation Émotionnelle",
+          "data": "Le Soleil avec Uranus et la Lune en Scorpion indique une capacité à allier innovation et émotions. Les individus peuvent trouver des façons créatives de gérer leurs sentiments et de réagir aux changements."
+        },
+        {
+          "nom": "Défis d'Imprévisibilité Émotionnelle",
+          "data": "La présence d'Uranus peut introduire des imprévus dans la gestion des émotions. Les individus doivent apprendre à maintenir un équilibre émotionnel tout en faisant face aux changements soudains."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Uranus", "Pluton"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Transformation Intellectuelle Innovante",
+          "data": "Ce stellium associe l'intellect de Mercure avec l'originalité d'Uranus et la profondeur de Pluton. Les individus peuvent vivre des évolutions profondes avec une approche novatrice et énergique dans leur pensée et leur communication."
+        },
+        {
+          "nom": "Défis de Pouvoir et d'Imprévisibilité",
+          "data": "La combinaison de Pluton et Uranus peut introduire des dynamiques complexes de pouvoir et d'imprévisibilité. Les individus doivent gérer les défis associés aux changements soudains et aux questions de contrôle."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Lune", "Pluton"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Transformation Émotionnelle Intellectuelle",
+          "data": "Ce stellium associe la pensée analytique de Mercure avec les émotions profondes de la Lune et la profondeur transformante de Pluton. Les individus peuvent vivre des changements importants dans leur manière de penser et de ressentir, avec une capacité à explorer des aspects profonds de leur psyché."
+        },
+        {
+          "nom": "Défis de Pouvoir Émotionnel",
+          "data": "La présence de Pluton peut introduire des dynamiques de pouvoir ou de contrôle dans les relations émotionnelles et intellectuelles. Les individus doivent naviguer entre la transformation personnelle et les interactions avec les autres, en évitant les manipulations ou les confrontations excessives."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Neptune", "Jupiter"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Amour et Expansion Spirituelle",
+          "data": "Ce stellium associe la sensualité de Vénus avec la vision de Neptune et l'expansion de Jupiter. Les individus peuvent vivre des relations empreintes de romantisme et d'idealisation, avec une dimension spirituelle et expansive."
+        },
+        {
+          "nom": "Défis d'Idéalisme et d'Excès",
+          "data": "La présence de Neptune peut introduire des illusions ou des attentes irréalistes dans les relations. L'expansion de Jupiter peut mener à des excès ou à des attentes démesurées. Les individus doivent trouver un équilibre entre leurs idéaux et la réalité."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Neptune", "Lune"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Sensibilité et Romance",
+          "data": "Ce stellium associe la sensualité de Vénus avec la vision de Neptune et les émotions de la Lune. Les individus peuvent vivre des expériences profondes et émouvantes dans leurs relations, avec une forte dimension intuitive et romantique."
+        },
+        {
+          "nom": "Défis de Clarté Émotionnelle",
+          "data": "La présence de Neptune peut créer des illusions ou des confusions dans la compréhension des émotions. Les individus doivent naviguer entre leur sensibilité émotionnelle et la clarté dans leurs relations."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Neptune", "Uranus"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Romance Innovante",
+          "data": "Ce stellium associe la sensualité de Vénus avec la vision de Neptune et l'originalité d'Uranus. Les individus peuvent vivre des relations uniques et innovantes, avec une forte dimension spirituelle et originale."
+        },
+        {
+          "nom": "Défis d'Imprévisibilité et d'Illusion",
+          "data": "La présence d'Uranus peut introduire des imprévus dans les relations, tandis que Neptune peut créer des illusions. Les individus doivent gérer les changements soudains tout en restant réalistes dans leurs attentes relationnelles."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Neptune", "Pluton"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Transformation Romantique Profonde",
+          "data": "Ce stellium associe la sensualité de Vénus avec la vision de Neptune et la profondeur de Pluton. Les individus peuvent vivre des transformations profondes dans leurs relations amoureuses, avec une forte dimension spirituelle et intense."
+        },
+        {
+          "nom": "Défis de Pouvoir et d'Illusion",
+          "data": "La présence de Neptune peut introduire des illusions dans les relations, tandis que Pluton peut ajouter des dynamiques de pouvoir et de contrôle. Les individus doivent équilibrer transformation et réalité dans leurs interactions amoureuses."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Jupiter", "Lune"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Expansion Émotionnelle et Romantique",
+          "data": "Ce stellium associe la sensualité de Vénus avec l'expansion de Jupiter et les émotions de la Lune. Les individus peuvent vivre des expériences amoureuses intenses et enthousiastes, avec une grande profondeur émotionnelle."
+        },
+        {
+          "nom": "Défis d'Excès Émotionnel",
+          "data": "La présence de Jupiter peut introduire des excès ou des attentes démesurées dans les émotions et les relations. Les individus doivent gérer leur enthousiasme et éviter les comportements excessifs."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Jupiter", "Uranus"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Romance Expansionniste et Innovante",
+          "data": "Ce stellium associe la sensualité de Vénus avec l'expansion de Jupiter et l'originalité d'Uranus. Les individus peuvent explorer des relations uniques et avant-gardistes avec une grande énergie et optimisme."
+        },
+        {
+          "nom": "Défis d'Imprévisibilité et d'Excès",
+          "data": "La présence d'Uranus peut introduire des changements soudains dans les relations, tandis que Jupiter peut mener à des excès. Les individus doivent équilibrer leur désir d'innovation avec des attentes réalistes."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Jupiter", "Pluton"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Transformation Émotionnelle et Expansion",
+          "data": "Ce stellium associe la sensualité de Vénus avec l'expansion de Jupiter et la profondeur de Pluton. Les individus peuvent vivre des transformations profondes et expansives dans leurs relations amoureuses."
+        },
+        {
+          "nom": "Défis de Pouvoir et d'Optimisme",
+          "data": "La présence de Pluton peut introduire des dynamiques complexes de pouvoir dans les relations, tandis que Jupiter peut créer des attentes optimistes. Les individus doivent naviguer entre la transformation personnelle et les défis relationnels."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Uranus", "Lune"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Innovation Émotionnelle et Romantique",
+          "data": "Ce stellium associe la sensualité de Vénus avec l'originalité d'Uranus et les émotions de la Lune. Les individus peuvent vivre des relations émotionnellement innovantes, avec des approches créatives et originales de l'amour."
+        },
+        {
+          "nom": "Défis d'Imprévisibilité Émotionnelle",
+          "data": "La présence d'Uranus peut introduire des imprévus dans les relations, tandis que la Lune peut intensifier les émotions. Les individus doivent gérer les changements soudains tout en maintenant une stabilité émotionnelle."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Uranus", "Pluton"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Romance Intense et Innovante",
+          "data": "Ce stellium associe la sensualité de Vénus avec l'originalité d'Uranus et la profondeur de Pluton. Les individus peuvent vivre des relations amoureuses intenses, profondes et innovantes, avec une forte capacité de transformation personnelle."
+        },
+        {
+          "nom": "Défis de Pouvoir et d'Imprévisibilité",
+          "data": "La combinaison de Pluton et Uranus peut introduire des dynamiques complexes de pouvoir et d'imprévisibilité dans les relations. Les individus doivent naviguer soigneusement entre les changements soudains et les défis de contrôle."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Pluton", "Lune"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Transformation Émotionnelle et Romantique",
+          "data": "Ce stellium associe la sensualité de Vénus avec la profondeur de Pluton et les émotions de la Lune. Les individus peuvent vivre des évolutions profondes dans leurs relations amoureuses et émotionnelles, avec une capacité à transformer leur vie sentimentale."
+        },
+        {
+          "nom": "Défis de Pouvoir et d'Émotions Intenses",
+          "data": "La présence de Pluton peut créer des dynamiques de pouvoir complexes dans les relations, tandis que la Lune intensifie les émotions. Les individus doivent gérer ces défis tout en maintenant des relations équilibrées."
+        }
+      ]
+    },
+    {
+      "noms": ["Neptune", "Jupiter", "Lune"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Vision Émotionnelle et Spirituelle",
+          "data": "Ce stellium associe la vision spirituelle de Neptune avec l'expansion de Jupiter et les émotions de la Lune. Les individus peuvent avoir des expériences émotionnelles profondes et spirituellement enrichissantes, avec une grande capacité à comprendre et à intégrer des idées mystiques."
+        },
+        {
+          "nom": "Défis d'Idéalisme et d'Excès",
+          "data": "La présence de Neptune peut introduire des illusions dans la compréhension des émotions, tandis que Jupiter peut mener à des excès. Les individus doivent équilibrer leur idéalisme avec une approche réaliste de leurs sentiments et expériences spirituelles."
+        }
+      ]
+    },
+    {
+      "noms": ["Neptune", "Jupiter", "Uranus"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Innovation Spirituelle et Expansion",
+          "data": "Ce stellium associe la vision spirituelle de Neptune avec l'expansion de Jupiter et l'originalité d'Uranus. Les individus peuvent explorer des concepts spirituels novateurs et vivre des changements inspirants avec une grande ouverture d'esprit."
+        },
+        {
+          "nom": "Défis d'Imprévisibilité et d'Idéalisme",
+          "data": "La présence d'Uranus peut introduire des imprévus dans les aspirations spirituelles, tandis que Neptune peut créer des illusions. Les individus doivent gérer les changements soudains tout en restant ancrés dans la réalité spirituelle."
+        }
+      ]
+    },
+    {
+      "noms": ["Neptune", "Jupiter", "Pluton"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Transformation Spirituelle et Expansion",
+          "data": "Ce stellium associe la vision spirituelle de Neptune avec l'expansion de Jupiter et la profondeur de Pluton. Les individus peuvent vivre des transformations profondes dans leur quête spirituelle, avec une capacité à intégrer des changements importants dans leur vision du monde."
+        },
+        {
+          "nom": "Défis de Pouvoir et d'Optimisme",
+          "data": "La présence de Pluton peut introduire des dynamiques de pouvoir dans les aspirations spirituelles, tandis que Jupiter peut mener à des attentes optimistes. Les individus doivent naviguer entre transformation et optimisme tout en équilibrant leurs aspirations."
+        }
+      ]
+    },
+    {
+      "noms": ["Neptune", "Uranus", "Lune"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Inspiration Émotionnelle et Spirituelle",
+          "data": "Ce stellium associe la vision spirituelle de Neptune avec l'originalité d'Uranus et les émotions de la Lune. Les individus peuvent vivre des expériences émotionnelles et spirituelles uniques, avec une forte capacité à intégrer des idées novatrices dans leur vie émotionnelle."
+        },
+        {
+          "nom": "Défis d'Imprévisibilité Émotionnelle",
+          "data": "La présence d'Uranus peut introduire des changements soudains dans les émotions, tandis que Neptune peut créer des illusions. Les individus doivent gérer les surprises émotionnelles tout en restant clairs dans leur vision spirituelle."
+        }
+      ]
+    },
+    {
+      "noms": ["Neptune", "Uranus", "Pluton"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Transformation Spirituelle Innovante",
+          "data": "Ce stellium associe la vision spirituelle de Neptune avec l'originalité d'Uranus et la profondeur de Pluton. Les individus peuvent vivre des transformations profondes et novatrices dans leur quête spirituelle, avec une forte capacité à intégrer des changements personnels significatifs."
+        },
+        {
+          "nom": "Défis de Pouvoir et d'Imprévisibilité",
+          "data": "La combinaison de Pluton et Uranus peut introduire des dynamiques complexes de pouvoir et des changements soudains dans les aspirations spirituelles. Les individus doivent équilibrer leur désir de transformation avec les imprévus qui surviennent."
+        }
+      ]
+    },
+    {
+      "noms": ["Neptune", "Lune", "Pluton"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Transformation Émotionnelle et Spirituelle",
+          "data": "Ce stellium associe la vision spirituelle de Neptune avec les émotions profondes de la Lune et la profondeur transformative de Pluton. Les individus peuvent vivre des transformations profondes dans leur vie émotionnelle et spirituelle, avec une capacité à explorer des aspects intenses et cachés de leur psyché."
+        },
+        {
+          "nom": "Défis de Pouvoir et de Clarté Émotionnelle",
+          "data": "La présence de Pluton peut introduire des dynamiques de pouvoir complexes dans les émotions et la spiritualité, tandis que Neptune peut créer des illusions. Les individus doivent naviguer entre transformations intenses et la recherche de clarté dans leurs émotions et aspirations spirituelles."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Lune", "Uranus"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Expansion Émotionnelle et Innovation",
+          "data": "Ce stellium associe l'expansion de Jupiter avec les émotions profondes de la Lune et l'originalité d'Uranus. Les individus peuvent vivre des expériences émotionnelles enrichissantes et novatrices, avec une grande ouverture d'esprit et une capacité à explorer de nouvelles approches dans leur vie émotionnelle."
+        },
+        {
+          "nom": "Défis d'Excès et d'Imprévisibilité",
+          "data": "La présence de Jupiter peut introduire des excès émotionnels, tandis qu'Uranus peut créer des imprévus dans les émotions. Les individus doivent équilibrer leur enthousiasme avec une gestion réaliste des changements soudains dans leur vie émotionnelle."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Lune", "Pluton"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Transformation Émotionnelle et Expansion",
+          "data": "Ce stellium associe l'expansion de Jupiter avec les émotions profondes de la Lune et la profondeur de Pluton. Les individus peuvent vivre des transformations émotionnelles profondes et expansives, avec une capacité à intégrer des changements importants dans leur perspective émotionnelle."
+        },
+        {
+          "nom": "Défis de Pouvoir et d'Optimisme",
+          "data": "La présence de Pluton peut introduire des dynamiques de pouvoir dans les émotions, tandis que Jupiter peut créer des attentes optimistes. Les individus doivent naviguer entre la transformation personnelle et l'optimisme tout en gérant les défis relationnels."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Uranus", "Pluton"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Innovation et Transformation Profondes",
+          "data": "Ce stellium associe l'expansion de Jupiter avec l'originalité d'Uranus et la profondeur de Pluton. Les individus peuvent vivre des changements transformateurs et novateurs, avec une capacité à élargir leur perspective tout en intégrant des évolutions profondes dans leur vie."
+        },
+        {
+          "nom": "Défis d'Imprévisibilité et de Pouvoir",
+          "data": "La combinaison d'Uranus et Pluton peut introduire des dynamiques complexes d'imprévisibilité et de pouvoir dans les aspirations et les transformations personnelles. Les individus doivent équilibrer leur désir de changement avec les défis imprévus qui surgissent."
+        }
+      ]
+    },
+    {
+      "noms": ["Lune", "Uranus", "Pluton"],
+      "signe": "Scorpion",
+      "data": [
+        {
+          "nom": "Transformation Émotionnelle et Innovation",
+          "data": "Ce stellium associe les émotions profondes de la Lune avec l'originalité d'Uranus et la profondeur transformante de Pluton. Les individus peuvent vivre des transformations émotionnelles significatives et innovantes, avec une capacité à explorer des aspects intenses et originaux de leur psyché."
+        },
+        {
+          "nom": "Défis de Pouvoir et d'Imprévisibilité",
+          "data": "La combinaison de Pluton et Uranus peut introduire des dynamiques complexes de pouvoir et des changements soudains dans la vie émotionnelle. Les individus doivent naviguer entre l'intensité émotionnelle et les imprévus tout en gérant les influences puissantes et les transformations personnelles."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Saturne", "Mars"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Autorité et Énergie",
+          "data": "Ce stellium associe la vitalité du Soleil avec l'autorité de Saturne et l'énergie dynamique de Mars. Les individus peuvent être dotés d'une forte capacité à prendre des responsabilités tout en poursuivant des objectifs avec détermination et énergie."
+        },
+        {
+          "nom": "Défis de Conflit et de Responsabilité",
+          "data": "La combinaison de Mars et Saturne peut introduire des conflits entre impulsivité et discipline. Les individus doivent équilibrer leur énergie avec des responsabilités pour éviter des tensions dans leurs relations et projets."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Saturne", "Mercure"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Raisonnement et Discipline",
+          "data": "Ce stellium associe la vitalité du Soleil avec la discipline de Saturne et l'intellect analytique de Mercure. Les individus peuvent avoir une approche structurée et réfléchie dans leur pensée et communication."
+        },
+        {
+          "nom": "Défis de Rigide et de Communication",
+          "data": "La présence de Saturne peut rendre la communication trop rigide ou sérieuse. Les individus doivent veiller à équilibrer la discipline avec une expression claire et ouverte."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Saturne", "Vénus"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Harmonie et Responsabilité",
+          "data": "Ce stellium associe la vitalité du Soleil avec la discipline de Saturne et l'amour de Vénus. Les individus peuvent trouver un équilibre entre responsabilité et quête de l'harmonie dans leurs relations et leur vie sociale."
+        },
+        {
+          "nom": "Défis de Conformisme et de Relations",
+          "data": "La combinaison de Saturne et Vénus peut introduire des défis liés au conformisme dans les relations. Les individus doivent naviguer entre les attentes sociales et leurs véritables désirs émotionnels."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Saturne", "Neptune"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Idéal et Structure",
+          "data": "Ce stellium associe la vitalité du Soleil avec la discipline de Saturne et la vision idéaliste de Neptune. Les individus peuvent être capables de structurer leurs rêves et idéaux en objectifs réalisables."
+        },
+        {
+          "nom": "Défis d'Illusion et de Contrainte",
+          "data": "La présence de Neptune peut introduire des illusions ou des attentes irréalistes, tandis que Saturne peut rendre la réalisation des idéaux difficile. Les individus doivent équilibrer leurs aspirations spirituelles avec une approche pragmatique."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Saturne", "Jupiter"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Croissance et Responsabilité",
+          "data": "Ce stellium associe la vitalité du Soleil avec la discipline de Saturne et l'expansion de Jupiter. Les individus peuvent avoir une approche équilibrée de la croissance personnelle, en alliant ambition et responsabilité."
+        },
+        {
+          "nom": "Défis d'Excès et de Structure",
+          "data": "La combinaison de Jupiter et Saturne peut introduire des défis liés à l'équilibre entre expansion et limitation. Les individus doivent gérer les excès potentiels tout en respectant les contraintes."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Saturne", "Lune"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Émotion et Structure",
+          "data": "Ce stellium associe la vitalité du Soleil avec la discipline de Saturne et les émotions de la Lune. Les individus peuvent trouver un équilibre entre leurs besoins émotionnels et leurs responsabilités."
+        },
+        {
+          "nom": "Défis de Conflit Émotionnel et de Conformité",
+          "data": "La présence de Saturne peut créer des conflits entre les exigences émotionnelles et les attentes sociales. Les individus doivent trouver un moyen de gérer ces tensions pour maintenir l'harmonie."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Saturne", "Uranus"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Innovation et Structure",
+          "data": "Ce stellium associe la vitalité du Soleil avec la discipline de Saturne et l'originalité d'Uranus. Les individus peuvent trouver des moyens innovants de structurer leur vie et leurs projets."
+        },
+        {
+          "nom": "Défis d'Imprévisibilité et de Conformité",
+          "data": "La présence d'Uranus peut introduire des imprévus dans la vie quotidienne, tandis que Saturne peut rendre les changements plus difficiles à gérer. Les individus doivent équilibrer leur besoin de liberté avec les structures nécessaires."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Saturne", "Pluton"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Transformation et Responsabilité",
+          "data": "Ce stellium associe la vitalité du Soleil avec la discipline de Saturne et la profondeur de Pluton. Les individus peuvent vivre des transformations profondes tout en devant faire face à des responsabilités importantes."
+        },
+        {
+          "nom": "Défis de Pouvoir et de Contrôle",
+          "data": "La combinaison de Pluton et Saturne peut introduire des dynamiques de pouvoir et de contrôle dans la vie personnelle et professionnelle. Les individus doivent gérer ces influences pour éviter des conflits et des tensions."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mercure", "Vénus"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Harmonie et Communication",
+          "data": "Ce stellium associe la vitalité du Soleil avec l'intellect de Mercure et l'amour de Vénus. Les individus peuvent avoir des compétences exceptionnelles en communication et dans l'établissement de relations harmonieuses."
+        },
+        {
+          "nom": "Défis d'Exigence Relationnelle",
+          "data": "La combinaison de Mercure et Vénus peut créer des attentes élevées dans les relations. Les individus doivent gérer les défis liés aux exigences de communication et aux attentes émotionnelles."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mercure", "Neptune"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Inspiration et Intellect",
+          "data": "Ce stellium associe la vitalité du Soleil avec l'intellect de Mercure et la vision inspirante de Neptune. Les individus peuvent être capables de penser de manière créative et d'intégrer des idées spirituelles dans leur communication."
+        },
+        {
+          "nom": "Défis d'Illusion et de Clarté",
+          "data": "La présence de Neptune peut introduire des illusions ou des confusions dans la pensée et la communication. Les individus doivent équilibrer leurs inspirations avec une approche claire et réaliste."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mercure", "Jupiter"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Expansion Intellectuelle",
+          "data": "Ce stellium associe la vitalité du Soleil avec l'intellect de Mercure et l'expansion de Jupiter. Les individus peuvent avoir une approche enthousiaste et optimiste dans leur pensée et leur communication."
+        },
+        {
+          "nom": "Défis d'Excès et de Confiance",
+          "data": "La présence de Jupiter peut introduire des excès dans les idées et la communication, tandis que Mercure peut mener à une surabondance d'informations. Les individus doivent gérer leurs attentes et leur confiance avec soin."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mercure", "Lune"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Émotion et Communication",
+          "data": "Ce stellium associe la vitalité du Soleil avec l'intellect de Mercure et les émotions de la Lune. Les individus peuvent être habiles dans la communication de leurs sentiments et dans l'établissement de connexions profondes avec les autres."
+        },
+        {
+          "nom": "Défis d'Expression Émotionnelle",
+          "data": "La combinaison de Mercure et de la Lune peut créer des défis dans l'expression claire des émotions. Les individus doivent équilibrer leurs besoins émotionnels avec une communication ouverte et honnête."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mercure", "Uranus"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Innovation et Intellect",
+          "data": "Ce stellium associe la vitalité du Soleil avec l'intellect de Mercure et l'originalité d'Uranus. Les individus peuvent être créatifs et innovants dans leur pensée et leur communication."
+        },
+        {
+          "nom": "Défis d'Imprévisibilité et de Concentration",
+          "data": "La présence d'Uranus peut introduire des changements soudains dans les idées et la communication, tandis que Mercure peut lutter pour se concentrer. Les individus doivent équilibrer l'innovation avec la nécessité de rester centré."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mercure", "Pluton"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Transformation Intellectuelle",
+          "data": "Ce stellium associe la vitalité du Soleil avec l'intellect de Mercure et la profondeur de Pluton. Les individus peuvent vivre des transformations profondes dans leur manière de penser et de communiquer."
+        },
+        {
+          "nom": "Défis de Profondeur et de Communication",
+          "data": "La combinaison de Pluton et Mercure peut introduire des défis dans la communication des pensées profondes. Les individus doivent gérer les dynamiques de pouvoir et les transformations dans leur expression intellectuelle."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Vénus", "Neptune"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Harmonie et Idéalisme",
+          "data": "Ce stellium associe la vitalité du Soleil avec l'amour de Vénus et la vision idéaliste de Neptune. Les individus peuvent chercher à créer une harmonie dans leurs relations tout en poursuivant des idéaux élevés."
+        },
+        {
+          "nom": "Défis d'Illusion dans les Relations",
+          "data": "La présence de Neptune peut introduire des illusions ou des attentes irréalistes dans les relations. Les individus doivent équilibrer leur idéalisme avec une compréhension réaliste de leurs relations et désirs."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Vénus", "Jupiter"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Expansion et Harmonie",
+          "data": "Ce stellium associe la vitalité du Soleil avec l'amour de Vénus et l'expansion de Jupiter. Les individus peuvent vivre des relations harmonieuses et croissantes, avec un sens accru de l'abondance et de la joie."
+        },
+        {
+          "nom": "Défis d'Excès Relationnel",
+          "data": "La combinaison de Jupiter et Vénus peut introduire des excès dans les relations ou les plaisirs. Les individus doivent gérer leurs attentes et leur optimisme pour éviter des déséquilibres dans leurs interactions."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Vénus", "Lune"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Harmonie Émotionnelle",
+          "data": "Ce stellium associe la vitalité du Soleil avec l'amour de Vénus et les émotions de la Lune. Les individus peuvent vivre des relations épanouissantes et harmonieuses, avec une forte capacité à exprimer et partager leurs sentiments."
+        },
+        {
+          "nom": "Défis d'Harmonie Émotionnelle",
+          "data": "La combinaison de la Lune et Vénus peut créer des défis dans l'équilibre entre les besoins émotionnels et les désirs relationnels. Les individus doivent gérer les attentes émotionnelles avec sensibilité."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Vénus", "Uranus"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Innovation dans les Relations",
+          "data": "Ce stellium associe la vitalité du Soleil avec l'amour de Vénus et l'originalité d'Uranus. Les individus peuvent chercher des moyens innovants de créer des relations harmonieuses et épanouissantes."
+        },
+        {
+          "nom": "Défis d'Imprévisibilité Relationnelle",
+          "data": "La présence d'Uranus peut introduire des changements inattendus dans les relations ou les plaisirs. Les individus doivent équilibrer leur désir d'innovation avec une stabilité relationnelle."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Vénus", "Pluton"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Transformation des Relations",
+          "data": "Ce stellium associe la vitalité du Soleil avec l'amour de Vénus et la profondeur de Pluton. Les individus peuvent vivre des transformations profondes dans leurs relations et leurs valeurs émotionnelles."
+        },
+        {
+          "nom": "Défis de Pouvoir et de Profondeur",
+          "data": "La combinaison de Pluton et Vénus peut introduire des dynamiques de pouvoir dans les relations. Les individus doivent naviguer entre profondeur émotionnelle et équilibre dans leurs interactions."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Neptune", "Jupiter"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Inspiration et Expansion",
+          "data": "Ce stellium associe la vitalité du Soleil avec la vision inspirante de Neptune et l'expansion de Jupiter. Les individus peuvent vivre une croissance personnelle inspirante et une quête élevée de sens."
+        },
+        {
+          "nom": "Défis d'Illusion et d'Excès",
+          "data": "La présence de Neptune peut introduire des illusions, tandis que Jupiter peut mener à des excès. Les individus doivent équilibrer leurs aspirations élevées avec une approche pratique."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Neptune", "Lune"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Inspiration Émotionnelle",
+          "data": "Ce stellium associe la vitalité du Soleil avec la vision inspirante de Neptune et les émotions de la Lune. Les individus peuvent vivre des expériences émotionnelles profondes et spirituelles, avec une capacité à intégrer des idéaux élevés dans leur vie quotidienne."
+        },
+        {
+          "nom": "Défis d'Illusion Émotionnelle",
+          "data": "La présence de Neptune peut introduire des illusions dans les émotions, tandis que la Lune peut rendre les sentiments plus intenses. Les individus doivent gérer la clarté émotionnelle tout en poursuivant leurs inspirations."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Neptune", "Uranus"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Inspiration et Innovation",
+          "data": "Ce stellium associe la vitalité du Soleil avec la vision inspirante de Neptune et l'originalité d'Uranus. Les individus peuvent explorer des idées novatrices et spirituelles, avec une capacité à intégrer des concepts innovants dans leur vie."
+        },
+        {
+          "nom": "Défis d'Imprévisibilité et d'Idéalisme",
+          "data": "La présence d'Uranus peut introduire des changements soudains dans les inspirations, tandis que Neptune peut créer des illusions. Les individus doivent équilibrer leur créativité avec une approche pratique."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Neptune", "Pluton"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Transformation Spirituelle",
+          "data": "Ce stellium associe la vitalité du Soleil avec la vision spirituelle de Neptune et la profondeur de Pluton. Les individus peuvent vivre des transformations profondes dans leur quête spirituelle et personnelle."
+        },
+        {
+          "nom": "Défis de Pouvoir et d'Illusion",
+          "data": "La présence de Pluton peut introduire des dynamiques de pouvoir dans les aspirations spirituelles, tandis que Neptune peut mener à des illusions. Les individus doivent naviguer entre transformation et clarté spirituelle."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Jupiter", "Lune"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Expansion Émotionnelle",
+          "data": "Ce stellium associe la vitalité du Soleil avec l'expansion de Jupiter et les émotions de la Lune. Les individus peuvent vivre des expériences émotionnelles enrichissantes et expansives, avec une capacité accrue à explorer des sentiments profonds et à grandir à travers eux."
+        },
+        {
+          "nom": "Défis d'Excès Émotionnel",
+          "data": "La présence de Jupiter peut introduire des excès dans les émotions, tandis que la Lune peut rendre ces sentiments plus intenses. Les individus doivent gérer l'équilibre entre croissance émotionnelle et excès potentiel."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Jupiter", "Uranus"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Innovation et Croissance",
+          "data": "Ce stellium associe la vitalité du Soleil avec l'expansion de Jupiter et l'originalité d'Uranus. Les individus peuvent vivre des opportunités de croissance personnelle et professionnelle à travers des idées novatrices et des changements inattendus."
+        },
+        {
+          "nom": "Défis d'Excès et d'Imprévisibilité",
+          "data": "La combinaison de Jupiter et Uranus peut introduire des changements imprévus et des excès dans les aspirations. Les individus doivent équilibrer leur désir de croissance avec une approche pragmatique face aux imprévus."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Jupiter", "Pluton"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Transformation et Expansion",
+          "data": "Ce stellium associe la vitalité du Soleil avec l'expansion de Jupiter et la profondeur de Pluton. Les individus peuvent vivre des transformations profondes tout en poursuivant une expansion personnelle et professionnelle."
+        },
+        {
+          "nom": "Défis de Pouvoir et d'Excès",
+          "data": "La présence de Pluton peut introduire des dynamiques de pouvoir dans les aspirations de croissance, tandis que Jupiter peut mener à des excès. Les individus doivent gérer ces dynamiques de manière équilibrée."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Uranus", "Pluton"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Transformation et Originalité",
+          "data": "Ce stellium associe la vitalité du Soleil avec l'originalité d'Uranus et la profondeur de Pluton. Les individus peuvent vivre des transformations profondes et créatives, avec une capacité à introduire des changements significatifs dans leur vie."
+        },
+        {
+          "nom": "Défis de Pouvoir et d'Imprévisibilité",
+          "data": "La présence de Pluton et Uranus peut créer des dynamiques complexes de pouvoir et d'imprévisibilité. Les individus doivent naviguer entre transformation personnelle et imprévus dans leur vie."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Lune", "Uranus"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Émotions et Innovation",
+          "data": "Ce stellium associe la vitalité du Soleil avec les émotions de la Lune et l'originalité d'Uranus. Les individus peuvent vivre des expériences émotionnelles enrichissantes tout en intégrant des idées novatrices dans leur vie quotidienne."
+        },
+        {
+          "nom": "Défis d'Imprévisibilité Émotionnelle",
+          "data": "La présence d'Uranus peut introduire des imprévus dans les émotions, tandis que la Lune peut rendre ces émotions plus intenses. Les individus doivent équilibrer l'innovation avec la stabilité émotionnelle."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Lune", "Pluton"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Émotions et Transformation",
+          "data": "Ce stellium associe la vitalité du Soleil avec les émotions de la Lune et la profondeur de Pluton. Les individus peuvent vivre des transformations profondes dans leur vie émotionnelle, avec une capacité à explorer et à intégrer des aspects intenses de leur psyché."
+        },
+        {
+          "nom": "Défis de Pouvoir Émotionnel",
+          "data": "La combinaison de Pluton et la Lune peut introduire des dynamiques de pouvoir dans les émotions. Les individus doivent gérer la profondeur émotionnelle tout en faisant face aux influences puissantes dans leur vie personnelle."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mars", "Mercure"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Vitalité Mentale",
+          "data": "Ce stellium associe la vitalité du Soleil avec l'énergie de Mars et l'intellect de Mercure. Les individus peuvent exprimer leur énergie de manière dynamique et communicative, avec une capacité accrue à défendre leurs idées."
+        },
+        {
+          "nom": "Défis de Conflit Mental",
+          "data": "La combinaison de Mars et Mercure peut introduire des conflits dans la communication et la prise de décision. Les individus doivent équilibrer leur enthousiasme avec une approche réfléchie pour éviter les disputes."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mars", "Vénus"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Énergie et Attraction",
+          "data": "Ce stellium associe la vitalité du Soleil avec l'énergie de Mars et l'amour de Vénus. Les individus peuvent vivre des relations passionnées et attrayantes, avec une capacité à exprimer leur désir et leur charme de manière dynamique."
+        },
+        {
+          "nom": "Défis de Conflit dans les Relations",
+          "data": "La présence de Mars peut introduire des conflits dans les relations, en particulier lorsque les désirs et les besoins de Vénus sont en désaccord avec l'énergie agressive de Mars. Les individus doivent gérer ces tensions avec sensibilité."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mars", "Neptune"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Énergie et Inspiration",
+          "data": "Ce stellium associe la vitalité du Soleil avec l'énergie de Mars et l'inspiration de Neptune. Les individus peuvent combiner dynamisme et créativité pour poursuivre des projets artistiques ou spirituels avec passion."
+        },
+        {
+          "nom": "Défis d'Illusion et d'Imprévisibilité",
+          "data": "La présence de Neptune peut introduire des illusions ou des attentes irréalistes, tandis que Mars peut mener à une action impulsive. Les individus doivent équilibrer leurs inspirations avec une approche pratique."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mars", "Jupiter"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Expansion Énergétique",
+          "data": "Ce stellium associe la vitalité du Soleil avec l'énergie de Mars et l'expansion de Jupiter. Les individus peuvent vivre une croissance personnelle et professionnelle dynamique, avec une forte motivation pour explorer de nouvelles opportunités."
+        },
+        {
+          "nom": "Défis d'Excès et d'Impulsivité",
+          "data": "La combinaison de Mars et Jupiter peut mener à des excès ou des impulsivités dans la quête de croissance. Les individus doivent gérer leur enthousiasme avec une approche équilibrée pour éviter les excès."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mars", "Lune"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Énergie Émotionnelle",
+          "data": "Ce stellium associe la vitalité du Soleil avec l'énergie de Mars et les émotions de la Lune. Les individus peuvent exprimer leurs sentiments de manière dynamique et passionnée, avec une forte capacité à agir selon leurs émotions."
+        },
+        {
+          "nom": "Défis d'Imprévisibilité Émotionnelle",
+          "data": "La présence de Mars peut introduire des conflits ou de l'impulsivité dans les émotions, tandis que la Lune peut rendre ces sentiments plus intenses. Les individus doivent équilibrer leur énergie avec une gestion prudente de leurs émotions."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mars", "Uranus"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Innovation Dynamique",
+          "data": "Ce stellium associe la vitalité du Soleil avec l'énergie de Mars et l'originalité d'Uranus. Les individus peuvent explorer des approches innovantes et créatives avec une énergie dynamique, apportant des changements significatifs dans leur vie."
+        },
+        {
+          "nom": "Défis d'Imprévisibilité et de Conflit",
+          "data": "La présence d'Uranus peut introduire des changements soudains et imprévus dans l'énergie de Mars, créant des conflits ou des tensions. Les individus doivent gérer ces imprévus avec flexibilité et équilibre."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mars", "Pluton"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Transformation Dynamique",
+          "data": "Ce stellium associe la vitalité du Soleil avec l'énergie de Mars et la profondeur de Pluton. Les individus peuvent vivre des transformations profondes avec une énergie dynamique, poursuivant des objectifs avec passion et persistance."
+        },
+        {
+          "nom": "Défis de Pouvoir et de Conflit",
+          "data": "La combinaison de Mars et Pluton peut créer des dynamiques de pouvoir dans les actions, avec des conflits potentiels liés à la transformation personnelle. Les individus doivent naviguer entre intensité et équilibre pour éviter les excès de pouvoir."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mars", "Mercure"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Discipline et Communication",
+          "data": "Ce stellium associe la discipline de Saturne avec l'énergie de Mars et l'intellect de Mercure. Les individus peuvent aborder les défis avec une approche méthodique tout en utilisant leur énergie de manière ciblée pour des communications claires et efficaces."
+        },
+        {
+          "nom": "Défis de Conflit et Restriction",
+          "data": "La combinaison de Mars et Saturne peut créer des conflits entre impulsivité et restriction, tandis que Mercure ajoute une dimension de réflexion et de logique. Les individus doivent naviguer entre ces tensions pour maintenir une communication équilibrée."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mars", "Vénus"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Discipline dans les Relations",
+          "data": "Ce stellium associe la discipline de Saturne avec l'énergie de Mars et l'amour de Vénus. Les individus peuvent aborder les relations avec sérieux et engagement, en combinant passion et responsabilité."
+        },
+        {
+          "nom": "Défis d'Impatience et de Rigidité",
+          "data": "La présence de Mars peut introduire des conflits ou de l'impatience dans les relations, tandis que Saturne peut rendre ces aspects plus rigides. Les individus doivent équilibrer la passion et la discipline pour éviter des tensions dans les interactions."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mars", "Neptune"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Discipline et Inspiration",
+          "data": "Ce stellium associe la discipline de Saturne avec l'énergie de Mars et l'inspiration de Neptune. Les individus peuvent utiliser leur dynamisme pour poursuivre des objectifs inspirants, avec une approche structurée et créative."
+        },
+        {
+          "nom": "Défis d'Illusion et de Conflit",
+          "data": "La présence de Neptune peut introduire des illusions ou des attentes irréalistes, tandis que Mars peut mener à une action impulsive. Les individus doivent équilibrer leur inspiration avec une approche pratique et disciplinée."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mars", "Jupiter"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Discipline et Expansion",
+          "data": "Ce stellium associe la discipline de Saturne avec l'énergie de Mars et l'expansion de Jupiter. Les individus peuvent atteindre une croissance personnelle et professionnelle en utilisant leur énergie de manière disciplinée et stratégique."
+        },
+        {
+          "nom": "Défis d'Excès et de Restriction",
+          "data": "La combinaison de Jupiter et Saturne peut introduire des tensions entre expansion et restriction, tandis que Mars peut ajouter de l'impatience. Les individus doivent gérer ces dynamiques pour maintenir un équilibre entre croissance et discipline."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mars", "Lune"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Discipline Émotionnelle",
+          "data": "Ce stellium associe la discipline de Saturne avec l'énergie de Mars et les émotions de la Lune. Les individus peuvent aborder les défis émotionnels avec une approche méthodique et énergique, en combinant sensibilité et rigueur."
+        },
+        {
+          "nom": "Défis de Conflit Émotionnel",
+          "data": "La présence de Mars peut introduire des conflits ou de l'impulsivité dans les émotions, tandis que Saturne peut rendre ces aspects plus rigides. Les individus doivent équilibrer la passion et la discipline pour gérer les émotions de manière équilibrée."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mars", "Uranus"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Discipline et Innovation",
+          "data": "Ce stellium associe la discipline de Saturne avec l'énergie de Mars et l'originalité d'Uranus. Les individus peuvent utiliser leur dynamisme pour apporter des changements novateurs tout en restant disciplinés et organisés."
+        },
+        {
+          "nom": "Défis d'Imprévisibilité et de Rigidité",
+          "data": "La présence d'Uranus peut introduire des changements imprévus, tandis que Saturne peut créer des rigidités. Les individus doivent équilibrer leur désir d'innovation avec une approche structurée pour éviter des tensions."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mars", "Pluton"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Discipline et Transformation",
+          "data": "Ce stellium associe la discipline de Saturne avec l'énergie de Mars et la profondeur de Pluton. Les individus peuvent aborder les transformations profondes avec une approche rigoureuse et persévérante, en combinant dynamisme et profondeur."
+        },
+        {
+          "nom": "Défis de Pouvoir et de Restriction",
+          "data": "La combinaison de Pluton et Saturne peut introduire des dynamiques de pouvoir, tandis que Mars ajoute de l'énergie et de l'impulsivité. Les individus doivent gérer ces aspects de manière équilibrée pour éviter des conflits de pouvoir."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mercure", "Vénus"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Discipline et Communication Relationnelle",
+          "data": "Ce stellium associe la discipline de Saturne avec l'intellect de Mercure et l'amour de Vénus. Les individus peuvent aborder les relations et la communication avec sérieux et rigueur, en combinant clarté mentale et sensibilité."
+        },
+        {
+          "nom": "Défis de Conflit dans la Communication",
+          "data": "La présence de Saturne peut rendre la communication plus rigide, tandis que Mercure et Vénus apportent des aspects relationnels. Les individus doivent équilibrer la discipline avec une approche plus douce pour éviter des tensions dans les interactions."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mercure", "Neptune"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Discipline Mentale et Inspiration",
+          "data": "Ce stellium associe la discipline de Saturne avec l'intellect de Mercure et l'inspiration de Neptune. Les individus peuvent structurer leurs pensées de manière créative, en intégrant des idées novatrices avec une approche méthodique."
+        },
+        {
+          "nom": "Défis d'Illusion dans la Pensée",
+          "data": "La présence de Neptune peut introduire des illusions ou des attentes irréalistes, tandis que Saturne apporte de la rigueur. Les individus doivent équilibrer leur inspiration avec une pensée claire et disciplinée pour éviter des déceptions."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mercure", "Jupiter"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Discipline Mentale et Croissance",
+          "data": "Ce stellium associe la discipline de Saturne avec l'intellect de Mercure et l'expansion de Jupiter. Les individus peuvent structurer leur pensée pour atteindre une croissance personnelle et professionnelle, en combinant logique et optimisme."
+        },
+        {
+          "nom": "Défis d'Excès et de Restriction",
+          "data": "La combinaison de Jupiter et Saturne peut introduire des tensions entre expansion et limitation, tandis que Mercure ajoute une dimension intellectuelle. Les individus doivent gérer ces dynamiques pour équilibrer croissance et discipline."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mercure", "Lune"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Discipline Mentale et Émotionnelle",
+          "data": "Ce stellium associe la discipline de Saturne avec l'intellect de Mercure et les émotions de la Lune. Les individus peuvent aborder les défis émotionnels avec une approche méthodique et réfléchie, en équilibrant pensée claire et sensibilité."
+        },
+        {
+          "nom": "Défis de Conflit Émotionnel et Mental",
+          "data": "La présence de Saturne peut rendre les émotions et la communication plus rigides, tandis que la Lune ajoute de la profondeur émotionnelle. Les individus doivent gérer les tensions entre discipline et sentiments pour maintenir un équilibre."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mercure", "Uranus"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Discipline Mentale et Innovation",
+          "data": "Ce stellium associe la discipline de Saturne avec l'intellect de Mercure et l'originalité d'Uranus. Les individus peuvent structurer leurs pensées de manière innovante, en combinant rigueur et créativité."
+        },
+        {
+          "nom": "Défis d'Imprévisibilité et de Rigidité",
+          "data": "La présence d'Uranus peut introduire des changements imprévus dans la pensée, tandis que Saturne peut rendre cette pensée plus rigide. Les individus doivent équilibrer leur désir d'innovation avec une approche disciplinée."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mercure", "Pluton"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Discipline Mentale et Transformation",
+          "data": "Ce stellium associe la discipline de Saturne avec l'intellect de Mercure et la profondeur de Pluton. Les individus peuvent aborder les transformations profondes avec une approche rigoureuse et analytique, en combinant perspicacité et structure."
+        },
+        {
+          "nom": "Défis de Pouvoir et de Restriction Mentale",
+          "data": "La combinaison de Pluton et Saturne peut introduire des dynamiques de pouvoir dans la pensée, tandis que Mercure ajoute une dimension intellectuelle. Les individus doivent naviguer entre rigueur mentale et transformation pour éviter des conflits de pouvoir."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Vénus", "Neptune"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Discipline Relationnelle et Créativité",
+          "data": "Ce stellium associe la discipline de Saturne avec l'amour de Vénus et l'inspiration de Neptune. Les individus peuvent aborder les relations avec sérieux et créativité, en combinant engagement émotionnel et imagination."
+        },
+        {
+          "nom": "Défis d'Illusion et de Rigidité dans les Relations",
+          "data": "La présence de Neptune peut introduire des illusions dans les relations, tandis que Saturne peut rendre ces aspects plus rigides. Les individus doivent équilibrer leur sensibilité avec une approche pratique pour éviter des déceptions."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Vénus", "Jupiter"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Discipline Relationnelle et Expansion",
+          "data": "Ce stellium associe la discipline de Saturne avec l'amour de Vénus et l'expansion de Jupiter. Les individus peuvent structurer leurs relations de manière stable tout en explorant de nouvelles opportunités avec optimisme."
+        },
+        {
+          "nom": "Défis d'Excès et de Restriction Relationnelle",
+          "data": "La combinaison de Jupiter et Saturne peut introduire des tensions entre expansion et limitation dans les relations, tandis que Vénus ajoute une dimension affective. Les individus doivent gérer ces dynamiques pour équilibrer croissance et discipline."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Vénus", "Lune"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Discipline Émotionnelle et Relationnelle",
+          "data": "Ce stellium associe la discipline de Saturne avec l'amour de Vénus et les émotions de la Lune. Les individus peuvent aborder les relations et les émotions avec une approche sérieuse et réfléchie, en équilibrant sensibilité et responsabilité."
+        },
+        {
+          "nom": "Défis de Rigidité Émotionnelle et Relationnelle",
+          "data": "La présence de Saturne peut rendre les relations et les émotions plus rigides, tandis que Vénus et la Lune apportent des aspects affectifs. Les individus doivent naviguer entre discipline et émotions pour éviter des tensions."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Vénus", "Uranus"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Discipline Relationnelle et Innovation",
+          "data": "Ce stellium associe la discipline de Saturne avec l'amour de Vénus et l'originalité d'Uranus. Les individus peuvent structurer leurs relations de manière innovante, en combinant engagement et créativité."
+        },
+        {
+          "nom": "Défis d'Imprévisibilité et de Rigidité Relationnelle",
+          "data": "La présence d'Uranus peut introduire des changements imprévus dans les relations, tandis que Saturne peut rendre ces aspects plus rigides. Les individus doivent équilibrer leur désir d'innovation avec une approche stable."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Vénus", "Pluton"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Discipline Relationnelle et Transformation",
+          "data": "Ce stellium associe la discipline de Saturne avec l'amour de Vénus et la profondeur de Pluton. Les individus peuvent aborder les relations et les transformations personnelles avec une approche sérieuse et perspicace, en combinant engagement émotionnel et profondeur."
+        },
+        {
+          "nom": "Défis de Pouvoir et de Restriction Relationnelle",
+          "data": "La combinaison de Pluton et Saturne peut introduire des dynamiques de pouvoir dans les relations, tandis que Vénus ajoute une dimension affective. Les individus doivent naviguer entre rigueur et transformation pour éviter des conflits relationnels."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Neptune", "Jupiter"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Discipline et Expansion Créative",
+          "data": "Ce stellium associe la discipline de Saturne avec l'inspiration de Neptune et l'expansion de Jupiter. Les individus peuvent structurer leur créativité de manière expansive, en combinant rigueur et imagination."
+        },
+        {
+          "nom": "Défis d'Illusion et d'Excès",
+          "data": "La présence de Neptune peut introduire des illusions dans la croissance, tandis que Jupiter ajoute de l'expansion. Les individus doivent équilibrer leur inspiration avec une approche pratique pour éviter les excès et les déceptions."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Neptune", "Lune"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Discipline Émotionnelle et Inspirante",
+          "data": "Ce stellium associe la discipline de Saturne avec l'inspiration de Neptune et les émotions de la Lune. Les individus peuvent aborder leurs émotions et inspirations avec une approche sérieuse et méthodique, en équilibrant sensibilité et rigueur."
+        },
+        {
+          "nom": "Défis d'Illusion Émotionnelle",
+          "data": "La présence de Neptune peut introduire des illusions dans la gestion émotionnelle, tandis que Saturne ajoute de la discipline. Les individus doivent naviguer entre sensibilité et rigueur pour éviter des désillusions."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Neptune", "Uranus"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Discipline et Innovation Créative",
+          "data": "Ce stellium associe la discipline de Saturne avec l'inspiration de Neptune et l'originalité d'Uranus. Les individus peuvent structurer leur créativité de manière innovante, en combinant rigueur et imagination."
+        },
+        {
+          "nom": "Défis d'Imprévisibilité et d'Illusion",
+          "data": "La présence d'Uranus et de Neptune peut introduire des changements imprévus et des illusions, tandis que Saturne ajoute de la rigueur. Les individus doivent équilibrer innovation et discipline pour éviter des confusions."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Neptune", "Pluton"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Discipline et Transformation Profonde",
+          "data": "Ce stellium associe la discipline de Saturne avec l'inspiration de Neptune et la profondeur de Pluton. Les individus peuvent aborder les transformations profondes avec une approche structurée et créative, en combinant rigueur et perspicacité."
+        },
+        {
+          "nom": "Défis de Pouvoir et d'Illusion",
+          "data": "La combinaison de Pluton et Neptune peut introduire des dynamiques de pouvoir et des illusions dans la transformation, tandis que Saturne ajoute de la discipline. Les individus doivent naviguer entre ces aspects pour éviter des conflits et des déceptions."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Jupiter", "Lune"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Discipline et Croissance Émotionnelle",
+          "data": "Ce stellium associe la discipline de Saturne avec l'expansion de Jupiter et les émotions de la Lune. Les individus peuvent structurer leur croissance émotionnelle de manière rigoureuse, en combinant sensibilité et optimisme."
+        },
+        {
+          "nom": "Défis d'Excès Émotionnel",
+          "data": "La combinaison de Jupiter et Saturne peut introduire des tensions entre expansion et limitation dans les émotions, tandis que la Lune ajoute une dimension affective. Les individus doivent équilibrer ces dynamiques pour éviter des excès émotionnels."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Jupiter", "Uranus"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Discipline et Expansion Innovante",
+          "data": "Ce stellium associe la discipline de Saturne avec l'expansion de Jupiter et l'originalité d'Uranus. Les individus peuvent aborder la croissance avec une approche innovante et structurée, en combinant rigueur et créativité."
+        },
+        {
+          "nom": "Défis d'Imprévisibilité et de Restriction",
+          "data": "La présence d'Uranus peut introduire des changements imprévus dans la croissance, tandis que Saturne crée des restrictions. Les individus doivent équilibrer leur désir d'innovation avec une approche disciplinée."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Jupiter", "Pluton"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Discipline et Transformation Expansive",
+          "data": "Ce stellium associe la discipline de Saturne avec l'expansion de Jupiter et la profondeur de Pluton. Les individus peuvent aborder les transformations profondes avec une approche structurée et expansive, en combinant rigueur et perspicacité."
+        },
+        {
+          "nom": "Défis de Pouvoir et d'Excès",
+          "data": "La combinaison de Pluton et Jupiter peut introduire des dynamiques de pouvoir et des excès dans la croissance, tandis que Saturne ajoute de la discipline. Les individus doivent équilibrer ces aspects pour éviter des conflits et des excès."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Lune", "Uranus"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Discipline Émotionnelle et Innovation",
+          "data": "Ce stellium associe la discipline de Saturne avec les émotions de la Lune et l'originalité d'Uranus. Les individus peuvent structurer leurs émotions de manière innovante, en équilibrant rigueur émotionnelle et créativité."
+        },
+        {
+          "nom": "Défis d'Imprévisibilité Émotionnelle",
+          "data": "La présence d'Uranus peut introduire des changements imprévus dans les émotions, tandis que Saturne apporte de la rigueur. Les individus doivent naviguer entre l'innovation et la discipline pour éviter des tensions émotionnelles."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Lune", "Pluton"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Discipline Émotionnelle et Transformation",
+          "data": "Ce stellium associe la discipline de Saturne avec les émotions de la Lune et la profondeur de Pluton. Les individus peuvent aborder les transformations émotionnelles avec une approche sérieuse et réfléchie, en combinant perspicacité et rigueur."
+        },
+        {
+          "nom": "Défis de Pouvoir et de Rigidité Émotionnelle",
+          "data": "La combinaison de Pluton et Saturne peut introduire des dynamiques de pouvoir dans les émotions, tandis que la Lune ajoute une dimension affective. Les individus doivent équilibrer discipline et transformation pour éviter des conflits émotionnels."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Uranus", "Pluton"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Discipline, Innovation et Transformation",
+          "data": "Ce stellium associe la discipline de Saturne avec l'originalité d'Uranus et la profondeur de Pluton. Les individus peuvent structurer leurs efforts innovants et transformateurs de manière rigoureuse, en combinant créativité et perspicacité."
+        },
+        {
+          "nom": "Défis de Conflit entre Changement et Rigidité",
+          "data": "La présence d'Uranus et Pluton peut introduire des dynamiques de pouvoir et des changements imprévus, tandis que Saturne ajoute de la rigueur. Les individus doivent équilibrer leur désir de transformation avec une approche disciplinée pour éviter des tensions."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Mercure", "Vénus"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Énergie et communication",
+          "data": "Mars apporte dynamisme et motivation, Mercure favorise la communication fluide et la diplomatie, et Vénus ajoute une dimension de recherche de l'harmonie et de la beauté dans les relations."
+        },
+        {
+          "nom": "Relations équilibrées",
+          "data": "Ce stellium tend à créer un équilibre entre action, pensée et sentiments dans les interactions, favorisant des relations harmonieuses et une bonne gestion des conflits."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Mercure", "Neptune"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Énergie et imagination",
+          "data": "Mars donne une impulsion énergique, Mercure apporte des capacités analytiques, tandis que Neptune ajoute une touche d'idéalisme et de rêve."
+        },
+        {
+          "nom": "Vision créative",
+          "data": "Ce stellium peut entraîner une approche imaginative des défis relationnels, avec une tendance à rechercher des solutions créatives et idéalisées aux problèmes."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Mercure", "Jupiter"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Énergie et expansion",
+          "data": "Mars offre une énergie proactive, Mercure assure une communication claire, et Jupiter apporte une dimension d'expansion et d'optimisme."
+        },
+        {
+          "nom": "Optimisme dans les relations",
+          "data": "Ce stellium favorise une attitude positive et une vision large des relations, avec une tendance à rechercher des opportunités de croissance et d'expansion personnelle."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Mercure", "Lune"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Énergie et émotions",
+          "data": "Mars ajoute une dimension de dynamisme et de volonté, Mercure favorise l'analyse et la communication, et la Lune influence les émotions et les besoins affectifs."
+        },
+        {
+          "nom": "Harmonie émotionnelle",
+          "data": "Ce stellium encourage l'équilibre entre l'action extérieure et les besoins émotionnels, avec une capacité à gérer les conflits émotionnels de manière diplomatique."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Mercure", "Uranus"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Énergie et innovation",
+          "data": "Mars apporte l'énergie pour l'action, Mercure favorise la réflexion et la communication, tandis qu'Uranus introduit une dimension d'innovation et de changement."
+        },
+        {
+          "nom": "Changement dynamique",
+          "data": "Ce stellium encourage des approches nouvelles et originales dans les relations, avec une capacité à gérer les changements et les surprises de manière adaptative."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Mercure", "Pluton"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Énergie et transformation",
+          "data": "Mars fournit une énergie pour l'action, Mercure assure une communication précise, et Pluton ajoute une dimension de transformation profonde et de pouvoir."
+        },
+        {
+          "nom": "Transformation relationnelle",
+          "data": "Ce stellium peut entraîner des changements importants et des évolutions profondes dans les relations, avec une capacité à gérer les crises et les transformations avec force et perspicacité."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Vénus", "Neptune"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Énergie et idéal",
+          "data": "Mars apporte l'énergie pour agir, Vénus favorise l'harmonie et l'amour, tandis que Neptune introduit des idéaux élevés et une vision rêveuse."
+        },
+        {
+          "nom": "Romantisme idéaliste",
+          "data": "Ce stellium tend à favoriser des relations empreintes de romantisme et de rêve, avec une recherche d'une connexion émotionnelle profonde et idéalisée."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Vénus", "Jupiter"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Énergie et abondance",
+          "data": "Mars donne de la dynamique, Vénus favorise l'amour et les relations harmonieuses, et Jupiter ajoute une dimension d'expansion et de générosité."
+        },
+        {
+          "nom": "Abondance relationnelle",
+          "data": "Ce stellium favorise des relations enrichissantes et expansives, avec une tendance à rechercher des expériences positives et généreuses dans les interactions."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Vénus", "Lune"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Énergie et émotions",
+          "data": "Mars fournit l'énergie nécessaire, Vénus ajoute une touche d'harmonie et d'amour, et la Lune influence les besoins émotionnels et affectifs."
+        },
+        {
+          "nom": "Harmonie émotionnelle et affective",
+          "data": "Ce stellium encourage un équilibre entre l'action et les besoins émotionnels, favorisant des relations harmonieuses et satisfaisantes sur le plan affectif."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Vénus", "Uranus"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Énergie et originalité",
+          "data": "Mars offre une dynamique pour l'action, Vénus apporte l'harmonie et l'amour, et Uranus introduit une dimension d'innovation et de changement."
+        },
+        {
+          "nom": "Relations innovantes",
+          "data": "Ce stellium favorise des relations uniques et originales, avec une tendance à embrasser le changement et à rechercher des approches nouvelles dans les interactions."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Vénus", "Pluton"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Énergie et profondeur",
+          "data": "Mars apporte de l'énergie pour l'action, Vénus favorise l'amour et l'harmonie, et Pluton ajoute une dimension de profondeur émotionnelle et de transformation."
+        },
+        {
+          "nom": "Transformation relationnelle profonde",
+          "data": "Ce stellium peut mener à des transformations profondes dans les relations, avec une tendance à explorer les aspects les plus intenses et puissants des interactions affectives."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Neptune", "Jupiter"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Énergie et vision",
+          "data": "Mars donne l'impulsion nécessaire, Neptune apporte des idéaux et une vision rêveuse, tandis que Jupiter favorise l'expansion et la croissance."
+        },
+        {
+          "nom": "Expansion créative",
+          "data": "Ce stellium encourage une approche expansive et créative dans les relations, avec une tendance à rechercher des expériences idéalisées et à grandir à travers les interactions."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Neptune", "Lune"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Énergie et sensibilité",
+          "data": "Mars fournit une énergie dynamique, Neptune ajoute une dimension rêveuse et idéalisée, et la Lune influence les émotions et les besoins affectifs."
+        },
+        {
+          "nom": "Sensibilité et idéalisation",
+          "data": "Ce stellium peut conduire à une approche émotionnellement sensible et idéaliste dans les relations, avec une tendance à rechercher des connexions profondes et intuitives."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Neptune", "Uranus"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Énergie et innovation",
+          "data": "Mars apporte une énergie pour l'action, Neptune introduit des idéaux et des visions créatives, et Uranus favorise le changement et l'innovation."
+        },
+        {
+          "nom": "Changement visionnaire",
+          "data": "Ce stellium encourage une approche innovante et visionnaire des relations, avec une capacité à embrasser le changement et à explorer des possibilités nouvelles et créatives."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Neptune", "Pluton"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Énergie et transformation",
+          "data": "Mars fournit l'impulsion nécessaire, Neptune ajoute une dimension rêveuse et idéalisée, et Pluton apporte une profondeur et une capacité de transformation."
+        },
+        {
+          "nom": "Transformation idéalisée",
+          "data": "Ce stellium peut mener à des transformations profondes dans les relations, avec une tendance à rechercher des connexions puissantes et à explorer des aspects plus profonds de soi-même."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Jupiter", "Lune"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Énergie et expansion émotionnelle",
+          "data": "Mars apporte dynamisme, Jupiter favorise l'expansion et l'optimisme, et la Lune influence les besoins émotionnels et affectifs."
+        },
+        {
+          "nom": "Croissance émotionnelle",
+          "data": "Ce stellium encourage une approche optimiste et expansive des relations, avec une capacité à développer une compréhension émotionnelle enrichissante."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Jupiter", "Uranus"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Énergie et innovation",
+          "data": "Mars donne de l'énergie pour agir, Jupiter apporte une dimension d'expansion et d'optimisme, et Uranus favorise les idées novatrices et le changement."
+        },
+        {
+          "nom": "Changement expansif",
+          "data": "Ce stellium encourage des approches dynamiques et innovantes des relations, avec une tendance à embrasser des opportunités de croissance et de transformation."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Jupiter", "Pluton"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Énergie et pouvoir",
+          "data": "Mars fournit l'énergie pour l'action, Jupiter favorise l'expansion et la croissance, et Pluton apporte une dimension de transformation profonde et de pouvoir."
+        },
+        {
+          "nom": "Transformation puissante",
+          "data": "Ce stellium peut entraîner des changements significatifs et puissants dans les relations, avec une tendance à rechercher des expériences profondes et transformatrices."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Lune", "Uranus"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Énergie et émotion",
+          "data": "Mars apporte dynamisme et motivation, la Lune influence les besoins émotionnels et Uranus favorise l'innovation et le changement."
+        },
+        {
+          "nom": "Réactions émotionnelles innovantes",
+          "data": "Ce stellium favorise une approche émotionnellement réactive et adaptable, avec une tendance à embrasser les changements et les surprises de manière créative."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Lune", "Pluton"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Énergie et profondeur émotionnelle",
+          "data": "Mars fournit de l'énergie pour l'action, la Lune influence les besoins émotionnels, et Pluton apporte une dimension de transformation profonde."
+        },
+        {
+          "nom": "Transformation émotionnelle",
+          "data": "Ce stellium encourage une exploration profonde des émotions et des relations, avec une capacité à transformer les aspects les plus intenses de soi-même et des interactions."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Uranus", "Pluton"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Énergie et transformation",
+          "data": "Mars offre l'énergie pour l'action, Uranus favorise l'innovation et le changement, et Pluton ajoute une dimension de profondeur et de transformation."
+        },
+        {
+          "nom": "Changement profond",
+          "data": "Ce stellium peut conduire à des transformations profondes et radicales dans les relations, avec une tendance à embrasser le changement et à explorer des aspects puissants de soi-même."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Vénus", "Neptune"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Communication harmonieuse",
+          "data": "Mercure favorise la communication claire, Vénus ajoute une dimension de charme et d'harmonie dans les interactions, et Neptune apporte des idéaux et une vision rêveuse."
+        },
+        {
+          "nom": "Idéalisme relationnel",
+          "data": "Ce stellium encourage une approche rêveuse et idéalisée des relations, avec une tendance à chercher des connexions profondes et harmonieuses."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Vénus", "Jupiter"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Communication expansive",
+          "data": "Mercure favorise une pensée analytique, Vénus ajoute un sens de l'harmonie et de l'amour, tandis que Jupiter offre une dimension d'expansion et d'optimisme."
+        },
+        {
+          "nom": "Optimisme relationnel",
+          "data": "Ce stellium favorise une communication positive et expansive dans les relations, avec une tendance à rechercher des opportunités de croissance et d'enrichissement mutuel."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Vénus", "Lune"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Communication émotionnelle",
+          "data": "Mercure offre des capacités de réflexion et de communication, Vénus ajoute une touche d'harmonie et d'amour, et la Lune influence les besoins émotionnels et affectifs."
+        },
+        {
+          "nom": "Harmonie émotionnelle",
+          "data": "Ce stellium encourage une approche équilibrée des émotions et des interactions, avec une capacité à exprimer les sentiments de manière diplomatique et harmonieuse."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Vénus", "Uranus"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Communication innovante",
+          "data": "Mercure favorise l'analyse et la réflexion, Vénus apporte harmonie et charme, tandis qu'Uranus introduit une dimension d'innovation et de changement."
+        },
+        {
+          "nom": "Relations originales",
+          "data": "Ce stellium encourage des approches nouvelles et créatives dans les relations, avec une tendance à embrasser des idées et des solutions innovantes."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Vénus", "Pluton"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Communication transformante",
+          "data": "Mercure offre des capacités de réflexion, Vénus ajoute une touche d'harmonie et de charme, et Pluton apporte une dimension de profondeur et de transformation."
+        },
+        {
+          "nom": "Transformation relationnelle",
+          "data": "Ce stellium peut conduire à des changements profonds et transformateurs dans les relations, avec une tendance à explorer les aspects les plus intenses et puissants des interactions."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Neptune", "Jupiter"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Pensée et expansion",
+          "data": "Mercure favorise une communication claire, Neptune ajoute des éléments de rêve et d'idéalisme, et Jupiter offre une dimension d'expansion et d'optimisme."
+        },
+        {
+          "nom": "Vision expansive",
+          "data": "Ce stellium encourage une approche créative et expansive de la pensée, avec une tendance à rechercher des perspectives idéalisées et des opportunités de croissance."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Neptune", "Lune"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Communication sensible",
+          "data": "Mercure apporte des capacités analytiques, Neptune ajoute des éléments rêveurs, et la Lune influence les émotions et les besoins affectifs."
+        },
+        {
+          "nom": "Sensibilité émotionnelle",
+          "data": "Ce stellium favorise une approche émotionnellement sensible et intuitive de la communication, avec une tendance à explorer les aspects plus subtils des interactions."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Neptune", "Uranus"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Pensée innovante",
+          "data": "Mercure offre une réflexion claire, Neptune ajoute une dimension rêveuse, et Uranus favorise l'innovation et le changement."
+        },
+        {
+          "nom": "Vision créative",
+          "data": "Ce stellium encourage des idées originales et créatives, avec une tendance à embrasser des perspectives nouvelles et à explorer des solutions innovantes."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Neptune", "Pluton"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Pensée transformante",
+          "data": "Mercure favorise la réflexion et la communication, Neptune apporte des idéaux et une vision rêveuse, et Pluton ajoute une dimension de transformation et de profondeur."
+        },
+        {
+          "nom": "Transformation mentale",
+          "data": "Ce stellium peut conduire à des changements profonds dans la manière de penser et de communiquer, avec une capacité à explorer les aspects les plus intenses et profonds des idées."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Jupiter", "Lune"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Communication expansive et émotionnelle",
+          "data": "Mercure favorise l'analyse et la réflexion, Jupiter ajoute une dimension d'expansion et d'optimisme, et la Lune influence les besoins émotionnels."
+        },
+        {
+          "nom": "Croissance émotionnelle",
+          "data": "Ce stellium encourage une communication positive et expansive qui répond aux besoins émotionnels, avec une tendance à développer des relations enrichissantes."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Jupiter", "Uranus"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Pensée et innovation",
+          "data": "Mercure offre une réflexion claire, Jupiter favorise l'expansion et l'optimisme, et Uranus introduit une dimension d'innovation et de changement."
+        },
+        {
+          "nom": "Changement dynamique",
+          "data": "Ce stellium encourage des approches créatives et dynamiques dans les relations, avec une capacité à adopter de nouvelles idées et à embrasser les opportunités de transformation."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Jupiter", "Pluton"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Communication profonde et expansive",
+          "data": "Mercure favorise l'analyse et la communication, Jupiter ajoute une dimension d'expansion et d'optimisme, et Pluton apporte une profondeur transformante."
+        },
+        {
+          "nom": "Transformation et croissance",
+          "data": "Ce stellium peut mener à des évolutions profondes dans la manière de penser et de communiquer, avec une tendance à rechercher des expériences enrichissantes et transformantes."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Lune", "Uranus"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Communication émotionnelle et innovante",
+          "data": "Mercure offre des capacités analytiques, la Lune influence les émotions et Uranus favorise l'innovation et le changement."
+        },
+        {
+          "nom": "Réactions émotionnelles créatives",
+          "data": "Ce stellium favorise une approche émotionnellement sensible et créative de la communication, avec une capacité à embrasser les changements et les surprises de manière originale."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Lune", "Pluton"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Communication émotionnelle et profonde",
+          "data": "Mercure offre des capacités de réflexion, la Lune influence les besoins émotionnels, et Pluton ajoute une dimension de profondeur et de transformation."
+        },
+        {
+          "nom": "Transformation émotionnelle",
+          "data": "Ce stellium peut entraîner des changements profonds dans la manière de penser et de communiquer, avec une tendance à explorer les aspects intenses et puissants des émotions."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Uranus", "Pluton"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Communication innovante et transformante",
+          "data": "Mercure favorise l'analyse et la communication, Uranus introduit une dimension d'innovation et de changement, et Pluton ajoute une profondeur transformante."
+        },
+        {
+          "nom": "Changement profond",
+          "data": "Ce stellium encourage une approche innovante et transformante des idées et de la communication, avec une capacité à embrasser des évolutions profondes et radicales."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Neptune", "Jupiter"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Amour expansif",
+          "data": "Vénus favorise l'harmonie et l'amour, Neptune ajoute une dimension rêveuse et idéalisée, et Jupiter apporte une dimension d'expansion et d'optimisme."
+        },
+        {
+          "nom": "Idéalisation romantique",
+          "data": "Ce stellium encourage une approche romantique et expansive des relations, avec une tendance à rechercher des expériences enrichissantes et idéalisées."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Neptune", "Lune"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Amour sensible",
+          "data": "Vénus offre une dimension d'harmonie et de charme, Neptune ajoute une touche rêveuse et idéalisée, et la Lune influence les besoins émotionnels et affectifs."
+        },
+        {
+          "nom": "Harmonie émotionnelle",
+          "data": "Ce stellium favorise une connexion émotionnelle profonde et rêveuse dans les relations, avec une tendance à rechercher l'équilibre émotionnel et l'affection."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Neptune", "Uranus"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Amour et innovation",
+          "data": "Vénus favorise les relations harmonieuses, Neptune ajoute des éléments de rêve et d'idéalisation, et Uranus introduit une dimension d'innovation et de changement."
+        },
+        {
+          "nom": "Relations originales",
+          "data": "Ce stellium encourage des approches novatrices et créatives dans les relations, avec une tendance à embrasser des connexions uniques et originales."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Neptune", "Pluton"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Amour transformant",
+          "data": "Vénus apporte charme et harmonie, Neptune ajoute une dimension rêveuse et idéalisée, et Pluton introduit une profondeur transformante."
+        },
+        {
+          "nom": "Transformation relationnelle",
+          "data": "Ce stellium favorise des évolutions profondes et transformantes dans les relations, avec une tendance à explorer les aspects les plus intenses et puissants des connexions affectives."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Jupiter", "Lune"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Amour et expansion émotionnelle",
+          "data": "Vénus offre harmonie et amour, Jupiter favorise l'expansion et l'optimisme, et la Lune influence les besoins émotionnels et affectifs."
+        },
+        {
+          "nom": "Croissance affective",
+          "data": "Ce stellium encourage une approche optimiste et expansive des relations, avec une capacité à développer des connexions émotionnelles enrichissantes."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Jupiter", "Uranus"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Amour expansif et innovant",
+          "data": "Vénus favorise les relations harmonieuses, Jupiter ajoute une dimension d'expansion et d'optimisme, et Uranus introduit une dimension d'innovation et de changement."
+        },
+        {
+          "nom": "Relations dynamiques",
+          "data": "Ce stellium favorise des relations dynamiques et novatrices, avec une tendance à rechercher des opportunités d'expansion et de créativité dans les interactions."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Jupiter", "Pluton"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Amour profond et expansif",
+          "data": "Vénus offre harmonie et charme, Jupiter favorise l'expansion et l'optimisme, et Pluton introduit une profondeur transformante."
+        },
+        {
+          "nom": "Transformation enrichissante",
+          "data": "Ce stellium encourage des évolutions profondes et enrichissantes dans les relations, avec une tendance à explorer des expériences puissantes et transformantes."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Lune", "Uranus"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Amour sensible et innovant",
+          "data": "Vénus favorise les relations harmonieuses, la Lune influence les émotions et les besoins affectifs, et Uranus introduit une dimension d'innovation et de changement."
+        },
+        {
+          "nom": "Réactions émotionnelles originales",
+          "data": "Ce stellium favorise une approche émotionnellement sensible et créative des relations, avec une capacité à embrasser les changements et les surprises de manière innovante."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Lune", "Pluton"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Amour émotionnel et profond",
+          "data": "Vénus apporte charme et harmonie, la Lune influence les besoins émotionnels, et Pluton ajoute une profondeur et une dimension transformante."
+        },
+        {
+          "nom": "Transformation affective",
+          "data": "Ce stellium favorise des évolutions profondes dans les relations, avec une tendance à explorer les aspects les plus intenses et puissants des émotions et des interactions."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Uranus", "Pluton"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Amour innovant et transformant",
+          "data": "Vénus offre harmonie et charme, Uranus introduit une dimension d'innovation et de changement, et Pluton ajoute une profondeur et une capacité de transformation."
+        },
+        {
+          "nom": "Changement profond",
+          "data": "Ce stellium encourage des approches innovantes et transformantes dans les relations, avec une capacité à embrasser des évolutions profondes et radicales."
+        }
+      ]
+    },
+    {
+      "noms": ["Neptune", "Jupiter", "Lune"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Vision et expansion émotionnelle",
+          "data": "Neptune apporte une dimension rêveuse et idéalisée, Jupiter favorise l'expansion et l'optimisme, et la Lune influence les besoins émotionnels et affectifs."
+        },
+        {
+          "nom": "Idéalisme affectif",
+          "data": "Ce stellium encourage une approche émotionnelle enrichissante et expansive, avec une tendance à rechercher des expériences idéalisées et profondes dans les relations."
+        }
+      ]
+    },
+    {
+      "noms": ["Neptune", "Jupiter", "Uranus"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Vision expansif et innovante",
+          "data": "Neptune ajoute une touche rêveuse et idéalisée, Jupiter favorise l'expansion et l'optimisme, et Uranus introduit une dimension d'innovation et de changement."
+        },
+        {
+          "nom": "Innovation spirituelle",
+          "data": "Ce stellium favorise des idées novatrices et créatives, avec une tendance à embrasser des perspectives idéalisées et expansives dans la pensée et les relations."
+        }
+      ]
+    },
+    {
+      "noms": ["Neptune", "Jupiter", "Pluton"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Vision profonde et expansif",
+          "data": "Neptune apporte une dimension rêveuse et idéalisée, Jupiter favorise l'expansion et l'optimisme, et Pluton introduit une profondeur et une capacité de transformation."
+        },
+        {
+          "nom": "Transformation spirituelle",
+          "data": "Ce stellium peut mener à des évolutions profondes et transformantes dans la manière de percevoir et de vivre les idéaux, avec une tendance à rechercher des expériences spirituelles puissantes."
+        }
+      ]
+    },
+    {
+      "noms": ["Neptune", "Lune", "Uranus"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Vision émotionnelle et innovation",
+          "data": "Neptune apporte une dimension rêveuse et spirituelle, la Lune influence les émotions et les besoins affectifs, et Uranus introduit une dimension d'innovation et de changement."
+        },
+        {
+          "nom": "Réactions émotionnelles créatives",
+          "data": "Ce stellium favorise une approche émotionnelle sensible et créative, avec une capacité à embrasser les changements et les perspectives novatrices de manière intuitive."
+        }
+      ]
+    },
+    {
+      "noms": ["Neptune", "Lune", "Pluton"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Vision émotionnelle et transformation",
+          "data": "Neptune offre une dimension rêveuse et idéalisée, la Lune influence les émotions et les besoins affectifs, et Pluton ajoute une profondeur transformante."
+        },
+        {
+          "nom": "Transformation affective profonde",
+          "data": "Ce stellium favorise des évolutions profondes et transformatrices dans les relations émotionnelles, avec une tendance à explorer les aspects les plus intenses et puissants des émotions."
+        }
+      ]
+    },
+    {
+      "noms": ["Neptune", "Uranus", "Pluton"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Vision innovante et transformante",
+          "data": "Neptune apporte une touche rêveuse et spirituelle, Uranus introduit une dimension d'innovation et de changement, et Pluton ajoute une profondeur transformante."
+        },
+        {
+          "nom": "Changement spirituel profond",
+          "data": "Ce stellium encourage une approche novatrice et profondément transformatrice des idées et des relations, avec une capacité à embrasser des évolutions spirituelles et psychologiques importantes."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Lune", "Uranus"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Expansion émotionnelle et innovation",
+          "data": "Jupiter favorise l'expansion et l'optimisme, la Lune influence les besoins émotionnels et affectifs, et Uranus introduit une dimension d'innovation et de changement."
+        },
+        {
+          "nom": "Réactions émotionnelles créatives",
+          "data": "Ce stellium encourage une approche dynamique et novatrice des émotions, avec une capacité à embrasser les changements de manière originale et expansive."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Lune", "Pluton"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Expansion émotionnelle et transformation",
+          "data": "Jupiter favorise l'expansion et l'optimisme, la Lune influence les émotions et les besoins affectifs, et Pluton ajoute une profondeur transformante."
+        },
+        {
+          "nom": "Transformation affective enrichissante",
+          "data": "Ce stellium peut conduire à des évolutions profondes et enrichissantes dans la manière de percevoir et de vivre les émotions, avec une tendance à rechercher des expériences profondes et puissantes."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Uranus", "Pluton"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Expansion innovante et transformante",
+          "data": "Jupiter offre une dimension d'expansion et d'optimisme, Uranus introduit une innovation et un changement, et Pluton ajoute une profondeur et une capacité de transformation."
+        },
+        {
+          "nom": "Changement profond et créatif",
+          "data": "Ce stellium favorise des approches novatrices et transformantes, avec une capacité à embrasser des évolutions profondes et créatives dans les idées et les relations."
+        }
+      ]
+    },
+    {
+      "noms": ["Lune", "Uranus", "Pluton"],
+      "signe": "Balance",
+      "data": [
+        {
+          "nom": "Émotions profondes et innovantes",
+          "data": "La Lune influence les besoins émotionnels et affectifs, Uranus introduit des changements et des approches novatrices, et Pluton apporte une profondeur transformante et une capacité à explorer les aspects les plus intenses des émotions."
+        },
+        {
+          "nom": "Transformation émotionnelle créative",
+          "data": "Ce stellium favorise une approche émotionnelle profondément transformatrice et originale, avec une tendance à embrasser les changements radicalement et à explorer les aspects puissants des relations et des émotions."
+        }
+      ]
+    }
   ]
 }

@@ -8,10 +8,14 @@ Maintenant la même chose avec les maisons avec des titres au format Maison puis
 Donne moi des informations en un paragraphe détaillé sur chaque planète dans un thème astral au format json du type {"nom":le nom de la planete, "infos":les informations} : Saturne, Mars, Mercure, Soleil, Vénus, Neptune, Jupiter, Lune, Uranus, Pluton
 
 
-Donne moi des informations sur chaque aspect du type "carré" entre le soleil et les planetes suivantes sauf elle même
+Donne moi des informations sur chaque aspect du type "carré" entre Uranus et les planetes suivantes sauf elle même
 Soleil, Saturne, Mars, Mercure, Vénus, Neptune, Jupiter, Lune, Uranus, Pluton
 en séparant à chaque fois les informations en deux points clés au format json
-{"from":"Soleil","type":"carré","to":"Uranus","data":["nom":"nom du point clé","data":"infos"]}
+[
+{"from":"Uranus","type":"carré","to":"Pluton","data":["nom":"nom du point clé","data":"infos"]},
+...
+]
+écrit chaque objet sur une seule ligne
 
 Pareil avec le type semi-carré
 Pareil avec le type semi-sextile
@@ -28,8 +32,41 @@ Pareil avec le type novile
 Pareil avec le type dodecile
 
 
+Donne moi des informations sur Mercure lorsqu'il est à domicile, exil, exaltation et chute
+écris plusieurs lignes s'il y a plusieurs domiciles par exemple
+en séparant à chaque fois les informations en deux points clés
+au format json suivant
+[
+{"nom":"nom de la planete","type":"domicile","signe":"dans quel cas","data":["nom":"nom du point clé","data":"infos"]},
+...
+]
+écrit chaque objet sur une seule ligne
+
+
+Domicile Exaltation Exil Chute Triplicité Termes ou Décans
+
+modalites
+polarité/elements
+theme divisé en 4 parties trouver celle avec le plus de planetes (emispheres)
+yin/yang
+terre/eau
+
+steliums
 
 
 
+Donne moi des informations sur tous les stelliums du soleil avec 2 autres planetes en scorpion avec les planètes suivantes :
+Saturne, Mars, Mercure, Vénus, Neptune, Jupiter, Lune, Uranus, Pluton
+en séparant à chaque fois les informations en deux, avec comme nom quelques mots qui résument les infos
+au format json suivant :
+[
+{
+"noms":["Soleil","nom de la deuxieme planete","nom de la troisième planete"],
+"signe":"signe astrologique", 
+"data":["nom":"nom du point clé","data":"infos"]
+},
+...
+]
 
 
+continue avec les autres stelliums restants

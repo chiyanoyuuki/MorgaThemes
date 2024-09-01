@@ -66,6 +66,16 @@ export class AppComponent implements OnInit
   
   ngOnInit(): void 
   {
+    //Scorpion, Balance
+    this.infos.stelliums.forEach((a:any)=>{
+      let b = this.infos.stelliums.filter((c:any)=>c.noms.includes(a.noms[0])&&c.noms.includes(a.noms[1])&&c.noms.includes(a.noms[2]));
+      const unique = [...new Set(b.map((item:any) => item.signe))];
+      if(unique.length!=b.length)console.log(b);
+    });
+    this.planetes.forEach((p:any)=>{
+      let nb = this.infos.stelliums.filter((s:any)=>s.noms.includes(p)&&s.signe=="Balance").length;
+      if(nb!=36)console.log(p,nb)
+    });
     this.readFile();
     //this.readSigneGpt();
   }
@@ -609,8 +619,26 @@ processFileContent(): void {
     console.log(this.type);
     if(this.type=="Asteroides"||this.type=="Planetes")
     {
-      data = data.filter((d:any)=>d.nom==s);
       let ligne = data.find((d:any)=>d.nom==s);
+      console.log("ligne",ligne);
+      //Stelliums
+      if(this.planetes.includes(s))
+      {
+        let planetes = this.data.filter((d:any)=>this.planetes.includes(d.nom)&&d.signe==ligne.signe);
+        console.log("stelliums",planetes);
+        let stelliums = [];
+        for(let i = 0; i < planetes.length -2; i++){
+          for(let j = i + 1; j < planetes.length -1; j++){
+            for(let k = j + 1; k < planetes.length; k++){
+              let st = this.infos.stelliums.find((s:any)=>s.noms.includes(planetes[i].nom)&&s.noms.includes(planetes[j].nom)&&s.noms.includes(planetes[k].nom)&&s.signe==ligne.signe);
+              if(stelliums.find((stel:any)=>stel.noms==st.noms&&stel.signe==st.signe)==undefined)stelliums.push(st);
+            }
+          }
+        }
+        console.log(stelliums);
+        stelliums.forEach((s:any)=>this.focus.push({nom:s.noms[0]+", "+s.noms[1]+", "+s.noms[2],data:s.data,type:"Stelliums"}));
+      }
+      data = data.filter((d:any)=>d.nom==s);
       console.log(data);
       data.forEach((d:any)=>{
         let signe = this.infos.data.find((i:any)=>i.nom==d.signe).data;
@@ -682,80 +710,6 @@ processFileContent(): void {
     this.type = unique[0];
     console.log("this.types",this.types);
     console.log(this.focus);
-  }
-
-  click2(s:string)
-  {
-    this.clicked = s;
-    this.desc = this.infos.desc.find((d:any)=>d.nom == s).infos;
-    let signe = this.infos.data.find((i:any)=>i.nom==s);
-    if(!signe)
-    {
-      let data = [];
-      let ligne = this.data.find((d:any)=>d.maison==s&&!d.nom);
-      if(ligne)
-      {
-        signe = this.infos.data.find((i:any)=>i.nom==ligne.signe).data;
-      }
-      else
-      {
-        ligne = this.data.find((d:any)=>d.nom==s);
-        signe = this.infos.data.find((i:any)=>i.nom==ligne.signe).data;
-      }
-      let infos = signe.find((d:any)=>d.nom==s);
-
-      console.log(infos);
-      if(this.planetes.includes(infos.nom))
-        data.push({nom:infos.nom,datas:infos.data,type:"Planetes"});
-      else
-        data.push({nom:infos.nom,datas:infos.data,type:"Asteroides"});
-      
-      let aspects = this.aspects.filter((a:any)=>a.from==s||a.to==s);
-      aspects.forEach((a:any)=>{
-        let infos = this.infos.aspects.find((i:any)=>i.from==a.from&&i.type==a.type&&i.to==a.to);
-        data.push({nom:infos.from + " " + infos.type + " " + infos.to,datas:infos.data,type:"Aspects"});
-      });
-
-      let domiciles = this.infos.domiciles.filter((d:any)=>d.nom==s&&d.signe==ligne.signe);
-      domiciles.forEach((d:any)=>{
-        data.push({nom: d.nom + ", " + d.type + " en " + d.signe, datas:d.data,type:"Dignités"});
-      })
-
-      const unique = [...new Set(data.map((item:any) => item.type))];
-      this.types = unique;
-      this.type = unique[0];
-      this.focus = data;
-      console.log("1",data);
-      return;
-    }
-    signe = signe.data;
-    let data = this.data.filter((d:any)=>d.nom==s||d.signe==s||d.maison==s);
-    data.forEach((d:any)=>{
-      let datas: any = [];
-      let infos = signe.find((s:any)=>s.nom==d.nom);
-      if(infos)
-      {
-        if(this.planetes.includes(infos.nom))
-          d.type="Planetes";
-        else
-          d.type="Asteroides";
-        infos.data.forEach((a:any)=>datas.push(a));
-      }
-      else
-      {
-        let maison = signe.find((s:any)=>s.nom==d.maison);
-        d.type="Maisons";
-        if(maison)maison.data.forEach((a:any)=>datas.push(a));
-      }
-      
-      d.datas = datas;
-    });
-
-    const unique = [...new Set(data.map((item:any) => item.type))];
-    this.types = unique;
-    this.type = unique[0];
-    console.log("2",data);
-    this.focus = data;
   }
 }
 
