@@ -64,7 +64,7 @@ export class AppComponent implements OnInit
   
   ngOnInit(): void 
   {
-    this.readFile();
+    //this.readFile();
     //this.readSigneGpt();
   }
 

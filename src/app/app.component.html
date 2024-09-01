@@ -40,7 +40,7 @@
       <p *ngFor="let t of types" class="clickable" [class.clicked]="t==type" (click)="type=t">{{t}}</p>
     </div>
 
-    <div class="menu" *ngIf="!desc">
+    <div class="menu" *ngIf="!desc&&svgs">
       <p *ngFor="let m of menu" class="clickable" [class.clicked]="clicked2==m" (click)="clicked2=m">{{m}}</p>
     </div>
 
