@@ -1,3 +1,4 @@
+import { trigger, state, style, transition, animate } from '@angular/animations';
 import { Component, ElementRef, NgModule, OnInit, ViewChild } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { RouterOutlet } from '@angular/router';
@@ -24,7 +25,20 @@ interface AstrologicalChart {
   standalone: true,
   imports: [CommonModule, RouterOutlet, FormsModule],
   templateUrl: './app.component.html',
-  styleUrls: ['./app.component.scss']
+  styleUrls: ['./app.component.scss'],
+  animations: [
+    trigger('moveAndRotate', [
+      state('start', style({
+        transform: 'translateX(0) rotate(0deg)'
+      })),
+      state('end', style({
+        transform: 'translateX(-100%) rotate(-60deg)'
+      })),
+      transition('start => end', [
+        animate('250s linear')
+      ])
+    ])
+  ]
 })
 
 export class AppComponent implements OnInit
@@ -35,6 +49,7 @@ export class AppComponent implements OnInit
 
   infos: any = INFOS;
 
+  moveAndRotate = "start";
   hover:any = "Sélectionnez un point";
   svg: any = [];
   svgid:any="";
@@ -58,15 +73,23 @@ export class AppComponent implements OnInit
   asteroides = ["Chiron","Nœud Nord","Nœud Sud","Cérès","Junon","Pallas","Fortune","Vertex","Vesta","Lilith","Point Est"];
 
   API_URL = 'https://api.openai.com/v1/chat/completions';
+
+  angle = 0;
+  x = 0;
   
   public innerWidth: any = window.outerWidth;
   public innerHeight: any = window.outerHeight;
+
+  interval: any;
 
   constructor(private http : HttpClient) {}
   
   ngOnInit(): void 
   {
-    //Scorpion, Balance
+    this.interval = setInterval(() => {
+      this.moveAndRotate = "end";
+  },1000);
+    //Scorpion, Balance, Taureau, Capricorne
     /*this.infos.stelliums.forEach((a:any)=>{
       let b = this.infos.stelliums.filter((c:any)=>c.noms.includes(a.noms[0])&&c.noms.includes(a.noms[1])&&c.noms.includes(a.noms[2])&&c.signe==a.signe);
       if(b.length>1)console.log(b);
