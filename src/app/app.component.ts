@@ -46,7 +46,7 @@ interface AstrologicalChart {
 
 export class AppComponent implements OnInit
 {
-  
+  @ViewChild('textes') textes!: ElementRef;
   @ViewChild('one', {static: true}) d1: ElementRef;
   focus:any = [];
 
@@ -75,6 +75,7 @@ export class AppComponent implements OnInit
   maisons = ["Maison I", "Maison II", "Maison III", "Maison IV", "Maison V", "Maison VI", "Maison VII", "Maison VIII", "Maison IX", "Maison X", "Maison XI", "Maison XII"];
   asteroides = ["Chiron","Nœud Nord","Nœud Sud","Cérès","Junon","Pallas","Fortune","Vertex","Vesta","Lilith","Point Est"];
 
+  showListe = false;
   API_URL = 'https://api.openai.com/v1/chat/completions';
 
   angle = 0;
@@ -651,6 +652,17 @@ processFileContent(): void {
   getFocus()
   {
     return this.focus.filter((f:any)=>f.type==this.type);
+  }
+
+  clickListe(obj:any,i:any)
+  {
+    this.type=obj.type;
+    if(i>2){
+      const element = this.textes.nativeElement;
+      const viewportWidth = window.innerWidth;
+      
+      element.scrollLeft = i-2*(viewportWidth / 100);
+    }
   }
 
   getPlaneteFromDataByName(name:any){return this.data.find((planete:any)=>planete.nom==name);}

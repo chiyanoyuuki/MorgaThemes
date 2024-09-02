@@ -312,6 +312,33 @@ button:hover{
     height: 2.4vw;
     margin: auto;
 }
+.center{
+    position: absolute;
+  right: -22vw;
+  width: 20vw;
+  transition:1s;
+  //border: 5px ridge var(--purple1);
+  //background-color: #9f8dc350;
+  padding: 3vh 1vw;
+  z-index: 1;
+}
+.center .arrow{
+    position: absolute;
+  top: 55px;
+  left: -60px;
+}
+.center .arroww{
+    rotate: 90deg;  
+    width: 25px;
+    padding: 5px 18px;
+    transition:0.5s;
+}
+.showliste{
+    transform: translateX(-22vw);
+}
+.showliste .arroww{
+    rotate:-90deg !important;
+}
 .contenu{
     overflow: hidden;
   height: 93%;

@@ -26,6 +26,21 @@
       <div #one class="svg"></div>
     </div>
   </div>
+
+  <div class="center" *ngIf="desc" [class.showliste]="showListe">
+    <div class="arrow clickable" (click)="showListe=!showListe">
+      <img src="./assets/roue.png" class="arroww"/>
+      <img class="fondbloc" src="./assets/bloc.png"/>
+    </div>
+    
+    <div *ngFor="let obj of focus;let i=index">
+      <p class="title clickable" (click)="clickListe(obj,i)">{{obj.nom}}</p>
+      <div *ngFor="let data of obj.data">
+        <p>{{data.nom?data.nom:data.maison}}</p>
+      </div>
+    </div>
+    <img class="fondbloc" src="./assets/bloc.png"/>
+  </div>
   
   <div class="right">
     <img *ngIf="desc" class="accueil clickable" (click)="clickAccueil()" src="./assets/roue.png"/>
@@ -44,7 +59,7 @@
       <p *ngFor="let m of menu" class="clickable" [class.clicked]="clicked2==m" (click)="clicked2=m">{{m}}</p>
     </div>
 
-    <div class="textes">
+    <div #textes class="textes">
       <div *ngFor="let obj of getFocus();let i=index" class="data" [class.lastdata]="i==focus.length-1">
         <div class="flex titlestyle">
           <img class="star" src="./assets/star.png">
