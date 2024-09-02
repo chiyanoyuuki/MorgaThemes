@@ -186,17 +186,16 @@ p{
     position:absolute;
     height: 140%;
     opacity: 0.2;
-    transform: rotate(-20deg);
     width: 50%;
-    top: -20%;
+    top: -50%;
     pointer-events: none;
 }
 .starsleft{
-    left:-20%;
+    left:30%;
 }
 .starsright{
-    right:-20%;
-    transform:rotate(160deg);
+    right:-50%;
+    top:-100%;
 }
 
 .bloc{
@@ -314,12 +313,12 @@ button:hover{
 }
 .center{
     position: absolute;
-  right: -22vw;
+  right: -25vw;
   width: 20vw;
   transition:1s;
   //border: 5px ridge var(--purple1);
   //background-color: #9f8dc350;
-  padding: 3vh 1vw;
+  padding: 3vh 4vw 3vh 1vw;
   z-index: 1;
 }
 .center .arrow{

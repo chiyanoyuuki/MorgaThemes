@@ -29,10 +29,10 @@ interface AstrologicalChart {
   animations: [
     trigger('moveAndRotate', [
       state('start', style({
-        transform: 'translateX(0) rotate(0deg)'
+        transform: 'translateX(0) translateY(0) rotate(0deg)'
       })),
       state('end', style({
-        transform: 'translateX(-100%) rotate(-60deg)'
+        transform: 'translateX(-150%) translateY(50%) rotate(-100deg)'
       })),
       transition('start => end', [
         animate('250s linear')
@@ -77,14 +77,12 @@ export class AppComponent implements OnInit
 
   showListe = false;
   API_URL = 'https://api.openai.com/v1/chat/completions';
-
-  angle = 0;
-  x = 0;
   
   public innerWidth: any = window.outerWidth;
   public innerHeight: any = window.outerHeight;
 
   interval: any;
+  interval2:any;
 
   constructor(private http : HttpClient) {}
   
@@ -660,8 +658,15 @@ processFileContent(): void {
     if(i>2){
       const element = this.textes.nativeElement;
       const viewportWidth = window.innerWidth;
+      console.log(element);
+      console.log(i-2*(viewportWidth / 100));
+      console.log(element);
+
+      this.interval2 = setInterval(() => {
+        element.scrollLeft = (i-2)*((viewportWidth / 100)*22);
+        clearInterval(this.interval2);
+      },100);
       
-      element.scrollLeft = i-2*(viewportWidth / 100);
     }
   }
 
