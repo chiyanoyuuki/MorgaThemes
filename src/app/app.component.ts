@@ -652,22 +652,19 @@ processFileContent(): void {
     return this.focus.filter((f:any)=>f.type==this.type);
   }
 
-  clickListe(obj:any,i:any)
+  clickListe(obj:any)
   {
-    this.type=obj.type;
-    if(i>2){
-      const element = this.textes.nativeElement;
-      const viewportWidth = window.innerWidth;
-      console.log(element);
-      console.log(i-2*(viewportWidth / 100));
-      console.log(element);
+    let type = obj.type;
+    let data = this.focus.filter((f:any)=>f.type==type);
+    let index = data.indexOf(obj);
+    this.type=type;
+    const element = this.textes.nativeElement;
+    const viewportWidth = window.innerWidth;
 
-      this.interval2 = setInterval(() => {
-        element.scrollLeft = (i-2)*((viewportWidth / 100)*22);
-        clearInterval(this.interval2);
-      },100);
-      
-    }
+    this.interval2 = setInterval(() => {
+      element.scrollLeft = index*((viewportWidth / 100)*24);
+      clearInterval(this.interval2);
+    },100);
   }
 
   getPlaneteFromDataByName(name:any){return this.data.find((planete:any)=>planete.nom==name);}

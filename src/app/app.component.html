@@ -34,7 +34,7 @@
     </div>
     
     <div *ngFor="let obj of focus;let i=index">
-      <p class="title clickable" (click)="clickListe(obj,i)">{{obj.nom}}</p>
+      <p class="title clickable" (click)="clickListe(obj)">{{obj.nom}}</p>
       <div *ngFor="let data of obj.data">
         <p>{{data.nom?data.nom:data.maison}}</p>
       </div>
