@@ -58,6 +58,7 @@ steliums
 Donne moi des informations sur tous les stelliums du soleil avec 2 autres planetes en scorpion avec les planètes suivantes :
 Saturne, Mars, Mercure, Vénus, Neptune, Jupiter, Lune, Uranus, Pluton
 en séparant à chaque fois les informations en deux, avec comme nom quelques mots qui résument les infos
+Fais très attention à ne pas faire de doublon de 3 planetes
 au format json suivant :
 [
 {
@@ -68,5 +69,5 @@ au format json suivant :
 ...
 ]
 
-
-continue avec les autres stelliums restants
+donne moi les autres stelliums que tu n'as pas encore donné
+Il en manque encore, continue avec d'autres Stelliums que tu n'as pas encore donné

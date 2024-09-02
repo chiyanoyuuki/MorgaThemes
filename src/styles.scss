@@ -97,7 +97,9 @@ button, input, select{
     font-weight:bold;
     text-align: center;
 }
-
+.flex{
+    display:flex;
+}
 .file{
     transition: 0.5s;
     margin-bottom:2vh;
@@ -303,20 +305,26 @@ button:hover{
   margin: 2vh 10vw;
 }
 .star{
-    width: 1.8vw;
-    top: 7px;
+    width: 2.4vw;
+    top: 10px;
     position: relative;
     margin: 0px 5px;
+    height: 2.4vw;
+    margin: auto;
 }
 .contenu{
     overflow: hidden;
   height: 93%;
 }
-.borderbot{
-    border-bottom: 1px solid var(--purple3) !important;
-    width: 90%;
+.titlestyle{
     padding-bottom: 1vh;
-    margin-bottom: 1vh;}
+    margin-bottom: 1vh;
+    width: 100%;
+    border-bottom: 1px solid var(--purple3) !important;
+}
+.titlestyle .star{
+    top:0px;
+}
 .contenu img{
         height:50%;
 }
