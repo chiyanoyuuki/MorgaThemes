@@ -51,7 +51,7 @@
       <img class="fondbloc" src="./assets/bloc.png"/>
     </div>
 
-    <div class="menu">
+    <div class="menu" *ngIf="desc">
       <p *ngFor="let t of types" class="clickable" [class.clicked]="t==type" (click)="type=t">{{t}}</p>
     </div>
 
@@ -60,25 +60,27 @@
     </div>
 
     <div #textes class="textes">
-      <div *ngFor="let obj of getFocus();let i=index" class="data" [class.lastdata]="i==focus.length-1">
-        <div class="flex titlestyle">
-          <img class="star" src="./assets/star.png">
-          <p class="title borderbot">{{obj.nom?obj.nom:obj.maison}}</p>
-          <img class="star" src="./assets/star.png">
-        </div>
-        <div class="contenu">
-          <div *ngFor="let data of obj.data">
-            <p class="title">{{data.nom?data.nom:data.maison}}</p>
-            <p>{{data.data}}</p>
+
+        <div *ngFor="let obj of getFocus();let i=index" class="data" [class.lastdata]="i==focus.length-1">
+          <div class="flex titlestyle">
+            <img class="star" src="./assets/star.png">
+            <p class="title borderbot">{{obj.nom?obj.nom:obj.maison}}</p>
+            <img class="star" src="./assets/star.png">
           </div>
-          <div *ngIf="!obj.data">
-            <p class="title">Données manquantes</p>
-            <p>...</p>
+          <div class="contenu">
+            <div *ngFor="let data of obj.data">
+              <p class="title">{{data.nom?data.nom:data.maison}}</p>
+              <p>{{data.data}}</p>
+            </div>
+            <div *ngIf="!obj.data">
+              <p class="title">Données manquantes</p>
+              <p>...</p>
+            </div>
           </div>
+          
+          <img class="fondbloc" src="./assets/bloc.png"/>
         </div>
-        
-        <img class="fondbloc" src="./assets/bloc.png"/>
-      </div>
+      
 
       <ng-template [ngIf]="!desc">
         <div *ngFor="let obj of getGeneral();let i=index" class="data" [class.lastdata]="i==focus.length-1">

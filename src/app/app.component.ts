@@ -90,14 +90,14 @@ export class AppComponent implements OnInit
   {
     this.startInterval(1000,"end");
     //Scorpion, Balance, Taureau, Capricorne
-    /*this.infos.stelliums.forEach((a:any)=>{
+    this.infos.stelliums.forEach((a:any)=>{
       let b = this.infos.stelliums.filter((c:any)=>c.noms.includes(a.noms[0])&&c.noms.includes(a.noms[1])&&c.noms.includes(a.noms[2])&&c.signe==a.signe);
       if(b.length>1)console.log(b);
     });
     this.planetes.forEach((p:any)=>{
-      let nb = this.infos.stelliums.filter((s:any)=>s.noms.includes(p)&&s.signe=="Capricorne").length;
+      let nb = this.infos.stelliums.filter((s:any)=>s.noms.includes(p)&&s.signe=="Bélier").length;
       console.log(p,nb)
-    });*/
+    });
    /*
     this.planetes.forEach((p:any)=>{
       let s = this.infos.stelliums.filter((s:any)=>s.signe=="Taureau"&&s.noms.includes("Mercure"));
