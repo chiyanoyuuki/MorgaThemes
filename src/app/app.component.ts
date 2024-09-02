@@ -36,6 +36,9 @@ interface AstrologicalChart {
       })),
       transition('start => end', [
         animate('250s linear')
+      ]),
+      transition('end => start', [
+        animate('250s linear')
       ])
     ])
   ]
@@ -86,9 +89,7 @@ export class AppComponent implements OnInit
   
   ngOnInit(): void 
   {
-    this.interval = setInterval(() => {
-      this.moveAndRotate = "end";
-  },1000);
+    this.startInterval(1000,"end");
     //Scorpion, Balance, Taureau, Capricorne
     /*this.infos.stelliums.forEach((a:any)=>{
       let b = this.infos.stelliums.filter((c:any)=>c.noms.includes(a.noms[0])&&c.noms.includes(a.noms[1])&&c.noms.includes(a.noms[2])&&c.signe==a.signe);
@@ -106,6 +107,15 @@ export class AppComponent implements OnInit
     
     this.readFile();
     //this.readSigneGpt();
+  }
+
+  startInterval(i:any, s:any)
+  {
+    this.interval = setInterval(() => {
+      this.moveAndRotate = s;
+      clearInterval(this.interval);
+      this.startInterval(250000,s=="start"?"end":"start");
+    },i);
   }
 
   readFile()
