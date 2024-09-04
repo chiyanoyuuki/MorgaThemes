@@ -55,19 +55,25 @@ steliums
 
 
 
-Donne moi des informations sur tous les stelliums du soleil avec 2 autres planetes en scorpion avec les planètes suivantes :
+Donne moi des informations sur tous les stelliums de Soleil avec 2 autres planetes en Sagittaire avec les planètes suivantes :
 Saturne, Mars, Mercure, Vénus, Neptune, Jupiter, Lune, Uranus, Pluton
 en séparant à chaque fois les informations en deux, avec comme nom quelques mots qui résument les infos
-Fais très attention à ne pas faire de doublon de 3 planetes
+Pour l'instant occupe toi de la première configuration avec la premiere planete de la liste en tant que deuxieme planete
 au format json suivant :
 [
 {
-"noms":["Soleil","nom de la deuxieme planete","nom de la troisième planete"],
-"signe":"signe astrologique", 
-"data":["nom":"nom du point clé","data":"infos"]
-},
-...
+"noms":["Planete principale","Nom de la deuxieme planete","Nom de la troisième planete"],
+"signe":"Signe astrologique", 
+"data":["nom":"Nom du point clé","data":"Infos"]
+}
 ]
 
-donne moi les autres stelliums que tu n'as pas encore donné
-Il en manque encore, continue avec d'autres Stelliums que tu n'as pas encore donné
+meme chose en enlevant Saturne de la liste
+meme chose en enlevant Mars de la liste
+meme chose en enlevant Mercure de la liste
+meme chose en enlevant Vénus de la liste
+meme chose en enlevant Neptune de la liste
+meme chose en enlevant Jupiter de la liste
+meme chose en enlevant Lune de la liste
+meme chose en enlevant Uranus de la liste
+meme chose en enlevant Pluton de la liste

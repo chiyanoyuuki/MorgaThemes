@@ -89,13 +89,13 @@ export class AppComponent implements OnInit
   ngOnInit(): void 
   {
     this.startInterval(1000,"end");
-    //Scorpion, Balance, Taureau, Capricorne
-    this.infos.stelliums.forEach((a:any)=>{
+    //Scorpion, Balance, Taureau, Capricorne, Bélier, Sagittaire
+    /*this.infos.stelliums.forEach((a:any)=>{
       let b = this.infos.stelliums.filter((c:any)=>c.noms.includes(a.noms[0])&&c.noms.includes(a.noms[1])&&c.noms.includes(a.noms[2])&&c.signe==a.signe);
       if(b.length>1)console.log(b);
     });
     this.planetes.forEach((p:any)=>{
-      let nb = this.infos.stelliums.filter((s:any)=>s.noms.includes(p)&&s.signe=="Bélier").length;
+      let nb = this.infos.stelliums.filter((s:any)=>s.noms.includes(p)&&s.signe=="Sagittaire").length;
       console.log(p,nb)
     });
    /*
@@ -104,7 +104,7 @@ export class AppComponent implements OnInit
       console.log(p,s.filter((a:any)=>a.noms.includes(p)).length);
     })*/
     
-    this.readFile();
+    //this.readFile();
     //this.readSigneGpt();
   }
 

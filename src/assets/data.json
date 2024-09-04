@@ -38871,6 +38871,3366 @@
           "data": "Il y a une tendance à utiliser une compréhension intuitive et une profondeur émotionnelle pour influencer et réformer les dynamiques personnelles. Cette combinaison encourage une exploration intense et puissante des aspects émotionnels et psychologiques."
         }
       ]
+    },
+    {
+      "noms": ["Soleil", "Saturne", "Mars"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Responsabilité et Action",
+          "data": "Ce stellium combine la vitalité du Soleil avec la discipline de Saturne et l'énergie de Mars. En Gémeaux, il peut apporter une approche méthodique et réfléchie à la communication et aux projets intellectuels, mais aussi une tendance à suranalyser les actions avant de les entreprendre."
+        },
+        {
+          "nom": "Tensions Mentales",
+          "data": "Saturne et Mars ensemble peuvent créer des tensions internes, surtout en matière de prise de décision. En Gémeaux, cela peut se manifester par des hésitations ou une communication plus rigide."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Saturne", "Mercure"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Structure Intellectuelle",
+          "data": "Ce stellium met l'accent sur la pensée structurée et la communication responsable. Le Soleil apporte la clarté, Saturne la rigueur, et Mercure la vivacité intellectuelle, créant une personne qui réfléchit profondément avant de s'exprimer."
+        },
+        {
+          "nom": "Communication Réservée",
+          "data": "La combinaison de Saturne et Mercure en Gémeaux peut entraîner une communication plus réservée ou prudente, avec une tendance à éviter les conversations superficielles."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Saturne", "Vénus"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Relations Sérieuses",
+          "data": "Ce stellium suggère une approche sérieuse et réfléchie des relations, avec une forte éthique dans les interactions sociales et affectives. Le Soleil en Gémeaux avec Saturne rend les relations importantes mais exigeantes."
+        },
+        {
+          "nom": "Expression Artistique Contrôlée",
+          "data": "Vénus en Gémeaux avec Saturne et le Soleil peut indiquer une approche plus disciplinée de l'art et de l'expression personnelle, avec un penchant pour l'esthétique intellectuelle."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Saturne", "Neptune"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Rêves et Réalités",
+          "data": "Le mélange de Saturne et Neptune avec le Soleil en Gémeaux crée une tension entre les idéaux et la réalité. Il y a un besoin de concilier les aspirations spirituelles ou créatives avec une approche pratique."
+        },
+        {
+          "nom": "Pensée Mystique mais Structurée",
+          "data": "En Gémeaux, ce stellium peut mener à une fascination pour les sujets spirituels ou mystiques, tout en cherchant à les comprendre de manière logique et structurée."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Saturne", "Jupiter"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Expansion Contrôlée",
+          "data": "Avec Saturne et Jupiter ensemble en Gémeaux, il y a une lutte entre l'expansion et la restriction. Le Soleil amplifie cette dynamique, rendant la personne réfléchie mais ambitieuse dans ses efforts intellectuels ou sociaux."
+        },
+        {
+          "nom": "Sagesse Pratique",
+          "data": "Ce stellium en Gémeaux favorise une approche pratique de la philosophie et de la quête de connaissances, combinant optimisme et réalisme dans la manière d'apprendre et de communiquer."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Saturne", "Lune"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Émotions et Discipline",
+          "data": "La Lune en Gémeaux avec Saturne et le Soleil peut indiquer une répression des émotions ou un besoin de contrôler les sentiments par la logique et la discipline."
+        },
+        {
+          "nom": "Stabilité Émotionnelle",
+          "data": "Saturne apporte une stabilité émotionnelle, même en Gémeaux, un signe habituellement plus léger. Ce stellium favorise une réflexion profonde sur les émotions et les réactions."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Saturne", "Uranus"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Tradition et Innovation",
+          "data": "Ce stellium en Gémeaux crée une tension entre le respect des traditions (Saturne) et le désir d'innovation (Uranus). Le Soleil accentue cette dualité en cherchant à exprimer ces forces de manière cohérente."
+        },
+        {
+          "nom": "Pensée Non Conventionnelle",
+          "data": "Saturne et Uranus en Gémeaux favorisent une pensée qui allie rigueur et originalité. Ce stellium pousse à chercher de nouvelles perspectives tout en respectant certaines structures intellectuelles."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Saturne", "Pluton"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Transformation Intellectuelle",
+          "data": "Avec Pluton en Gémeaux, ce stellium suggère une profonde transformation de la manière de penser et de communiquer, souvent motivée par une quête de vérité absolue."
+        },
+        {
+          "nom": "Pouvoir Mental",
+          "data": "Saturne et Pluton ensemble apportent une force mentale considérable, permettant de surmonter les défis intellectuels avec ténacité et persistance."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mars", "Mercure"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Énergie Intellectuelle",
+          "data": "Ce stellium combine la vitalité du Soleil, l'énergie de Mars, et l'intellect de Mercure. En Gémeaux, il favorise une pensée rapide, un esprit vif, et une capacité à agir sur des idées immédiatement."
+        },
+        {
+          "nom": "Communication Assertive",
+          "data": "Mars en Gémeaux accentue la manière directe et parfois agressive de communiquer. Ce stellium peut amener à défendre vigoureusement ses opinions."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mars", "Vénus"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Passion et Séduction",
+          "data": "Avec Mars et Vénus ensemble en Gémeaux, ce stellium combine l'énergie passionnée de Mars avec l'harmonie et l'attractivité de Vénus, rendant les interactions sociales et romantiques dynamiques et captivantes."
+        },
+        {
+          "nom": "Dualité dans les Relations",
+          "data": "En Gémeaux, Mars et Vénus peuvent créer une approche contradictoire des relations, mêlant désir de liberté et besoin de connexion, menant à une fluctuation entre distance et rapprochement."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mars", "Neptune"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Action Inspirée",
+          "data": "Mars et Neptune en Gémeaux favorisent une action guidée par l'inspiration et les idéaux. Le Soleil amplifie cette énergie, conduisant à une forte motivation pour poursuivre des objectifs élevés ou spirituels."
+        },
+        {
+          "nom": "Tension entre Réalité et Idéal",
+          "data": "Ce stellium peut créer une tension entre l'action directe (Mars) et la nature évasive ou rêveuse de Neptune, surtout dans un signe aussi mental que Gémeaux, conduisant parfois à une confusion dans les intentions."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mars", "Jupiter"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Expansion Énergique",
+          "data": "Avec Mars et Jupiter en Gémeaux, ce stellium apporte une énergie expansive et optimiste. Le Soleil en Gémeaux accentue cette dynamique, favorisant l'apprentissage, l'exploration intellectuelle, et les débats."
+        },
+        {
+          "nom": "Confiance et Assertivité",
+          "data": "Ce stellium en Gémeaux rend la communication confiante et persuasive, avec une forte conviction dans ses idées et un désir de partager ses connaissances avec enthousiasme."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mars", "Lune"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Émotions et Dynamisme",
+          "data": "La Lune en Gémeaux avec Mars et le Soleil indique une énergie émotionnelle intense, avec un besoin d'exprimer les sentiments de manière rapide et directe."
+        },
+        {
+          "nom": "Réactivité Émotionnelle",
+          "data": "Ce stellium peut entraîner une certaine impulsivité émotionnelle, avec des réactions rapides et parfois imprévisibles face aux situations émotionnelles."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mars", "Uranus"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Innovation et Rébellion",
+          "data": "Mars et Uranus en Gémeaux créent une énergie impulsive et révolutionnaire. Ce stellium encourage des actions soudaines, des idées novatrices, et une volonté de briser les conventions."
+        },
+        {
+          "nom": "Esprit Indépendant",
+          "data": "En Gémeaux, ce stellium pousse à une grande indépendance intellectuelle et à une volonté de défendre des idées originales, parfois au détriment de la collaboration."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mars", "Pluton"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Puissance et Transformation",
+          "data": "Avec Mars et Pluton en Gémeaux, ce stellium indique une énergie intense et transformative. Le Soleil amplifie cette puissance, menant à une force mentale et physique exceptionnelle."
+        },
+        {
+          "nom": "Confrontation et Régénération",
+          "data": "Ce stellium favorise une approche confrontative des défis intellectuels et une capacité à renaître de ses échecs, grâce à une profonde volonté de se régénérer et d'évoluer."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mercure", "Vénus"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Charme Intellectuel",
+          "data": "Ce stellium combine la vitalité du Soleil, l'intellect vif de Mercure, et le charme de Vénus. En Gémeaux, cela favorise une communication agréable et persuasive, souvent teintée de créativité et d'élégance."
+        },
+        {
+          "nom": "Relations Harmonieuses",
+          "data": "La combinaison de Mercure et Vénus en Gémeaux avec le Soleil peut rendre les interactions sociales et amoureuses légères, pleines d'esprit, et basées sur une connexion mentale profonde."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mercure", "Neptune"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Imagination et Rêverie",
+          "data": "Mercure et Neptune en Gémeaux avec le Soleil favorisent une pensée imaginative et souvent rêveuse. Ce stellium permet d'accéder facilement à des idées créatives et inspirées, parfois au détriment de la réalité."
+        },
+        {
+          "nom": "Intuition Mentale",
+          "data": "Ce stellium en Gémeaux peut entraîner une grande sensibilité aux pensées et aux énergies subtiles, combinant l'esprit analytique de Mercure avec l'intuition profonde de Neptune."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mercure", "Jupiter"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Expansion Intellectuelle",
+          "data": "Avec Mercure et Jupiter en Gémeaux, ce stellium favorise une expansion du savoir et une curiosité intellectuelle. Le Soleil amplifie cette dynamique, encourageant l'apprentissage continu et les débats philosophiques."
+        },
+        {
+          "nom": "Communication Optimiste",
+          "data": "Ce stellium renforce une communication optimiste et enthousiaste, avec une tendance à partager les connaissances de manière généreuse et inspirante."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mercure", "Lune"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Émotions et Pensées",
+          "data": "La Lune en Gémeaux avec Mercure et le Soleil indique une fusion entre les émotions et la pensée. Ce stellium favorise l'expression des sentiments à travers les mots, avec une tendance à rationaliser les émotions."
+        },
+        {
+          "nom": "Réflexion Intuitive",
+          "data": "Ce stellium en Gémeaux permet une réflexion intuitive, où l'esprit et les émotions travaillent en harmonie pour traiter les informations de manière fluide et rapide."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mercure", "Uranus"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Esprit Innovant",
+          "data": "Avec Mercure et Uranus en Gémeaux, ce stellium encourage des idées novatrices et un esprit avant-gardiste. Le Soleil accentue cette capacité à penser de manière originale et à défier les conventions."
+        },
+        {
+          "nom": "Communication Brillante",
+          "data": "Ce stellium favorise une communication rapide, parfois brusque, mais toujours empreinte d'un éclair de génie. Les idées sont souvent présentées de manière inattendue mais captivante."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mercure", "Pluton"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Pouvoir Mental",
+          "data": "Avec Mercure et Pluton en Gémeaux, ce stellium crée un esprit puissant et perspicace, capable de sonder profondément les pensées et les motivations des autres. Le Soleil ajoute une force de volonté à cette capacité intellectuelle."
+        },
+        {
+          "nom": "Transformation Intellectuelle",
+          "data": "Ce stellium favorise une profonde transformation de la manière de penser et de communiquer, souvent motivée par un désir de découvrir des vérités cachées ou de résoudre des mystères complexes."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Vénus", "Neptune"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Idéalisme Romantique",
+          "data": "Ce stellium combine la lumière du Soleil, l'amour de Vénus, et l'idéalisme de Neptune. En Gémeaux, il favorise une vision romantique et rêveuse des relations, avec une forte imagination en matière d'affection et de beauté."
+        },
+        {
+          "nom": "Créativité Spirituelle",
+          "data": "Avec Vénus et Neptune en Gémeaux, ce stellium stimule une expression artistique et créative empreinte de spiritualité, avec une forte attirance pour l'art, la musique, et les idéaux esthétiques."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Vénus", "Jupiter"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Optimisme Relationnel",
+          "data": "Le stellium formé par Vénus et Jupiter en Gémeaux, avec le Soleil, encourage une approche joyeuse et expansive des relations. Il favorise des interactions sociales chaleureuses et un amour de la vie."
+        },
+        {
+          "nom": "Générosité et Harmonie",
+          "data": "Ce stellium en Gémeaux renforce une grande générosité et un désir d'harmonie dans les relations. Il pousse à exprimer l'amour et l'affection de manière ouverte et bienveillante."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Vénus", "Lune"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Émotions et Charme",
+          "data": "Avec la Lune et Vénus en Gémeaux, ce stellium favorise une expression émotionnelle légère et charmante. Il y a une tendance à vouloir plaire et à chercher des connexions émotionnelles par le dialogue."
+        },
+        {
+          "nom": "Sensibilité et Relations",
+          "data": "Ce stellium en Gémeaux encourage une grande sensibilité aux besoins émotionnels des autres, avec un besoin de sécurité émotionnelle à travers des relations harmonieuses et communicatives."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Vénus", "Uranus"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Originalité Relationnelle",
+          "data": "Vénus et Uranus en Gémeaux, avec le Soleil, créent une approche unique et non conventionnelle des relations. Ce stellium favorise l'exploration de nouvelles formes d'amour et d'expression artistique."
+        },
+        {
+          "nom": "Liberté et Innovation",
+          "data": "Ce stellium renforce un désir de liberté dans les relations et les expressions personnelles. Il encourage des idées innovantes en matière d'art et de relations, souvent en dehors des normes traditionnelles."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Vénus", "Pluton"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Intensité Relationnelle",
+          "data": "Avec Vénus et Pluton en Gémeaux, ce stellium indique des relations profondes et transformantes. Le Soleil amplifie cette intensité, menant à des expériences amoureuses puissantes et parfois obsédantes."
+        },
+        {
+          "nom": "Transformation par l'Amour",
+          "data": "Ce stellium favorise une transformation personnelle profonde à travers l'amour et les relations. Il peut conduire à des changements significatifs dans la manière de s'engager et de se connecter avec les autres."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Neptune", "Jupiter"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Idéalisme et Sagesse",
+          "data": "Neptune et Jupiter en Gémeaux, avec le Soleil, favorisent une quête de vérité et de spiritualité. Ce stellium pousse à combiner idéalisme et expansion intellectuelle pour poursuivre des objectifs élevés."
+        },
+        {
+          "nom": "Vision et Foi",
+          "data": "Ce stellium renforce la foi en des idéaux élevés et une vision optimiste de la vie. En Gémeaux, il encourage à explorer différentes philosophies et croyances avec une approche ouverte et curieuse."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Neptune", "Lune"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Sensibilité Spirituelle",
+          "data": "La combinaison de Neptune et de la Lune en Gémeaux avec le Soleil accentue la sensibilité émotionnelle et spirituelle. Ce stellium favorise une grande intuition et une connexion profonde avec le monde intérieur."
+        },
+        {
+          "nom": "Évasion et Imagination",
+          "data": "Ce stellium en Gémeaux peut conduire à une tendance à s'évader dans des mondes imaginaires ou spirituels. Il favorise une créativité riche mais aussi une certaine difficulté à rester ancré dans la réalité."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Neptune", "Uranus"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Vision et Révolution",
+          "data": "Avec Neptune et Uranus en Gémeaux, ce stellium favorise des idées révolutionnaires et une vision futuriste. Le Soleil ajoute une volonté de mettre en œuvre des changements inspirés et innovants."
+        },
+        {
+          "nom": "Inspiration et Originalité",
+          "data": "Ce stellium encourage à suivre des idées originales et inspirantes, souvent en dehors des sentiers battus. Il favorise une approche intuitive et visionnaire de la vie et des projets créatifs."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Neptune", "Pluton"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Transformation Spirituelle",
+          "data": "Neptune et Pluton en Gémeaux, avec le Soleil, suggèrent une transformation spirituelle profonde. Ce stellium favorise une exploration des mystères de la vie et une quête de vérité transcendante."
+        },
+        {
+          "nom": "Pouvoir et Mystique",
+          "data": "Ce stellium en Gémeaux combine le pouvoir intense de Pluton avec la nature mystique de Neptune. Il encourage une plongée profonde dans les aspects cachés de l'existence, avec un fort désir de comprendre les forces invisibles."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Jupiter", "Lune"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Optimisme Émotionnel",
+          "data": "Avec Jupiter et la Lune en Gémeaux, ce stellium favorise un optimisme naturel et une grande générosité émotionnelle. Le Soleil amplifie cette énergie, rendant la personne chaleureuse et bienveillante."
+        },
+        {
+          "nom": "Expansion des Sentiments",
+          "data": "Ce stellium encourage l'expansion des sentiments et des émotions, souvent exprimées de manière enthousiaste et communicative. Il favorise des relations ouvertes et joyeuses."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Jupiter", "Uranus"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Expérimentation et Innovation",
+          "data": "Avec Jupiter et Uranus en Gémeaux, ce stellium favorise l'expérimentation intellectuelle et l'innovation. Le Soleil ajoute de la confiance et de l'optimisme pour explorer de nouvelles idées."
+        },
+        {
+          "nom": "Esprit Indépendant",
+          "data": "Ce stellium renforce un esprit indépendant et une tendance à explorer des idées non conventionnelles. Il encourage à sortir des sentiers battus et à embrasser le changement."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Jupiter", "Pluton"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Pouvoir et Expansion",
+          "data": "Avec Jupiter et Pluton en Gémeaux, ce stellium suggère une expansion du pouvoir intellectuel. Le Soleil amplifie cette dynamique, rendant la personne ambitieuse et capable de transformations profondes."
+        },
+        {
+          "nom": "Transformation et Croissance",
+          "data": "Ce stellium en Gémeaux favorise une croissance personnelle intense par la transformation et le renouvellement. Il encourage à aller au fond des choses pour atteindre une compréhension plus large."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Lune", "Uranus"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Émotions et Indépendance",
+          "data": "Avec la Lune et Uranus en Gémeaux, ce stellium favorise une approche émotionnelle indépendante et non conventionnelle. Le Soleil accentue ce besoin de liberté dans l'expression des sentiments."
+        },
+        {
+          "nom": "Changements Soudains",
+          "data": "Ce stellium peut entraîner des changements émotionnels soudains et imprévus. Il encourage l'acceptation du changement et l'exploration de nouvelles voies émotionnelles."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Lune", "Pluton"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Intensité Émotionnelle",
+          "data": "Avec la Lune et Pluton en Gémeaux, ce stellium indique une grande intensité émotionnelle. Le Soleil amplifie cette énergie, conduisant à des sentiments profonds et parfois conflictuels."
+        },
+        {
+          "nom": "Transformation Émotionnelle",
+          "data": "Ce stellium en Gémeaux favorise une transformation profonde à travers les expériences émotionnelles. Il peut conduire à un renouvellement des attitudes et des relations après des crises émotionnelles."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Uranus", "Pluton"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Rébellion et Transformation",
+          "data": "Avec Uranus et Pluton en Gémeaux, ce stellium suggère une volonté de transformer radicalement son environnement intellectuel et social. Le Soleil accentue le désir de révolte contre les normes établies."
+        },
+        {
+          "nom": "Puissance de Changement",
+          "data": "Ce stellium en Gémeaux renforce la capacité à provoquer des changements profonds et durables, souvent en remettant en question les structures existantes de manière innovante."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mars", "Mercure"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Discipline et Action",
+          "data": "Ce stellium en Gémeaux combine la rigueur de Saturne avec l'énergie de Mars et l'intellect de Mercure. Il favorise une approche disciplinée de l'action et de la communication, où les décisions sont prises après une réflexion approfondie."
+        },
+        {
+          "nom": "Combativité Intellectuelle",
+          "data": "Avec Mercure et Mars en Gémeaux, ce stellium peut renforcer une tendance à défendre ses idées avec force et conviction. Saturne ajoute une dimension stratégique, transformant les débats en véritables confrontations intellectuelles."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mars", "Vénus"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Tension Relationnelle",
+          "data": "Le stellium de Saturne, Mars et Vénus en Gémeaux crée une dynamique où les relations peuvent être marquées par des conflits ou des tensions. Saturne impose des limites, tandis que Mars ajoute de l'intensité, ce qui peut rendre les interactions amoureuses plus complexes."
+        },
+        {
+          "nom": "Équilibre entre Désir et Responsabilité",
+          "data": "Ce stellium favorise une gestion prudente des désirs et des passions. Vénus apporte le charme, Mars la passion, mais Saturne exige que tout soit géré de manière responsable et structurée."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mars", "Neptune"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Conflit entre Réalité et Idéal",
+          "data": "Ce stellium en Gémeaux combine la rigueur de Saturne, l'énergie de Mars et le rêve de Neptune. Il peut créer une tension entre les actions concrètes et les idéaux, rendant difficile l'alignement entre ce que l'on veut faire et ce que l'on peut réellement accomplir."
+        },
+        {
+          "nom": "Énergie Spirituelle",
+          "data": "Avec Neptune en Gémeaux, ce stellium peut conduire à une quête d'actions qui ont un sens plus élevé ou spirituel. Saturne structure cette quête, tandis que Mars la pousse vers la réalisation."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mars", "Jupiter"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Ambition et Croissance",
+          "data": "Avec Saturne, Mars, et Jupiter en Gémeaux, ce stellium favorise une combinaison de discipline, énergie, et expansion. Il pousse à atteindre de grands objectifs, avec une capacité à surmonter les obstacles grâce à une détermination inébranlable."
+        },
+        {
+          "nom": "Stratégie et Expansion",
+          "data": "Ce stellium renforce la capacité à élaborer des stratégies pour réussir. Jupiter apporte l'optimisme, tandis que Saturne et Mars offrent les outils pour transformer les plans en actions concrètes."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mars", "Lune"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Émotions et Contrôle",
+          "data": "Avec la Lune, Mars, et Saturne en Gémeaux, ce stellium crée une tension entre l'expression des émotions et le besoin de contrôle. Saturne impose une discipline stricte, ce qui peut restreindre l'expression émotionnelle naturelle."
+        },
+        {
+          "nom": "Passion Réprimée",
+          "data": "Ce stellium peut indiquer une lutte entre les désirs passionnés de Mars et la répression émotionnelle imposée par Saturne. Il en résulte une dynamique où les émotions sont souvent contrôlées et exprimées avec retenue."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mars", "Uranus"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Rébellion Structurée",
+          "data": "Le stellium de Saturne, Mars, et Uranus en Gémeaux crée une dynamique unique où le désir de changement radical (Uranus) est confronté à la structure rigide de Saturne. Mars ajoute de l'énergie pour catalyser des actions révolutionnaires, mais toujours avec un certain ordre."
+        },
+        {
+          "nom": "Innovation et Discipline",
+          "data": "Ce stellium en Gémeaux favorise une approche innovante mais disciplinée des défis. Il pousse à briser les normes établies de manière méthodique et calculée."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mars", "Pluton"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Pouvoir et Résistance",
+          "data": "Avec Mars, Saturne, et Pluton en Gémeaux, ce stellium indique une grande force de caractère et une capacité à résister aux pressions externes. Il favorise une détermination inflexible et une capacité à transformer les défis en opportunités."
+        },
+        {
+          "nom": "Transformation Stratégique",
+          "data": "Ce stellium encourage une transformation profonde à travers des actions stratégiques. Pluton apporte l'intensité et Saturne la structure, tandis que Mars pousse à l'action directe pour provoquer des changements durables."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mercure", "Vénus"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Rigueur dans la Communication",
+          "data": "Ce stellium en Gémeaux associe la discipline de Saturne avec l'intellect de Mercure et l'harmonie de Vénus. Il favorise une communication structurée, où l'élégance et la diplomatie sont prioritaires, mais toujours avec une certaine prudence et réflexion."
+        },
+        {
+          "nom": "Responsabilité dans les Relations",
+          "data": "Avec Vénus en Gémeaux, ce stellium suggère une approche mature et responsable des relations. Saturne impose des limites claires et Mercure favorise une communication efficace pour maintenir l'harmonie."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mercure", "Neptune"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Précision et Intuition",
+          "data": "Le stellium de Saturne, Mercure, et Neptune en Gémeaux crée un équilibre entre la rigueur mentale et l'intuition. Saturne impose une structure claire, tandis que Neptune apporte une touche de rêve et d'imagination, le tout ancré dans une pensée analytique."
+        },
+        {
+          "nom": "Réalisme et Idéal",
+          "data": "Ce stellium encourage à trouver un juste milieu entre les idéaux élevés (Neptune) et la réalité concrète (Saturne). Mercure en Gémeaux permet de communiquer ces visions de manière claire et convaincante."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mercure", "Jupiter"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Sagesse et Éloquence",
+          "data": "Avec Saturne, Mercure, et Jupiter en Gémeaux, ce stellium favorise une combinaison de sagesse, d'éloquence, et de vision. Il renforce une capacité à communiquer des idées ambitieuses avec une autorité naturelle et une pensée expansive."
+        },
+        {
+          "nom": "Stratégie Intellectuelle",
+          "data": "Ce stellium en Gémeaux pousse à développer des stratégies intellectuelles solides, alliant optimisme (Jupiter) et réalisme (Saturne). Mercure permet de structurer les idées et de les transmettre de manière claire et persuasive."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mercure", "Lune"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Contrôle Émotionnel",
+          "data": "Le stellium de Saturne, Mercure, et la Lune en Gémeaux indique un contrôle strict des émotions, favorisant une approche réfléchie et raisonnée des sentiments. Les émotions sont souvent analysées et exprimées de manière contrôlée."
+        },
+        {
+          "nom": "Communication Prudente",
+          "data": "Avec la Lune et Mercure en Gémeaux, ce stellium suggère une communication prudente et mesurée, où les émotions sont souvent passées au crible de la raison. Saturne impose une discipline stricte dans la manière d'exprimer ses sentiments."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mercure", "Uranus"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Innovation et Discipline",
+          "data": "Avec Saturne, Mercure, et Uranus en Gémeaux, ce stellium favorise une pensée innovante mais structurée. Saturne apporte la discipline nécessaire pour concrétiser des idées originales (Uranus), tandis que Mercure facilite la communication de ces idées."
+        },
+        {
+          "nom": "Réforme Intellectuelle",
+          "data": "Ce stellium encourage une réforme intellectuelle, où des concepts nouveaux et révolutionnaires sont intégrés dans des structures solides. Mercure en Gémeaux favorise l'adaptabilité et la rapidité d'esprit dans ce processus."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mercure", "Pluton"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Pouvoir Mental",
+          "data": "Le stellium de Saturne, Mercure, et Pluton en Gémeaux suggère un pouvoir mental intense et une capacité à aller au fond des choses. Saturne apporte la structure, Pluton la profondeur, et Mercure la capacité à communiquer ces idées complexes."
+        },
+        {
+          "nom": "Transformation Intellectuelle",
+          "data": "Ce stellium favorise une transformation profonde de la pensée et des idées. Il pousse à explorer des sujets tabous ou complexes, avec une approche rigoureuse et méthodique."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Vénus", "Neptune"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Réalité et Idéalisme",
+          "data": "Avec Saturne, Vénus, et Neptune en Gémeaux, ce stellium crée une dynamique entre le désir d'harmonie et d'amour (Vénus), l'idéalisme et les rêves (Neptune), et la réalité concrète (Saturne). Il peut indiquer une lutte pour équilibrer les idéaux romantiques avec les limitations pratiques."
+        },
+        {
+          "nom": "Créativité Structurée",
+          "data": "Ce stellium favorise une approche artistique ou créative qui est à la fois inspirée par des idéaux élevés et structurée par un sens de la discipline. La créativité est canalisée de manière méthodique et organisée."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Vénus", "Jupiter"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Expansion et Réalisme",
+          "data": "Ce stellium en Gémeaux combine l'expansion et l'optimisme de Jupiter, l'amour et les valeurs de Vénus, et la discipline de Saturne. Il favorise une approche réaliste mais optimiste des relations et des valeurs personnelles."
+        },
+        {
+          "nom": "Équilibre entre Expansion et Limites",
+          "data": "Avec ce stellium, il existe une tension entre l'envie de croissance (Jupiter) et les limitations imposées par la réalité (Saturne). Vénus tempère cela, cherchant à maintenir l'harmonie et l'équilibre dans ce contexte."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Vénus", "Lune"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Responsabilité Émotionnelle",
+          "data": "Avec Saturne, Vénus, et la Lune en Gémeaux, ce stellium met l'accent sur la responsabilité dans les relations et l'expression des émotions. Les émotions sont souvent filtrées à travers une lentille de sérieux et de discipline."
+        },
+        {
+          "nom": "Stabilité dans les Relations",
+          "data": "Ce stellium favorise une approche stable et méthodique des relations. Les émotions (Lune) et l'amour (Vénus) sont structurés par Saturne, ce qui peut apporter une certaine stabilité mais aussi une tendance à la retenue."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Vénus", "Uranus"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Amour et Liberté",
+          "data": "Le stellium de Saturne, Vénus, et Uranus en Gémeaux crée une dynamique intéressante entre le désir de liberté dans les relations (Uranus) et la structure ou les limites imposées par Saturne. Il peut y avoir une quête d'originalité tout en respectant certaines règles."
+        },
+        {
+          "nom": "Innovation Relationnelle",
+          "data": "Ce stellium favorise l'innovation dans l'approche des relations et des valeurs personnelles. Vénus et Uranus ensemble apportent une originalité et une volonté de rompre avec les traditions, mais Saturne veille à ce que cela se fasse de manière structurée."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Vénus", "Pluton"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Intensité et Contrôle",
+          "data": "Avec Saturne, Vénus, et Pluton en Gémeaux, ce stellium met l'accent sur une approche intense mais contrôlée des relations. Les sentiments amoureux peuvent être profonds et complexes, avec une forte volonté de contrôle et de transformation."
+        },
+        {
+          "nom": "Transformation des Valeurs",
+          "data": "Ce stellium favorise une transformation profonde des valeurs personnelles et des relations. Saturne apporte la structure nécessaire pour gérer les changements radicaux imposés par Pluton."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Neptune", "Jupiter"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Foi et Réalité",
+          "data": "Avec Saturne, Neptune, et Jupiter en Gémeaux, ce stellium combine la foi et l'idéalisme avec le pragmatisme. Il favorise une approche équilibrée entre les grands idéaux et la réalité concrète, avec un fort accent sur la quête de vérité et de sagesse."
+        },
+        {
+          "nom": "Équilibre entre Expansion Spirituelle et Réalisme",
+          "data": "Ce stellium pousse à concilier l'expansion spirituelle (Jupiter) et les rêves (Neptune) avec les limites du monde matériel (Saturne). Il y a une tension entre l'idéal et le possible, nécessitant une gestion prudente."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Neptune", "Lune"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Rêves et Réalisme Émotionnel",
+          "data": "Ce stellium en Gémeaux avec Saturne, Neptune, et la Lune met l'accent sur un équilibre entre les rêves et les idéaux émotionnels (Neptune) et la réalité concrète des émotions (Saturne). Il peut y avoir une lutte pour maintenir cet équilibre tout en restant connecté à ses sentiments."
+        },
+        {
+          "nom": "Sensibilité Structurée",
+          "data": "Ce stellium favorise une sensibilité émotionnelle structurée et disciplinée. La Lune et Neptune en Gémeaux encouragent l'exploration émotionnelle, mais Saturne veille à ce que cette exploration soit ancrée dans la réalité."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Neptune", "Uranus"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Innovation Spirituelle",
+          "data": "Avec Saturne, Neptune, et Uranus en Gémeaux, ce stellium favorise une quête d'innovation spirituelle ou philosophique. Il peut y avoir une volonté de réformer les croyances ou les systèmes spirituels en place, tout en respectant certaines structures."
+        },
+        {
+          "nom": "Rébellion Structurée",
+          "data": "Ce stellium encourage une approche rebelle mais méthodique. Neptune inspire des idéaux élevés, Uranus pousse à l'innovation, et Saturne apporte la structure nécessaire pour que ces changements se concrétisent."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Neptune", "Pluton"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Transformation Spirituelle",
+          "data": "Ce stellium avec Saturne, Neptune, et Pluton en Gémeaux indique une profonde transformation spirituelle. Il favorise une plongée dans les mystères de l'existence avec une approche rigoureuse et disciplinée, menant à des changements radicaux."
+        },
+        {
+          "nom": "Pouvoir Mystique",
+          "data": "Avec ce stellium, il existe une forte dynamique entre le pouvoir (Pluton) et l'idéalisme (Neptune), structuré par Saturne. Il encourage une exploration des forces invisibles avec une approche méthodique et sérieuse."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Jupiter", "Lune"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Optimisme et Réalisme Émotionnel",
+          "data": "Avec Saturne, Jupiter, et la Lune en Gémeaux, ce stellium favorise un équilibre entre optimisme et réalisme dans la gestion des émotions. Il peut y avoir une tendance à tempérer l'enthousiasme émotionnel avec un sens de responsabilité."
+        },
+        {
+          "nom": "Émotion Structurée",
+          "data": "Ce stellium encourage une approche structurée des émotions. La Lune exprime les sentiments, Jupiter les amplifie, mais Saturne veille à ce qu'ils soient exprimés de manière responsable et réaliste."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Jupiter", "Uranus"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Expansion et Changement",
+          "data": "Avec Saturne, Jupiter, et Uranus en Gémeaux, ce stellium favorise une expansion intellectuelle et spirituelle, tout en promouvant des changements radicaux. Il y a une forte dynamique entre l'envie de croissance (Jupiter) et le besoin de réformes (Uranus)."
+        },
+        {
+          "nom": "Innovation Disciplinaire",
+          "data": "Ce stellium pousse à innover de manière structurée et disciplinée. Jupiter encourage l'expansion, tandis qu'Uranus incite à la rébellion, mais Saturne veille à ce que tout cela se fasse de manière ordonnée."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Jupiter", "Pluton"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Puissance et Croissance",
+          "data": "Avec Saturne, Jupiter, et Pluton en Gémeaux, ce stellium suggère une grande puissance de transformation et de croissance. Il favorise des ambitions élevées, soutenues par une discipline rigoureuse et une volonté de transformation profonde."
+        },
+        {
+          "nom": "Transformation Expansive",
+          "data": "Ce stellium en Gémeaux encourage une transformation qui n'est pas seulement profonde (Pluton), mais aussi expansive et optimiste (Jupiter), avec une base solide et disciplinée (Saturne)."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Lune", "Uranus"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Émotions et Innovation",
+          "data": "Avec Saturne, la Lune, et Uranus en Gémeaux, ce stellium favorise une approche émotionnelle innovante, mais structurée. Il peut y avoir une tendance à exprimer ses émotions de manière non conventionnelle, tout en gardant un certain contrôle."
+        },
+        {
+          "nom": "Rébellion Émotionnelle",
+          "data": "Ce stellium peut indiquer une rébellion contre les normes émotionnelles établies. La Lune ressent intensément, Uranus incite à l'originalité, tandis que Saturne veille à ce que ces émotions soient gérées avec prudence."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Lune", "Pluton"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Intensité et Contrôle Émotionnel",
+          "data": "Avec Saturne, la Lune, et Pluton en Gémeaux, ce stellium crée une grande intensité émotionnelle, mais aussi une forte maîtrise de ces émotions. Il peut y avoir un besoin de contrôler ses sentiments, souvent par peur de leur puissance."
+        },
+        {
+          "nom": "Transformation Émotionnelle",
+          "data": "Ce stellium favorise une transformation émotionnelle profonde. La Lune ressent, Pluton transforme, et Saturne structure cette transformation pour qu'elle soit durable et significative."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Uranus", "Pluton"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Transformation Radicalement Structurée",
+          "data": "Avec Saturne, Uranus, et Pluton en Gémeaux, ce stellium favorise une transformation radicale qui est en même temps structurée et disciplinée. Il y a une puissante énergie de changement qui est méthodiquement appliquée."
+        },
+        {
+          "nom": "Réforme Profonde",
+          "data": "Ce stellium indique une capacité à mener des réformes profondes dans la société ou la vie personnelle. Uranus incite à la rébellion, Pluton à la transformation, et Saturne assure que ces changements sont durables."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Mercure", "Vénus"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Action et Communication Harmonieuse",
+          "data": "Ce stellium en Gémeaux combine l'énergie assertive de Mars, la communication rapide de Mercure, et l'harmonie de Vénus. Il favorise une action qui est non seulement rapide et directe mais aussi douce et diplomatique."
+        },
+        {
+          "nom": "Charme Dynamique",
+          "data": "L'association de Mars, Mercure, et Vénus dans ce signe d'air permet d'exprimer ses désirs et opinions avec un mélange de force et de charme. La persuasion et la séduction deviennent des outils puissants pour atteindre des objectifs."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Mercure", "Neptune"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Action et Imagination",
+          "data": "Avec Mars, Mercure, et Neptune en Gémeaux, ce stellium favorise une imagination vive combinée à une action déterminée. Les idées sont à la fois inspirées et mises en œuvre de manière créative, parfois avec un sens idéaliste."
+        },
+        {
+          "nom": "Confusion et Décision",
+          "data": "Ce stellium peut parfois créer une tension entre des actions claires (Mars) et des pensées floues ou idéalisées (Neptune). Il est important de trouver un équilibre entre rêve et réalité dans la prise de décision."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Mercure", "Jupiter"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Expansion Intellectuelle",
+          "data": "Ce stellium favorise une grande expansion intellectuelle et une soif de connaissance. Mars apporte de l'énergie et de la détermination, Mercure la communication, et Jupiter l'optimisme et l'expansion des horizons."
+        },
+        {
+          "nom": "Ambition et Croissance",
+          "data": "Avec ces trois planètes en Gémeaux, il y a un fort désir de réussir grâce à l'intellect et à l'action rapide. Les opportunités de croissance sont rapidement identifiées et poursuivies avec zèle."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Mercure", "Lune"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Émotions et Communication Directe",
+          "data": "Avec Mars, Mercure, et la Lune en Gémeaux, ce stellium favorise une expression émotionnelle franche et directe. Les émotions sont rapidement traduites en mots et en actions, parfois sans filtre."
+        },
+        {
+          "nom": "Réactivité Émotionnelle",
+          "data": "Ce stellium peut indiquer une tendance à réagir émotionnellement de manière impulsive, avec des paroles ou des actions parfois tranchantes. Il est important de réfléchir avant de parler ou d'agir pour éviter des conflits."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Mercure", "Uranus"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Innovation et Impulsivité",
+          "data": "Ce stellium en Gémeaux avec Mars, Mercure, et Uranus favorise l'innovation rapide et l'impulsivité. Les idées originales surgissent rapidement et sont immédiatement mises en action, parfois de manière imprévisible."
+        },
+        {
+          "nom": "Rébellion Intellectuelle",
+          "data": "Avec ces planètes en Gémeaux, il y a une forte tendance à défier les conventions intellectuelles et à agir de manière indépendante. L'esprit est rapide et réactif, souvent à l'avant-garde des idées nouvelles."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Mercure", "Pluton"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Pouvoir et Persuasion",
+          "data": "Ce stellium en Gémeaux avec Mars, Mercure, et Pluton indique une capacité à utiliser les mots comme des outils de pouvoir et de transformation. Les actions sont stratégiques et les communications peuvent être intenses et pénétrantes."
+        },
+        {
+          "nom": "Transformation Mentale",
+          "data": "Avec ces planètes en Gémeaux, il y a un potentiel pour transformer sa manière de penser et d'agir de manière profonde. L'esprit est affûté, avec une tendance à analyser et à disséquer les motivations cachées derrière les actions."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Vénus", "Neptune"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Passion Idéalisée",
+          "data": "Avec Mars, Vénus, et Neptune en Gémeaux, ce stellium favorise une passion pour l'amour et l'esthétique qui est à la fois énergique et idéaliste. Les désirs sont teintés de rêve et d'aspiration à quelque chose de plus élevé."
+        },
+        {
+          "nom": "Énergie Romantique",
+          "data": "Ce stellium stimule une énergie romantique et créative, où l'action (Mars) rencontre la beauté (Vénus) et l'inspiration (Neptune). Il peut y avoir une tendance à poursuivre des idéaux romantiques parfois inaccessibles."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Vénus", "Jupiter"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Expansion et Passion",
+          "data": "Ce stellium avec Mars, Vénus, et Jupiter en Gémeaux indique une expansion passionnée des horizons amoureux et créatifs. Il y a une grande énergie pour explorer de nouvelles relations ou projets artistiques."
+        },
+        {
+          "nom": "Optimisme dans l'Amour",
+          "data": "Avec ce stellium, il y a une tendance à être optimiste et généreux dans l'amour et les relations. L'expansion (Jupiter) est associée à l'action (Mars) et à l'harmonie (Vénus), favorisant des relations dynamiques et positives."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Vénus", "Lune"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Émotion et Passion",
+          "data": "Avec Mars, Vénus, et la Lune en Gémeaux, ce stellium favorise une passion émotionnelle forte. Les émotions sont à fleur de peau et se traduisent rapidement en actions passionnées dans les relations."
+        },
+        {
+          "nom": "Tension Amoureuse",
+          "data": "Ce stellium peut indiquer une certaine tension dans les relations amoureuses, où les émotions (Lune) et les désirs (Mars et Vénus) s'entrelacent, créant des interactions intenses et parfois conflictuelles."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Vénus", "Uranus"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Amour et Liberté",
+          "data": "Avec Mars, Vénus, et Uranus en Gémeaux, ce stellium favorise une approche innovante et non conventionnelle des relations. Il y a un fort désir de liberté dans l'amour, avec une énergie impulsive et aventureuse."
+        },
+        {
+          "nom": "Innovation Romantique",
+          "data": "Ce stellium encourage des relations qui sont originales et différentes des normes traditionnelles. Mars et Vénus apportent la passion, tandis qu'Uranus introduit un besoin de nouveauté et de changement."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Vénus", "Pluton"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Intensité Passionnelle",
+          "data": "Ce stellium avec Mars, Vénus, et Pluton en Gémeaux indique une intensité passionnelle dans les relations. Les désirs sont profonds et peuvent mener à des transformations significatives dans la vie amoureuse."
+        },
+        {
+          "nom": "Pouvoir et Désir",
+          "data": "Avec ce stellium, il y a une dynamique puissante entre le désir (Vénus), l'action (Mars), et la transformation (Pluton). Les relations sont souvent vécues de manière intense, avec un potentiel pour des changements radicaux."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Neptune", "Jupiter"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Action Inspirée",
+          "data": "Avec Mars, Neptune, et Jupiter en Gémeaux, ce stellium favorise une action motivée par des idéaux élevés et une vision expansive. L'énergie est dirigée vers des projets créatifs et optimistes, inspirés par des aspirations profondes."
+        },
+        {
+          "nom": "Expansion des Idées",
+          "data": "Ce stellium encourage à poursuivre des rêves avec une grande énergie, tout en favorisant une expansion de la pensée et des projets personnels. Neptune apporte l'inspiration, Mars l'action, et Jupiter l'optimisme et la croissance."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Neptune", "Lune"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Émotions Inspirées",
+          "data": "Avec Mars, Neptune, et la Lune en Gémeaux, ce stellium favorise des actions inspirées par des émotions profondes et idéalisées. Les sentiments sont puissants et motivent des initiatives créatives et spirituelles."
+        },
+        {
+          "nom": "Imagination Émotionnelle",
+          "data": "Ce stellium stimule une grande imagination émotionnelle. Les actions sont guidées par des idéaux et des rêves, et il peut y avoir une tendance à agir selon des visions ou des inspirations intérieures."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Neptune", "Uranus"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Innovation Idéalisée",
+          "data": "Avec Mars, Neptune, et Uranus en Gémeaux, ce stellium favorise des idées innovantes et des actions motivées par des idéaux élevés. Les projets sont à la fois créatifs et progressistes, avec un fort désir de changement."
+        },
+        {
+          "nom": "Rébellion Inspirée",
+          "data": "Ce stellium peut indiquer une approche radicale et inspirée des innovations et des réformes. Les actions sont guidées par une vision idéale, souvent en rupture avec les conventions établies."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Neptune", "Pluton"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Transformation Inspirée",
+          "data": "Avec Mars, Neptune, et Pluton en Gémeaux, ce stellium indique une capacité à transformer la réalité avec des inspirations profondes. Les actions sont puissantes et motivées par des idéaux élevés, conduisant à des changements significatifs."
+        },
+        {
+          "nom": "Pouvoir et Rêves",
+          "data": "Ce stellium favorise l'utilisation des rêves et des visions pour provoquer des transformations profondes. L'énergie est dirigée vers la réalisation de grands idéaux avec une forte intensité."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Jupiter", "Lune"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Expansion Émotionnelle",
+          "data": "Avec Mars, Jupiter, et la Lune en Gémeaux, ce stellium favorise une grande énergie émotionnelle et une expansion dans les domaines affectifs. Les émotions sont exprimées avec optimisme et enthousiasme."
+        },
+        {
+          "nom": "Optimisme Émotionnel",
+          "data": "Ce stellium encourage à aborder les émotions avec une attitude positive et expansive. L'énergie est dirigée vers la croissance et le développement personnel, avec une forte capacité à motiver et inspirer les autres."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Jupiter", "Uranus"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Expansion Dynamique",
+          "data": "Avec Mars, Jupiter, et Uranus en Gémeaux, ce stellium favorise une expansion dynamique et rapide dans la vie. Les idées et les actions sont audacieuses et innovantes, souvent avec une touche de rébellion."
+        },
+        {
+          "nom": "Réformes Énergiques",
+          "data": "Ce stellium encourage des réformes audacieuses et énergétiques. L'innovation (Uranus) et la croissance (Jupiter) sont combinées avec une action déterminée (Mars), favorisant des changements rapides et significatifs."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Jupiter", "Pluton"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Pouvoir et Expansion",
+          "data": "Avec Mars, Jupiter, et Pluton en Gémeaux, ce stellium favorise une dynamique de pouvoir et d'expansion. Les actions sont ambitieuses et profondes, avec un fort désir de transformation et de croissance."
+        },
+        {
+          "nom": "Transformation Dynamique",
+          "data": "Ce stellium indique une capacité à provoquer des transformations profondes avec une grande énergie et optimisme. Les objectifs sont poursuivis avec intensité et détermination."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Lune", "Uranus"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Émotions et Rébellion",
+          "data": "Avec Mars, la Lune, et Uranus en Gémeaux, ce stellium favorise des émotions intenses et des actions imprévisibles. Les sentiments sont exprimés de manière originale et peuvent entraîner des changements rapides."
+        },
+        {
+          "nom": "Réactivité Émotionnelle",
+          "data": "Ce stellium peut indiquer une réactivité émotionnelle forte, avec une tendance à agir impulsivement en réponse aux sentiments. Il est important de gérer cette impulsivité pour éviter des conflits ou des changements brusques."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Lune", "Pluton"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Intensité Émotionnelle",
+          "data": "Avec Mars, la Lune, et Pluton en Gémeaux, ce stellium indique une grande intensité émotionnelle et une capacité à transformer les sentiments. Les émotions sont profondes et peuvent conduire à des actions puissantes et transformatrices."
+        },
+        {
+          "nom": "Transformation Émotionnelle",
+          "data": "Ce stellium favorise une transformation émotionnelle profonde. L'énergie de Mars et Pluton est dirigée vers la gestion et la transformation des émotions, conduisant à des changements significatifs dans la vie émotionnelle."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Uranus", "Pluton"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Réforme Radicale",
+          "data": "Avec Mars, Uranus, et Pluton en Gémeaux, ce stellium favorise des réformes profondes et radicales. L'énergie est dirigée vers des changements importants et souvent imprévisibles."
+        },
+        {
+          "nom": "Pouvoir et Innovation",
+          "data": "Ce stellium combine une forte énergie d'action (Mars), une volonté de changement radical (Pluton), et une approche non conventionnelle (Uranus). Il y a une grande capacité à introduire des réformes significatives et innovantes."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Vénus", "Neptune"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Communication Créative",
+          "data": "Avec Mercure, Vénus, et Neptune en Gémeaux, ce stellium favorise une communication empreinte de créativité et de sensibilité artistique. Les idées sont exprimées avec charme et imagination."
+        },
+        {
+          "nom": "Inspiration Relationnelle",
+          "data": "Ce stellium indique une tendance à chercher des connexions profondes à travers des échanges créatifs et rêveurs. Les relations peuvent être marquées par une compréhension intuitive et une affection artistique."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Vénus", "Jupiter"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Communication Optimiste",
+          "data": "Avec Mercure, Vénus, et Jupiter en Gémeaux, ce stellium favorise une communication enthousiaste et expansive. Les échanges sont marqués par un optimisme contagieux et une approche généreuse."
+        },
+        {
+          "nom": "Échanges Enrichissants",
+          "data": "Ce stellium encourage des conversations enrichissantes et des interactions sociales stimulantes. Les idées sont exprimées avec confiance et il y a un fort désir d'élargir ses horizons relationnels."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Vénus", "Lune"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Expression Émotionnelle",
+          "data": "Avec Mercure, Vénus, et la Lune en Gémeaux, ce stellium favorise une expression des émotions à travers la communication. Les sentiments sont partagés avec tendresse et compréhension."
+        },
+        {
+          "nom": "Affection Intellectuelle",
+          "data": "Ce stellium indique une manière d'exprimer l'affection et les émotions de manière intellectuelle et verbale. Les échanges émotionnels sont clairs et nourris par une sensibilité personnelle."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Vénus", "Uranus"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Innovation Relationnelle",
+          "data": "Avec Mercure, Vénus, et Uranus en Gémeaux, ce stellium favorise une approche innovante et originale des relations. La communication est marquée par des idées novatrices et des échanges inattendus."
+        },
+        {
+          "nom": "Créativité Déstabilisante",
+          "data": "Ce stellium encourage des interactions créatives et parfois surprenantes. Les échanges peuvent être marqués par des éléments de surprise et des approches non conventionnelles."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Vénus", "Pluton"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Transformation Communicationnelle",
+          "data": "Avec Mercure, Vénus, et Pluton en Gémeaux, ce stellium favorise des transformations profondes dans la manière de communiquer et de se relier aux autres. Les échanges peuvent être intenses et révélateurs."
+        },
+        {
+          "nom": "Profondité Relationnelle",
+          "data": "Ce stellium indique une tendance à explorer des aspects profonds des relations et de la communication. Les interactions sont marquées par une intensité émotionnelle et une recherche de vérité."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Neptune", "Jupiter"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Communication Inspirée",
+          "data": "Avec Mercure, Neptune, et Jupiter en Gémeaux, ce stellium favorise une communication imaginative et inspirée. Les échanges sont marqués par une vision expansive et des idées créatives."
+        },
+        {
+          "nom": "Expansion des Idées",
+          "data": "Ce stellium encourage à explorer des idées avec une perspective large et rêveuse. Les conversations peuvent aborder des sujets spirituels ou philosophiques avec optimisme."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Neptune", "Lune"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Expression Émotionnelle Inspirée",
+          "data": "Avec Mercure, Neptune, et la Lune en Gémeaux, ce stellium favorise une communication enrichie par des émotions profondes et idéalisées. Les échanges sont empreints de sensibilité et d'intuition."
+        },
+        {
+          "nom": "Imagination Émotionnelle",
+          "data": "Ce stellium indique une tendance à exprimer les émotions de manière créative et imaginative. Les conversations sont souvent influencées par des sentiments profonds et une vision idéalisée."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Neptune", "Uranus"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Communication Visionnaire",
+          "data": "Avec Mercure, Neptune, et Uranus en Gémeaux, ce stellium favorise des échanges innovants et visionnaires. Les idées sont originales et souvent inspirées par des principes idéaux ou progressistes."
+        },
+        {
+          "nom": "Réformes Inspirées",
+          "data": "Ce stellium encourage des réformes créatives et avant-gardistes. Les communications peuvent être marquées par des inspirations spirituelles ou des idées révolutionnaires."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Neptune", "Pluton"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Transformation des Idées",
+          "data": "Avec Mercure, Neptune, et Pluton en Gémeaux, ce stellium favorise des transformations profondes dans la manière de penser et de communiquer. Les échanges peuvent être intenses et révélateurs."
+        },
+        {
+          "nom": "Pouvoir de la Communication",
+          "data": "Ce stellium indique une capacité à utiliser les idées et les visions pour provoquer des changements significatifs. Les conversations peuvent aborder des sujets profonds et puissants."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Jupiter", "Lune"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Optimisme Émotionnel",
+          "data": "Avec Mercure, Jupiter, et la Lune en Gémeaux, ce stellium favorise une communication enthousiaste et positive, enrichie par les émotions. Les échanges sont optimistes et soutenus par une vision généreuse."
+        },
+        {
+          "nom": "Expansion des Sentiments",
+          "data": "Ce stellium encourage à exprimer les émotions avec une attitude positive et expansive. Les conversations sont stimulantes et nourries par un fort désir de croissance émotionnelle."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Jupiter", "Uranus"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Communication Audacieuse",
+          "data": "Avec Mercure, Jupiter, et Uranus en Gémeaux, ce stellium favorise des échanges audacieux et innovants. Les idées sont à la fois expansives et originales, souvent marquées par des éléments de surprise."
+        },
+        {
+          "nom": "Réformes Idéologiques",
+          "data": "Ce stellium encourage à explorer des idées novatrices et des réformes ambitieuses. Les conversations sont souvent marquées par une approche progressive et non conventionnelle."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Jupiter", "Pluton"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Expansion Transformatrice",
+          "data": "Avec Mercure, Jupiter, et Pluton en Gémeaux, ce stellium favorise des échanges puissants et transformateurs. Les idées sont exprimées avec une grande intensité et un désir de changement profond."
+        },
+        {
+          "nom": "Pouvoir des Idées",
+          "data": "Ce stellium indique une capacité à utiliser des idées expansives pour provoquer des transformations significatives. Les conversations sont souvent intenses et axées sur des objectifs profonds."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Lune", "Uranus"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Expression Émotionnelle Originale",
+          "data": "Avec Mercure, la Lune, et Uranus en Gémeaux, ce stellium favorise des échanges émotionnels imprévisibles et créatifs. Les idées sont exprimées de manière originale, souvent influencées par des inspirations inattendues."
+        },
+        {
+          "nom": "Réactions Inattendues",
+          "data": "Ce stellium indique une tendance à exprimer les émotions de manière surprenante et originale. Les communications peuvent être marquées par des changements rapides et des réflexions peu conventionnelles."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Lune", "Pluton"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Transformation Émotionnelle",
+          "data": "Avec Mercure, la Lune, et Pluton en Gémeaux, ce stellium favorise des transformations profondes dans la manière de communiquer les émotions. Les échanges sont intenses et peuvent conduire à des révélations personnelles."
+        },
+        {
+          "nom": "Pouvoir Émotionnel",
+          "data": "Ce stellium indique une capacité à utiliser les émotions comme un outil puissant pour provoquer des changements significatifs dans les communications et les relations."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Uranus", "Pluton"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Réformes de la Communication",
+          "data": "Avec Mercure, Uranus, et Pluton en Gémeaux, ce stellium favorise des réformes profondes et innovantes dans la manière de communiquer. Les idées sont exprimées avec une grande intensité et une approche non conventionnelle."
+        },
+        {
+          "nom": "Pouvoir et Innovation",
+          "data": "Ce stellium indique une combinaison puissante d'intuition, de créativité, et de désir de transformation. Les conversations peuvent être marquées par des changements radicaux et des idées avant-gardistes."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Neptune", "Jupiter"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Amour Idéalisé",
+          "data": "Avec Vénus, Neptune, et Jupiter en Gémeaux, ce stellium favorise une vision idéalisée et expansive des relations amoureuses. L'amour est perçu à travers des lunettes roses, avec un fort désir de croissance et d'expansion dans les relations."
+        },
+        {
+          "nom": "Relations Inspirantes",
+          "data": "Ce stellium encourage des connexions profondes et inspirantes, souvent marquées par des aspirations spirituelles ou philosophiques. Les échanges sont enrichis par un optimisme partagé et une vision créative du partenariat."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Neptune", "Lune"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Affection Rêveuse",
+          "data": "Avec Vénus, Neptune, et la Lune en Gémeaux, ce stellium favorise une expression affectueuse et rêveuse des émotions. Les relations sont teintées d'une sensibilité profonde et d'une intuition émotionnelle."
+        },
+        {
+          "nom": "Sensibilité Émotionnelle",
+          "data": "Ce stellium indique une tendance à explorer les émotions et les affections avec une forte composante spirituelle et intuitive. Les interactions sont marquées par une compréhension empathique et une connexion émotionnelle profonde."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Neptune", "Uranus"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Créativité Relationnelle",
+          "data": "Avec Vénus, Neptune, et Uranus en Gémeaux, ce stellium favorise des relations créatives et non conventionnelles. Les interactions sont marquées par une approche originale et visionnaire de l'amour et de la beauté."
+        },
+        {
+          "nom": "Amour Innovant",
+          "data": "Ce stellium encourage des approches innovantes et progressistes dans les relations. Les échanges amoureux peuvent être imprévisibles, avec un fort désir de nouveauté et de liberté."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Neptune", "Pluton"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Transformation Affectueuse",
+          "data": "Avec Vénus, Neptune, et Pluton en Gémeaux, ce stellium favorise une transformation profonde des relations et des valeurs affectives. Les interactions sont intenses et marquées par une recherche de vérité émotionnelle."
+        },
+        {
+          "nom": "Pouvoir et Idéalisme",
+          "data": "Ce stellium indique une tendance à combiner une profonde sensibilité affective avec un désir de transformation. Les relations peuvent être marquées par des changements intenses et des révélations profondes."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Jupiter", "Lune"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Affection Expansive",
+          "data": "Avec Vénus, Jupiter, et la Lune en Gémeaux, ce stellium favorise une expression expansive et généreuse des émotions et des relations. L'amour et la tendresse sont partagés de manière optimiste et chaleureuse."
+        },
+        {
+          "nom": "Croissance Émotionnelle",
+          "data": "Ce stellium encourage une croissance et une expansion dans les relations personnelles. Les interactions sont nourries par un fort désir de développement émotionnel et de soutien réciproque."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Jupiter", "Uranus"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Relations Audacieuses",
+          "data": "Avec Vénus, Jupiter, et Uranus en Gémeaux, ce stellium favorise des relations audacieuses et innovantes. L'amour et les interactions sont marqués par une approche aventureuse et une recherche de nouveauté."
+        },
+        {
+          "nom": "Expansivité et Originalité",
+          "data": "Ce stellium encourage une expression originale et expansive dans les relations. Les échanges peuvent être stimulants et imprévisibles, avec un fort désir de liberté et de nouveauté."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Jupiter", "Pluton"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Transformation et Expansion",
+          "data": "Avec Vénus, Jupiter, et Pluton en Gémeaux, ce stellium favorise une transformation profonde et une expansion dans les relations. Les interactions sont marquées par des changements significatifs et une croissance personnelle intense."
+        },
+        {
+          "nom": "Pouvoir et Croissance",
+          "data": "Ce stellium indique une tendance à utiliser l'amour et la tendresse pour provoquer des changements puissants et durables. Les relations peuvent être intensifiées par une forte dynamique de transformation et d'expansion."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Lune", "Uranus"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Affection Originale",
+          "data": "Avec Vénus, la Lune, et Uranus en Gémeaux, ce stellium favorise des expressions affectueuses et originales. Les relations sont marquées par une sensibilité émotionnelle unique et une approche non conventionnelle."
+        },
+        {
+          "nom": "Relations Imprévisibles",
+          "data": "Ce stellium encourage des interactions émotionnelles inattendues et créatives. Les relations peuvent être marquées par des surprises et une approche originale des émotions."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Lune", "Pluton"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Transformation Émotionnelle",
+          "data": "Avec Vénus, la Lune, et Pluton en Gémeaux, ce stellium favorise des transformations profondes dans les relations et les émotions. Les interactions sont intenses et peuvent conduire à des révélations émotionnelles importantes."
+        },
+        {
+          "nom": "Pouvoir et Sensibilité",
+          "data": "Ce stellium indique une tendance à utiliser les émotions et l'affection pour provoquer des changements significatifs. Les relations sont marquées par une profondeur émotionnelle et un potentiel de transformation puissant."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Uranus", "Pluton"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Réformes Relationnelles",
+          "data": "Avec Vénus, Uranus, et Pluton en Gémeaux, ce stellium favorise des réformes radicales et innovantes dans les relations. Les interactions sont marquées par une forte dynamique de changement et de transformation."
+        },
+        {
+          "nom": "Pouvoir et Originalité",
+          "data": "Ce stellium indique une capacité à combiner originalité et profondeur dans les relations. Les échanges sont souvent marqués par une dynamique puissante de transformation et d'innovation."
+        }
+      ]
+    },
+    {
+      "noms": ["Neptune", "Jupiter", "Lune"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Vision Émotionnelle",
+          "data": "Avec Neptune, Jupiter, et la Lune en Gémeaux, ce stellium favorise une approche idéalisée et expansive des émotions et des intuitions. Les émotions sont vécues et exprimées à travers une perspective large et rêveuse."
+        },
+        {
+          "nom": "Inspiration et Croissance",
+          "data": "Ce stellium indique une tendance à rechercher une inspiration émotionnelle profonde et une croissance personnelle. Les interactions peuvent être enrichies par une compréhension spirituelle et une vision optimiste des sentiments."
+        }
+      ]
+    },
+    {
+      "noms": ["Neptune", "Jupiter", "Uranus"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Créativité Visionnaire",
+          "data": "Avec Neptune, Jupiter, et Uranus en Gémeaux, ce stellium favorise une créativité originale et visionnaire. Les idées sont à la fois expansives et innovantes, influencées par des inspirations spirituelles et progressistes."
+        },
+        {
+          "nom": "Réformes Inspirées",
+          "data": "Ce stellium encourage des réformes audacieuses et des approches non conventionnelles basées sur une vision idéale. Les idées peuvent être marquées par des éléments de surprise et un désir de changement."
+        }
+      ]
+    },
+    {
+      "noms": ["Neptune", "Jupiter", "Pluton"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Transformation Spirituelle",
+          "data": "Avec Neptune, Jupiter, et Pluton en Gémeaux, ce stellium favorise une transformation profonde et spirituelle des idées et des croyances. Les interactions sont marquées par des révélations profondes et une recherche de vérité."
+        },
+        {
+          "nom": "Pouvoir et Expansion",
+          "data": "Ce stellium indique une tendance à utiliser la vision spirituelle pour provoquer des changements significatifs et expansifs. Les conversations peuvent aborder des sujets intenses avec un désir de transformation personnelle."
+        }
+      ]
+    },
+    {
+      "noms": ["Neptune", "Lune", "Uranus"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Émotions Inattendues",
+          "data": "Avec Neptune, la Lune, et Uranus en Gémeaux, ce stellium favorise des expressions émotionnelles inattendues et créatives. Les sentiments peuvent être marqués par une grande sensibilité et des inspirations soudaines."
+        },
+        {
+          "nom": "Intuition et Originalité",
+          "data": "Ce stellium indique une tendance à explorer les émotions de manière originale et intuitive. Les interactions peuvent être influencées par des insights soudains et des approches non conventionnelles."
+        }
+      ]
+    },
+    {
+      "noms": ["Neptune", "Lune", "Pluton"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Transformation Émotionnelle",
+          "data": "Avec Neptune, la Lune, et Pluton en Gémeaux, ce stellium favorise des transformations profondes dans la manière dont les émotions sont vécues et exprimées. Les interactions sont intenses et peuvent conduire à une compréhension émotionnelle plus profonde."
+        },
+        {
+          "nom": "Pouvoir et Sensibilité",
+          "data": "Ce stellium indique une capacité à utiliser la sensibilité émotionnelle pour provoquer des changements significatifs. Les relations et les conversations peuvent être marquées par une profondeur intense et un désir de transformation."
+        }
+      ]
+    },
+    {
+      "noms": ["Neptune", "Uranus", "Pluton"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Réformes Spirituelles",
+          "data": "Avec Neptune, Uranus, et Pluton en Gémeaux, ce stellium favorise des réformes profondes et innovantes dans la manière de penser et de percevoir le monde. Les idées sont à la fois spirituelles et révolutionnaires."
+        },
+        {
+          "nom": "Pouvoir et Innovation",
+          "data": "Ce stellium indique une combinaison puissante de créativité spirituelle et de transformation. Les interactions peuvent être marquées par des changements radicaux et des idées visionnaires."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Lune", "Uranus"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Expansion Émotionnelle",
+          "data": "Avec Jupiter, la Lune, et Uranus en Gémeaux, ce stellium favorise une expansion émotionnelle imprévisible et stimulante. Les émotions sont vécues de manière dynamique et en constante évolution, avec une tendance à explorer de nouvelles façons d'exprimer les sentiments."
+        },
+        {
+          "nom": "Inspiration et Liberté",
+          "data": "Ce stellium encourage une approche innovante et inspirante des émotions et des relations. Les interactions sont marquées par un fort désir de liberté émotionnelle et une exploration de nouvelles perspectives."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Lune", "Pluton"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Transformation Émotionnelle",
+          "data": "Avec Jupiter, la Lune, et Pluton en Gémeaux, ce stellium favorise une profonde transformation émotionnelle. Les émotions sont explorées intensément, avec une capacité à provoquer des changements significatifs dans la manière dont les sentiments sont vécus."
+        },
+        {
+          "nom": "Pouvoir et Expansion",
+          "data": "Ce stellium indique une tendance à utiliser la puissance émotionnelle pour stimuler une croissance personnelle et une transformation. Les interactions peuvent être intenses, avec un potentiel de changement profond et d'expansion personnelle."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Uranus", "Pluton"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Réformes Visionnaires",
+          "data": "Avec Jupiter, Uranus, et Pluton en Gémeaux, ce stellium favorise des réformes radicales et visionnaires. Les idées et les croyances sont confrontées à des changements puissants et innovants, avec une vision expansive de l'avenir."
+        },
+        {
+          "nom": "Pouvoir et Innovation",
+          "data": "Ce stellium combine une créativité innovante avec une profondeur transformative. Les projets et les idées peuvent être marqués par des éléments révolutionnaires, avec une capacité à influencer de manière significative les croyances et les perspectives."
+        }
+      ]
+    },
+    {
+      "noms": ["Lune", "Uranus", "Pluton"],
+      "signe": "Gémeaux",
+      "data": [
+        {
+          "nom": "Transformation Émotionnelle",
+          "data": "Avec la Lune, Uranus, et Pluton en Gémeaux, ce stellium favorise une transformation profonde et innovante des émotions. Les sentiments sont expérimentés de manière intense et peuvent subir des changements radicaux et inattendus."
+        },
+        {
+          "nom": "Réformes Émotionnelles",
+          "data": "Ce stellium encourage une approche originale et radicale des émotions. Les expériences émotionnelles peuvent être marquées par des changements puissants et des révélations profondes, influençant profondément la manière dont les émotions sont vécues."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Saturne", "Mars"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Discipline Dynamique",
+          "data": "Avec le Soleil, Saturne, et Mars en Sagittaire, ce stellium favorise une approche disciplinée et dynamique des objectifs et des ambitions. Il y a une forte détermination à réaliser des objectifs à long terme avec une énergie motivée et ciblée."
+        },
+        {
+          "nom": "Ambition et Structure",
+          "data": "Ce stellium encourage une combinaison de motivation personnelle et de structure solide. Les actions sont menées avec une grande rigueur, cherchant à équilibrer l'énergie dynamique avec une approche systématique."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Saturne", "Mercure"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Pensée Stratégique",
+          "data": "Avec le Soleil, Saturne, et Mercure en Sagittaire, ce stellium favorise une pensée stratégique et organisée. Il y a une tendance à aborder les idées et la communication avec une perspective méthodique et réfléchie."
+        },
+        {
+          "nom": "Communication Structurée",
+          "data": "Ce stellium encourage une communication claire et structurée, souvent axée sur des objectifs à long terme. Les échanges sont marqués par une volonté d'apprendre et de partager des connaissances avec précision."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Saturne", "Vénus"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Relations Responsables",
+          "data": "Avec le Soleil, Saturne, et Vénus en Sagittaire, ce stellium favorise des relations basées sur des principes de responsabilité et de maturité. Les interactions amoureuses et sociales sont marquées par une recherche de stabilité et de sérieux."
+        },
+        {
+          "nom": "Amour Structuré",
+          "data": "Ce stellium indique une approche structurée et réfléchie de l'amour et des relations. Les valeurs relationnelles sont abordées avec une perspective pratique et un désir de construire des liens durables."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Saturne", "Neptune"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Vision Disciplinée",
+          "data": "Avec le Soleil, Saturne, et Neptune en Sagittaire, ce stellium favorise une vision disciplinée et inspirée des objectifs et des aspirations spirituelles. Il y a une volonté de transformer des rêves en réalisations concrètes grâce à une approche méthodique."
+        },
+        {
+          "nom": "Idéalisme et Structure",
+          "data": "Ce stellium encourage une combinaison d'idéalisme avec une approche structurée. Les aspirations spirituelles et les rêves sont abordés avec une discipline pratique et une volonté de concrétiser des visions profondes."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Saturne", "Jupiter"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Expansion Structurée",
+          "data": "Avec le Soleil, Saturne, et Jupiter en Sagittaire, ce stellium favorise une expansion structurée et ambitieuse. Les objectifs sont poursuivis avec une grande discipline, équilibrant l'expansion personnelle avec des principes de responsabilité."
+        },
+        {
+          "nom": "Croissance et Responsabilité",
+          "data": "Ce stellium encourage une approche équilibrée entre croissance personnelle et responsabilité. Les projets et les ambitions sont gérés avec une vision large mais en gardant une approche pragmatique."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Saturne", "Lune"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Émotions Régulées",
+          "data": "Avec le Soleil, Saturne, et la Lune en Sagittaire, ce stellium favorise une régulation des émotions avec une approche pratique et réfléchie. Il y a une tendance à aborder les sentiments avec sérieux et structure."
+        },
+        {
+          "nom": "Stabilité Émotionnelle",
+          "data": "Ce stellium indique une recherche de stabilité émotionnelle à travers des méthodes disciplinées. Les émotions sont traitées de manière mature, avec un accent sur la gestion pratique des besoins affectifs."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Saturne", "Uranus"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Innovation Structurée",
+          "data": "Avec le Soleil, Saturne, et Uranus en Sagittaire, ce stellium favorise une innovation disciplinée. Les idées nouvelles sont abordées avec une approche structurée, cherchant à équilibrer créativité et responsabilité."
+        },
+        {
+          "nom": "Changements Régulés",
+          "data": "Ce stellium indique une capacité à intégrer des changements et des innovations de manière structurée. Les transformations sont gérées avec sérieux, en combinant originalité et discipline."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Saturne", "Pluton"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Transformation Responsable",
+          "data": "Avec le Soleil, Saturne, et Pluton en Sagittaire, ce stellium favorise une transformation profonde avec une approche responsable. Les changements personnels et professionnels sont entrepris avec une volonté de contrôler et de structurer les processus de transformation."
+        },
+        {
+          "nom": "Pouvoir et Discipline",
+          "data": "Ce stellium indique une tendance à combiner pouvoir personnel et discipline dans les efforts de transformation. Les ambitions sont poursuivies avec une rigueur profonde, visant des changements significatifs et durables."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mars", "Mercure"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Énergie Mentale",
+          "data": "Avec le Soleil, Mars, et Mercure en Sagittaire, ce stellium favorise une énergie mentale vive et dynamique. L'approche est proactive et les idées sont exprimées avec enthousiasme et conviction."
+        },
+        {
+          "nom": "Communication Audacieuse",
+          "data": "Ce stellium encourage une communication audacieuse et directe. Les interactions sont marquées par une volonté de partager des idées avec confiance, souvent avec un fort désir d'apprendre et de s'engager dans des discussions stimulantes."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mars", "Vénus"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Passion Amoureuse",
+          "data": "Avec le Soleil, Mars, et Vénus en Sagittaire, ce stellium favorise une approche passionnée et aventureuse de l'amour. Les relations sont vécues avec intensité et enthousiasme, cherchant des expériences enrichissantes et excitantes."
+        },
+        {
+          "nom": "Énergie et Charisme",
+          "data": "Ce stellium indique une forte énergie et un charisme dans les interactions amoureuses. L'amour est exprimé avec une grande vitalité, et les relations sont marquées par une recherche de plaisir et de croissance personnelle."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mars", "Neptune"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Inspirations Dynamiques",
+          "data": "Avec le Soleil, Mars, et Neptune en Sagittaire, ce stellium favorise des inspirations créatives et dynamiques. Les actions sont motivées par des visions idéalisées et des rêves, avec une forte capacité à transformer les aspirations en réalisations concrètes."
+        },
+        {
+          "nom": "Énergie Spirituelle",
+          "data": "Ce stellium indique une combinaison d'énergie et de spiritualité, avec un désir de poursuivre des objectifs inspirants. Les initiatives sont souvent guidées par des idéaux élevés et une vision artistique."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mars", "Jupiter"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Expansion Énergique",
+          "data": "Avec le Soleil, Mars, et Jupiter en Sagittaire, ce stellium favorise une expansion énergique et optimiste. L'enthousiasme est dirigé vers des objectifs ambitieux, avec une forte motivation pour explorer et réaliser des projets de grande envergure."
+        },
+        {
+          "nom": "Croissance Dynamique",
+          "data": "Ce stellium encourage une croissance personnelle et professionnelle dynamique, caractérisée par une énergie débordante et un optimisme contagieux. Les efforts sont souvent récompensés par des succès significatifs et une expansion continue."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mars", "Lune"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Émotions Actives",
+          "data": "Avec le Soleil, Mars, et la Lune en Sagittaire, ce stellium favorise une approche active et dynamique des émotions. Les sentiments sont exprimés avec vigueur et les réactions émotionnelles sont souvent directes et passionnées."
+        },
+        {
+          "nom": "Motivation Émotionnelle",
+          "data": "Ce stellium indique une capacité à utiliser l'énergie personnelle pour explorer et comprendre les émotions. Les actions sont guidées par des besoins affectifs, avec une tendance à rechercher des expériences émotionnelles significatives."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mars", "Uranus"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Innovation Dynamique",
+          "data": "Avec le Soleil, Mars, et Uranus en Sagittaire, ce stellium favorise une innovation dynamique et audacieuse. Les actions sont guidées par des idées originales et une volonté de provoquer des changements rapides et significatifs."
+        },
+        {
+          "nom": "Changements Énergétiques",
+          "data": "Ce stellium indique une propension à initier des changements et des réformes avec une grande énergie. Les projets sont marqués par des approches non conventionnelles et un désir de révolutionner les aspects de la vie."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mars", "Pluton"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Transformation Dynamique",
+          "data": "Avec le Soleil, Mars, et Pluton en Sagittaire, ce stellium favorise une transformation profonde et dynamique. Les efforts sont marqués par une détermination intense à provoquer des changements significatifs et à réinventer des aspects de la vie."
+        },
+        {
+          "nom": "Pouvoir et Expansion",
+          "data": "Ce stellium indique une capacité à utiliser la force personnelle pour influencer et transformer des situations. Les actions sont souvent axées sur la recherche de pouvoir et d'expansion, avec une intense motivation pour réaliser des objectifs ambitieux."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Vénus", "Neptune"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Amour Inspiré",
+          "data": "Avec le Soleil, Vénus, et Neptune en Sagittaire, ce stellium favorise une approche inspirée et idéaliste de l'amour. Les relations sont vécues avec une grande sensibilité et un désir de connexion profonde et spirituelle."
+        },
+        {
+          "nom": "Créativité Amoureuse",
+          "data": "Ce stellium encourage une créativité exceptionnelle dans les relations et les expressions affectives. L'amour est souvent teinté de rêve et d'idéalisme, avec une tendance à rechercher des expériences significatives et inspirantes."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Vénus", "Jupiter"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Abondance Amoureuse",
+          "data": "Avec le Soleil, Vénus, et Jupiter en Sagittaire, ce stellium favorise une abondance d'amour et de plaisir. Les relations sont marquées par un optimisme et une générosité qui enrichissent les expériences affectives et sociales."
+        },
+        {
+          "nom": "Croissance Relationnelle",
+          "data": "Ce stellium indique une tendance à développer des relations positives et expansives, avec une capacité à attirer des opportunités amoureuses et sociales qui favorisent la croissance personnelle et la satisfaction."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Vénus", "Lune"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Harmonie Émotionnelle",
+          "data": "Avec le Soleil, Vénus, et la Lune en Sagittaire, ce stellium favorise une harmonie émotionnelle dans les relations. Les interactions sont marquées par une compréhension affectueuse et une approche chaleureuse des besoins émotionnels."
+        },
+        {
+          "nom": "Émotions Enrichissantes",
+          "data": "Ce stellium encourage des expériences émotionnelles enrichissantes et positives, souvent marquées par une forte connexion affective et une recherche de joie et de plaisir dans les relations."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Vénus", "Uranus"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Amour Innovant",
+          "data": "Avec le Soleil, Vénus, et Uranus en Sagittaire, ce stellium favorise des relations innovantes et non conventionnelles. Les interactions amoureuses sont marquées par des éléments de surprise et une volonté de explorer de nouvelles façons d'aimer."
+        },
+        {
+          "nom": "Créativité Relationnelle",
+          "data": "Ce stellium indique une approche créative et originale dans les relations. Les expériences affectives sont enrichies par des idées nouvelles et des perspectives uniques, souvent accompagnées de changements inattendus."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Vénus", "Pluton"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Amour Profond",
+          "data": "Avec le Soleil, Vénus, et Pluton en Sagittaire, ce stellium favorise une profondeur intense dans les relations amoureuses. Les émotions sont vécues avec une grande intensité, souvent marquées par des transformations profondes et des révélations."
+        },
+        {
+          "nom": "Pouvoir et Passion",
+          "data": "Ce stellium indique une passion intense et un pouvoir transformateur dans les relations. Les dynamiques amoureuses sont souvent caractérisées par des changements significatifs et une recherche de connexion profonde."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Neptune", "Jupiter"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Vision Optimiste",
+          "data": "Avec le Soleil, Neptune, et Jupiter en Sagittaire, ce stellium favorise une vision optimiste et inspirante des objectifs et des aspirations. Les rêves et les idéaux sont poursuivis avec un fort sentiment de foi et d'enthousiasme."
+        },
+        {
+          "nom": "Expansion Spirituelle",
+          "data": "Ce stellium encourage une expansion spirituelle et intellectuelle, avec une quête pour des expériences significatives et une croissance personnelle enrichissante, souvent guidée par des valeurs idéales."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Neptune", "Lune"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Émotions Inspirées",
+          "data": "Avec le Soleil, Neptune, et la Lune en Sagittaire, ce stellium favorise des émotions inspirées et idéalistes. Les sentiments sont vécus avec une grande sensibilité et une forte connexion à des idéaux spirituels."
+        },
+        {
+          "nom": "Sensibilité Créative",
+          "data": "Ce stellium indique une sensibilité créative accrue dans l'expression des émotions. Les expériences affectives sont souvent enrichies par des visions spirituelles et une compréhension intuitive des besoins émotionnels."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Neptune", "Uranus"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Innovation Spirituelle",
+          "data": "Avec le Soleil, Neptune, et Uranus en Sagittaire, ce stellium favorise une approche innovante et spirituelle des objectifs et des aspirations. Les idées originales sont guidées par des visions profondes et des aspirations élevées."
+        },
+        {
+          "nom": "Réformes Inspirantes",
+          "data": "Ce stellium indique une capacité à initier des réformes significatives et inspirantes, souvent avec des changements inattendus et des visions novatrices qui enrichissent la vie personnelle et spirituelle."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Neptune", "Pluton"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Transformation Spirituelle",
+          "data": "Avec le Soleil, Neptune, et Pluton en Sagittaire, ce stellium favorise une transformation spirituelle profonde. Les aspirations et les rêves sont vécus avec une intensité qui conduit à des changements significatifs et à une croissance personnelle profonde."
+        },
+        {
+          "nom": "Pouvoir Transformatif",
+          "data": "Ce stellium indique une capacité à utiliser des forces spirituelles pour provoquer des changements importants. Les objectifs sont poursuivis avec une détermination intense et une volonté de transformer les aspects de la vie de manière significative."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Jupiter", "Lune"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Optimisme Émotionnel",
+          "data": "Avec le Soleil, Jupiter, et la Lune en Sagittaire, ce stellium favorise un optimisme naturel dans les émotions. Les sentiments sont exprimés avec une grande générosité et un sentiment d'expansion positive."
+        },
+        {
+          "nom": "Croissance Affectueuse",
+          "data": "Ce stellium indique une croissance personnelle enrichissante dans les relations affectives. Les interactions sont marquées par une attitude positive et une recherche de joie et de satisfaction émotionnelle."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Jupiter", "Uranus"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Expansion Innovante",
+          "data": "Avec le Soleil, Jupiter, et Uranus en Sagittaire, ce stellium favorise une expansion innovante et audacieuse. Les projets et les objectifs sont abordés avec une vision large et une volonté de provoquer des changements significatifs."
+        },
+        {
+          "nom": "Croissance Révolutionnaire",
+          "data": "Ce stellium indique une capacité à rechercher des opportunités de croissance personnelle et professionnelle par des moyens non conventionnels. Les approches sont originales et cherchent à transformer les situations de manière radicale."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Jupiter", "Pluton"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Transformation Optimiste",
+          "data": "Avec le Soleil, Jupiter, et Pluton en Sagittaire, ce stellium favorise une transformation optimiste et expansive. Les objectifs sont poursuivis avec une profonde conviction et une volonté de créer des changements durables."
+        },
+        {
+          "nom": "Pouvoir Croissant",
+          "data": "Ce stellium indique une capacité à utiliser le pouvoir personnel pour réaliser des transformations importantes. Les ambitions sont marquées par une détermination intense et une recherche de succès durable."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Lune", "Uranus"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Émotions Innovantes",
+          "data": "Avec le Soleil, la Lune, et Uranus en Sagittaire, ce stellium favorise des émotions innovantes et non conventionnelles. Les sentiments sont exprimés avec une approche originale, souvent marquée par des changements inattendus dans la manière de vivre les émotions."
+        },
+        {
+          "nom": "Changements Émotionnels",
+          "data": "Ce stellium indique une propension à vivre des transformations émotionnelles profondes et inattendues. Les relations affectives sont influencées par une recherche de liberté émotionnelle et une volonté d'explorer de nouvelles dimensions des sentiments."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Lune", "Pluton"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Transformation Émotionnelle",
+          "data": "Avec le Soleil, la Lune, et Pluton en Sagittaire, ce stellium favorise une transformation émotionnelle profonde. Les émotions sont vécues avec une intensité qui conduit à des changements significatifs dans la manière dont les sentiments sont perçus et exprimés."
+        },
+        {
+          "nom": "Pouvoir Émotionnel",
+          "data": "Ce stellium indique une capacité à utiliser la profondeur émotionnelle pour provoquer des changements importants dans la vie personnelle. Les relations sont souvent marquées par une recherche de vérité et de profondeur dans les interactions affectives."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Uranus", "Pluton"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Réformes Transformantes",
+          "data": "Avec le Soleil, Uranus, et Pluton en Sagittaire, ce stellium favorise des réformes profondes et transformatrices. Les changements dans la vie personnelle sont abordés avec une vision innovante et une volonté de provoquer des transformations significatives."
+        },
+        {
+          "nom": "Pouvoir de Transformation",
+          "data": "Ce stellium indique une capacité à initier des changements importants avec une approche originale et puissante. Les objectifs sont poursuivis avec une détermination intense à réinventer les aspects de la vie."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mercure", "Vénus"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Communication Charmante",
+          "data": "Avec le Soleil, Mercure, et Vénus en Sagittaire, ce stellium favorise une communication charmante et persuasive. Les échanges sont marqués par une touche de charme et une capacité à exprimer des idées de manière séduisante."
+        },
+        {
+          "nom": "Esprit Créatif",
+          "data": "Ce stellium encourage une créativité remarquable dans les communications. Les interactions sont souvent enrichies par une approche esthétique et artistique, avec une inclination à rechercher des idées innovantes et inspirantes."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mercure", "Neptune"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Inspiration Intellectuelle",
+          "data": "Avec le Soleil, Mercure, et Neptune en Sagittaire, ce stellium favorise une inspiration intellectuelle profonde. Les idées sont souvent marquées par des visions idéalisées et une grande imagination."
+        },
+        {
+          "nom": "Pensée Visionnaire",
+          "data": "Ce stellium indique une tendance à penser de manière visionnaire, avec une capacité à intégrer des concepts abstraits et spirituels dans les communications. Les réflexions sont enrichies par un sens profond de l'idéalisme."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mercure", "Jupiter"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Optimisme Intellectuel",
+          "data": "Avec le Soleil, Mercure, et Jupiter en Sagittaire, ce stellium favorise un optimisme intellectuel et expansif. Les idées sont exprimées avec une grande confiance et une approche positive qui inspire les autres."
+        },
+        {
+          "nom": "Croissance Mentale",
+          "data": "Ce stellium indique une forte croissance mentale, avec une capacité à explorer des concepts vastes et à élargir ses horizons intellectuels. Les communications sont marquées par une grande ouverture d'esprit et une recherche de vérité."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mercure", "Lune"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Communication Émotionnelle",
+          "data": "Avec le Soleil, Mercure, et la Lune en Sagittaire, ce stellium favorise une communication qui intègre des aspects émotionnels. Les échanges sont marqués par une compréhension profonde des sentiments et une capacité à exprimer les émotions avec clarté."
+        },
+        {
+          "nom": "Réflexion Émotionnelle",
+          "data": "Ce stellium encourage une réflexion sur les émotions et leur impact sur la pensée. Les communications sont souvent influencées par des ressentis personnels, avec une tendance à explorer les sentiments à travers le discours."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mercure", "Uranus"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Pensée Innovante",
+          "data": "Avec le Soleil, Mercure, et Uranus en Sagittaire, ce stellium favorise une pensée innovante et originale. Les idées sont souvent marquées par des perspectives nouvelles et non conventionnelles, avec une capacité à remettre en question le statu quo."
+        },
+        {
+          "nom": "Communications Révolutionnaires",
+          "data": "Ce stellium indique une tendance à exprimer des idées révolutionnaires et à adopter des méthodes de communication non traditionnelles. Les échanges sont influencés par une recherche d'originalité et un désir de changement."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mercure", "Pluton"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Transformation Mentale",
+          "data": "Avec le Soleil, Mercure, et Pluton en Sagittaire, ce stellium favorise une transformation mentale profonde. Les pensées sont marquées par une intensité et une capacité à explorer des aspects profonds et puissants de la conscience."
+        },
+        {
+          "nom": "Pouvoir Intellectuel",
+          "data": "Ce stellium indique une capacité à utiliser le pouvoir intellectuel pour provoquer des changements significatifs. Les communications sont souvent empreintes de profondeur et d'une volonté d'aborder des sujets de manière transformatrice."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mars", "Mercure"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Structure Dynamique",
+          "data": "Avec Saturne, Mars, et Mercure en Sagittaire, ce stellium favorise une approche structurée et dynamique des défis. Les projets sont abordés avec une combinaison de discipline, d'énergie et de réflexion stratégique."
+        },
+        {
+          "nom": "Communication Energique",
+          "data": "Ce stellium indique une capacité à communiquer avec une énergie intense et une rigueur. Les idées sont exprimées de manière directe et avec conviction, souvent avec un fort désir de faire avancer des causes importantes."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mars", "Vénus"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Détermination Relationnelle",
+          "data": "Avec Saturne, Mars, et Vénus en Sagittaire, ce stellium indique une approche déterminée et disciplinée dans les relations. Les interactions sont marquées par un sens profond du devoir et une volonté de maintenir des engagements."
+        },
+        {
+          "nom": "Passion Structurée",
+          "data": "Ce stellium favorise une passion structurée, où les désirs sont poursuivis avec discipline. Les relations sont vécues avec une intensité mesurée et une volonté de surmonter les obstacles pour créer des liens significatifs."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mars", "Neptune"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Disciplines Spirituelles",
+          "data": "Avec Saturne, Mars, et Neptune en Sagittaire, ce stellium favorise une approche disciplinée des aspirations spirituelles. Il y a une volonté de poursuivre des idéaux élevés avec rigueur et détermination."
+        },
+        {
+          "nom": "Action Inspirée",
+          "data": "Ce stellium indique une capacité à combiner action et inspiration. Les initiatives sont prises avec une vision élevée et une forte motivation intérieure, souvent dans le but de réaliser des projets spirituels ou créatifs."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mars", "Jupiter"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Expansion Structurée",
+          "data": "Avec Saturne, Mars, et Jupiter en Sagittaire, ce stellium favorise une expansion structurée et disciplinée. Les ambitions sont poursuivies avec une planification rigoureuse et une énergie dynamique pour atteindre des objectifs ambitieux."
+        },
+        {
+          "nom": "Croissance Dynamique",
+          "data": "Ce stellium indique une croissance dynamique et ambitieuse. Les projets sont abordés avec une combinaison de détermination et de vision optimiste, permettant une expansion significative sur le plan personnel ou professionnel."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mars", "Lune"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Émotions Régulées",
+          "data": "Avec Saturne, Mars, et la Lune en Sagittaire, ce stellium favorise une régulation disciplinée des émotions. Les sentiments sont exprimés avec une forte volonté de maintenir l'équilibre et d'atteindre des objectifs émotionnels."
+        },
+        {
+          "nom": "Action Émotionnelle",
+          "data": "Ce stellium indique une approche où l'action est motivée par des émotions profondes. Les initiatives sont prises en tenant compte des besoins émotionnels et avec une volonté de transformer les sentiments en actions concrètes."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mars", "Uranus"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Réforme Structurée",
+          "data": "Avec Saturne, Mars, et Uranus en Sagittaire, ce stellium favorise des réformes structurées. Les changements sont abordés avec une discipline rigoureuse et une volonté d'introduire des innovations de manière organisée."
+        },
+        {
+          "nom": "Action Innovante",
+          "data": "Ce stellium indique une capacité à agir de manière innovante. Les projets sont réalisés avec une approche audacieuse et structurée, cherchant à introduire des changements significatifs tout en maintenant un sens de l'ordre."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mars", "Pluton"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Transformation Disciplinée",
+          "data": "Avec Saturne, Mars, et Pluton en Sagittaire, ce stellium favorise une transformation disciplinée et puissante. Les efforts sont concentrés sur des changements profonds, abordés avec une forte volonté et une approche rigoureuse."
+        },
+        {
+          "nom": "Pouvoir Structuré",
+          "data": "Ce stellium indique une capacité à exercer un pouvoir de manière structurée. Les ambitions sont poursuivies avec une intensité contrôlée et une détermination à atteindre des objectifs de transformation significatifs."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mercure", "Vénus"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Discipline Mentale",
+          "data": "Avec Saturne, Mercure, et Vénus en Sagittaire, ce stellium favorise une approche disciplinée des idées et des relations. Les pensées sont organisées avec rigueur, tandis que les relations sont abordées avec sérieux et engagement."
+        },
+        {
+          "nom": "Communication Structurée",
+          "data": "Ce stellium indique une capacité à communiquer avec structure et précision. Les échanges sont marqués par une profonde réflexion et une volonté d'équilibrer la passion et la logique."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mercure", "Neptune"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Réflexion Inspirée",
+          "data": "Avec Saturne, Mercure, et Neptune en Sagittaire, ce stellium favorise une réflexion inspirée. Les idées sont approfondies par une influence idéalisée, combinant discipline mentale et intuition créative."
+        },
+        {
+          "nom": "Planification Visionnaire",
+          "data": "Ce stellium indique une capacité à planifier avec une vision claire. Les projets sont abordés avec une vision à long terme, alliant organisation pratique et aspirations spirituelles."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mercure", "Jupiter"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Optimisme Structuré",
+          "data": "Avec Saturne, Mercure, et Jupiter en Sagittaire, ce stellium favorise un optimisme structuré. Les idées sont abordées avec une approche pratique, tout en étant enrichies par une vision positive et expansive."
+        },
+        {
+          "nom": "Expansion Intellectuelle",
+          "data": "Ce stellium indique une capacité à étendre les horizons intellectuels avec discipline. Les connaissances sont explorées en profondeur, combinant pragmatisme et enthousiasme pour l'apprentissage."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mercure", "Lune"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Émotions Raisonnées",
+          "data": "Avec Saturne, Mercure, et la Lune en Sagittaire, ce stellium favorise des émotions raisonnées. Les sentiments sont exprimés avec clarté et structure, alliant introspection émotionnelle et analyse logique."
+        },
+        {
+          "nom": "Communication Émotionnelle",
+          "data": "Ce stellium indique une communication émotionnelle approfondie. Les échanges affectifs sont traités avec une grande compréhension et un sens de la responsabilité émotionnelle."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mercure", "Uranus"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Innovation Disciplinaire",
+          "data": "Avec Saturne, Mercure, et Uranus en Sagittaire, ce stellium favorise une approche innovante et disciplinée des idées. Les pensées sont structurées de manière créative, apportant des solutions originales aux problèmes."
+        },
+        {
+          "nom": "Réflexion Non-Conformiste",
+          "data": "Ce stellium indique une réflexion non-conformiste, où la pensée logique est enrichie par des perspectives nouvelles et avant-gardistes."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mercure", "Pluton"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Transformation Mentale",
+          "data": "Avec Saturne, Mercure, et Pluton en Sagittaire, ce stellium favorise une transformation profonde des idées. Les pensées sont analysées en profondeur, avec une volonté de comprendre et de réformer les schémas mentaux."
+        },
+        {
+          "nom": "Pouvoir Analytique",
+          "data": "Ce stellium indique un pouvoir analytique intense. Les capacités de réflexion sont amplifiées, permettant une compréhension approfondie des sujets complexes et une approche stratégique."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Vénus", "Neptune"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Relations Idéalisées",
+          "data": "Avec Saturne, Vénus, et Neptune en Sagittaire, ce stellium favorise des relations idéalisées et profondes. Les engagements affectifs sont abordés avec un sens élevé de dévouement et une vision romantique."
+        },
+        {
+          "nom": "Amour Structuré",
+          "data": "Ce stellium indique une approche structurée de l'amour et des relations. Les sentiments sont exprimés avec sérieux, tout en étant enrichis par une imagination et une sensibilité créative."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Vénus", "Jupiter"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Expansion Relationnelle",
+          "data": "Avec Saturne, Vénus, et Jupiter en Sagittaire, ce stellium favorise une expansion des relations avec une approche sérieuse. Les interactions sont vécues avec une vision positive et une grande ouverture."
+        },
+        {
+          "nom": "Amour Optimiste",
+          "data": "Ce stellium indique un amour optimiste et expansive. Les relations sont enrichies par une attitude positive, combinant profondeur et aspiration."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Vénus", "Lune"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Engagement Émotionnel",
+          "data": "Avec Saturne, Vénus, et la Lune en Sagittaire, ce stellium favorise un engagement émotionnel profond. Les relations sont vécues avec une grande intensité et un sens de responsabilité affective."
+        },
+        {
+          "nom": "Stabilité Affectif",
+          "data": "Ce stellium indique une stabilité affective. Les émotions sont exprimées avec sérieux, avec un fort désir de construire des relations durables et significatives."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Vénus", "Uranus"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Relations Innovantes",
+          "data": "Avec Saturne, Vénus, et Uranus en Sagittaire, ce stellium favorise des relations innovantes. Les engagements affectifs sont abordés de manière originale, avec une ouverture à de nouvelles façons de se connecter."
+        },
+        {
+          "nom": "Amour Révolutionnaire",
+          "data": "Ce stellium indique une approche révolutionnaire de l'amour. Les relations sont vécues avec une volonté de défier les conventions et d'explorer des formes nouvelles et avant-gardistes de connexion."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Vénus", "Pluton"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Transformation Relationnelle",
+          "data": "Avec Saturne, Vénus, et Pluton en Sagittaire, ce stellium favorise une transformation profonde dans les relations. Les engagements sont vécus avec intensité et un désir de transformation personnelle."
+        },
+        {
+          "nom": "Pouvoir Affectif",
+          "data": "Ce stellium indique un pouvoir significatif dans les affaires du cœur. Les relations sont marquées par une profondeur émotionnelle et une capacité à influencer profondément les autres."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Neptune", "Jupiter"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Vision Structurée",
+          "data": "Avec Saturne, Neptune, et Jupiter en Sagittaire, ce stellium favorise une vision structurée des idéaux. Les projets sont abordés avec une combinaison de discipline et d'expansion créative."
+        },
+        {
+          "nom": "Planification Inspirée",
+          "data": "Ce stellium indique une capacité à planifier avec inspiration. Les objectifs sont poursuivis avec une vision claire, équilibrant pragmatisme et idéalisme."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Neptune", "Lune"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Émotions Idéalisées",
+          "data": "Avec Saturne, Neptune, et la Lune en Sagittaire, ce stellium favorise des émotions idéalisées. Les sentiments sont abordés avec un mélange de rêve et de structure, créant une approche émotionnelle profondément réfléchie."
+        },
+        {
+          "nom": "Réflexion Spirituelle",
+          "data": "Ce stellium indique une réflexion spirituelle. Les émotions sont explorées avec une profondeur mystique, apportant une compréhension plus élevée et un sens de connexion spirituelle."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Neptune", "Uranus"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Innovation Spirituelle",
+          "data": "Avec Saturne, Neptune, et Uranus en Sagittaire, ce stellium favorise une innovation spirituelle. Les idées sont explorées de manière originale, combinant structure pratique et inspiration élevée."
+        },
+        {
+          "nom": "Transformation Visionnaire",
+          "data": "Ce stellium indique une capacité à transformer la vision personnelle avec créativité. Les aspirations spirituelles sont abordées avec une approche avant-gardiste et réformatrice."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Neptune", "Pluton"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Transformation Spirituelle",
+          "data": "Avec Saturne, Neptune, et Pluton en Sagittaire, ce stellium favorise une transformation spirituelle profonde. Les idéaux sont réformés avec une intensité et une profondeur significatives."
+        },
+        {
+          "nom": "Pouvoir Intuitif",
+          "data": "Ce stellium indique un pouvoir intuitif élevé. Les capacités spirituelles et perceptives sont amplifiées, permettant une compréhension profonde des dynamiques cachées."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Jupiter", "Lune"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Expansion Émotionnelle",
+          "data": "Avec Saturne, Jupiter, et la Lune en Sagittaire, ce stellium favorise une expansion émotionnelle profonde. Les émotions sont vécues avec une vision optimiste et une volonté d'élargir les horizons personnels."
+        },
+        {
+          "nom": "Croissance Intérieure",
+          "data": "Ce stellium indique une croissance intérieure importante. Les sentiments sont enrichis par des perspectives expansives, combinant structure et sensibilité émotionnelle."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Jupiter", "Uranus"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Innovation Réglementée",
+          "data": "Avec Saturne, Jupiter, et Uranus en Sagittaire, ce stellium favorise une approche innovante mais structurée. Les nouvelles idées sont explorées avec une discipline rigoureuse et une vision expansive."
+        },
+        {
+          "nom": "Réforme Visionnaire",
+          "data": "Ce stellium indique une capacité à réformer les systèmes avec une approche visionnaire. Les idées avant-gardistes sont intégrées dans des structures pratiques, permettant des changements progressifs."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Jupiter", "Pluton"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Transformation Expansive",
+          "data": "Avec Saturne, Jupiter, et Pluton en Sagittaire, ce stellium favorise une transformation expansive et profonde. Les changements sont abordés avec une grande profondeur et une vision optimiste."
+        },
+        {
+          "nom": "Réforme Puissante",
+          "data": "Ce stellium indique une capacité à réformer les structures existantes avec puissance et ambition. Les transformations sont vécues avec intensité, apportant des changements significatifs et profonds."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Lune", "Uranus"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Émotions Innovantes",
+          "data": "Avec Saturne, la Lune, et Uranus en Sagittaire, ce stellium favorise des émotions innovantes et originales. Les sentiments sont explorés avec une approche nouvelle et non conventionnelle."
+        },
+        {
+          "nom": "Réactions Émotionnelles Non-Conformistes",
+          "data": "Ce stellium indique des réactions émotionnelles non-conformistes, où les sentiments sont abordés de manière créative et avant-gardiste, avec un besoin d'indépendance émotionnelle."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Lune", "Pluton"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Transformation Émotionnelle",
+          "data": "Avec Saturne, la Lune, et Pluton en Sagittaire, ce stellium favorise une transformation émotionnelle profonde. Les sentiments sont analysés et réformés avec intensité et rigueur."
+        },
+        {
+          "nom": "Pouvoir Émotionnel",
+          "data": "Ce stellium indique un pouvoir émotionnel significatif. Les émotions sont vécues avec profondeur et capacité de transformation, apportant des changements importants dans la perception émotionnelle."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Uranus", "Pluton"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Réformes Structurelles Profondes",
+          "data": "Avec Saturne, Uranus, et Pluton en Sagittaire, ce stellium favorise des réformes structurelles profondes et radicales. Les systèmes établis sont remis en question avec une vision avant-gardiste, apportant des changements significatifs et transformateurs."
+        },
+        {
+          "nom": "Transformation Innovante",
+          "data": "Ce stellium indique une capacité à transformer les structures existantes de manière innovante. La combinaison de discipline (Saturne), créativité (Uranus), et intensité (Pluton) conduit à des réformes puissantes et visionnaires."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Mercure", "Vénus"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Passion Communicative",
+          "data": "Avec Mars, Mercure, et Vénus en Sagittaire, ce stellium favorise une passion communicative. Les actions sont guidées par une énergie enthousiaste et une communication charismatique, enrichie par une appréciation esthétique."
+        },
+        {
+          "nom": "Exploration Créative",
+          "data": "Ce stellium indique une forte dynamique dans la recherche de nouvelles expériences et idées. La créativité est stimulée, et il y a un désir d'expansion à travers des interactions stimulantes et des activités artistiques."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Mercure", "Neptune"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Action Inspirée",
+          "data": "Avec Mars, Mercure, et Neptune en Sagittaire, ce stellium favorise une action inspirée par des idéaux élevés. L'énergie et la communication sont imprégnées d'une vision spirituelle ou artistique, guidant les actions vers des objectifs plus élevés."
+        },
+        {
+          "nom": "Créativité Visionnaire",
+          "data": "Ce stellium indique une créativité guidée par des visions et des inspirations profondes. Les idées innovantes sont mises en œuvre avec enthousiasme, et il y a une tendance à poursuivre des objectifs spirituels ou artistiques."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Mercure", "Jupiter"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Expansion Dynamique",
+          "data": "Avec Mars, Mercure, et Jupiter en Sagittaire, ce stellium favorise une expansion dynamique des idées et des actions. La combinaison d'énergie, de communication et d'optimisme crée une grande motivation pour explorer de nouvelles possibilités."
+        },
+        {
+          "nom": "Ambition Visionnaire",
+          "data": "Ce stellium indique une ambition guidée par une vision large et optimiste. Les objectifs sont poursuivis avec une grande énergie, soutenus par des idées innovantes et une perspective expansive."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Mercure", "Lune"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Émotions Actives",
+          "data": "Avec Mars, Mercure, et la Lune en Sagittaire, ce stellium favorise une dynamique d'émotions actives et communicatives. Les sentiments sont exprimés avec enthousiasme et passion, enrichissant les interactions et les activités."
+        },
+        {
+          "nom": "Exploration Émotionnelle",
+          "data": "Ce stellium indique un désir de comprendre et d'explorer les émotions avec une approche énergique. Il y a une tendance à poursuivre des expériences enrichissantes et à communiquer ouvertement les sentiments."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Mercure", "Uranus"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Innovation Dynamique",
+          "data": "Avec Mars, Mercure, et Uranus en Sagittaire, ce stellium favorise une innovation dynamique et audacieuse. L'énergie et la communication sont orientées vers des idées nouvelles et avant-gardistes, avec un désir de changement et de progrès."
+        },
+        {
+          "nom": "Changement Visionnaire",
+          "data": "Ce stellium indique une capacité à initier des changements importants avec des idées visionnaires. Les actions sont guidées par des inspirations créatives et une volonté de transformer les structures existantes."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Mercure", "Pluton"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Transformation Active",
+          "data": "Avec Mars, Mercure, et Pluton en Sagittaire, ce stellium favorise une transformation active et profonde. Les idées et actions sont orientées vers une révision intense des objectifs personnels, avec une recherche de profondeur et de vérité."
+        },
+        {
+          "nom": "Pouvoir Communicatif",
+          "data": "Ce stellium indique un pouvoir communicatif fort, avec une capacité à influencer et à transformer les perspectives à travers une communication intense et perspicace."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Vénus", "Jupiter"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Passion Expansive",
+          "data": "Avec Mars, Vénus, et Jupiter en Sagittaire, ce stellium favorise une passion expansive et optimiste. Les actions sont guidées par des désirs intenses et une vision large, enrichie par une appréciation esthétique."
+        },
+        {
+          "nom": "Croissance Personnelle",
+          "data": "Ce stellium indique une croissance personnelle significative à travers des expériences enrichissantes et des relations stimulantes. Il y a une forte motivation à explorer et à étendre les horizons personnels."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Vénus", "Neptune"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Action Inspirée",
+          "data": "Avec Mars, Vénus, et Neptune en Sagittaire, ce stellium favorise une action inspirée par des idéaux élevés. Les désirs et les actions sont imprégnés d'une vision artistique ou spirituelle, guidant les efforts vers des objectifs plus élevés."
+        },
+        {
+          "nom": "Créativité Élevée",
+          "data": "Ce stellium indique une créativité élevée, enrichie par des inspirations profondes. Les activités artistiques et spirituelles sont particulièrement stimulées, avec un désir d'explorer des dimensions plus profondes de la vie."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Vénus", "Lune"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Émotions Dynamisées",
+          "data": "Avec Mars, Vénus, et la Lune en Sagittaire, ce stellium favorise des émotions dynamiques et enrichissantes. Les sentiments sont vécus avec une grande intensité et passion, enrichissant les interactions et les activités."
+        },
+        {
+          "nom": "Exploration Émotionnelle",
+          "data": "Ce stellium indique un désir d'explorer les émotions de manière active et stimulante. Il y a une tendance à rechercher des expériences enrichissantes qui favorisent une compréhension plus profonde des sentiments."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Vénus", "Uranus"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Innovation Passionnée",
+          "data": "Avec Mars, Vénus, et Uranus en Sagittaire, ce stellium favorise une innovation passionnée. Les actions sont guidées par des idées créatives et non conventionnelles, avec une forte motivation pour le changement et l'exploration."
+        },
+        {
+          "nom": "Changement Créatif",
+          "data": "Ce stellium indique une capacité à initier des changements créatifs avec enthousiasme. Les désirs personnels sont transformés par une vision avant-gardiste, apportant des transformations significatives dans la vie personnelle."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Vénus", "Pluton"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Transformation Passionnée",
+          "data": "Avec Mars, Vénus, et Pluton en Sagittaire, ce stellium favorise une transformation passionnée et profonde. Les désirs et actions sont intensément réformés, apportant des changements significatifs et puissants dans les domaines personnels et relationnels."
+        },
+        {
+          "nom": "Pouvoir Créatif",
+          "data": "Ce stellium indique un pouvoir créatif fort, avec une capacité à influencer et transformer les perspectives à travers une action intense et une volonté de révision profonde."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Neptune", "Jupiter"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Action Inspirée",
+          "data": "Avec Mars, Neptune, et Jupiter en Sagittaire, ce stellium favorise une action inspirée par des idéaux élevés. Les actions sont guidées par des visions artistiques ou spirituelles, avec un optimisme expansif."
+        },
+        {
+          "nom": "Exploration Spirituelle",
+          "data": "Ce stellium indique une exploration intense des aspects spirituels et philosophiques de la vie. Les désirs sont orientés vers la quête de sens et d'expansion personnelle à travers des pratiques créatives et visionnaires."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Neptune", "Lune"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Émotions Inspirées",
+          "data": "Avec Mars, Neptune, et la Lune en Sagittaire, ce stellium favorise des émotions inspirées et idéalisées. Les sentiments sont exprimés avec une grande sensibilité artistique et un désir d'expansion émotionnelle."
+        },
+        {
+          "nom": "Voyage Émotionnel",
+          "data": "Ce stellium indique une tendance à explorer les émotions à travers des expériences enrichissantes et spirituelles. Il y a une forte motivation à comprendre les sentiments de manière profonde et transformative."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Neptune", "Uranus"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Innovation Inspirée",
+          "data": "Avec Mars, Neptune, et Uranus en Sagittaire, ce stellium favorise une innovation inspirée et avant-gardiste. Les actions sont motivées par des idées visionnaires et un désir de changement radical."
+        },
+        {
+          "nom": "Transformation Créative",
+          "data": "Ce stellium indique une capacité à initier des transformations créatives profondes. Les désirs et les actions sont influencés par des inspirations spirituelles et une vision innovante."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Neptune", "Pluton"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Transformation Spirituelle",
+          "data": "Avec Mars, Neptune, et Pluton en Sagittaire, ce stellium favorise une transformation spirituelle intense. Les actions et les désirs sont réformés avec une profondeur et une intensité puissantes, guidés par des visions profondes."
+        },
+        {
+          "nom": "Pouvoir Visionnaire",
+          "data": "Ce stellium indique un pouvoir visionnaire significatif, avec une capacité à influencer et transformer les perspectives personnelles à travers une action intense et une quête de vérité profonde."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Jupiter", "Lune"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Expansion Émotionnelle",
+          "data": "Avec Mars, Jupiter, et la Lune en Sagittaire, ce stellium favorise une expansion émotionnelle optimiste. Les actions et les sentiments sont alignés avec un désir d'exploration et de croissance personnelle."
+        },
+        {
+          "nom": "Aventure Émotionnelle",
+          "data": "Ce stellium indique un fort désir d'aventure émotionnelle, avec une approche enthousiaste et optimiste des expériences personnelles et des relations."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Jupiter", "Uranus"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Expansion Dynamique",
+          "data": "Avec Mars, Jupiter, et Uranus en Sagittaire, ce stellium favorise une expansion dynamique et innovante. Les actions sont guidées par une vision optimiste et une volonté de changement radical."
+        },
+        {
+          "nom": "Changement Dynamique",
+          "data": "Ce stellium indique une capacité à initier des changements significatifs avec enthousiasme. Les objectifs sont poursuivis avec une forte énergie et une perspective avant-gardiste."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Jupiter", "Pluton"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Transformation Dynamique",
+          "data": "Avec Mars, Jupiter, et Pluton en Sagittaire, ce stellium favorise une transformation dynamique et profonde. Les désirs et les actions sont dirigés vers une révision significative et une expansion intense."
+        },
+        {
+          "nom": "Pouvoir Transformateur",
+          "data": "Ce stellium indique un pouvoir transformateur fort, avec une capacité à influencer et réformer les aspects personnels de la vie à travers une action intense et une vision expansive."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Lune", "Uranus"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Émotions Innovantes",
+          "data": "Avec Mars, la Lune, et Uranus en Sagittaire, ce stellium favorise des émotions innovantes et imprévisibles. Les actions sont motivées par des sentiments intenses et un désir de changement."
+        },
+        {
+          "nom": "Transformation Émotionnelle",
+          "data": "Ce stellium indique une forte tendance à réviser et transformer les aspects émotionnels de la vie. Il y a un désir d'explorer les émotions de manière originale et avant-gardiste."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Lune", "Pluton"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Transformation Émotionnelle",
+          "data": "Avec Mars, la Lune, et Pluton en Sagittaire, ce stellium favorise une transformation profonde des émotions. Les actions et les sentiments sont réformés avec intensité, guidés par une volonté de changement profond."
+        },
+        {
+          "nom": "Pouvoir Émotionnel",
+          "data": "Ce stellium indique un pouvoir émotionnel fort, avec une capacité à influencer et réformer les aspects personnels de la vie à travers une action intense et une exploration profonde des sentiments."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Uranus", "Pluton"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Changement Profond",
+          "data": "Avec Mars, Uranus, et Pluton en Sagittaire, ce stellium favorise un changement profond et radical. Les actions sont guidées par une volonté de transformation significative et une vision avant-gardiste."
+        },
+        {
+          "nom": "Transformation Radical",
+          "data": "Ce stellium indique une capacité à initier des transformations radicales dans la vie personnelle. Les désirs sont dirigés vers une révision profonde et une expansion intense."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Vénus", "Jupiter"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Communication Harmonieuse",
+          "data": "Avec Mercure, Vénus, et Jupiter en Sagittaire, ce stellium favorise une communication harmonieuse et optimiste. Les échanges sont enrichis par des idées créatives et un sens de l'humour expansif."
+        },
+        {
+          "nom": "Pensée Positive",
+          "data": "Ce stellium indique une tendance à penser positivement et à explorer des idées avec enthousiasme. Il y a une capacité à exprimer des idées de manière charmante et persuasive."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Vénus", "Lune"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Expression Émotionnelle",
+          "data": "Avec Mercure, Vénus, et la Lune en Sagittaire, ce stellium favorise une expression émotionnelle enrichie par des échanges affectueux. Les communications sont empreintes de sensibilité et de chaleur."
+        },
+        {
+          "nom": "Pensée Empathique",
+          "data": "Ce stellium indique une pensée empathique et intuitive, où les idées sont influencées par les émotions et les relations personnelles. Il y a un désir d'harmoniser les échanges émotionnels avec les autres."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Vénus", "Uranus"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Innovation Communicationnelle",
+          "data": "Avec Mercure, Vénus, et Uranus en Sagittaire, ce stellium favorise une communication innovante et originale. Les idées sont exprimées de manière unique et créative, avec une touche de génie."
+        },
+        {
+          "nom": "Changements Créatifs",
+          "data": "Ce stellium indique une tendance à apporter des changements créatifs dans les modes de communication. Il y a une capacité à penser en dehors des sentiers battus et à exprimer des idées nouvelles et excitantes."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Vénus", "Pluton"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Communication Profonde",
+          "data": "Avec Mercure, Vénus, et Pluton en Sagittaire, ce stellium favorise une communication profonde et transformative. Les échanges sont marqués par une intensité émotionnelle et une capacité à explorer des sujets profonds."
+        },
+        {
+          "nom": "Pensée Transformative",
+          "data": "Ce stellium indique une pensée transformative et intense, avec un désir d'explorer et de réformer les idées à un niveau profond. Il y a une capacité à communiquer avec une grande profondeur et une grande perspicacité."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Jupiter", "Lune"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Expansivité Émotionnelle",
+          "data": "Avec Mercure, Jupiter, et la Lune en Sagittaire, ce stellium favorise une expansivité émotionnelle dans la communication. Les échanges sont enrichis par une vision optimiste et une compréhension empathique."
+        },
+        {
+          "nom": "Communication Optimiste",
+          "data": "Ce stellium indique une tendance à communiquer de manière optimiste et chaleureuse, avec une capacité à transmettre des idées de manière encourageante et soutenante."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Jupiter", "Uranus"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Innovation Verbale",
+          "data": "Avec Mercure, Jupiter, et Uranus en Sagittaire, ce stellium favorise une innovation verbale et intellectuelle. Les idées sont exprimées avec une originalité et une vision avant-gardiste."
+        },
+        {
+          "nom": "Pensée Révolutionnaire",
+          "data": "Ce stellium indique une pensée révolutionnaire, avec une capacité à formuler des idées novatrices et à aborder les sujets de manière non conventionnelle."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Jupiter", "Pluton"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Communication Transformative",
+          "data": "Avec Mercure, Jupiter, et Pluton en Sagittaire, ce stellium favorise une communication transformative et puissante. Les idées sont explorées avec une grande profondeur et une volonté de réformer les perspectives."
+        },
+        {
+          "nom": "Pensée Profonde",
+          "data": "Ce stellium indique une pensée profonde et réformatrice, avec une capacité à communiquer des concepts profonds et à influencer les autres de manière significative."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Lune", "Uranus"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Intuition Créative",
+          "data": "Avec Mercure, la Lune, et Uranus en Sagittaire, ce stellium favorise une intuition créative dans la communication. Les idées sont exprimées avec une forte inspiration émotionnelle et une originalité."
+        },
+        {
+          "nom": "Émotions Innovantes",
+          "data": "Ce stellium indique une tendance à explorer les émotions de manière innovante et originale, avec une capacité à exprimer des idées uniques influencées par des perceptions intuitives."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Lune", "Pluton"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Communication Profonde",
+          "data": "Avec Mercure, la Lune, et Pluton en Sagittaire, ce stellium favorise une communication profonde et émotionnelle. Les idées sont exprimées avec une grande intensité et une volonté de creuser des sujets personnels et significatifs."
+        },
+        {
+          "nom": "Transformation Émotionnelle",
+          "data": "Ce stellium indique une capacité à transformer les perspectives émotionnelles à travers une communication intense et profonde, influençant les autres par des échanges significatifs et réformateurs."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Uranus", "Pluton"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Innovation Intense",
+          "data": "Avec Mercure, Uranus, et Pluton en Sagittaire, ce stellium favorise une innovation intense dans la communication. Les idées sont exprimées avec une profondeur radicale et une perspective originale."
+        },
+        {
+          "nom": "Transformation Révolutionnaire",
+          "data": "Ce stellium indique une capacité à initier des transformations radicales à travers des idées novatrices, influençant les autres par des concepts profonds et avant-gardistes."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Neptune", "Vénus"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Communication Idéalisée",
+          "data": "Avec Mercure, Neptune, et Vénus en Sagittaire, ce stellium favorise une communication empreinte d'idéalisme et de charme. Les échanges sont enrichis par une sensibilité artistique et une vision romantique."
+        },
+        {
+          "nom": "Expression Créative",
+          "data": "Ce stellium indique une expression créative et empathique, où les idées sont partagées avec une grande sensibilité esthétique et une profondeur émotionnelle."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Neptune", "Jupiter"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Communication Inspirante",
+          "data": "Avec Mercure, Neptune, et Jupiter en Sagittaire, ce stellium favorise une communication inspirante et expansif. Les idées sont exprimées avec une vision optimiste et une touche de spiritualité."
+        },
+        {
+          "nom": "Pensée Visionnaire",
+          "data": "Ce stellium indique une pensée visionnaire et philosophique, avec une capacité à explorer des concepts avec enthousiasme et profondeur, enrichie par une perspective spirituelle."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Neptune", "Lune"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Expression Émotionnelle",
+          "data": "Avec Mercure, Neptune, et la Lune en Sagittaire, ce stellium favorise une expression émotionnelle fluide et inspirée. Les communications sont empreintes de sensibilité et de réceptivité émotionnelle."
+        },
+        {
+          "nom": "Communication Empathique",
+          "data": "Ce stellium indique une capacité à communiquer de manière empathique, avec une forte connexion émotionnelle et une intuition enrichissant les échanges personnels."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Neptune", "Uranus"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Innovation Verbale",
+          "data": "Avec Mercure, Neptune, et Uranus en Sagittaire, ce stellium favorise une innovation verbale inspirée. Les idées sont exprimées de manière originale et avant-gardiste, influencées par une vision imaginative."
+        },
+        {
+          "nom": "Pensée Révolutionnaire",
+          "data": "Ce stellium indique une pensée révolutionnaire, avec une capacité à introduire des concepts novateurs et à communiquer des idées d'une manière unique et imaginative."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Neptune", "Pluton"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Communication Profonde",
+          "data": "Avec Mercure, Neptune, et Pluton en Sagittaire, ce stellium favorise une communication profonde et transformative. Les idées sont explorées avec une grande intensité émotionnelle et une volonté de réformer."
+        },
+        {
+          "nom": "Pensée Transformative",
+          "data": "Ce stellium indique une pensée transformative, où les échanges sont marqués par une profondeur psychologique et une capacité à influencer et réformer les perspectives personnelles."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Neptune", "Jupiter"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Amour Inspiré",
+          "data": "Avec Vénus, Neptune, et Jupiter en Sagittaire, ce stellium favorise un amour inspiré et expansif. Les relations sont enrichies par un sentiment de spiritualité et de joie, avec une capacité à explorer des idéaux romantiques."
+        },
+        {
+          "nom": "Beauté Visionnaire",
+          "data": "Ce stellium indique une appréciation visionnaire de la beauté et de l'esthétique, influencée par une perspective optimiste et un sens de l'aventure."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Neptune", "Lune"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Amour Émotionnel",
+          "data": "Avec Vénus, Neptune, et la Lune en Sagittaire, ce stellium favorise une connexion émotionnelle profonde et idéalisée dans les relations. Les sentiments sont exprimés avec sensibilité et une touche de romantisme."
+        },
+        {
+          "nom": "Exprimer les Sentiments",
+          "data": "Ce stellium indique une tendance à exprimer les sentiments avec une grande profondeur et une connexion intuitive, enrichissant les échanges émotionnels."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Neptune", "Uranus"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Amour Original",
+          "data": "Avec Vénus, Neptune, et Uranus en Sagittaire, ce stellium favorise un amour original et non conventionnel. Les relations sont marquées par une créativité et une vision unique."
+        },
+        {
+          "nom": "Esthétique Innovante",
+          "data": "Ce stellium indique une approche innovante de la beauté et de l'art, influencée par des inspirations originales et des perspectives avant-gardistes."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Neptune", "Pluton"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Amour Profond",
+          "data": "Avec Vénus, Neptune, et Pluton en Sagittaire, ce stellium favorise un amour profond et transformateur. Les relations sont marquées par une intensité émotionnelle et une capacité à explorer les aspects les plus profonds de l'amour."
+        },
+        {
+          "nom": "Beauté Transformative",
+          "data": "Ce stellium indique une appréciation transformative de la beauté, influencée par des idées profondes et une capacité à réformer les perspectives esthétiques."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Jupiter", "Lune"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Amour Joyeux",
+          "data": "Avec Vénus, Jupiter, et la Lune en Sagittaire, ce stellium favorise un amour joyeux et expansif. Les relations sont caractérisées par une grande générosité et une sensibilité émotionnelle profonde."
+        },
+        {
+          "nom": "Expression Émotionnelle Positive",
+          "data": "Ce stellium indique une tendance à exprimer les sentiments de manière optimiste et chaleureuse, enrichissant les interactions avec une touche d'empathie et de joie."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Jupiter", "Uranus"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Amour Innovant",
+          "data": "Avec Vénus, Jupiter, et Uranus en Sagittaire, ce stellium favorise un amour innovant et ouvert aux nouvelles expériences. Les relations sont marquées par une approche originale et avant-gardiste."
+        },
+        {
+          "nom": "Esthétique Révolutionnaire",
+          "data": "Ce stellium indique une sensibilité esthétique influencée par des idées novatrices et une appréciation de l'art et de la beauté sous un angle non conventionnel."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Jupiter", "Pluton"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Amour Transformateur",
+          "data": "Avec Vénus, Jupiter, et Pluton en Sagittaire, ce stellium favorise un amour transformateur et profond. Les relations sont marquées par une intensité émotionnelle et une capacité à évoluer à travers des expériences profondes."
+        },
+        {
+          "nom": "Beauté Profonde",
+          "data": "Ce stellium indique une appréciation de la beauté qui transcende les apparences superficielles, influencée par une perspective de transformation et de profondeur."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Lune", "Uranus"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Amour Émotionnel Original",
+          "data": "Avec Vénus, la Lune, et Uranus en Sagittaire, ce stellium favorise un amour profondément émotionnel et original. Les relations sont marquées par une connexion sensible et une approche unique et innovante."
+        },
+        {
+          "nom": "Expression Créative",
+          "data": "Ce stellium indique une tendance à exprimer les sentiments de manière créative et non conventionnelle, enrichissant les échanges avec une touche d'originalité et d'inventivité."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Lune", "Pluton"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Amour Profond et Intense",
+          "data": "Avec Vénus, la Lune, et Pluton en Sagittaire, ce stellium favorise un amour profond et intense. Les relations sont caractérisées par une exploration émotionnelle et une transformation personnelle importante."
+        },
+        {
+          "nom": "Beauté Transformative",
+          "data": "Ce stellium indique une appréciation de la beauté qui est à la fois profonde et transformative, influencée par des expériences émotionnelles intenses et des changements profonds."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Uranus", "Pluton"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Amour Intense et Original",
+          "data": "Avec Vénus, Uranus, et Pluton en Sagittaire, ce stellium favorise un amour intense et original. Les relations sont marquées par une profondeur émotionnelle et une approche non conventionnelle et révolutionnaire."
+        },
+        {
+          "nom": "Beauté et Transformation",
+          "data": "Ce stellium indique une appréciation de la beauté qui est à la fois intense et transformante, influencée par une perspective innovante et des changements profonds."
+        }
+      ]
+    },
+    {
+      "noms": ["Neptune", "Jupiter", "Lune"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Inspiration Émotionnelle",
+          "data": "Avec Neptune, Jupiter, et la Lune en Sagittaire, ce stellium favorise une inspiration émotionnelle profonde. Les émotions sont enrichies par un sens élargi de la spiritualité et une perspective optimiste."
+        },
+        {
+          "nom": "Vision Spirituelle",
+          "data": "Ce stellium indique une capacité à percevoir la beauté et la spiritualité de manière expansive, influencée par des intuitions profondes et une sensibilité accrue."
+        }
+      ]
+    },
+    {
+      "noms": ["Neptune", "Jupiter", "Uranus"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Inspiration Innovante",
+          "data": "Avec Neptune, Jupiter, et Uranus en Sagittaire, ce stellium favorise une inspiration innovante et visionnaire. Les idées sont marquées par une créativité avant-gardiste et une exploration de nouvelles perspectives."
+        },
+        {
+          "nom": "Créativité Révolutionnaire",
+          "data": "Ce stellium indique une tendance à exprimer des visions créatives et spirituelles de manière non conventionnelle, influencée par des idées progressistes et révolutionnaires."
+        }
+      ]
+    },
+    {
+      "noms": ["Neptune", "Jupiter", "Pluton"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Inspiration Transformante",
+          "data": "Avec Neptune, Jupiter, et Pluton en Sagittaire, ce stellium favorise une inspiration transformante et profonde. Les expériences spirituelles et idéologiques sont marquées par une intensité émotionnelle et une capacité à provoquer des changements importants."
+        },
+        {
+          "nom": "Vision Profonde",
+          "data": "Ce stellium indique une capacité à voir au-delà des apparences superficielles, influencée par une exploration spirituelle et une transformation personnelle intense."
+        }
+      ]
+    },
+    {
+      "noms": ["Neptune", "Lune", "Uranus"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Inspiration Émotionnelle et Visionnaire",
+          "data": "Avec Neptune, la Lune, et Uranus en Sagittaire, ce stellium favorise une inspiration émotionnelle originale et visionnaire. Les émotions sont enrichies par une intuition profonde et des perspectives novatrices."
+        },
+        {
+          "nom": "Créativité Intuitive",
+          "data": "Ce stellium indique une capacité à exprimer des idées créatives de manière intuitive et non conventionnelle, influencée par des perceptions profondes et une imagination fertile."
+        }
+      ]
+    },
+    {
+      "noms": ["Neptune", "Lune", "Pluton"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Inspiration Émotionnelle Profonde",
+          "data": "Avec Neptune, la Lune, et Pluton en Sagittaire, ce stellium favorise une inspiration émotionnelle profonde et transformante. Les expériences spirituelles sont marquées par une intensité émotionnelle et une capacité à provoquer des changements significatifs."
+        },
+        {
+          "nom": "Vision Transformative",
+          "data": "Ce stellium indique une capacité à voir et à comprendre les aspects les plus profonds de la réalité, influencée par une exploration spirituelle et une transformation personnelle intense."
+        }
+      ]
+    },
+    {
+      "noms": ["Neptune", "Uranus", "Pluton"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Inspiration Profonde et Révolutionnaire",
+          "data": "Avec Neptune, Uranus, et Pluton en Sagittaire, ce stellium favorise une inspiration profonde et révolutionnaire. Les visions spirituelles sont marquées par une capacité à explorer des idées avant-gardistes et à provoquer des transformations intenses."
+        },
+        {
+          "nom": "Vision Transformatrice",
+          "data": "Ce stellium indique une aptitude à percevoir des vérités profondes et à expérimenter des changements importants à travers une exploration spirituelle et une créativité innovante."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Lune", "Uranus"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Expansion Émotionnelle Innovante",
+          "data": "Avec Jupiter, la Lune, et Uranus en Sagittaire, ce stellium favorise une expansion émotionnelle marquée par une approche innovante et originale. Les émotions sont enrichies par une perspective avant-gardiste et une curiosité intellectuelle."
+        },
+        {
+          "nom": "Créativité Émotionnelle",
+          "data": "Ce stellium indique une tendance à exprimer les sentiments de manière créative et non conventionnelle, influencée par une capacité à explorer des idées nouvelles et des expériences émotionnelles uniques."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Uranus", "Pluton"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Expansion Révolutionnaire Profonde",
+          "data": "Avec Jupiter, Uranus, et Pluton en Sagittaire, ce stellium favorise une expansion profonde et révolutionnaire. Les visions personnelles sont marquées par une capacité à provoquer des changements intenses et à embrasser des idées avant-gardistes."
+        },
+        {
+          "nom": "Transformation Visionnaire",
+          "data": "Ce stellium indique une aptitude à voir au-delà des limites conventionnelles, avec une approche transformatrice des croyances et une vision innovante des opportunités et des défis."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Lune", "Pluton"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Expansion Émotionnelle Profonde",
+          "data": "Avec Jupiter, la Lune, et Pluton en Sagittaire, ce stellium favorise une expansion émotionnelle profonde et transformative. Les expériences émotionnelles sont amplifiées par une capacité à explorer les aspects les plus intenses et profonds de la vie."
+        },
+        {
+          "nom": "Transformation Spirituelle",
+          "data": "Ce stellium indique une tendance à vivre des transformations spirituelles majeures, enrichies par une perspective optimiste et une quête de compréhension plus profonde des vérités intérieures."
+        }
+      ]
+    },
+    {
+      "noms": ["Uranus", "Lune", "Pluton"],
+      "signe": "Sagittaire",
+      "data": [
+        {
+          "nom": "Transformation Émotionnelle et Révolutionnaire",
+          "data": "Avec Uranus, la Lune, et Pluton en Sagittaire, ce stellium favorise une transformation émotionnelle profonde et révolutionnaire. Les émotions sont influencées par des changements intenses et des perspectives innovantes, entraînant des bouleversements significatifs dans la façon dont vous ressentez et exprimez vos sentiments."
+        },
+        {
+          "nom": "Vision Intuitive",
+          "data": "Ce stellium indique une capacité à percevoir des vérités profondes et des insights puissants, enrichis par une intuition forte et une compréhension des dynamiques sous-jacentes des situations et des relations."
+        }
+      ]
     }
   ]
 }
