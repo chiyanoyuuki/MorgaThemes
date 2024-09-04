@@ -136,7 +136,7 @@ img{
 
 .data{
     position:relative;
-    padding:2vw;
+    padding:1vw;
     width: 18vw;
     min-width: 18vw;
     margin: 1vw;
@@ -151,7 +151,7 @@ p{
     text-shadow: 2px 2px 2px black;
 }
 .contenu .title{
-    padding:2vh 0vh;
+    padding:1vh 0vh;
 }
 .lastdata{
     margin-right:10vw!important;
@@ -280,6 +280,22 @@ button:hover{
     color: var(--purple4) !important;
     text-decoration: underline;
 }
+.onglets{
+    justify-content: unset!important;
+    margin:unset !important;
+    margin-left: 2vw !important;
+    position: absolute;
+    top:-10px;
+}
+.onglets div{
+    position: relative;
+    padding: 20px 3vw;
+    margin-right: 2vw;
+    height: fit-content;
+}
+.onglets .clicked{
+    padding-top: 40px;
+}
 .textes{
     height:100%;
     width:65vw;
@@ -302,7 +318,12 @@ button:hover{
 .desc{
     position:relative;
     padding: 2vh;
-  margin: 2vh 10vw;
+    padding-top:0;
+  margin: 1vh 1vw;
+  margin-top: 100px;
+}
+.menu2{
+    margin-top: 100px!important;
 }
 .star{
     width: 2.4vw;
@@ -324,7 +345,7 @@ button:hover{
 }
 .center .arrow{
     position: absolute;
-  top: 55px;
+  top: 30px;
   left: -60px;
 }
 .center .arroww{

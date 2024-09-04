@@ -35,10 +35,10 @@ interface AstrologicalChart {
         transform: 'translateX(-150%) translateY(50%) rotate(-100deg)'
       })),
       transition('start => end', [
-        animate('250s linear')
+        animate('300s ease-out')
       ]),
       transition('end => start', [
-        animate('250s linear')
+        animate('300s ease-out')
       ])
     ])
   ]
@@ -66,6 +66,8 @@ export class AppComponent implements OnInit
   type:any;
   desc: any;
   aspects: any;
+  onglets = ["Accueil","Domaines","Général"];
+  onglet = this.onglets[0];
   
   menu = ["Hémisphère Nord/Sud", "Hémisphère Est/Ouest", "Modalités"];
   clicked2:any = this.menu[0];
@@ -88,8 +90,8 @@ export class AppComponent implements OnInit
   
   ngOnInit(): void 
   {
-    this.startInterval(1000,"end");
-    //Scorpion, Balance, Taureau, Capricorne, Bélier, Sagittaire
+    this.startInterval(100,"end");
+    //Scorpion, Balance, Taureau, Capricorne, Bélier, Gémeaux, Sagittaire, 
     /*this.infos.stelliums.forEach((a:any)=>{
       let b = this.infos.stelliums.filter((c:any)=>c.noms.includes(a.noms[0])&&c.noms.includes(a.noms[1])&&c.noms.includes(a.noms[2])&&c.signe==a.signe);
       if(b.length>1)console.log(b);
@@ -113,7 +115,7 @@ export class AppComponent implements OnInit
     this.interval = setInterval(() => {
       this.moveAndRotate = s;
       clearInterval(this.interval);
-      this.startInterval(250000,s=="start"?"end":"start");
+      this.startInterval(300000,s=="start"?"end":"start");
     },i);
   }
 
@@ -640,11 +642,9 @@ processFileContent(): void {
       objet.classList.add("active");
   }
 
-  clickAccueil()
+  clickOnglet(onglet:any)
   {
-    this.types = [];
-    this.desc = undefined;
-    this.focus = [];
+    this.onglet = onglet;
   }
 
   getFocus()
@@ -671,6 +671,7 @@ processFileContent(): void {
 
   click(s:string)
   {
+    if(this.onglet=="Accueil")this.onglet="Général";
     this.focus = [];
     this.clicked = s;
     this.desc = this.infos.desc.find((d:any)=>d.nom == s).infos;
