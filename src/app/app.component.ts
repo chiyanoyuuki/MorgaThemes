@@ -671,7 +671,7 @@ processFileContent(): void {
 
   click(s:string)
   {
-    if(this.onglet=="Accueil")this.onglet="Général";
+    this.onglet="Général";
     this.focus = [];
     this.clicked = s;
     this.desc = this.infos.desc.find((d:any)=>d.nom == s).infos;
