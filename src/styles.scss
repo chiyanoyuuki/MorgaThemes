@@ -54,6 +54,7 @@ html{
   box-shadow: 5px 0px 20px black;
 }
 .right{
+    position:relative;
     padding:1vw;
     display: flex;
   flex-direction: column;
@@ -324,6 +325,21 @@ button:hover{
 }
 .menu2{
     margin-top: 100px!important;
+}
+.domaines{
+    margin: 0vh 2vw;
+    margin-top: 100px!important;
+    overflow-y: auto;
+    position: relative;
+    height: 85%;
+    min-height: 85%;
+    scrollbar-color: var(--purple3) var(--purple1);
+  scrollbar-width: thin;
+}
+.domaine{
+    padding: 2vh 4vw;
+    position:relative;
+    margin: 5vh 2vw 5vh 0vw;
 }
 .star{
     width: 2.4vw;

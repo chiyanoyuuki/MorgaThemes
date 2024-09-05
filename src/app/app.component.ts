@@ -68,6 +68,7 @@ export class AppComponent implements OnInit
   aspects: any;
   onglets = ["Accueil","Domaines","Général"];
   onglet = this.onglets[0];
+  domaines:any;
   
   menu = ["Hémisphère Nord/Sud", "Hémisphère Est/Ouest", "Modalités"];
   clicked2:any = this.menu[0];
@@ -90,24 +91,31 @@ export class AppComponent implements OnInit
   
   ngOnInit(): void 
   {
-    this.startInterval(100,"end");
-    //Scorpion, Balance, Taureau, Capricorne, Bélier, Gémeaux, Sagittaire, 
-    /*this.infos.stelliums.forEach((a:any)=>{
+    /*this.startInterval(100,"end");
+    let lion = this.infos.stelliums.filter((s:any)=>s.signe=="Lion");
+    let taureau = this.infos.stelliums.filter((s:any)=>s.signe=="Taureau");
+    let miss:any = [];
+
+    taureau.forEach((t:any)=>{
+      if(lion.find((l:any)=>l.noms.includes(t.noms[0])&&l.noms.includes(t.noms[1])&&l.noms.includes(t.noms[2]))==undefined)
+        miss.push(t.noms);
+    })
+    
+    miss.forEach((m:any)=>console.log(m[0]+" "+m[1]+" "+m[2]));*/
+
+    //9
+    //Scorpion, Balance, Taureau, Capricorne, Bélier, Gémeaux, Sagittaire, Poissons, Lion
+    this.infos.stelliums.forEach((a:any)=>{
       let b = this.infos.stelliums.filter((c:any)=>c.noms.includes(a.noms[0])&&c.noms.includes(a.noms[1])&&c.noms.includes(a.noms[2])&&c.signe==a.signe);
       if(b.length>1)console.log(b);
     });
     this.planetes.forEach((p:any)=>{
-      let nb = this.infos.stelliums.filter((s:any)=>s.noms.includes(p)&&s.signe=="Sagittaire").length;
+      let nb = this.infos.stelliums.filter((s:any)=>s.noms.includes(p)&&s.signe=="Lion").length;
       console.log(p,nb)
     });
-   /*
-    this.planetes.forEach((p:any)=>{
-      let s = this.infos.stelliums.filter((s:any)=>s.signe=="Taureau"&&s.noms.includes("Mercure"));
-      console.log(p,s.filter((a:any)=>a.noms.includes(p)).length);
-    })*/
-    
+   /*    
     //this.readFile();
-    //this.readSigneGpt();
+    //this.readSigneGpt();*/
   }
 
   startInterval(i:any, s:any)
@@ -233,6 +241,7 @@ processFileContent(): void {
 
   format()
   {
+    this.domaines = {sante:[], amour:[], travail:[]};
     this.general = {};
     this.data = [];
 
@@ -371,6 +380,18 @@ processFileContent(): void {
     elements.yin = elements.terre+elements.eau;
     this.general.yang = this.infos.general.find((g:any)=>g.yang==elements.yang&&g.yin==elements.yin);
 
+    //domaines
+    //Sante
+    //Amour
+    let lune = this.getPlaneteFromDataByName("Lune");
+    console.log(lune);
+    let infos = this.infos.domaines.find((d:any)=>d.domaine=="Amour"&&d.planete=="Lune"&&d.signe==lune.signe);
+    console.log(infos);
+    this.domaines.amour.push(infos.data);
+    infos = this.infos.domaines.find((d:any)=>d.domaine=="Amour"&&d.planete=="Lune"&&d.maison==lune.maison);
+    console.log(infos);
+    this.domaines.amour.push(infos.data);
+    //Travail
     this.init(!this.informations);
   }
 

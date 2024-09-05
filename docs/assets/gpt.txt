@@ -77,3 +77,178 @@ meme chose en enlevant Jupiter de la liste
 meme chose en enlevant Lune de la liste
 meme chose en enlevant Uranus de la liste
 meme chose en enlevant Pluton de la liste
+
+
+Donne moi des informations en 1 gros paragraphe détaillé dans le domaine de l'amour sur la lune placé dans chaque signe astrologique dans un thème astral
+au format JSON suivant :
+{
+   "planete":"Lune"
+   "signe":"Nom du signe",
+   "data":"Informations"
+}
+
+
+
+
+Dans un thème astral, donne moi des informations sur les stelliums en lion suivants :
+Jupiter Lune Mars 
+Jupiter Lune Mercure 
+Jupiter Lune Neptune 
+Jupiter Lune Pluton 
+Jupiter Lune Saturne 
+Jupiter Lune Soleil 
+Jupiter Lune Uranus 
+Au format JSON suivant :
+{
+    "noms":[ "1ere planète", "2ème planète","3ème planète"],
+    "signe":"Signe astrologique", 
+    "data":[
+        {"nom":"Titre qui résume les informations","data":"Informations"},
+        {"nom":"Titre qui résume les informations","data":"Informations"}
+    ]
+}
+
+Continue avec les stelliums suivants :
+Jupiter Lune Vénus 
+Jupiter Mars Mercure 
+Jupiter Mars Neptune 
+Jupiter Mars Pluton 
+Jupiter Mars Saturne 
+Jupiter Mars Soleil 
+Jupiter Mars Uranus 
+
+Continue avec les stelliums suivants :
+Jupiter Mars Vénus 
+Jupiter Mercure Neptune 
+Jupiter Mercure Pluton 
+Jupiter Mercure Saturne 
+Jupiter Mercure Soleil 
+Jupiter Mercure Uranus 
+Jupiter Mercure Vénus 
+
+Continue avec les stelliums suivants :
+Jupiter Neptune Pluton 
+Jupiter Neptune Saturne 
+Jupiter Neptune Soleil 
+Jupiter Neptune Uranus 
+Jupiter Neptune Vénus 
+Jupiter Pluton Saturne 
+Jupiter Pluton Soleil 
+
+Continue avec les stelliums suivants :
+Jupiter Pluton Uranus 
+Jupiter Pluton Vénus 
+Jupiter Saturne Soleil 
+Jupiter Saturne Uranus 
+Jupiter Saturne Vénus 
+Jupiter Soleil Uranus 
+Jupiter Soleil Vénus 
+
+Continue avec les stelliums suivants :
+Jupiter Uranus Vénus 
+Lune Mars Mercure 
+Lune Mars Neptune 
+Lune Mars Pluton 
+Lune Mars Saturne 
+Lune Mars Soleil 
+Lune Mars Uranus 
+
+Continue avec les stelliums suivants :
+Lune Mars Vénus 
+Lune Mercure Neptune 
+Lune Mercure Pluton 
+Lune Mercure Saturne 
+Lune Mercure Soleil 
+Lune Mercure Uranus 
+Lune Mercure Vénus 
+
+Continue avec les stelliums suivants :
+Lune Neptune Pluton 
+Lune Neptune Saturne 
+Lune Neptune Soleil 
+Lune Neptune Uranus 
+Lune Neptune Vénus 
+Lune Pluton Saturne 
+Lune Pluton Soleil 
+
+Continue avec les stelliums suivants :
+Lune Pluton Uranus 
+Lune Pluton Vénus 
+Lune Saturne Soleil 
+Lune Saturne Uranus 
+Lune Saturne Vénus 
+Lune Soleil Uranus 
+Lune Soleil Vénus 
+
+Continue avec les stelliums suivants :
+Lune Uranus Vénus 
+Mars Mercure Neptune 
+Mars Mercure Pluton 
+Mars Mercure Saturne 
+Mars Mercure Soleil 
+Mars Mercure Uranus 
+Mars Mercure Vénus 
+
+Continue avec les stelliums suivants :
+Mars Neptune Pluton 
+Mars Neptune Saturne 
+Mars Neptune Soleil 
+Mars Neptune Uranus 
+Mars Neptune Vénus 
+Mars Pluton Saturne 
+Mars Pluton Soleil 
+
+Continue avec les stelliums suivants :
+Mars Pluton Uranus 
+Mars Pluton Vénus 
+Mars Saturne Soleil 
+Soleil Mercure Vénus 
+Soleil Pluton Vénus 
+Soleil Saturne Mercure 
+Soleil Saturne Vénus 
+
+Continue avec les stelliums suivants :
+Soleil Saturne Neptune 
+Soleil Mars Vénus 
+Soleil Mercure Neptune 
+Soleil Vénus Neptune 
+Soleil Saturne Uranus 
+Soleil Saturne Pluton 
+Soleil Mars Uranus 
+
+Continue avec les stelliums suivants :
+Soleil Mercure Uranus 
+Soleil Mercure Pluton 
+Soleil Uranus Neptune 
+Soleil Uranus Pluton 
+Soleil Neptune Pluton 
+Soleil Vénus Uranus 
+Saturne Mars Vénus 
+
+Continue avec les stelliums suivants :
+Saturne Mars Uranus 
+Saturne Mercure Vénus 
+Saturne Mercure Neptune 
+Saturne Vénus Neptune 
+Saturne Uranus Neptune 
+Saturne Uranus Pluton 
+Saturne Pluton Neptune 
+
+Continue avec les stelliums suivants :
+Saturne Mercure Uranus 
+Saturne Mercure Pluton 
+Saturne Vénus Uranus 
+Saturne Vénus Pluton 
+Mars Uranus Vénus 
+Mercure Vénus Neptune 
+Mercure Vénus Uranus 
+
+Continue avec les stelliums suivants :
+Mercure Vénus Pluton 
+Mercure Neptune Uranus 
+Mercure Neptune Pluton 
+Mercure Uranus Pluton 
+Vénus Neptune Uranus 
+Vénus Neptune Pluton 
+Vénus Uranus Pluton 
+Neptune Uranus Pluton

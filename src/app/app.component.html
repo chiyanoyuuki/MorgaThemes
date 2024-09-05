@@ -69,13 +69,45 @@
     <div class="menu menu2" *ngIf="onglet=='Accueil'&&svgs">
       <p *ngFor="let m of menu" class="clickable" [class.clicked]="clicked2==m" (click)="clicked2=m">{{m}}</p>
     </div>
-
-    <div class="menu menu2" *ngIf="onglet=='Domaines'">
-      <p *ngIf="onglet=='Domaines'">Page en cours de construction..</p>
-    </div>
     
     <div class="menu" *ngIf="onglet=='Général'&&focus.length==0">
       <p *ngIf="onglet=='Général'">Sélectionnez une entité dans le thème astral..</p>
+    </div>
+
+    <div *ngIf="onglet=='Domaines'" class="domaines">
+      <div class="domaine">
+        <div class="flex titlestyle">
+          <img class="star" src="./assets/star.png">
+          <p class="title borderbot">Santé</p>
+          <img class="star" src="./assets/star.png">
+        </div>
+        <p *ngIf="domaines.sante.length==0">Pas de données..</p>
+        <p *ngFor="let data of domaines.sante">{{data}}</p>
+        
+        <img class="fondbloc" src="./assets/bloc.png"/>
+      </div>
+      <div *ngIf="domaines.amour.length>0" class="domaine">
+        <div class="flex titlestyle">
+          <img class="star" src="./assets/star.png">
+          <p class="title borderbot">Amour</p>
+          <img class="star" src="./assets/star.png">
+        </div>
+        <p *ngIf="domaines.amour.length==0">Pas de données..</p>
+        <p *ngFor="let data of domaines.amour">{{data}}</p>
+        
+        <img class="fondbloc" src="./assets/bloc.png"/>
+      </div>
+      <div class="domaine">
+        <div class="flex titlestyle">
+          <img class="star" src="./assets/star.png">
+          <p class="title borderbot">Travail</p>
+          <img class="star" src="./assets/star.png">
+        </div>
+        <p *ngIf="domaines.travail.length==0">Pas de données..</p>
+        <p *ngFor="let data of domaines.travail">{{data}}</p>
+        
+        <img class="fondbloc" src="./assets/bloc.png"/>
+      </div>
     </div>
 
     <div #textes class="textes">
