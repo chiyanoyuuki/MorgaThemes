@@ -29970,7 +29970,7 @@
       "data": [
         {
           "nom": "Orientation et équilibre de vie",
-          "data": "Avec toutes les planètes placées dans l'hémisphère ouest (maisons 4 à 9), la personne est fortement orientée vers les autres et la vie sociale. La maison 4 à 6 concerne la famille, le foyer et le développement personnel, tandis que les maisons 7 à 9 sont associées aux relations interpersonnelles, au partenariat et aux voyages."
+          "data": "Avec toutes les planètes placées dans l'hémisphère ouest (maisons 4 à 9), la personne est fortement orientée vers les autres et la vie sociale. La Maison IV à 6 concerne la famille, le foyer et le développement personnel, tandis que les maisons 7 à 9 sont associées aux relations interpersonnelles, au partenariat et aux voyages."
         },
         {
           "nom": "Focus sur les relations et le partenariat",
@@ -30016,7 +30016,7 @@
       "data": [
         {
           "nom": "Orientation et focus de vie",
-          "data": "La concentration des planètes dans l'hémisphère ouest (maisons 4 à 9) indique un fort focus sur les relations interpersonnelles, les partenariats, et les aspects sociaux de la vie. La maison 4 à 6 implique la famille et la vie domestique, tandis que les maisons 7 à 9 concernent les interactions, les voyages et la philosophie."
+          "data": "La concentration des planètes dans l'hémisphère ouest (maisons 4 à 9) indique un fort focus sur les relations interpersonnelles, les partenariats, et les aspects sociaux de la vie. La Maison IV à 6 implique la famille et la vie domestique, tandis que les maisons 7 à 9 concernent les interactions, les voyages et la philosophie."
         },
         {
           "nom": "Importance des relations et des engagements",
@@ -30548,73 +30548,733 @@
       "planete": "Lune",
       "domaine": "Amour",
       "maison": "Maison I",
-      "data": "Avec la Lune en Maison 1, les émotions et les besoins affectifs sont au premier plan de la personnalité. Ces individus cherchent une connexion émotionnelle immédiate dans leurs relations amoureuses. Ils sont sensibles et réactifs, et leur humeur peut changer rapidement. Dans le domaine de l'amour, ils recherchent des partenaires qui comprennent et respectent leur sensibilité émotionnelle. Leur besoin de sécurité émotionnelle est fort, et ils peuvent être très attachés à leurs proches. Leur approche de l'amour est intuitive, et ils peuvent être très empathiques et protecteurs envers leurs partenaires."
+      "data": "Avec la Lune en Maison I, les émotions et les besoins affectifs sont au premier plan de la personnalité. Ces individus cherchent une connexion émotionnelle immédiate dans leurs relations amoureuses. Ils sont sensibles et réactifs, et leur humeur peut changer rapidement. Dans le domaine de l'amour, ils recherchent des partenaires qui comprennent et respectent leur sensibilité émotionnelle. Leur besoin de sécurité émotionnelle est fort, et ils peuvent être très attachés à leurs proches. Leur approche de l'amour est intuitive, et ils peuvent être très empathiques et protecteurs envers leurs partenaires."
     },
     {
       "planete": "Lune",
       "domaine": "Amour",
       "maison": "Maison II",
-      "data": "La Lune en Maison 2 indique un besoin de sécurité émotionnelle lié à la stabilité matérielle. Ces individus trouvent du réconfort dans la sécurité financière et les possessions matérielles. Dans l'amour, ils recherchent des partenaires qui peuvent offrir une stabilité et une sécurité similaires. Leur affection peut être démontrée par des gestes pratiques et des cadeaux, et ils apprécient les relations où il y a une compréhension mutuelle des valeurs matérielles. Ils peuvent être possessifs et ont besoin de sentir que leur environnement est stable et sûr."
+      "data": "La Lune en Maison II indique un besoin de sécurité émotionnelle lié à la stabilité matérielle. Ces individus trouvent du réconfort dans la sécurité financière et les possessions matérielles. Dans l'amour, ils recherchent des partenaires qui peuvent offrir une stabilité et une sécurité similaires. Leur affection peut être démontrée par des gestes pratiques et des cadeaux, et ils apprécient les relations où il y a une compréhension mutuelle des valeurs matérielles. Ils peuvent être possessifs et ont besoin de sentir que leur environnement est stable et sûr."
     },
     {
       "planete": "Lune",
       "domaine": "Amour",
       "maison": "Maison III",
-      "data": "Avec la Lune en Maison 3, la communication émotionnelle est essentielle. Ces individus cherchent à établir des connexions intellectuelles et émotionnelles profondes avec leurs partenaires. Ils sont très sensibles aux mots et peuvent être facilement affectés par ce qui est dit. Dans l'amour, ils recherchent des partenaires avec lesquels ils peuvent partager des conversations significatives et profondes. Leur besoin de parler de leurs sentiments est fort, et ils apprécient les partenaires qui sont de bons auditeurs. Ils peuvent aussi être très attachés à leurs frères et sœurs et à leur communauté locale."
+      "data": "Avec la Lune en Maison III, la communication émotionnelle est essentielle. Ces individus cherchent à établir des connexions intellectuelles et émotionnelles profondes avec leurs partenaires. Ils sont très sensibles aux mots et peuvent être facilement affectés par ce qui est dit. Dans l'amour, ils recherchent des partenaires avec lesquels ils peuvent partager des conversations significatives et profondes. Leur besoin de parler de leurs sentiments est fort, et ils apprécient les partenaires qui sont de bons auditeurs. Ils peuvent aussi être très attachés à leurs frères et sœurs et à leur communauté locale."
     },
     {
       "planete": "Lune",
       "domaine": "Amour",
       "maison": "Maison IV",
-      "data": "La Lune en Maison 4 met l'accent sur le besoin de sécurité émotionnelle et domestique. Ces individus trouvent du réconfort dans leur foyer et leur famille. Dans le domaine de l'amour, ils recherchent des relations qui leur offrent un sentiment de sécurité et de stabilité domestique. Ils sont très attachés à leurs racines et peuvent être nostalgiques. Leur approche de l'amour est nourricière, et ils aiment créer un environnement chaleureux et accueillant pour leurs proches. Ils peuvent être protecteurs et très investis dans leur vie familiale."
+      "data": "La Lune en Maison IV met l'accent sur le besoin de sécurité émotionnelle et domestique. Ces individus trouvent du réconfort dans leur foyer et leur famille. Dans le domaine de l'amour, ils recherchent des relations qui leur offrent un sentiment de sécurité et de stabilité domestique. Ils sont très attachés à leurs racines et peuvent être nostalgiques. Leur approche de l'amour est nourricière, et ils aiment créer un environnement chaleureux et accueillant pour leurs proches. Ils peuvent être protecteurs et très investis dans leur vie familiale."
     },
     {
       "planete": "Lune",
       "domaine": "Amour",
       "maison": "Maison V",
-      "data": "Avec la Lune en Maison 5, les émotions sont étroitement liées à la créativité et au plaisir. Ces individus cherchent des relations amoureuses qui sont passionnées et amusantes. Ils aiment exprimer leur amour de manière créative et ludique. Dans l'amour, ils recherchent des partenaires qui partagent leur enthousiasme pour la vie et leur besoin de plaisir. Ils peuvent être très romantiques et aiment les démonstrations d'affection publiques. Leur amour est généreux, et ils cherchent à apporter de la joie et du bonheur à leurs partenaires."
+      "data": "Avec la Lune en Maison V, les émotions sont étroitement liées à la créativité et au plaisir. Ces individus cherchent des relations amoureuses qui sont passionnées et amusantes. Ils aiment exprimer leur amour de manière créative et ludique. Dans l'amour, ils recherchent des partenaires qui partagent leur enthousiasme pour la vie et leur besoin de plaisir. Ils peuvent être très romantiques et aiment les démonstrations d'affection publiques. Leur amour est généreux, et ils cherchent à apporter de la joie et du bonheur à leurs partenaires."
     },
     {
       "planete": "Lune",
       "domaine": "Amour",
       "maison": "Maison VI",
-      "data": "La Lune en Maison 6 indique un besoin émotionnel de service et de routine. Ces individus trouvent du réconfort dans les tâches quotidiennes et le service aux autres. Dans le domaine de l'amour, ils recherchent des relations où ils peuvent être utiles et où il y a un sentiment de routine et de stabilité. Ils montrent leur affection par des actes de service et de soin. Leur besoin de se sentir nécessaires et d'aider leurs partenaires est fort. Ils apprécient les partenaires qui respectent leur besoin de structure et de routine dans leur vie quotidienne."
+      "data": "La Lune en Maison VI indique un besoin émotionnel de service et de routine. Ces individus trouvent du réconfort dans les tâches quotidiennes et le service aux autres. Dans le domaine de l'amour, ils recherchent des relations où ils peuvent être utiles et où il y a un sentiment de routine et de stabilité. Ils montrent leur affection par des actes de service et de soin. Leur besoin de se sentir nécessaires et d'aider leurs partenaires est fort. Ils apprécient les partenaires qui respectent leur besoin de structure et de routine dans leur vie quotidienne."
     },
     {
       "planete": "Lune",
       "domaine": "Amour",
       "maison": "Maison VII",
-      "data": "Avec la Lune en Maison 7, les relations et les partenariats sont essentiels pour le bien-être émotionnel. Ces individus trouvent du réconfort et de la sécurité dans leurs relations amoureuses. Ils recherchent des partenaires qui peuvent offrir un soutien émotionnel et une connexion profonde. Leur besoin de compagnonnage est fort, et ils peuvent être très sensibles aux dynamiques relationnelles. Dans l'amour, ils cherchent à établir des partenariats équilibrés et harmonieux. Leur approche de l'amour est basée sur la coopération et l'équité, et ils valorisent les relations où il y a une réciprocité émotionnelle."
+      "data": "Avec la Lune en Maison VII, les relations et les partenariats sont essentiels pour le bien-être émotionnel. Ces individus trouvent du réconfort et de la sécurité dans leurs relations amoureuses. Ils recherchent des partenaires qui peuvent offrir un soutien émotionnel et une connexion profonde. Leur besoin de compagnonnage est fort, et ils peuvent être très sensibles aux dynamiques relationnelles. Dans l'amour, ils cherchent à établir des partenariats équilibrés et harmonieux. Leur approche de l'amour est basée sur la coopération et l'équité, et ils valorisent les relations où il y a une réciprocité émotionnelle."
     },
     {
       "planete": "Lune",
       "domaine": "Amour",
       "maison": "Maison VIII",
-      "data": "La Lune en Maison 8 indique des émotions profondes et intenses. Ces individus sont attirés par des relations qui offrent une transformation émotionnelle et psychologique. Dans l'amour, ils recherchent des connexions profondes et significatives, souvent empreintes de mystère et d'intensité. Ils peuvent être très passionnés et parfois possessifs. Leur besoin de fusion émotionnelle est fort, et ils peuvent être attirés par des partenaires qui partagent leur intensité. Ils peuvent également avoir une forte intuition et une capacité à comprendre les motivations profondes de leurs partenaires."
+      "data": "La Lune en Maison VIII indique des émotions profondes et intenses. Ces individus sont attirés par des relations qui offrent une transformation émotionnelle et psychologique. Dans l'amour, ils recherchent des connexions profondes et significatives, souvent empreintes de mystère et d'intensité. Ils peuvent être très passionnés et parfois possessifs. Leur besoin de fusion émotionnelle est fort, et ils peuvent être attirés par des partenaires qui partagent leur intensité. Ils peuvent également avoir une forte intuition et une capacité à comprendre les motivations profondes de leurs partenaires."
     },
     {
       "planete": "Lune",
       "domaine": "Amour",
       "maison": "Maison IX",
-      "data": "Avec la Lune en Maison 9, les émotions sont liées aux idéaux et aux croyances. Ces individus recherchent des relations qui élargissent leurs horizons intellectuels et spirituels. Dans le domaine de l'amour, ils sont attirés par des partenaires qui partagent leur soif de connaissance et d'aventure. Ils peuvent être très philosophiques et chercher des connexions qui transcendent le quotidien. Leur besoin de liberté et d'exploration est fort, et ils apprécient les relations qui leur permettent de grandir et d'apprendre. Leur approche de l'amour est optimiste et expansive."
+      "data": "Avec la Lune en Maison IX, les émotions sont liées aux idéaux et aux croyances. Ces individus recherchent des relations qui élargissent leurs horizons intellectuels et spirituels. Dans le domaine de l'amour, ils sont attirés par des partenaires qui partagent leur soif de connaissance et d'aventure. Ils peuvent être très philosophiques et chercher des connexions qui transcendent le quotidien. Leur besoin de liberté et d'exploration est fort, et ils apprécient les relations qui leur permettent de grandir et d'apprendre. Leur approche de l'amour est optimiste et expansive."
     },
     {
       "planete": "Lune",
       "domaine": "Amour",
       "maison": "Maison X",
-      "data": "La Lune en Maison 10 met l'accent sur la carrière et la réputation publique. Ces individus trouvent du réconfort dans leurs réalisations professionnelles et dans le respect de la société. Dans l'amour, ils recherchent des partenaires qui soutiennent leurs ambitions et qui partagent leur dévouement au travail. Ils peuvent être très responsables et prendre leur rôle dans la relation très au sérieux. Leur besoin de reconnaissance et de succès peut se manifester dans leurs relations amoureuses, et ils cherchent des partenaires qui comprennent et respectent leurs aspirations professionnelles."
+      "data": "La Lune en Maison I0 met l'accent sur la carrière et la réputation publique. Ces individus trouvent du réconfort dans leurs réalisations professionnelles et dans le respect de la société. Dans l'amour, ils recherchent des partenaires qui soutiennent leurs ambitions et qui partagent leur dévouement au travail. Ils peuvent être très responsables et prendre leur rôle dans la relation très au sérieux. Leur besoin de reconnaissance et de succès peut se manifester dans leurs relations amoureuses, et ils cherchent des partenaires qui comprennent et respectent leurs aspirations professionnelles."
     },
     {
       "planete": "Lune",
       "domaine": "Amour",
       "maison": "Maison XI",
-      "data": "Avec la Lune en Maison 11, les émotions sont étroitement liées aux amitiés et aux aspirations collectives. Ces individus trouvent du réconfort dans les groupes et les activités sociales. Dans l'amour, ils recherchent des partenaires qui partagent leurs idéaux et leurs aspirations pour un avenir meilleur. Ils peuvent être très attachés à leurs amis et apprécier les relations qui commencent par une amitié profonde. Leur approche de l'amour est progressive et ouverte, et ils valorisent la liberté et l'indépendance dans leurs relations. Ils cherchent des partenaires qui respectent leur besoin de socialisation et de connexion communautaire."
+      "data": "Avec la Lune en Maison I1, les émotions sont étroitement liées aux amitiés et aux aspirations collectives. Ces individus trouvent du réconfort dans les groupes et les activités sociales. Dans l'amour, ils recherchent des partenaires qui partagent leurs idéaux et leurs aspirations pour un avenir meilleur. Ils peuvent être très attachés à leurs amis et apprécier les relations qui commencent par une amitié profonde. Leur approche de l'amour est progressive et ouverte, et ils valorisent la liberté et l'indépendance dans leurs relations. Ils cherchent des partenaires qui respectent leur besoin de socialisation et de connexion communautaire."
     },
     {
       "planete": "Lune",
       "domaine": "Amour",
       "maison": "Maison XII",
-      "data": "La Lune en Maison 12 indique une profondeur émotionnelle et une sensibilité cachée. Ces individus peuvent être très introspectifs et avoir un riche monde intérieur. Dans le domaine de l'amour, ils recherchent des connexions spirituelles et émotionnelles profondes. Ils peuvent être attirés par des relations secrètes ou privées. Leur besoin de solitude et de réflexion est fort, et ils peuvent parfois se sentir isolés ou incompris. Leur approche de l'amour est sacrifiée et compatissante, et ils cherchent des partenaires qui comprennent et respectent leur besoin de temps seul et de connexion spirituelle."
+      "data": "La Lune en Maison I2 indique une profondeur émotionnelle et une sensibilité cachée. Ces individus peuvent être très introspectifs et avoir un riche monde intérieur. Dans le domaine de l'amour, ils recherchent des connexions spirituelles et émotionnelles profondes. Ils peuvent être attirés par des relations secrètes ou privées. Leur besoin de solitude et de réflexion est fort, et ils peuvent parfois se sentir isolés ou incompris. Leur approche de l'amour est sacrifiée et compatissante, et ils cherchent des partenaires qui comprennent et respectent leur besoin de temps seul et de connexion spirituelle."
+    },
+    {
+      "planete": "Mars",
+      "domaine": "Amour",
+      "signe": "Bélier",
+      "data": "Avec Mars en Bélier, l'amour est marqué par une passion intense et une approche directe. Les personnes avec cette position n'hésitent pas à prendre les devants et à exprimer leurs sentiments de manière claire et ardente. Leur énergie dynamique et leur enthousiasme peuvent parfois les amener à être impulsifs, mais leur sincérité et leur courage les rendent irrésistibles. Ils cherchent un partenaire qui peut suivre leur rythme rapide et partager leur désir de nouveauté et d'aventure."
+    },
+    {
+      "planete": "Mars",
+      "domaine": "Amour",
+      "signe": "Taureau",
+      "data": "Mars en Taureau apporte une approche plus stable et sensuelle de l'amour. Les individus avec cette position préfèrent la constance et la sécurité dans leurs relations, cherchant des partenaires qui peuvent leur offrir une base solide. Leur passion est exprimée de manière plus lente et plus réfléchie, mettant l'accent sur le plaisir physique et les expériences sensorielles. Ils sont souvent loyaux et déterminés, mais peuvent aussi être possessifs et résistants au changement."
+    },
+    {
+      "planete": "Mars",
+      "domaine": "Amour",
+      "signe": "Gémeaux",
+      "data": "Avec Mars en Gémeaux, l'amour est souvent dynamique et plein de variété. Les personnes ayant cette position ont un esprit curieux et une capacité à communiquer leurs désirs de manière vive et intelligente. Elles sont attirées par les conversations stimulantes et les expériences nouvelles. Leur approche de l'amour peut être ludique et changeante, avec une tendance à rechercher des partenaires qui peuvent les divertir et les engager mentalement. Elles doivent veiller à ne pas se disperser et à investir vraiment dans leurs relations."
+    },
+    {
+      "planete": "Mars",
+      "domaine": "Amour",
+      "signe": "Cancer",
+      "data": "Mars en Cancer donne une approche protectrice et émotionnelle de l'amour. Les individus avec cette position sont profondément attachés à leurs proches et expriment leur affection à travers des actions nourrissantes et protectrices. Leur passion est intimement liée à leurs sentiments, et ils recherchent des relations où ils se sentent en sécurité et compris. Ils peuvent être sensibles et réactifs, mais leur dévouement et leur capacité à créer un foyer chaleureux sont des atouts majeurs dans leurs relations amoureuses."
+    },
+    {
+      "planete": "Mars",
+      "domaine": "Amour",
+      "signe": "Lion",
+      "data": "Mars en Lion apporte une approche dramatique et charismatique à l'amour. Les personnes avec cette position cherchent à être admirées et valorisées par leurs partenaires. Leur passion est flamboyante et généreuse, et elles aiment être au centre de l'attention. Elles sont souvent créatives et enthousiastes dans leurs expressions d'amour, et recherchent des relations qui leur permettent d'explorer leur sens du spectacle et de la romance. Elles doivent cependant faire attention à ne pas être trop égocentriques ou autoritaires."
+    },
+    {
+      "planete": "Mars",
+      "domaine": "Amour",
+      "signe": "Vierge",
+      "data": "Avec Mars en Vierge, l'amour est abordé avec un sens pratique et une attention aux détails. Les individus avec cette position sont souvent analytiques et cherchent à améliorer et à optimiser leurs relations. Leur passion se manifeste par des gestes réfléchis et des efforts constants pour rendre leur partenaire heureux. Ils peuvent être réservés et prudents, préférant des relations stables et bien organisées. Leur dévouement et leur capacité à résoudre les problèmes sont des aspects précieux, mais ils doivent éviter de devenir trop critiques ou perfectionnistes."
+    },
+    {
+      "planete": "Mars",
+      "domaine": "Amour",
+      "signe": "Balance",
+      "data": "Mars en Balance influence l'amour par une quête d'équilibre et d'harmonie. Les personnes avec cette position sont attirées par des relations où le partenariat et la coopération sont essentiels. Leur approche est diplomatique et ils cherchent à créer des connexions harmonieuses et équitables. Ils peuvent être enclins à éviter les conflits et à chercher des compromis pour maintenir la paix dans leurs relations. Leur désir d'équilibre et de beauté peut les rendre charmants, mais ils doivent éviter de sacrifier leurs propres besoins pour ceux de leur partenaire."
+    },
+    {
+      "planete": "Mars",
+      "domaine": "Amour",
+      "signe": "Scorpion",
+      "data": "Mars en Scorpion confère une intensité émotionnelle et une profondeur puissante dans les relations amoureuses. Les individus avec cette position sont passionnés, mystérieux et capables de s'engager de manière totale dans leurs relations. Leur désir de connexion profonde et authentique les rend à la fois captivants et parfois un peu intimidants. Ils peuvent être extrêmement loyaux et dévoués, mais leur intensité peut aussi mener à des confrontations ou des défis si la confiance n'est pas bien établie. Ils recherchent des relations qui sont émotionnellement riches et profondément significatives."
+    },
+    {
+      "planete": "Mars",
+      "domaine": "Amour",
+      "signe": "Sagittaire",
+      "data": "Avec Mars en Sagittaire, l'amour est synonyme d'aventure et de liberté. Les personnes avec cette position sont enthousiastes et cherchent des partenaires qui partagent leur soif de nouvelles expériences et d'exploration. Leur approche est ouverte et optimiste, avec un désir constant de croissance et de découverte. Elles peuvent parfois sembler imprévisibles ou non engagées, mais leur énergie positive et leur joie de vivre attirent souvent des partenaires qui apprécient la spontanéité et l'exploration. Elles doivent veiller à ne pas éviter les engagements sérieux en faveur de la liberté."
+    },
+    {
+      "planete": "Mars",
+      "domaine": "Amour",
+      "signe": "Capricorne",
+      "data": "Mars en Capricorne apporte une approche sérieuse et déterminée à l'amour. Les individus avec cette position sont souvent orientés vers des relations stables et durables, avec une forte capacité à travailler sur les défis relationnels. Leur passion est manifeste à travers leur engagement et leur ambition, cherchant à construire des relations solides et structurées. Ils peuvent être réservés dans l'expression de leurs émotions, mais leur dévouement et leur sens des responsabilités sont des qualités précieuses. Ils doivent cependant faire attention à ne pas devenir trop rigides ou contrôlants."
+    },
+    {
+      "planete": "Mars",
+      "domaine": "Amour",
+      "signe": "Verseau",
+      "data": "Avec Mars en Verseau, l'amour est souvent teinté d'originalité et de liberté. Les personnes avec cette position sont attirées par des relations non conventionnelles et cherchent des partenaires qui respectent leur besoin d'indépendance et d'innovation. Leur approche est intellectuelle et ouverte, avec un intérêt pour les idées nouvelles et les expériences non traditionnelles. Elles peuvent parfois sembler détachées ou imprévisibles, mais leur capacité à apporter de la fraîcheur et de l'originalité dans les relations est un atout. Elles doivent éviter de se distancer émotionnellement ou d'éviter les engagements profonds."
+    },
+    {
+      "planete": "Mars",
+      "domaine": "Amour",
+      "signe": "Poissons",
+      "data": "Mars en Poissons influence l'amour par une approche rêveuse et empathique. Les individus avec cette position sont souvent sensibles et compatissants, cherchant des connexions profondes et spirituelles avec leurs partenaires. Leur passion se manifeste de manière subtile et intuitive, avec une forte capacité à comprendre et à répondre aux besoins émotionnels de leurs proches. Ils peuvent être très romantiques et idéalistes, mais doivent éviter de se perdre dans leurs rêves ou de se laisser submerger par les émotions. Leur capacité à apporter douceur et compréhension dans les relations est précieuse."
+    },
+    {
+      "planete": "Mars",
+      "domaine": "Amour",
+      "maison": "Maison I",
+      "data": "Mars en Maison I, la maison de l'identité personnelle, confère une approche dynamique et énergique à l'amour. Les individus avec cette position sont souvent très assertifs et directs dans leurs relations amoureuses. Leur passion est visible et leur besoin d'indépendance se manifeste clairement. Ils prennent les devants dans leurs relations et n'hésitent pas à exprimer leurs désirs et besoins. Cependant, cette énergie peut parfois mener à des conflits ou des comportements impulsifs. Ils recherchent des partenaires qui peuvent apprécier leur énergie et leur assurance tout en étant capables de suivre leur rythme rapide."
+    },
+    {
+      "planete": "Mars",
+      "domaine": "Amour",
+      "maison": "Maison II",
+      "data": "Mars en Maison II, la maison des valeurs et des ressources, influence l'amour à travers la recherche de sécurité matérielle et émotionnelle. Les individus avec cette position investissent de l'énergie dans la création de stabilité dans leurs relations. Ils peuvent avoir des désirs forts pour des relations qui apportent confort et sécurité. Leur passion se manifeste souvent par des efforts pour construire un avenir financier et émotionnel solide avec leur partenaire. Ils peuvent être protecteurs envers leurs possessions et leurs proches, mais doivent veiller à ne pas devenir trop possessifs ou matérialistes."
+    },
+    {
+      "planete": "Mars",
+      "domaine": "Amour",
+      "maison": "Maison III",
+      "data": "Mars en Maison III, la maison de la communication et des interactions quotidiennes, impacte l'amour par une approche vivante et communicative. Les individus avec cette position sont souvent animés par le besoin d'échanger des idées et des émotions avec leur partenaire. Leur passion se manifeste à travers des conversations stimulantes et une curiosité insatiable pour les pensées et les sentiments de leur partenaire. Ils recherchent des relations où la communication est fluide et où les deux partenaires sont engagés dans des discussions profondes. Cependant, ils doivent faire attention à ne pas se laisser emporter par des débats ou des discussions constantes."
+    },
+    {
+      "planete": "Mars",
+      "domaine": "Amour",
+      "maison": "Maison IV",
+      "data": "Mars en Maison IV, la maison de la famille et du foyer, influence l'amour par une approche protectrice et intense concernant la vie domestique. Les individus avec cette position investissent beaucoup d'énergie dans leur vie de famille et cherchent des relations qui offrent un sentiment de sécurité et de stabilité à la maison. Leur passion se manifeste à travers des actions qui visent à créer un environnement familial chaleureux et protecteur. Ils peuvent être très engagés dans leurs relations familiales, mais doivent veiller à ne pas laisser les conflits domestiques affecter leur vie amoureuse."
+    },
+    {
+      "planete": "Mars",
+      "domaine": "Amour",
+      "maison": "Maison V",
+      "data": "Mars en Maison V, la maison de la créativité, des loisirs et des amours, confère une approche ardente et enthousiaste à l'amour. Les individus avec cette position vivent l'amour avec une grande passion et un fort désir de romance et de plaisir. Ils sont attirés par des relations qui offrent excitation et divertissement. Leur énergie créative et leur flair dramatique peuvent rendre leurs relations très vivantes et intéressantes. Ils doivent cependant éviter de se laisser entraîner par des aventures passagères ou des jeux de séduction qui pourraient brouiller leurs véritables sentiments."
+    },
+    {
+      "planete": "Mars",
+      "domaine": "Amour",
+      "maison": "Maison VI",
+      "data": "Mars en Maison VI, la maison du travail et de la santé, impacte l'amour à travers une approche pratique et axée sur les détails. Les individus avec cette position cherchent à intégrer leur vie amoureuse dans leur routine quotidienne de manière fonctionnelle et harmonieuse. Leur passion se manifeste par des actions concrètes visant à améliorer leur bien-être et celui de leur partenaire. Ils peuvent être très dévoués et attentionnés, mais doivent faire attention à ne pas laisser leurs préoccupations liées au travail ou à la santé influencer négativement leur relation amoureuse."
+    },
+    {
+      "planete": "Mars",
+      "domaine": "Amour",
+      "maison": "Maison VII",
+      "data": "Mars en Maison VII, la maison des partenariats et des relations, influence l'amour par une approche dynamique et assertive dans les relations interpersonnelles. Les individus avec cette position sont très engagés dans leurs partenariats et cherchent à établir des relations équilibrées et justes. Leur passion se manifeste par une forte volonté de coopérer et de résoudre les conflits de manière proactive. Ils sont attirés par des partenaires qui peuvent les défier et les stimuler tout en étant capables de maintenir un équilibre dans la relation. Ils doivent cependant éviter de devenir trop dominants ou exigeants."
+    },
+    {
+      "planete": "Mars",
+      "domaine": "Amour",
+      "maison": "Maison VIII",
+      "data": "Mars en Maison VIII, la maison de la transformation et des ressources partagées, apporte une profondeur intense et une approche passionnée à l'amour. Les individus avec cette position recherchent des relations qui offrent une connexion émotionnelle et sexuelle profonde. Leur énergie est dirigée vers l'exploration des aspects les plus profonds et parfois tabous de l'amour et de la sexualité. Ils sont attirés par les dynamiques de pouvoir et les transformations personnelles dans leurs relations. Ils doivent veiller à ne pas se laisser emporter par des comportements possessifs ou manipulateurs."
+    },
+    {
+      "planete": "Mars",
+      "domaine": "Amour",
+      "maison": "Maison IX",
+      "data": "Mars en Maison IX, la maison des voyages et de la philosophie, influence l'amour par une approche aventurière et idéaliste. Les individus avec cette position sont attirés par des relations qui offrent une stimulation intellectuelle et des opportunités d'exploration et de croissance personnelle. Leur passion se manifeste à travers le désir de partager des expériences culturelles et spirituelles avec leur partenaire. Ils recherchent des relations qui élargissent leurs horizons et stimulent leur réflexion. Ils doivent cependant faire attention à ne pas se laisser emporter par des idéaux irréalistes ou à éviter les engagements à long terme."
+    },
+    {
+      "planete": "Mars",
+      "domaine": "Amour",
+      "maison": "Maison X",
+      "data": "Mars en Maison X, la maison de la carrière et de la réputation, impacte l'amour à travers une approche ambitieuse et déterminée. Les individus avec cette position cherchent des relations qui soutiennent leurs objectifs professionnels et leur image publique. Leur passion se manifeste par un engagement fort dans leurs relations, souvent en parallèle avec leurs aspirations professionnelles. Ils peuvent être perçus comme très sérieux ou exigeants, mais leur détermination et leur capacité à atteindre leurs objectifs sont des qualités précieuses. Ils doivent veiller à équilibrer leur vie professionnelle et personnelle pour éviter les tensions dans leur relation amoureuse."
+    },
+    {
+      "planete": "Mars",
+      "domaine": "Amour",
+      "maison": "Maison XI",
+      "data": "Mars en Maison XI, la maison des amitiés et des projets collectifs, influence l'amour par une approche sociale et orientée vers les objectifs communs. Les individus avec cette position sont attirés par des relations qui offrent un sens d'appartenance et de coopération. Leur passion se manifeste par un désir de partager des activités et des projets avec leur partenaire, souvent en lien avec des intérêts communs ou des causes sociales. Ils recherchent des relations qui favorisent l'égalité et la collaboration, mais doivent faire attention à ne pas se laisser emporter par des objectifs collectifs au détriment de leur vie amoureuse personnelle."
+    },
+    {
+      "planete": "Mars",
+      "domaine": "Amour",
+      "maison": "Maison XII",
+      "data": "Mars en Maison XII, la maison des secrets et de l'inconscient, impacte l'amour par une approche plus subtile et introspective. Les individus avec cette position peuvent être attirés par des relations qui offrent une connexion spirituelle ou psychologique profonde. Leur passion est souvent cachée ou exprimée de manière indirecte, et ils peuvent éprouver des défis liés à la gestion de leurs désirs ou à l'expression de leurs sentiments. Ils recherchent des relations qui leur permettent de se connecter à un niveau profond et caché, mais doivent faire attention à ne pas se perdre dans des fantasmes ou des illusions."
+    },
+    {
+      "planete": "Vénus",
+      "domaine": "Amour",
+      "maison": "Maison I",
+      "data": "Vénus en Maison I, la maison de l'identité personnelle, confère une approche charmante et séduisante à l'amour. Les individus avec cette position attirent naturellement l'attention et ont une manière gracieuse d'aborder les relations amoureuses. Leur apparence et leur personnalité sont souvent perçues comme attrayantes, et ils sont capables de séduire avec leur charme et leur gentillesse. Ils cherchent des relations où ils se sentent appréciés et valorisés, et ils peuvent être très concernés par l'image qu'ils projettent dans leurs interactions amoureuses. Leur approche est souvent chaleureuse et aimante, ce qui rend leurs relations harmonieuses et agréables."
+    },
+    {
+      "planete": "Vénus",
+      "domaine": "Amour",
+      "maison": "Maison II",
+      "data": "Vénus en Maison II, la maison des valeurs et des possessions, influence l'amour à travers la recherche de confort et de sécurité matérielle. Les individus avec cette position apprécient les plaisirs matériels et les aspects sensoriels de la vie, et ils recherchent des partenaires qui peuvent offrir une certaine stabilité financière et émotionnelle. Leur passion se manifeste par des gestes de générosité et des efforts pour créer un environnement agréable et sécurisant. Ils peuvent être attirés par des personnes qui partagent leurs valeurs concernant la sécurité et le confort, et leur sens du raffinement et du bon goût se reflète dans leurs choix amoureux."
+    },
+    {
+      "planete": "Vénus",
+      "domaine": "Amour",
+      "maison": "Maison III",
+      "data": "Vénus en Maison III, la maison de la communication et des interactions quotidiennes, impacte l'amour par une approche communicative et intellectuelle. Les individus avec cette position sont attirés par les échanges d'idées et les discussions stimulantes avec leur partenaire. Leur charme se manifeste à travers des conversations engageantes et une curiosité pour les pensées et les sentiments de l'autre. Ils recherchent des relations où la communication est fluide et où ils peuvent partager leurs intérêts intellectuels. Leur capacité à exprimer leur affection verbalement est un atout majeur dans leurs relations amoureuses."
+    },
+    {
+      "planete": "Vénus",
+      "domaine": "Amour",
+      "maison": "Maison IV",
+      "data": "Vénus en Maison IV, la maison de la famille et du foyer, influence l'amour par une approche axée sur la création d'un foyer harmonieux et chaleureux. Les individus avec cette position cherchent des relations qui offrent une profonde connexion émotionnelle et un sentiment de sécurité domestique. Leur passion se manifeste par des gestes de soin et de dévouement envers leur famille et leur partenaire, cherchant à créer un environnement familial équilibré et accueillant. Ils peuvent être très attachés à leur maison et à leurs racines, et leur amour est souvent exprimé à travers des actions visant à nourrir et protéger ceux qu'ils aiment."
+    },
+    {
+      "planete": "Vénus",
+      "domaine": "Amour",
+      "maison": "Maison V",
+      "data": "Vénus en Maison V, la maison de la créativité, des loisirs et des amours, confère une approche joyeuse et romantique à l'amour. Les individus avec cette position sont attirés par les aspects ludiques et créatifs de la vie amoureuse. Leur passion se manifeste à travers des gestes romantiques, des activités créatives et un désir de plaisir et d'aventure. Ils recherchent des relations où ils peuvent exprimer leur créativité et vivre des moments heureux et spontanés avec leur partenaire. Leur capacité à apporter de la légèreté et du plaisir dans leurs relations rend leur vie amoureuse vibrante et enrichissante."
+    },
+    {
+      "planete": "Vénus",
+      "domaine": "Amour",
+      "maison": "Maison VI",
+      "data": "Vénus en Maison VI, la maison du travail et de la santé, influence l'amour à travers une approche pratique et attentive aux détails. Les individus avec cette position recherchent des relations qui intègrent une certaine routine et un équilibre entre les aspects pratiques de la vie quotidienne. Leur affection se manifeste par des gestes de soin et des efforts pour améliorer le bien-être de leur partenaire. Ils sont souvent attentifs aux besoins de leur partenaire et cherchent à construire une relation harmonieuse qui inclut une attention aux aspects de la santé et de l'organisation. Ils doivent cependant éviter de se concentrer excessivement sur les aspects pratiques au détriment de la romance."
+    },
+    {
+      "planete": "Vénus",
+      "domaine": "Amour",
+      "maison": "Maison VII",
+      "data": "Vénus en Maison VII, la maison des partenariats et des relations, confère une approche harmonieuse et équilibrée à l'amour. Les individus avec cette position recherchent des relations équilibrées et équitables, où la coopération et l'harmonie sont essentielles. Leur charme et leur diplomatie sont des atouts majeurs dans la formation de partenariats solides et agréables. Ils sont attirés par des partenaires qui peuvent les comprendre et avec lesquels ils peuvent établir des relations profondes et significatives. Leur capacité à créer une atmosphère de paix et de compréhension rend leurs relations amoureuses particulièrement enrichissantes."
+    },
+    {
+      "planete": "Vénus",
+      "domaine": "Amour",
+      "maison": "Maison VIII",
+      "data": "Vénus en Maison VIII, la maison de la transformation et des ressources partagées, influence l'amour par une recherche de profondeur et d'intensité émotionnelle. Les individus avec cette position sont attirés par des relations qui offrent une connexion intime et une transformation personnelle. Leur passion se manifeste à travers un désir de partager des ressources et des expériences profondes avec leur partenaire. Ils sont souvent captivés par les dynamiques de pouvoir et les aspects plus complexes de l'amour et de la sexualité. Ils doivent veiller à gérer les aspects de possession et de contrôle pour maintenir des relations équilibrées et harmonieuses."
+    },
+    {
+      "planete": "Vénus",
+      "domaine": "Amour",
+      "maison": "Maison IX",
+      "data": "Vénus en Maison IX, la maison des voyages et de la philosophie, impacte l'amour par une approche ouverte et aventureuse. Les individus avec cette position recherchent des relations qui offrent des opportunités d'expansion personnelle et de partage de visions du monde. Leur passion se manifeste par un désir de découvrir de nouvelles cultures et de partager des expériences enrichissantes avec leur partenaire. Ils sont attirés par des personnes qui ont des idées larges et qui peuvent les inspirer à explorer de nouveaux horizons. Leur approche de l'amour est souvent idéalisée, avec une recherche de sens et de croissance dans leurs relations."
+    },
+    {
+      "planete": "Vénus",
+      "domaine": "Amour",
+      "maison": "Maison X",
+      "data": "Vénus en Maison X, la maison de la carrière et de la réputation, influence l'amour à travers une approche professionnelle et ambitieuse. Les individus avec cette position recherchent des relations qui soutiennent leurs objectifs professionnels et leur image publique. Leur charme et leur sens de la diplomatie les aident à naviguer dans leurs relations amoureuses tout en poursuivant leurs aspirations de carrière. Ils peuvent être attirés par des partenaires qui partagent leurs ambitions ou qui peuvent les soutenir dans leurs objectifs. Leur capacité à équilibrer vie professionnelle et vie amoureuse est essentielle pour maintenir une relation épanouissante."
+    },
+    {
+      "planete": "Vénus",
+      "domaine": "Amour",
+      "maison": "Maison XI",
+      "data": "Vénus en Maison XI, la maison des amitiés et des projets collectifs, impacte l'amour par une approche sociale et collaborative. Les individus avec cette position recherchent des relations qui offrent un sens de communauté et de partage des intérêts communs. Leur charme se manifeste dans leur capacité à établir des connexions harmonieuses au sein de groupes sociaux et à créer des partenariats basés sur des objectifs communs. Ils sont attirés par des partenaires qui partagent leurs idéaux et leurs objectifs à long terme. Leur approche est souvent ouverte et inclusive, cherchant à construire des relations basées sur l'égalité et la coopération."
+    },
+    {
+      "planete": "Vénus",
+      "domaine": "Amour",
+      "maison": "Maison XII",
+      "data": "Vénus en Maison XII, la maison des secrets et de l'inconscient, influence l'amour par une approche plus subtile et introspective. Les individus avec cette position peuvent avoir une façon secrète ou cachée d’exprimer leur affection, souvent influencée par des émotions profondes ou des expériences passées. Leur passion se manifeste par un désir de connexion spirituelle ou psychologique avec leur partenaire. Ils peuvent rechercher des relations qui leur permettent d’explorer des aspects plus cachés ou mystiques de l’amour. Cependant, ils doivent faire attention à ne pas se perdre dans des fantasmes ou à éviter les réalités difficiles au lieu de les confronter."
+    },
+    {
+      "planete": "Vénus",
+      "domaine": "Amour",
+      "signe": "Bélier",
+      "data": "Avec Vénus en Bélier, l'amour est marqué par une approche audacieuse et passionnée. Les individus avec cette position sont attirés par des relations dynamiques et excitantes, et leur manière d'exprimer leur affection est directe et énergique. Ils recherchent des partenaires qui peuvent répondre à leur besoin de stimulation et d'aventure. Leur charme est souvent spontané et vibrant, et ils n'hésitent pas à prendre les devants pour séduire. Cependant, leur impulsivité peut parfois conduire à des conflits ou des décisions hâtives dans les relations. Ils doivent apprendre à équilibrer leur désir d'excitation avec la nécessité de construire des liens durables."
+    },
+    {
+      "planete": "Vénus",
+      "domaine": "Amour",
+      "signe": "Taureau",
+      "data": "Vénus en Taureau apporte une approche sensuelle et stable à l'amour. Les individus avec cette position recherchent des relations qui offrent confort et sécurité, et leur expression de l'affection est souvent profonde et pratique. Ils sont attirés par des partenaires qui partagent leurs valeurs en matière de stabilité et de sensualité. Leur charme est raffiné et apprécié pour sa constance et sa loyauté. Ils investissent dans leurs relations de manière tangible, en créant un environnement agréable et sécurisant. Cependant, ils doivent faire attention à ne pas devenir trop possessifs ou réticents au changement."
+    },
+    {
+      "planete": "Vénus",
+      "domaine": "Amour",
+      "signe": "Gémeaux",
+      "data": "Avec Vénus en Gémeaux, l'amour est marqué par une approche intellectuelle et communicative. Les individus avec cette position recherchent des relations stimulantes qui offrent des échanges d'idées et de curiosités partagées. Leur charme est souvent vif et varié, et ils sont attirés par des partenaires qui peuvent les engager mentalement et les divertir. Ils apprécient les conversations intéressantes et les aventures sociales avec leur partenaire. Cependant, leur besoin de nouveauté peut parfois les conduire à des engagements peu profonds ou à une dispersion émotionnelle. Ils doivent apprendre à équilibrer leur désir de diversité avec la construction de relations plus profondes."
+    },
+    {
+      "planete": "Vénus",
+      "domaine": "Amour",
+      "signe": "Cancer",
+      "data": "Vénus en Cancer influence l'amour par une approche émotionnelle et protectrice. Les individus avec cette position recherchent des relations où ils se sentent en sécurité et nourris sur le plan émotionnel. Leur charme se manifeste par des gestes affectueux et attentionnés, et ils investissent beaucoup dans le bien-être et le confort de leur partenaire. Ils sont souvent très loyaux et capables de créer un foyer chaleureux et sécurisé. Cependant, leur tendance à être sensibles et réactifs peut parfois entraîner des conflits ou des vulnérabilités dans les relations. Ils doivent trouver un équilibre entre leur désir de sécurité émotionnelle et l'ouverture à la confiance et à la communication."
+    },
+    {
+      "planete": "Vénus",
+      "domaine": "Amour",
+      "signe": "Lion",
+      "data": "Avec Vénus en Lion, l'amour est marqué par une approche dramatique et généreuse. Les individus avec cette position recherchent des relations qui leur permettent d'exprimer leur créativité et de briller au centre de l'attention. Leur charme est flamboyant et magnétique, et ils sont attirés par des partenaires qui les admirent et les valorisent. Ils investissent dans leurs relations avec enthousiasme et passion, apportant des éléments de romance et de spectacle. Cependant, leur besoin de reconnaissance peut parfois les amener à chercher des validations externes ou à être dominants. Ils doivent apprendre à équilibrer leur désir de grandeur avec les besoins et les sentiments de leur partenaire."
+    },
+    {
+      "planete": "Vénus",
+      "domaine": "Amour",
+      "signe": "Vierge",
+      "data": "Vénus en Vierge apporte une approche pratique et discrète à l'amour. Les individus avec cette position recherchent des relations basées sur le respect et la confiance, et ils expriment leur affection à travers des gestes attentifs et des actions concrètes. Leur charme est subtil et leur souci du détail les rend souvent très attentifs aux besoins de leur partenaire. Ils investissent dans leurs relations de manière réfléchie, en cherchant à améliorer et à optimiser leur vie amoureuse. Cependant, leur tendance à être perfectionnistes ou critiques peut parfois créer des tensions ou des insatisfactions dans la relation. Ils doivent trouver un équilibre entre leurs attentes élevées et l'appréciation des qualités de leur partenaire."
+    },
+    {
+      "planete": "Vénus",
+      "domaine": "Amour",
+      "signe": "Balance",
+      "data": "Avec Vénus en Balance, l'amour est abordé avec une recherche d'harmonie et d'équilibre. Les individus avec cette position recherchent des relations où la coopération et l'équité sont primordiales. Leur charme est diplomatique et raffiné, et ils sont attirés par des partenaires qui apprécient la beauté, l'élégance et la justice dans la relation. Ils cherchent à établir des connexions équilibrées et harmonieuses, souvent en évitant les conflits et en cherchant des compromis. Cependant, leur désir de maintenir la paix peut parfois les amener à éviter des discussions importantes ou à sacrifier leurs propres besoins pour ceux de leur partenaire. Ils doivent apprendre à défendre leurs propres intérêts tout en cultivant l'harmonie dans la relation."
+    },
+    {
+      "planete": "Vénus",
+      "domaine": "Amour",
+      "signe": "Scorpion",
+      "data": "Vénus en Scorpion confère une approche intense et profonde à l'amour. Les individus avec cette position recherchent des relations passionnées et transformatrices, avec une forte connexion émotionnelle et sexuelle. Leur charme est magnétique et mystérieux, attirant souvent des partenaires avec qui ils peuvent explorer des aspects plus profonds et parfois complexes de la relation. Ils investissent de manière totale et intense dans leurs relations, mais leur désir de profondeur peut parfois mener à des dynamiques de pouvoir ou de contrôle. Ils doivent apprendre à gérer les aspects de possession et de jalousie pour maintenir une relation équilibrée et saine."
+    },
+    {
+      "planete": "Vénus",
+      "domaine": "Amour",
+      "signe": "Sagittaire",
+      "data": "Avec Vénus en Sagittaire, l'amour est abordé avec une approche aventurière et optimiste. Les individus avec cette position recherchent des relations qui offrent liberté et expansion personnelle, et leur charme est souvent lié à leur sens de l'humour et à leur ouverture d'esprit. Ils sont attirés par des partenaires qui partagent leur passion pour l'aventure, les voyages et l'exploration intellectuelle. Leur approche est souvent enthousiaste et directe, et ils cherchent des relations où ils peuvent grandir et apprendre ensemble. Cependant, leur besoin de liberté et d'indépendance peut parfois rendre difficile l'engagement à long terme. Ils doivent apprendre à équilibrer leur désir d'aventure avec la stabilité et la profondeur dans leurs relations."
+    },
+    {
+      "planete": "Vénus",
+      "domaine": "Amour",
+      "signe": "Capricorne",
+      "data": "Vénus en Capricorne influence l'amour par une approche sérieuse et pragmatique. Les individus avec cette position recherchent des relations basées sur la stabilité, le respect et les objectifs à long terme. Leur charme est souvent discret et élégant, et ils investissent dans leurs relations avec une grande détermination et responsabilité. Ils cherchent des partenaires qui partagent leurs ambitions et leurs valeurs en matière de sécurité et de réussite. Cependant, leur approche peut parfois sembler trop centrée sur le matériel ou le pratique, ce qui peut rendre difficile l'expression de la romance et de la spontanéité. Ils doivent apprendre à équilibrer leur sérieux avec des moments de légèreté et de connexion émotionnelle."
+    },
+    {
+      "planete": "Vénus",
+      "domaine": "Amour",
+      "signe": "Verseau",
+      "data": "Avec Vénus en Verseau, l'amour est abordé avec une approche innovante et indépendante. Les individus avec cette position recherchent des relations non conventionnelles et stimulantes, avec une forte appréciation pour l'originalité et la liberté personnelle. Leur charme est souvent intellectuel et unique, et ils sont attirés par des partenaires qui respectent leur besoin d'espace et d'indépendance tout en partageant des idées progressistes. Ils cherchent des relations qui offrent une stimulation mentale et une ouverture à de nouvelles expériences. Cependant, leur besoin d'autonomie peut parfois rendre difficile l'engagement émotionnel profond. Ils doivent apprendre à équilibrer leur désir d'innovation avec la construction de liens affectifs solides."
+    },
+    {
+      "planete": "Vénus",
+      "domaine": "Amour",
+      "signe": "Poissons",
+      "data": "Vénus en Poissons influence l'amour par une approche rêveuse et empathique. Les individus avec cette position recherchent des relations profondes et spirituelles, avec une forte capacité à comprendre et à répondre aux besoins émotionnels de leur partenaire. Leur charme est souvent doux et compatissant, et ils investissent dans leurs relations avec une grande sensibilité et une imagination fertile. Ils sont attirés par des partenaires qui partagent leur vision romantique et leur désir de connexion profonde. Cependant, leur tendance à idéaliser ou à se perdre dans des rêves peut parfois rendre difficile la gestion des aspects pratiques de la relation. Ils doivent apprendre à maintenir un équilibre entre leur idéalisation de l'amour et les réalités de la relation."
+    },
+    {
+      "planete": "Junon",
+      "domaine": "Amour",
+      "maison": "Maison I",
+      "data": "Junon en Maison I influence l'amour en mettant l'accent sur l'identité personnelle et l'image que l'on projette dans les relations. Les individus avec cette position cherchent des partenaires qui reconnaissent et respectent leur véritable moi. Ils ont tendance à attirer des relations qui sont fortement liées à leur propre croissance personnelle et à leur manière de se présenter au monde. Leur approche des relations est souvent marquée par un besoin de validation et d'acceptation de leur authenticité. Ils peuvent également être très conscients de la manière dont leurs relations affectent leur image et leur auto-perception."
+    },
+    {
+      "planete": "Junon",
+      "domaine": "Amour",
+      "maison": "Maison II",
+      "data": "Junon en Maison II influence l'amour par la recherche de sécurité et de confort dans les relations. Les individus avec cette position sont attirés par des partenaires qui offrent une stabilité financière et émotionnelle. Ils apprécient les gestes d'affection qui impliquent des aspects tangibles de la vie, comme la sécurité matérielle et les plaisirs sensoriels. Leur façon de manifester l'amour est souvent liée à des actions concrètes qui montrent leur engagement à créer une base solide pour leur vie amoureuse. Ils peuvent être très sensibles à la manière dont les ressources sont partagées et gérées dans la relation."
+    },
+    {
+      "planete": "Junon",
+      "domaine": "Amour",
+      "maison": "Maison III",
+      "data": "Junon en Maison III impacte l'amour à travers la communication et les échanges d'idées. Les individus avec cette position recherchent des partenaires avec qui ils peuvent partager des conversations significatives et des intérêts communs. Ils sont attirés par des relations où la communication est fluide et où les discussions stimulantes sont présentes. Leur charme se manifeste souvent par une capacité à engager et à maintenir des dialogues ouverts et honnêtes avec leur partenaire. Les relations qui favorisent l'apprentissage mutuel et le partage intellectuel sont particulièrement épanouissantes pour eux."
+    },
+    {
+      "planete": "Junon",
+      "domaine": "Amour",
+      "maison": "Maison IV",
+      "data": "Junon en Maison IV influence l'amour par une recherche de confort et de sécurité émotionnelle dans la sphère domestique. Les individus avec cette position désirent créer un foyer harmonieux et stable avec leur partenaire. Ils sont attirés par des relations qui leur permettent de se sentir en sécurité et soutenus sur le plan émotionnel. Leur approche de l'amour est souvent liée à des valeurs familiales et à la création d'un environnement domestique chaleureux. Ils investissent dans leurs relations en cherchant à établir des racines profondes et un sentiment de sécurité dans leur vie privée."
+    },
+    {
+      "planete": "Junon",
+      "domaine": "Amour",
+      "maison": "Maison V",
+      "data": "Avec Junon en Maison V, l'amour est abordé avec une approche créative et joyeuse. Les individus avec cette position recherchent des relations qui offrent des opportunités d'expression personnelle et de plaisir. Ils sont attirés par des partenaires qui partagent leur amour pour les loisirs, les activités créatives et la romance. Leur façon d'exprimer l'amour est souvent ludique et généreuse, et ils investissent dans leurs relations en cherchant à vivre des moments intenses et agréables. Les relations qui permettent de cultiver la créativité et la joie sont particulièrement satisfaisantes pour eux."
+    },
+    {
+      "planete": "Junon",
+      "domaine": "Amour",
+      "maison": "Maison VI",
+      "data": "Junon en Maison VI influence l'amour par une approche pratique et axée sur le service. Les individus avec cette position recherchent des relations où les aspects quotidiens de la vie sont gérés avec soin et efficacité. Ils sont attirés par des partenaires qui apprécient les gestes de dévouement et de soutien dans les aspects pratiques de la vie. Leur manière de montrer leur affection peut inclure des actions qui visent à améliorer la qualité de vie de leur partenaire, comme aider dans les tâches quotidiennes ou offrir un soutien dans les aspects professionnels. Ils cherchent à construire une relation fondée sur l'entraide mutuelle et la gestion équilibrée des responsabilités."
+    },
+    {
+      "planete": "Junon",
+      "domaine": "Amour",
+      "maison": "Maison VII",
+      "data": "Avec Junon en Maison VII, l'amour est fortement lié à la recherche de partenariats équilibrés et harmonieux. Les individus avec cette position recherchent des relations basées sur l'équité et le respect mutuel. Ils sont attirés par des partenaires qui partagent leurs valeurs en matière de coopération et de compromis. Leur approche des relations est souvent marquée par un désir de construire des alliances solides et durables, et ils investissent dans leurs relations avec une vision de partenariat égalitaire. Les dynamiques de pouvoir et les questions d'équilibre sont particulièrement importantes pour eux dans le contexte amoureux."
+    },
+    {
+      "planete": "Junon",
+      "domaine": "Amour",
+      "maison": "Maison VIII",
+      "data": "Junon en Maison VIII influence l'amour par une approche intense et profonde. Les individus avec cette position recherchent des relations qui offrent une connexion émotionnelle et sexuelle significative. Ils sont attirés par des partenaires avec qui ils peuvent explorer les aspects plus profonds et parfois complexes de la relation, tels que les dynamiques de pouvoir et les transformations personnelles. Leur manière de montrer leur affection est souvent intense et dévouée, et ils investissent pleinement dans leurs relations en cherchant à créer des liens profonds et durables. Cependant, ils doivent veiller à ne pas devenir trop possessifs ou à manipuler les émotions dans la relation."
+    },
+    {
+      "planete": "Junon",
+      "domaine": "Amour",
+      "maison": "Maison IX",
+      "data": "Avec Junon en Maison IX, l'amour est abordé avec une approche expansive et intellectuelle. Les individus avec cette position recherchent des relations qui offrent des opportunités d'apprentissage et de croissance personnelle. Ils sont attirés par des partenaires qui partagent leur passion pour les voyages, les découvertes culturelles et les idéaux philosophiques. Leur façon d'exprimer l'amour est souvent liée à la recherche de sens et à la quête de nouvelles expériences avec leur partenaire. Ils investissent dans leurs relations en cherchant à élargir leurs horizons communs et à partager des aventures enrichissantes."
+    },
+    {
+      "planete": "Junon",
+      "domaine": "Amour",
+      "maison": "Maison X",
+      "data": "Junon en Maison X influence l'amour par une approche sérieuse et axée sur les objectifs à long terme. Les individus avec cette position recherchent des relations qui soutiennent leurs ambitions professionnelles et leur image publique. Ils sont attirés par des partenaires qui comprennent et respectent leurs objectifs de carrière et leur désir de réussite. Leur façon de montrer leur affection peut inclure des gestes qui renforcent leur position professionnelle ou leur statut social. Ils investissent dans leurs relations avec une vision de partenariat qui est alignée avec leurs aspirations et leurs responsabilités. Cependant, ils doivent veiller à ne pas négliger les aspects émotionnels au profit des objectifs professionnels."
+    },
+    {
+      "planete": "Junon",
+      "domaine": "Amour",
+      "maison": "Maison XI",
+      "data": "Avec Junon en Maison XI, l'amour est abordé avec une approche sociale et communautaire. Les individus avec cette position recherchent des relations qui s'inscrivent dans le cadre de leurs idéaux et de leurs projets collectifs. Ils sont attirés par des partenaires qui partagent leurs aspirations et leurs valeurs en matière de collaboration et de vision commune. Leur charme est souvent lié à leur capacité à créer des connexions significatives au sein de groupes sociaux et à travailler ensemble pour atteindre des objectifs communs. Ils investissent dans leurs relations en cherchant à établir des alliances qui sont en accord avec leurs objectifs collectifs et leurs principes sociaux."
+    },
+    {
+      "planete": "Junon",
+      "domaine": "Amour",
+      "maison": "Maison XII",
+      "data": "Junon en Maison XII influence l'amour par une approche introspective et spirituelle. Les individus avec cette position recherchent des relations profondes et parfois secrètes, qui offrent une connexion émotionnelle et spirituelle. Ils sont attirés par des partenaires avec qui ils peuvent explorer des aspects plus cachés ou mystiques de la relation. Leur manière de montrer leur affection est souvent discrète et pleine de compassion, et ils investissent dans leurs relations avec une grande sensibilité aux besoins émotionnels de leur partenaire. Cependant, ils doivent faire attention à ne pas se perdre dans des idéalisations ou des illusions au détriment de la réalité de la relation."
+    },
+    {
+      "planete": "Junon",
+      "domaine": "Amour",
+      "signe": "Bélier",
+      "data": "Junon en Bélier tend à influencer l'amour par une approche passionnée et proactive. Les personnes avec cette position recherchent des relations qui sont à la fois dynamiques et stimulantes. Elles apprécient les partenaires qui partagent leur esprit aventureux et leur désir de nouveauté. Leur manière d'exprimer l'engagement est souvent directe et énergique, cherchant à prendre les devants et à créer des liens intenses et immédiats. Cependant, leur impulsivité et leur besoin de stimulation peuvent parfois entraîner des conflits ou des engagements hâtifs, nécessitant un équilibre entre passion et patience."
+    },
+    {
+      "planete": "Junon",
+      "domaine": "Amour",
+      "signe": "Taureau",
+      "data": "Avec Junon en Taureau, l'amour est abordé avec un désir de stabilité et de confort. Les individus avec cette position recherchent des relations solides et durables, valorisant la sécurité émotionnelle et matérielle. Ils sont attirés par des partenaires qui offrent un soutien pratique et qui partagent des valeurs similaires en matière de stabilité et de confort. Leur expression de l'affection est souvent tangible, se manifestant à travers des gestes de dévouement et des actions concrètes. Ils investissent profondément dans leurs relations, cherchant à établir une base sécurisante tout en cultivant un amour qui dure."
+    },
+    {
+      "planete": "Junon",
+      "domaine": "Amour",
+      "signe": "Gémeaux",
+      "data": "Junon en Gémeaux influence l'amour par une approche intellectuelle et communicative. Les personnes avec cette position sont attirées par des relations où la stimulation mentale et les échanges d'idées sont au premier plan. Elles recherchent des partenaires qui partagent leur curiosité et leur soif d'apprendre, et elles apprécient les conversations profondes et variées. Leur manière d'exprimer l'engagement est souvent par le biais de la communication et des interactions sociales, mais elles doivent veiller à ne pas se disperser ou éviter les engagements profonds en faveur de la nouveauté."
+    },
+    {
+      "planete": "Junon",
+      "domaine": "Amour",
+      "signe": "Cancer",
+      "data": "Avec Junon en Cancer, l'amour est fortement lié au besoin de sécurité émotionnelle et de soutien familial. Les individus avec cette position recherchent des relations où ils se sentent nourris et protégés sur le plan émotionnel. Ils sont attirés par des partenaires qui sont sensibles et attentifs aux besoins affectifs, et ils investissent dans leurs relations en créant un environnement domestique chaleureux et sécurisant. Leur approche de l'amour est souvent marquée par une profonde connexion émotionnelle et un désir de construire une famille ou un foyer stable."
+    },
+    {
+      "planete": "Junon",
+      "domaine": "Amour",
+      "signe": "Lion",
+      "data": "Junon en Lion apporte une approche généreuse et dramatique à l'amour. Les personnes avec cette position recherchent des relations où la romance et l'admiration sont présentes. Elles sont attirées par des partenaires qui peuvent les valoriser et les adorer, et elles expriment leur engagement par des gestes grandioses et affectueux. Leur manière de montrer l'amour est souvent flamboyante et pleine de passion, cherchant à créer des expériences mémorables et à recevoir une reconnaissance sincère. Cependant, leur besoin de validation et d'attention peut parfois créer des attentes élevées dans la relation."
+    },
+    {
+      "planete": "Junon",
+      "domaine": "Amour",
+      "signe": "Vierge",
+      "data": "Avec Junon en Vierge, l'amour est abordé avec une approche pratique et analytique. Les individus avec cette position recherchent des relations basées sur le respect mutuel et la stabilité quotidienne. Ils sont attirés par des partenaires qui partagent leurs valeurs en matière de soin et de dévouement, et ils expriment leur affection à travers des gestes utiles et des actions concrètes. Leur manière de montrer leur engagement peut inclure des efforts pour améliorer et organiser les aspects pratiques de la vie de leur partenaire. Ils doivent faire attention à ne pas devenir trop critiques ou perfectionnistes dans leurs attentes."
+    },
+    {
+      "planete": "Junon",
+      "domaine": "Amour",
+      "signe": "Balance",
+      "data": "Junon en Balance influence l'amour par une recherche d'équilibre et d'harmonie dans les relations. Les personnes avec cette position recherchent des partenaires avec qui elles peuvent construire des alliances équitables et respectueuses. Elles sont attirées par des relations où la coopération et le compromis sont au cœur de l'engagement, et elles expriment leur affection par des gestes de diplomatie et de compréhension. Leur manière de construire des liens est souvent marquée par un désir d'équité et de beauté dans la relation, mais elles doivent veiller à ne pas sacrifier leurs propres besoins pour maintenir la paix."
+    },
+    {
+      "planete": "Junon",
+      "domaine": "Amour",
+      "signe": "Scorpion",
+      "data": "Avec Junon en Scorpion, l'amour est vécu avec une intensité profonde et une recherche de connexion émotionnelle intense. Les individus avec cette position recherchent des relations qui permettent une exploration des émotions et des aspects plus profonds de la personnalité. Ils sont attirés par des partenaires qui peuvent comprendre et partager leur intensité émotionnelle, et ils investissent pleinement dans leurs relations. Leur manière de montrer l'amour est souvent intense et dévouée, mais ils doivent faire attention à éviter les dynamiques de contrôle ou de possessivité."
+    },
+    {
+      "planete": "Junon",
+      "domaine": "Amour",
+      "signe": "Sagittaire",
+      "data": "Junon en Sagittaire influence l'amour par une approche optimiste et aventureuse. Les personnes avec cette position recherchent des relations qui offrent liberté et exploration, et elles sont attirées par des partenaires qui partagent leur amour pour l'aventure et la croissance personnelle. Elles expriment leur affection à travers des expériences enrichissantes et des découvertes communes, cherchant à élargir leurs horizons avec leur partenaire. Leur manière de montrer l'engagement est souvent liée à la recherche de nouvelles expériences et à la célébration de la vie, mais elles doivent veiller à équilibrer leur besoin d'indépendance avec les exigences de la relation."
+    },
+    {
+      "planete": "Junon",
+      "domaine": "Amour",
+      "signe": "Capricorne",
+      "data": "Avec Junon en Capricorne, l'amour est abordé avec une approche sérieuse et pragmatique. Les individus avec cette position recherchent des relations basées sur la stabilité, la responsabilité et les objectifs à long terme. Ils sont attirés par des partenaires qui partagent leurs valeurs en matière de sécurité et d'ambition, et ils expriment leur affection par des actions concrètes et des engagements tangibles. Leur manière de construire des liens est souvent axée sur la création d'une base solide et sur la réalisation d'objectifs communs, mais ils doivent faire attention à ne pas négliger les aspects émotionnels au profit des aspects matériels."
+    },
+    {
+      "planete": "Junon",
+      "domaine": "Amour",
+      "signe": "Verseau",
+      "data": "Junon en Verseau influence l'amour par une approche originale et indépendante. Les personnes avec cette position recherchent des relations qui offrent une liberté personnelle et un espace pour l'individualité, tout en partageant des idées progressistes et des valeurs humanitaires. Elles sont attirées par des partenaires qui respectent leur besoin d'autonomie et qui sont ouverts à des relations non conventionnelles ou innovantes. Leur manière de montrer l'affection est souvent liée à une connexion intellectuelle et à une vision partagée de l'avenir, mais elles doivent veiller à maintenir un équilibre entre indépendance et engagement émotionnel."
+    },
+    {
+      "planete": "Junon",
+      "domaine": "Amour",
+      "signe": "Poissons",
+      "data": "Avec Junon en Poissons, l'amour est vécu avec une approche rêveuse et empathique. Les individus avec cette position recherchent des relations profondes et spirituelles, où la compréhension émotionnelle et la compassion sont essentielles. Ils sont attirés par des partenaires qui peuvent partager leur sensibilité et leur idéalisation de l'amour, et ils investissent dans leurs relations avec une grande intuition et une dévotion. Leur manière de montrer l'affection est souvent subtile et pleine de compassion, mais ils doivent faire attention à éviter les illusions ou les attentes irréalistes qui pourraient affecter la relation."
+    },
+    {
+      "maison": "Maison V",
+      "domaine": "Amour",
+      "signe": "Bélier",
+      "data": "Lorsque la Maison V est en Bélier, l'amour est abordé avec une grande énergie et passion. Les individus avec cette position sont attirés par des relations dynamiques et pleines de vie. Ils recherchent des partenaires qui partagent leur enthousiasme et leur désir d'aventure. Leur approche de l'amour est souvent directe et audacieuse, cherchant à vivre des expériences intenses et excitantes. Ils ont tendance à prendre des initiatives en amour et à exprimer leurs sentiments de manière franche et spontanée, ce qui peut parfois mener à des relations impulsives mais vibrantes."
+    },
+    {
+      "maison": "Maison V",
+      "domaine": "Amour",
+      "signe": "Taureau",
+      "data": "Avec la Maison V en Taureau, l'amour est vécu avec une approche sensuelle et stable. Les personnes avec cette position recherchent des relations qui offrent sécurité et confort, tout en valorisant les plaisirs matériels et sensoriels. Elles sont attirées par des partenaires qui apprécient les moments de détente et les expériences sensorielles partagées. Leur manière de montrer l'affection est souvent pratique et tangible, cherchant à créer une atmosphère agréable et stable. Elles investissent dans leurs relations en créant des souvenirs et des plaisirs communs, tout en construisant un amour durable et rassurant."
+    },
+    {
+      "maison": "Maison V",
+      "domaine": "Amour",
+      "signe": "Gémeaux",
+      "data": "Avec la Maison V en Gémeaux, l'amour est abordé avec curiosité et adaptabilité. Les individus avec cette position recherchent des relations qui stimulent leur esprit et offrent des échanges intellectuels riches. Ils sont attirés par des partenaires qui peuvent les engager dans des conversations variées et qui partagent leur désir d'exploration mentale. Leur manière de montrer l'affection est souvent communicative et ludique, cherchant à intégrer l'humour et l'intellect dans la relation. Ils investissent dans leurs relations par des activités intéressantes et des échanges fréquents, mais doivent veiller à ne pas se disperser dans leurs intérêts."
+    },
+    {
+      "maison": "Maison V",
+      "domaine": "Amour",
+      "signe": "Cancer",
+      "data": "Avec la Maison V en Cancer, l'amour est vécu avec une profondeur émotionnelle et un désir de sécurité affective. Les individus avec cette position recherchent des relations qui offrent un soutien émotionnel et une connexion authentique. Ils sont attirés par des partenaires qui partagent leurs valeurs en matière de famille et de stabilité émotionnelle. Leur manière de montrer l'affection est souvent nourrissante et protectrice, cherchant à créer un environnement chaleureux et sécurisant. Ils investissent dans leurs relations avec un fort désir de construire des liens émotionnels profonds et durables."
+    },
+    {
+      "maison": "Maison V",
+      "domaine": "Amour",
+      "signe": "Lion",
+      "data": "Lorsque la Maison V est en Lion, l'amour est vécu avec grandeur et créativité. Les personnes avec cette position recherchent des relations où la romance et l'admiration sont au premier plan. Elles sont attirées par des partenaires qui peuvent les valoriser et les adorer, et elles expriment leur affection par des gestes flamboyants et généreux. Leur manière de montrer l'amour est souvent spectaculaire et pleine de passion, cherchant à faire de chaque moment ensemble une expérience mémorable. Elles investissent dans leurs relations en cherchant à briller et à partager des moments de joie intense, mais doivent faire attention à ne pas négliger les aspects plus subtils de l'amour."
+    },
+    {
+      "maison": "Maison V",
+      "domaine": "Amour",
+      "signe": "Vierge",
+      "data": "Avec la Maison V en Vierge, l'amour est abordé avec une approche pratique et analytique. Les individus avec cette position recherchent des relations basées sur le respect mutuel et l'attention aux détails. Ils sont attirés par des partenaires qui apprécient les gestes concrets de dévouement et qui partagent leurs valeurs de soin et de responsabilité. Leur manière de montrer l'affection est souvent pratique et discrète, cherchant à améliorer la vie quotidienne de leur partenaire de manière organisée. Ils investissent dans leurs relations en apportant de la précision et de la considération dans leurs interactions, mais doivent veiller à ne pas devenir trop critiques ou perfectionnistes."
+    },
+    {
+      "maison": "Maison V",
+      "domaine": "Amour",
+      "signe": "Balance",
+      "data": "Avec la Maison V en Balance, l'amour est vécu avec un désir d'équilibre et d'harmonie. Les personnes avec cette position recherchent des relations où la coopération et la beauté sont au centre de l'engagement. Elles sont attirées par des partenaires qui partagent leur appréciation de l'équité et du raffinement, et elles expriment leur affection par des gestes élégants et diplomatiques. Leur manière de montrer l'amour est souvent marquée par une quête d'harmonie et de compréhension mutuelle, cherchant à créer une relation équilibrée et esthétiquement plaisante. Elles investissent dans leurs relations en cultivant une atmosphère de paix et de beauté."
+    },
+    {
+      "maison": "Maison V",
+      "domaine": "Amour",
+      "signe": "Scorpion",
+      "data": "Lorsque la Maison V est en Scorpion, l'amour est abordé avec une intensité profonde et une recherche de connexion émotionnelle intense. Les personnes avec cette position recherchent des relations où les émotions peuvent être explorées en profondeur et où la passion est un élément clé. Elles sont attirées par des partenaires qui peuvent comprendre et partager leur intensité émotionnelle, et elles expriment leur affection avec une grande profondeur et dévotion. Leur manière de montrer l'amour est souvent intense et parfois mystérieuse, cherchant à créer des liens puissants et transformateurs. Elles doivent veiller à ne pas devenir trop possessives ou manipulatrices dans leurs attentes."
+    },
+    {
+      "maison": "Maison V",
+      "domaine": "Amour",
+      "signe": "Sagittaire",
+      "data": "Avec la Maison V en Sagittaire, l'amour est vécu avec une approche enthousiaste et aventurière. Les individus avec cette position recherchent des relations qui offrent liberté et exploration, ainsi que des partenaires qui partagent leur amour pour les aventures et les découvertes. Ils expriment leur affection à travers des expériences enrichissantes et des projets communs, cherchant à élargir leurs horizons ensemble. Leur manière de montrer l'amour est souvent optimiste et pleine de joie, cherchant à créer des souvenirs mémorables et à célébrer la vie. Ils doivent veiller à équilibrer leur désir de liberté avec les besoins de la relation."
+    },
+    {
+      "maison": "Maison V",
+      "domaine": "Amour",
+      "signe": "Capricorne",
+      "data": "Lorsque la Maison V est en Capricorne, l'amour est abordé avec une approche sérieuse et pragmatique. Les personnes avec cette position recherchent des relations basées sur la stabilité et la responsabilité, valorisant l'engagement à long terme et les objectifs communs. Elles sont attirées par des partenaires qui partagent leur désir de construire une base solide et de réaliser des projets à long terme. Leur manière de montrer l'affection est souvent discrète mais profonde, cherchant à construire des relations durables et significatives. Elles investissent dans leurs relations en mettant l'accent sur la sécurité et la réalisation de buts communs."
+    },
+    {
+      "maison": "Maison V",
+      "domaine": "Amour",
+      "signe": "Verseau",
+      "data": "Avec la Maison V en Verseau, l'amour est vécu avec une approche originale et indépendante. Les individus avec cette position recherchent des relations qui permettent une liberté personnelle et une expression créative. Ils sont attirés par des partenaires qui respectent leur besoin d'individualité et qui partagent des valeurs progressistes ou humanitaires. Leur manière de montrer l'amour est souvent innovante et non conventionnelle, cherchant à créer des liens basés sur des idées partagées et une vision commune du futur. Ils doivent veiller à maintenir un équilibre entre indépendance et engagement dans leurs relations."
+    },
+    {
+      "maison": "Maison V",
+      "domaine": "Amour",
+      "signe": "Poissons",
+      "data": "Lorsque la Maison V est en Poissons, l'amour est abordé avec une sensibilité profonde et une quête de connexion spirituelle. Les personnes avec cette position recherchent des relations où la compassion et la compréhension mutuelle sont essentielles. Elles sont attirées par des partenaires qui partagent leur sensibilité et leur idéalisation de l'amour, et elles expriment leur affection par des gestes tendres et empathiques. Leur manière de montrer l'amour est souvent rêveuse et intuitive, cherchant à créer des liens profonds et spirituels. Elles doivent veiller à ne pas se perdre dans des illusions ou des attentes irréalistes."
+    },
+    {
+      "maison": "Maison VII",
+      "domaine": "Amour",
+      "signe": "Bélier",
+      "data": "Lorsque la Maison VII est en Bélier, les relations amoureuses sont abordées avec une grande énergie et une approche proactive. Les personnes avec cette position recherchent des partenaires dynamiques et entreprenants, capables de suivre leur rythme rapide et de participer activement à la relation. Elles apprécient les défis et les aventures dans leurs relations, préférant des partenaires qui peuvent stimuler leur enthousiasme et leur indépendance. Leur manière de gérer les engagements est souvent directe et impulsive, cherchant à initier des connections significatives avec passion et détermination, mais elles doivent faire attention à éviter les conflits ou les décisions précipitées."
+    },
+    {
+      "maison": "Maison VII",
+      "domaine": "Amour",
+      "signe": "Taureau",
+      "data": "Avec la Maison VII en Taureau, l'approche des relations amoureuses est marquée par une recherche de stabilité et de confort. Les personnes avec cette position privilégient les relations durables et sécurisantes, cherchant des partenaires qui offrent une base solide et fiable. Elles sont attirées par des relations où la sécurité émotionnelle et la sensualité sont au centre de l'engagement. Leur manière de montrer l'affection est souvent pratique et stable, exprimant leur dévouement par des gestes concrets et un investissement à long terme dans la relation. Elles doivent veiller à éviter la stagnation et à garder la passion vivante dans la relation."
+    },
+    {
+      "maison": "Maison VII",
+      "domaine": "Amour",
+      "signe": "Gémeaux",
+      "data": "Avec la Maison VII en Gémeaux, les relations amoureuses sont abordées avec curiosité et adaptabilité. Les individus avec cette position recherchent des partenaires qui stimulent leur intellect et leur curiosité, appréciant les échanges d'idées et les interactions variées. Ils sont attirés par des relations où la communication est fluide et où il y a une flexibilité pour explorer de nouveaux aspects de la vie ensemble. Leur manière de gérer les engagements est souvent ouverte et communicative, cherchant à maintenir une connexion mentale et à partager des expériences diversifiées. Ils doivent faire attention à éviter la superficialité ou les engagements trop légers."
+    },
+    {
+      "maison": "Maison VII",
+      "domaine": "Amour",
+      "signe": "Cancer",
+      "data": "Lorsque la Maison VII est en Cancer, les relations amoureuses sont vécues avec une profondeur émotionnelle et une quête de sécurité affective. Les personnes avec cette position recherchent des partenaires qui offrent soutien et compréhension émotionnelle, valorisant les connexions familiales et les engagements à long terme. Elles expriment leur affection par des gestes nourrissants et protecteurs, cherchant à créer un environnement chaleureux et sécurisant dans la relation. Leur manière de montrer l'amour est souvent attentive et dévouée, avec un fort désir de construire un foyer stable. Elles doivent veiller à ne pas se laisser submerger par les émotions ou les attentes irréalistes."
+    },
+    {
+      "maison": "Maison VII",
+      "domaine": "Amour",
+      "signe": "Lion",
+      "data": "Avec la Maison VII en Lion, les relations amoureuses sont vécues avec grandeur et passion. Les individus avec cette position recherchent des partenaires qui peuvent les admirer et les valoriser, appréciant les gestes romantiques et les moments spectaculaires. Ils sont attirés par des relations où la créativité et la romance occupent une place importante, cherchant à partager des expériences mémorables et à recevoir une reconnaissance sincère. Leur manière de montrer l'amour est souvent flamboyante et généreuse, cherchant à briller dans la relation. Ils doivent faire attention à ne pas négliger les aspects plus profonds de la connexion émotionnelle au profit du spectacle."
+    },
+    {
+      "maison": "Maison VII",
+      "domaine": "Amour",
+      "signe": "Vierge",
+      "data": "Avec la Maison VII en Vierge, les relations amoureuses sont abordées avec une approche pratique et analytique. Les personnes avec cette position recherchent des partenaires qui partagent leurs valeurs de responsabilité et de soin, appréciant les gestes concrets et les attentions aux détails. Elles expriment leur affection à travers des actions utiles et une attention aux besoins quotidiens de leur partenaire. Leur manière de gérer les engagements est souvent organisée et réfléchie, cherchant à améliorer et à optimiser la relation. Elles doivent faire attention à ne pas devenir trop critiques ou perfectionnistes dans leurs attentes."
+    },
+    {
+      "maison": "Maison VII",
+      "domaine": "Amour",
+      "signe": "Balance",
+      "data": "Lorsque la Maison VII est en Balance, les relations amoureuses sont vécues avec un fort désir d'équilibre et d'harmonie. Les personnes avec cette position recherchent des partenaires qui partagent leur sens de l'équité et de la beauté, cherchant à établir des relations équilibrées et respectueuses. Elles expriment leur affection par des gestes diplomatiques et élégants, mettant l'accent sur la coopération et la compréhension mutuelle. Leur manière de montrer l'amour est souvent marquée par une quête d'harmonie et de partenariat, cherchant à créer une connexion fluide et esthétiquement plaisante. Elles doivent veiller à ne pas sacrifier leurs propres besoins pour maintenir la paix."
+    },
+    {
+      "maison": "Maison VII",
+      "domaine": "Amour",
+      "signe": "Scorpion",
+      "data": "Avec la Maison VII en Scorpion, les relations amoureuses sont vécues avec une intensité émotionnelle et une quête de profondeur. Les personnes avec cette position recherchent des partenaires capables de comprendre et de partager leur intensité, cherchant des connexions authentiques et puissantes. Elles expriment leur affection avec une grande passion et un engagement profond, cherchant à explorer les aspects les plus profonds de la relation. Leur manière de gérer les engagements est souvent marquée par une grande profondeur et un désir de transformation. Elles doivent faire attention à ne pas devenir trop possessives ou à se perdre dans des dynamiques de contrôle."
+    },
+    {
+      "maison": "Maison VII",
+      "domaine": "Amour",
+      "signe": "Sagittaire",
+      "data": "Lorsque la Maison VII est en Sagittaire, les relations amoureuses sont abordées avec un esprit aventureux et une ouverture d'esprit. Les personnes avec cette position recherchent des partenaires qui partagent leur amour pour l'exploration et la croissance personnelle, cherchant des relations qui offrent liberté et nouvelles expériences. Elles expriment leur affection par des activités enrichissantes et des aventures communes, mettant l'accent sur l'expansion et la découverte. Leur manière de gérer les engagements est souvent optimiste et enthousiaste, cherchant à célébrer la vie ensemble. Elles doivent faire attention à équilibrer leur désir de liberté avec les besoins de la relation."
+    },
+    {
+      "maison": "Maison VII",
+      "domaine": "Amour",
+      "signe": "Capricorne",
+      "data": "Avec la Maison VII en Capricorne, les relations amoureuses sont abordées avec une approche sérieuse et pragmatique. Les personnes avec cette position recherchent des partenaires qui partagent leurs objectifs et valeurs en matière de responsabilité et d'engagement à long terme. Elles expriment leur affection à travers des actions concrètes et une approche réfléchie, cherchant à établir une base solide et durable dans la relation. Leur manière de gérer les engagements est souvent marquée par un désir de stabilité et de réalisation de projets communs. Elles doivent faire attention à ne pas devenir trop rigides ou à négliger les aspects plus émotionnels de la connexion."
+    },
+    {
+      "maison": "Maison VII",
+      "domaine": "Amour",
+      "signe": "Verseau",
+      "data": "Lorsque la Maison VII est en Verseau, les relations amoureuses sont vécues avec une approche innovante et indépendante. Les personnes avec cette position recherchent des partenaires qui respectent leur besoin d'autonomie et qui partagent des valeurs progressistes et humanitaires. Elles expriment leur affection par des gestes créatifs et non conventionnels, cherchant à établir une connexion basée sur des idées partagées et une vision commune du futur. Leur manière de gérer les engagements est souvent ouverte et originale, cherchant à intégrer l'individualité dans la relation. Elles doivent veiller à équilibrer leur besoin de liberté avec les exigences de l'engagement émotionnel."
+    },
+    {
+      "maison": "Maison VII",
+      "domaine": "Amour",
+      "signe": "Poissons",
+      "data": "Avec la Maison VII en Poissons, les relations amoureuses sont vécues avec une grande sensibilité et une quête de connexion spirituelle. Les personnes avec cette position recherchent des partenaires capables de comprendre et de partager leur sensibilité, cherchant des connexions profondes et empathiques. Elles expriment leur affection de manière tendre et intuitive, mettant l'accent sur la compassion et l'idéalisation de l'amour. Leur manière de gérer les engagements est souvent marquée par un désir de connexion spirituelle et émotionnelle. Elles doivent faire attention à éviter les illusions ou les attentes irréalistes dans leurs relations."
+    },
+    {
+      "from": "Lune",
+      "type": "carré",
+      "to": "Pluton",
+      "domaine": "Amour",
+      "data": "Lorsque la Lune forme un carré à Pluton dans le domaine de l'amour, cela entraîne des conflits émotionnels profonds et des tensions significatives. Les individus peuvent ressentir des luttes internes entre leurs besoins affectifs et des désirs puissants de transformation ou de contrôle. Les relations amoureuses peuvent être marquées par des crises émotionnelles, des révélations profondes et des difficultés à gérer les émotions intenses, les jalousies ou les comportements manipulatoires. Cet aspect pousse à une profonde introspection et à une transformation personnelle, mais peut également conduire à des confrontations et à des tensions relationnelles."
+    },
+    {
+      "from": "Lune",
+      "type": "sesqui-carré",
+      "to": "Pluton",
+      "domaine": "Amour",
+      "data": "Lorsque la Lune forme un sesqui-carré à Pluton dans le domaine de l'amour, cela indique des frustrations émotionnelles et des tensions dans la gestion des besoins affectifs. Les individus peuvent éprouver des difficultés à équilibrer leurs désirs personnels avec les exigences de transformation ou de contrôle imposées par leurs relations. Les conflits peuvent surgir à propos des émotions profondes et des dynamiques de pouvoir, nécessitant un effort pour résoudre les tensions internes et pour naviguer dans les relations avec sensibilité et équilibre."
+    },
+    {
+      "from": "Lune",
+      "type": "semi-carré",
+      "to": "Pluton",
+      "domaine": "Amour",
+      "data": "Avec la Lune en semi-carré à Pluton dans le domaine de l'amour, les individus peuvent rencontrer des obstacles liés à l'expression de leurs besoins émotionnels et à la gestion des transformations personnelles. Cet aspect peut engendrer des frustrations et des défis dans les relations, avec une tendance à des comportements manipulateurs ou des tensions liées à la recherche de contrôle. La clé est de travailler à surmonter ces frustrations en abordant les changements relationnels avec une perspective équilibrée et réfléchie."
+    },
+    {
+      "from": "Lune",
+      "type": "opposition",
+      "to": "Pluton",
+      "domaine": "Amour",
+      "data": "Lorsque la Lune est en opposition à Pluton dans le domaine de l'amour, cela peut entraîner des crises émotionnelles et des tensions majeures dans les relations. Les individus peuvent ressentir un profond conflit entre leurs besoins émotionnels et les forces de transformation ou de contrôle dans leurs relations. Cet aspect met en lumière des dynamiques relationnelles complexes, nécessitant des confrontations avec des aspects cachés ou réprimés de soi-même. Les crises émotionnelles peuvent forcer à réévaluer et à transformer les relations, menant à une période intense de révélation personnelle."
+    },
+    {
+      "from": "Mars",
+      "type": "carré",
+      "to": "Pluton",
+      "domaine": "Amour",
+      "data": "Lorsque Mars forme un carré à Pluton dans le domaine de l'amour, cela peut entraîner des tensions puissantes et des conflits liés à la volonté, au désir et à la dynamique de pouvoir. Les individus peuvent se retrouver dans des situations de lutte de pouvoir ou de confrontations intenses dans leurs relations. Cet aspect peut susciter des comportements agressifs, des jalousies ou des désirs de contrôle excessif. Les défis incluent la nécessité de gérer les impulsions et les conflits de manière constructive pour éviter des ruptures ou des tensions destructrices."
+    },
+    {
+      "from": "Mars",
+      "type": "sesqui-carré",
+      "to": "Pluton",
+      "domaine": "Amour",
+      "data": "Lorsque Mars est en sesqui-carré à Pluton dans le domaine de l'amour, les individus peuvent faire face à des frustrations liées à leurs désirs et à leurs actions dans les relations. Les tensions peuvent découler des efforts pour aligner l'énergie et les ambitions personnelles avec les nécessités de transformation ou de contrôle. Cet aspect peut entraîner des conflits autour des initiatives et des impulsions, nécessitant un travail pour canaliser l'énergie de manière équilibrée et éviter les comportements destructeurs."
+    },
+    {
+      "from": "Mars",
+      "type": "semi-carré",
+      "to": "Pluton",
+      "domaine": "Amour",
+      "data": "Avec Mars en semi-carré à Pluton dans le domaine de l'amour, les individus peuvent éprouver des obstacles et des tensions liés à l'expression de leurs désirs et à la gestion des transformations personnelles. Les frustrations peuvent survenir lorsqu'il s'agit de concilier les actions et les motivations avec les changements nécessaires dans les relations. Cet aspect suggère la nécessité de surmonter les conflits internes en adoptant une approche réfléchie pour naviguer dans les dynamiques relationnelles et éviter les tensions destructrices."
+    },
+    {
+      "from": "Mars",
+      "type": "opposition",
+      "to": "Pluton",
+      "domaine": "Amour",
+      "data": "Lorsque Mars est en opposition à Pluton dans le domaine de l'amour, cela peut créer des crises majeures et des tensions puissantes dans les relations. Les individus peuvent ressentir un profond conflit entre leurs désirs et leur volonté par rapport aux forces de transformation ou de contrôle. Les dynamiques relationnelles peuvent être marquées par des luttes de pouvoir, des confrontations intenses, et des défis à maintenir un équilibre entre la passion et le contrôle. Cet aspect met en lumière la nécessité de gérer les conflits de manière constructive et de travailler sur les dynamiques de pouvoir dans les relations."
+    },
+    {
+      "from": "Vénus",
+      "type": "carré",
+      "to": "Pluton",
+      "domaine": "Amour",
+      "data": "Lorsque Vénus forme un carré à Pluton dans le domaine de l'amour, cela peut provoquer des tensions et des crises dans les relations affectives. Les individus peuvent éprouver des conflits entre leurs valeurs, leurs désirs et les forces de transformation ou de contrôle. Les relations peuvent être marquées par des luttes de pouvoir, des comportements manipulatoires et des révélations profondes qui mettent à l'épreuve l'équilibre amoureux. Cet aspect pousse à une introspection sur les dynamiques relationnelles et les désirs de contrôle, nécessitant souvent un processus de transformation personnel."
+    },
+    {
+      "from": "Vénus",
+      "type": "sesqui-carré",
+      "to": "Pluton",
+      "domaine": "Amour",
+      "data": "Lorsque Vénus est en sesqui-carré à Pluton dans le domaine de l'amour, les individus peuvent faire face à des tensions concernant l'expression de leurs désirs et besoins relationnels. Les frustrations peuvent découler des efforts pour gérer les changements profonds ou les désirs de contrôle dans les relations. Cet aspect suggère la nécessité de travailler sur les frustrations relationnelles en cherchant un équilibre entre les besoins affectifs et les transformations requises, tout en évitant les conflits et les manipulations."
+    },
+    {
+      "from": "Vénus",
+      "type": "semi-carré",
+      "to": "Pluton",
+      "domaine": "Amour",
+      "data": "Avec Vénus en semi-carré à Pluton dans le domaine de l'amour, les tensions peuvent surgir autour de la manière dont les désirs et les valeurs sont gérés dans les relations. Les individus peuvent éprouver des frustrations liées à l'équilibre entre leurs besoins affectifs et les transformations personnelles ou les désirs de contrôle. Cet aspect nécessite de faire face à ces défis avec une approche équilibrée pour éviter les conflits excessifs et pour intégrer les changements nécessaires dans les dynamiques relationnelles."
+    },
+    {
+      "from": "Vénus",
+      "type": "opposition",
+      "to": "Pluton",
+      "domaine": "Amour",
+      "data": "Lorsque Vénus est en opposition à Pluton dans le domaine de l'amour, cela peut entraîner des crises profondes et des tensions majeures dans les relations affectives. Les individus peuvent ressentir un intense conflit entre leurs désirs amoureux et les forces de transformation ou de contrôle. Les relations peuvent être marquées par des luttes de pouvoir, des révélations puissantes et des ajustements nécessaires pour maintenir l'équilibre amoureux. Cet aspect met en lumière des dynamiques relationnelles complexes, nécessitant souvent des confrontations avec des aspects réprimés ou cachés de soi-même et des partenaires, conduisant à une période de grande transformation émotionnelle."
     }
   ],
   "stelliums": [
@@ -45735,6 +46395,1686 @@
         {
           "nom": "Idéalisme et Pouvoir",
           "data": "Uranus et Pluton ajoutent des dimensions de transformation et d'innovation à la vision spirituelle de Neptune, conduisant à une capacité à réaliser des changements profonds et à influencer les autres de manière significative."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Lune", "Mars"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Expansion, Émotion et Action",
+          "data": "La combinaison de Jupiter, Lune et Mars en Verseau favorise une approche audacieuse et visionnaire des émotions et des actions. L'individu peut être entreprenant et motivé, avec une capacité à prendre des initiatives novatrices basées sur des convictions émotionnelles fortes."
+        },
+        {
+          "nom": "Optimisme et Dynamisme",
+          "data": "Jupiter amplifie les émotions de la Lune et l'énergie de Mars, conduisant à un état d'esprit optimiste et dynamique. L'individu est souvent motivé à agir pour des causes humanitaires ou des idéaux élevés."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Lune", "Mercure"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Expansion, Émotion et Communication",
+          "data": "La présence de Jupiter, Lune et Mercure en Verseau favorise une communication visionnaire et émotionnelle. L'individu peut exprimer ses idées avec un grand enthousiasme et une sensibilité humanitaire."
+        },
+        {
+          "nom": "Optimisme et Intellect",
+          "data": "Jupiter amplifie les émotions de la Lune et l'intellect de Mercure, conduisant à une pensée expansive et créative. L'individu est souvent capable de combiner intuition et logique pour des solutions innovantes."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Lune", "Neptune"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Expansion, Émotion et Rêve",
+          "data": "La combinaison de Jupiter, Lune et Neptune en Verseau favorise une imagination riche et visionnaire. L'individu peut être idéaliste et inspiré, avec une forte capacité à rêver grand et à poursuivre des idéaux humanitaires."
+        },
+        {
+          "nom": "Optimisme et Spiritualité",
+          "data": "Jupiter amplifie les émotions de la Lune et la sensibilité spirituelle de Neptune, conduisant à une approche intuitive et expansive de la vie, souvent tournée vers des objectifs altruistes."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Lune", "Pluton"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Expansion, Émotion et Transformation",
+          "data": "La présence de Jupiter, Lune et Pluton en Verseau favorise une transformation profonde et émotionnelle. L'individu peut être puissant et déterminé, avec une capacité à transformer les idées et les émotions en actions concrètes."
+        },
+        {
+          "nom": "Optimisme et Pouvoir Intérieur",
+          "data": "Jupiter amplifie les émotions de la Lune et l'intensité de Pluton, conduisant à une quête de vérité et de transformation personnelle et collective, souvent axée sur des idéaux de justice et d'égalité."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Lune", "Saturne"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Expansion, Émotion et Discipline",
+          "data": "La combinaison de Jupiter, Lune et Saturne en Verseau favorise une approche structurée et responsable des émotions et des aspirations. L'individu peut être ambitieux et discipliné, avec une capacité à travailler dur pour atteindre des objectifs humanitaires."
+        },
+        {
+          "nom": "Optimisme et Responsabilité",
+          "data": "Jupiter amplifie les émotions de la Lune et la rigueur de Saturne, conduisant à un équilibre entre expansion et discipline, souvent orienté vers des projets de longue durée pour le bien commun."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Lune", "Soleil"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Expansion, Émotion et Identité",
+          "data": "La présence de Jupiter, Lune et Soleil en Verseau favorise une expression authentique et expansive de soi. L'individu peut être charismatique et inspirant, avec une forte capacité à influencer les autres par ses idées et ses convictions émotionnelles."
+        },
+        {
+          "nom": "Optimisme et Leadership",
+          "data": "Jupiter amplifie les émotions de la Lune et l'énergie du Soleil, conduisant à une personnalité rayonnante et optimiste, souvent impliquée dans des causes collectives et progressistes."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Lune", "Uranus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Expansion, Émotion et Innovation",
+          "data": "La combinaison de Jupiter, Lune et Uranus en Verseau favorise une approche émotionnelle innovante et visionnaire. L'individu peut être original et indépendant, avec une capacité à apporter des changements positifs et progressistes dans la société."
+        },
+        {
+          "nom": "Optimisme et Originalité",
+          "data": "Jupiter amplifie les émotions de la Lune et l'esprit révolutionnaire d'Uranus, conduisant à une quête de liberté et d'innovation, souvent orientée vers des projets humanitaires et futuristes."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Lune", "Vénus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Expansion, Émotion et Amour",
+          "data": "La combinaison de Jupiter, Lune et Vénus en Verseau favorise une approche expansive et émotionnelle des relations et des plaisirs. L'individu peut être charmant et sociable, avec une capacité à attirer l'amour et l'harmonie dans sa vie."
+        },
+        {
+          "nom": "Optimisme et Harmonie",
+          "data": "Jupiter amplifie les émotions de la Lune et le charme de Vénus, conduisant à une attitude optimiste et harmonieuse envers les relations, souvent avec un intérêt pour les causes humanitaires et sociales."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Mars", "Mercure"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Expansion, Action et Communication",
+          "data": "La présence de Jupiter, Mars et Mercure en Verseau favorise une communication dynamique et expansive. L'individu peut être énergique et intellectuellement stimulé, avec une capacité à partager des idées novatrices et à prendre des initiatives audacieuses."
+        },
+        {
+          "nom": "Optimisme et Énergie Intellectuelle",
+          "data": "Jupiter amplifie l'énergie de Mars et l'intellect de Mercure, conduisant à une pensée rapide et optimiste, souvent orientée vers des projets visionnaires et progressistes."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Mars", "Neptune"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Expansion, Action et Rêve",
+          "data": "La combinaison de Jupiter, Mars et Neptune en Verseau favorise une action inspirée et visionnaire. L'individu peut être motivé par des idéaux élevés et des rêves humanitaires, avec une capacité à transformer ces visions en réalité."
+        },
+        {
+          "nom": "Optimisme et Idéalisme",
+          "data": "Jupiter amplifie l'énergie de Mars et la sensibilité de Neptune, conduisant à une quête d'objectifs élevés et spirituels, souvent avec un intérêt pour les causes altruistes et créatives."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Mars", "Pluton"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Expansion, Action et Transformation",
+          "data": "La présence de Jupiter, Mars et Pluton en Verseau favorise une action intense et transformatrice. L'individu peut être puissant et déterminé, avec une capacité à apporter des changements profonds et durables dans sa vie et celle des autres."
+        },
+        {
+          "nom": "Optimisme et Pouvoir",
+          "data": "Jupiter amplifie l'énergie de Mars et l'intensité de Pluton, conduisant à une force intérieure et un optimisme puissant, souvent orienté vers des transformations radicales et des projets ambitieux."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Mars", "Saturne"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Expansion, Action et Discipline",
+          "data": "La combinaison de Jupiter, Mars et Saturne en Verseau favorise une approche disciplinée et expansive des actions. L'individu peut être ambitieux et méthodique, avec une capacité à travailler dur pour atteindre des objectifs à long terme."
+        },
+        {
+          "nom": "Optimisme et Responsabilité",
+          "data": "Jupiter amplifie l'énergie de Mars et la rigueur de Saturne, conduisant à un équilibre entre ambition et discipline, souvent orienté vers des projets structurés et de grande envergure."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Mars", "Soleil"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Expansion, Action et Identité",
+          "data": "La présence de Jupiter, Mars et Soleil en Verseau favorise une expression énergique et expansive de soi. L'individu peut être charismatique et motivé, avec une forte capacité à diriger et à inspirer les autres."
+        },
+        {
+          "nom": "Optimisme et Leadership",
+          "data": "Jupiter amplifie l'énergie de Mars et l'éclat du Soleil, conduisant à une personnalité rayonnante et optimiste, souvent impliquée dans des causes collectives et progressistes."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Mars", "Uranus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Expansion, Action et Innovation",
+          "data": "La combinaison de Jupiter, Mars et Uranus en Verseau favorise une action audacieuse et innovante. L'individu peut être original et indépendant, avec une capacité à apporter des changements positifs et progressistes dans la société."
+        },
+        {
+          "nom": "Optimisme et Originalité",
+          "data": "Jupiter amplifie l'énergie de Mars et l'esprit révolutionnaire d'Uranus, conduisant à une quête de liberté et d'innovation, souvent orientée vers des projets humanitaires et futuristes."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Mars", "Vénus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Expansion, Action et Amour",
+          "data": "La combinaison de Jupiter, Mars et Vénus en Verseau favorise une approche dynamique et passionnée des relations et des plaisirs. L'individu peut être charismatique et motivé par des idéaux de liberté et d'innovation dans les relations amoureuses."
+        },
+        {
+          "nom": "Optimisme et Passion",
+          "data": "Jupiter amplifie l'énergie de Mars et le charme de Vénus, conduisant à une attitude optimiste et passionnée envers les relations, souvent avec un intérêt pour les causes humanitaires et sociales."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Mercure", "Neptune"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Expansion, Communication et Rêve",
+          "data": "La présence de Jupiter, Mercure et Neptune en Verseau favorise une communication intuitive et visionnaire. L'individu peut exprimer des idées créatives et inspirées, avec une forte sensibilité pour les idéaux humanitaires."
+        },
+        {
+          "nom": "Optimisme et Inspiration",
+          "data": "Jupiter amplifie l'intellect de Mercure et la sensibilité de Neptune, conduisant à une pensée expansive et créative, souvent tournée vers des solutions innovantes et altruistes."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Mercure", "Pluton"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Expansion, Communication et Transformation",
+          "data": "La combinaison de Jupiter, Mercure et Pluton en Verseau favorise une communication puissante et transformatrice. L'individu peut être persuasif et déterminé, avec une capacité à influencer et à transformer les idées des autres."
+        },
+        {
+          "nom": "Optimisme et Profondeur",
+          "data": "Jupiter amplifie l'intellect de Mercure et l'intensité de Pluton, conduisant à une quête de vérité et de transformation intellectuelle, souvent orientée vers des objectifs de justice et de changement social."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Mercure", "Saturne"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Expansion, Communication et Discipline",
+          "data": "La présence de Jupiter, Mercure et Saturne en Verseau favorise une approche structurée et méthodique de la communication. L'individu peut être ambitieux et discipliné dans l'expression de ses idées, avec une capacité à planifier à long terme."
+        },
+        {
+          "nom": "Optimisme et Rigueur",
+          "data": "Jupiter amplifie l'intellect de Mercure et la rigueur de Saturne, conduisant à un équilibre entre expansion et discipline, souvent orienté vers des projets de longue durée et de grande envergure."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Mercure", "Soleil"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Expansion, Communication et Identité",
+          "data": "La combinaison de Jupiter, Mercure et Soleil en Verseau favorise une expression énergique et expansive de soi. L'individu peut être charismatique et intellectuellement stimulé, avec une forte capacité à diriger et à inspirer les autres par ses idées."
+        },
+        {
+          "nom": "Optimisme et Leadership Intellectuel",
+          "data": "Jupiter amplifie l'intellect de Mercure et l'énergie du Soleil, conduisant à une personnalité rayonnante et optimiste, souvent impliquée dans des causes collectives et progressistes."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Mercure", "Uranus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Expansion, Communication et Innovation",
+          "data": "La présence de Jupiter, Mercure et Uranus en Verseau favorise une communication audacieuse et innovante. L'individu peut être original et indépendant dans ses idées, avec une capacité à apporter des changements positifs et progressistes."
+        },
+        {
+          "nom": "Optimisme et Originalité Intellectuelle",
+          "data": "Jupiter amplifie l'intellect de Mercure et l'esprit révolutionnaire d'Uranus, conduisant à une quête de liberté et d'innovation, souvent orientée vers des projets humanitaires et futuristes."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Mercure", "Vénus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Expansion, Communication et Amour",
+          "data": "La combinaison de Jupiter, Mercure et Vénus en Verseau favorise une approche expansive et charmante de la communication et des relations. L'individu peut être sociable et intellectuellement séduisant, avec une capacité à attirer l'amour et l'harmonie par ses idées."
+        },
+        {
+          "nom": "Optimisme et Harmonie Intellectuelle",
+          "data": "Jupiter amplifie l'intellect de Mercure et le charme de Vénus, conduisant à une pensée optimiste et harmonieuse, souvent tournée vers des solutions créatives et diplomatiques dans les relations et les projets collectifs."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Neptune", "Pluton"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Expansion, Rêve et Transformation",
+          "data": "La combinaison de Jupiter, Neptune et Pluton en Verseau favorise une vision expansive et transformative. L'individu peut être inspiré par des idéaux élevés et des rêves de transformation sociale profonde."
+        },
+        {
+          "nom": "Optimisme et Transformation Spirituelle",
+          "data": "Jupiter amplifie la sensibilité de Neptune et l'intensité de Pluton, conduisant à une quête de vérité spirituelle et de transformation profonde, souvent orientée vers des projets humanitaires et altruistes."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Neptune", "Saturne"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Expansion, Rêve et Discipline",
+          "data": "La présence de Jupiter, Neptune et Saturne en Verseau favorise une approche structurée des rêves et des idéaux. L'individu peut être ambitieux et discipliné dans la poursuite de ses idéaux élevés."
+        },
+        {
+          "nom": "Optimisme et Rigueur Spirituelle",
+          "data": "Jupiter amplifie la sensibilité de Neptune et la rigueur de Saturne, conduisant à un équilibre entre expansion spirituelle et discipline, souvent orienté vers des objectifs à long terme et de grande envergure."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Neptune", "Soleil"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Expansion, Rêve et Identité",
+          "data": "La combinaison de Jupiter, Neptune et Soleil en Verseau favorise une expression énergique et expansive de soi. L'individu peut être charismatique et inspiré par des idéaux humanitaires et spirituels."
+        },
+        {
+          "nom": "Optimisme et Inspiration Spirituelle",
+          "data": "Jupiter amplifie la sensibilité de Neptune et l'énergie du Soleil, conduisant à une personnalité rayonnante et spirituellement inspirée, souvent impliquée dans des causes collectives et progressistes."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Neptune", "Uranus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Expansion, Rêve et Innovation",
+          "data": "La présence de Jupiter, Neptune et Uranus en Verseau favorise une vision audacieuse et innovante. L'individu peut être original et inspiré par des idéaux de liberté et de transformation sociale."
+        },
+        {
+          "nom": "Optimisme et Originalité Spirituelle",
+          "data": "Jupiter amplifie la sensibilité de Neptune et l'esprit révolutionnaire d'Uranus, conduisant à une quête de liberté et d'innovation spirituelle, souvent orientée vers des projets humanitaires et futuristes."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Neptune", "Vénus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Expansion, Rêve et Amour",
+          "data": "La combinaison de Jupiter, Neptune et Vénus en Verseau favorise une approche rêveuse et expansive des relations et des plaisirs. L'individu peut être charmant et spirituellement inspiré dans ses relations amoureuses."
+        },
+        {
+          "nom": "Optimisme et Harmonie Spirituelle",
+          "data": "Jupiter amplifie la sensibilité de Neptune et le charme de Vénus, conduisant à une quête d'harmonie et de beauté spirituelle, souvent orientée vers des relations créatives et altruistes."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Pluton", "Saturne"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Expansion, Transformation et Discipline",
+          "data": "La présence de Jupiter, Pluton et Saturne en Verseau favorise une approche structurée et transformative des objectifs. L'individu peut être puissant et discipliné, avec une capacité à apporter des changements profonds et durables."
+        },
+        {
+          "nom": "Optimisme et Pouvoir Disciplinaire",
+          "data": "Jupiter amplifie l'intensité de Pluton et la rigueur de Saturne, conduisant à une force intérieure et un optimisme puissant, souvent orienté vers des transformations radicales et des projets ambitieux."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Pluton", "Soleil"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Expansion, Transformation et Identité",
+          "data": "La combinaison de Jupiter, Pluton et Soleil en Verseau favorise une expression énergique et transformative de soi. L'individu peut être charismatique et déterminé, avec une capacité à diriger et à inspirer les autres."
+        },
+        {
+          "nom": "Optimisme et Pouvoir Personnel",
+          "data": "Jupiter amplifie l'intensité de Pluton et l'énergie du Soleil, conduisant à une personnalité rayonnante et puissante, souvent impliquée dans des causes collectives et progressistes."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Pluton", "Uranus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Expansion, Transformation et Innovation",
+          "data": "La combinaison de Jupiter, Pluton et Uranus en Verseau favorise une approche révolutionnaire et transformative de la vie. L'individu peut être puissant, innovant et orienté vers des changements profonds et soudains."
+        },
+        {
+          "nom": "Optimisme et Rébellion",
+          "data": "Jupiter amplifie l'intensité de Pluton et l'esprit révolutionnaire d'Uranus, conduisant à une personnalité optimiste et rebelle, souvent impliquée dans des causes progressistes et transformatrices."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Pluton", "Vénus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Expansion, Transformation et Amour",
+          "data": "La combinaison de Jupiter, Pluton et Vénus en Verseau favorise des relations intenses et transformatrices. L'individu peut être charismatique et capable de transformations profondes dans ses relations amoureuses."
+        },
+        {
+          "nom": "Optimisme et Intimité",
+          "data": "Jupiter amplifie l'intensité de Pluton et le charme de Vénus, conduisant à une quête de vérité et d'intimité, souvent orientée vers des relations profondes et significatives."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Saturne", "Soleil"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Expansion, Discipline et Identité",
+          "data": "La présence de Jupiter, Saturne et Soleil en Verseau favorise une expression énergique et disciplinée de soi. L'individu peut être ambitieux, structuré et capable de réaliser de grandes choses."
+        },
+        {
+          "nom": "Optimisme et Leadership",
+          "data": "Jupiter amplifie la rigueur de Saturne et l'énergie du Soleil, conduisant à une personnalité optimiste et disciplinée, souvent orientée vers des objectifs de leadership et d'accomplissement personnel."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Saturne", "Uranus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Expansion, Discipline et Innovation",
+          "data": "La combinaison de Jupiter, Saturne et Uranus en Verseau favorise une approche structurée et innovante de la vie. L'individu peut être original et capable d'intégrer des idées novatrices avec discipline."
+        },
+        {
+          "nom": "Optimisme et Structure Révolutionnaire",
+          "data": "Jupiter amplifie la rigueur de Saturne et l'esprit révolutionnaire d'Uranus, conduisant à une personnalité optimiste et structurée, souvent impliquée dans des projets progressistes et bien planifiés."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Saturne", "Vénus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Expansion, Discipline et Amour",
+          "data": "La présence de Jupiter, Saturne et Vénus en Verseau favorise une approche structurée et expansive des relations. L'individu peut être charmant, ambitieux et capable de construire des relations stables et durables."
+        },
+        {
+          "nom": "Optimisme et Harmonie",
+          "data": "Jupiter amplifie la rigueur de Saturne et le charme de Vénus, conduisant à une quête de stabilité et d'harmonie, souvent orientée vers des relations profondes et significatives."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Soleil", "Uranus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Expansion, Identité et Innovation",
+          "data": "La combinaison de Jupiter, Soleil et Uranus en Verseau favorise une expression énergique et innovante de soi. L'individu peut être charismatique, original et orienté vers des changements positifs et progressistes."
+        },
+        {
+          "nom": "Optimisme et Originalité",
+          "data": "Jupiter amplifie l'énergie du Soleil et l'esprit révolutionnaire d'Uranus, conduisant à une personnalité rayonnante et unique, souvent impliquée dans des causes humanitaires et avant-gardistes."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Soleil", "Vénus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Expansion, Identité et Amour",
+          "data": "La présence de Jupiter, Soleil et Vénus en Verseau favorise une expression charmante et expansive de soi. L'individu peut être charismatique et sociable, attirant naturellement l'amour et l'harmonie."
+        },
+        {
+          "nom": "Optimisme et Charme",
+          "data": "Jupiter amplifie l'énergie du Soleil et le charme de Vénus, conduisant à une personnalité rayonnante et optimiste, souvent impliquée dans des relations harmonieuses et créatives."
+        }
+      ]
+    },
+    {
+      "noms": ["Jupiter", "Uranus", "Vénus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Expansion, Innovation et Amour",
+          "data": "La combinaison de Jupiter, Uranus et Vénus en Verseau favorise une approche innovante et expansive des relations et des plaisirs. L'individu peut être original, charmant et attiré par des expériences uniques et avant-gardistes."
+        },
+        {
+          "nom": "Optimisme et Liberté",
+          "data": "Jupiter amplifie l'esprit révolutionnaire d'Uranus et le charme de Vénus, conduisant à une personnalité optimiste et indépendante, souvent impliquée dans des relations non conventionnelles et progressistes."
+        }
+      ]
+    },
+    {
+      "noms": ["Lune", "Mars", "Mercure"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Émotions, Action et Communication",
+          "data": "La présence de la Lune, Mars et Mercure en Verseau favorise une expression dynamique et communicative des émotions. L'individu peut être passionné, direct et intellectuellement stimulant."
+        },
+        {
+          "nom": "Émotions et Énergie Mentale",
+          "data": "La Lune amplifie l'énergie de Mars et la curiosité de Mercure, conduisant à une personnalité émotionnellement intense et mentalement active, souvent impliquée dans des discussions vives et des actions rapides."
+        }
+      ]
+    },
+    {
+      "noms": ["Lune", "Mars", "Neptune"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Émotions, Action et Rêve",
+          "data": "La combinaison de la Lune, Mars et Neptune en Verseau favorise une expression intuitive et imaginative des émotions. L'individu peut être passionné, rêveur et attiré par des idéaux élevés."
+        },
+        {
+          "nom": "Émotions et Spiritualité",
+          "data": "La Lune amplifie l'énergie de Mars et la sensibilité de Neptune, conduisant à une personnalité émotionnellement intense et spirituellement inspirée, souvent impliquée dans des actions altruistes et créatives."
+        }
+      ]
+    },
+    {
+      "noms": ["Lune", "Mars", "Pluton"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Émotions, Action et Transformation",
+          "data": "La présence de la Lune, Mars et Pluton en Verseau favorise une expression intense et transformative des émotions. L'individu peut être passionné, déterminé et capable de transformations profondes."
+        },
+        {
+          "nom": "Émotions et Pouvoir",
+          "data": "La Lune amplifie l'énergie de Mars et l'intensité de Pluton, conduisant à une personnalité émotionnellement puissante et déterminée, souvent impliquée dans des actions courageuses et transformatrices."
+        }
+      ]
+    },
+    {
+      "noms": ["Lune", "Mars", "Saturne"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Émotions, Action et Discipline",
+          "data": "La combinaison de la Lune, Mars et Saturne en Verseau favorise une expression disciplinée et structurée des émotions. L'individu peut être passionné, ambitieux et capable de grandes réalisations."
+        },
+        {
+          "nom": "Émotions et Rigueur",
+          "data": "La Lune amplifie l'énergie de Mars et la rigueur de Saturne, conduisant à une personnalité émotionnellement intense et disciplinée, souvent impliquée dans des actions bien planifiées et méthodiques."
+        }
+      ]
+    },
+    {
+      "noms": ["Lune", "Mars", "Soleil"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Émotions, Action et Identité",
+          "data": "La présence de la Lune, Mars et Soleil en Verseau favorise une expression énergique et confiante des émotions. L'individu peut être passionné, charismatique et capable de diriger avec inspiration."
+        },
+        {
+          "nom": "Émotions et Charisme",
+          "data": "La Lune amplifie l'énergie de Mars et la vitalité du Soleil, conduisant à une personnalité émotionnellement intense et rayonnante, souvent impliquée dans des actions inspirantes et créatives."
+        }
+      ]
+    },
+    {
+      "noms": ["Lune", "Mars", "Uranus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Émotions, Action et Innovation",
+          "data": "La combinaison de la Lune, Mars et Uranus en Verseau favorise une expression dynamique et innovante des émotions. L'individu peut être passionné, original et attiré par des expériences uniques."
+        },
+        {
+          "nom": "Émotions et Rébellion",
+          "data": "La Lune amplifie l'énergie de Mars et l'esprit révolutionnaire d'Uranus, conduisant à une personnalité émotionnellement intense et rebelle, souvent impliquée dans des actions progressistes et non conventionnelles."
+        }
+      ]
+    },
+    {
+      "noms": ["Lune", "Mars", "Vénus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Émotions, Action et Amour",
+          "data": "La combinaison de la Lune, Mars et Vénus en Verseau favorise une expression passionnée et harmonieuse des émotions. L'individu peut être charmant, dynamique et attiré par des relations uniques et progressistes."
+        },
+        {
+          "nom": "Émotions et Relations",
+          "data": "La Lune amplifie l'énergie de Mars et le charme de Vénus, conduisant à une personnalité émotionnellement intense et séduisante, souvent impliquée dans des actions harmonieuses et créatives."
+        }
+      ]
+    },
+    {
+      "noms": ["Lune", "Mercure", "Neptune"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Émotions, Communication et Rêve",
+          "data": "La présence de la Lune, Mercure et Neptune en Verseau favorise une expression intuitive et imaginative des émotions et des idées. L'individu peut être sensible, rêveur et attiré par des idéaux élevés."
+        },
+        {
+          "nom": "Émotions et Inspiration",
+          "data": "La Lune amplifie la curiosité de Mercure et la sensibilité de Neptune, conduisant à une personnalité émotionnellement intense et intellectuellement inspirée, souvent impliquée dans des discussions créatives et spirituelles."
+        }
+      ]
+    },
+    {
+      "noms": ["Lune", "Mercure", "Pluton"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Émotions, Communication et Transformation",
+          "data": "La combinaison de la Lune, Mercure et Pluton en Verseau favorise une expression intense et transformative des émotions et des idées. L'individu peut être passionné, intellectuellement puissant et capable de transformations profondes."
+        },
+        {
+          "nom": "Émotions et Pouvoir Intellectuel",
+          "data": "La Lune amplifie la curiosité de Mercure et l'intensité de Pluton, conduisant à une personnalité émotionnellement intense et intellectuellement forte, souvent impliquée dans des discussions profondes et transformatrices."
+        }
+      ]
+    },
+    {
+      "noms": ["Lune", "Mercure", "Saturne"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Émotions, Communication et Discipline",
+          "data": "La présence de la Lune, Mercure et Saturne en Verseau favorise une expression structurée et disciplinée des émotions et des idées. L'individu peut être sérieux, intellectuellement rigoureux et capable de réalisations importantes."
+        },
+        {
+          "nom": "Émotions et Rigueur Intellectuelle",
+          "data": "La Lune amplifie la curiosité de Mercure et la rigueur de Saturne, conduisant à une personnalité émotionnellement intense et intellectuellement disciplinée, souvent impliquée dans des discussions bien planifiées et méthodiques."
+        }
+      ]
+    },
+    {
+      "noms": ["Lune", "Mercure", "Soleil"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Émotions, Communication et Identité",
+          "data": "La combinaison de la Lune, Mercure et Soleil en Verseau favorise une expression énergique et confiante des émotions et des idées. L'individu peut être charismatique, intellectuellement stimulant et capable de diriger avec inspiration."
+        },
+        {
+          "nom": "Émotions et Charisme Intellectuel",
+          "data": "La Lune amplifie la curiosité de Mercure et la vitalité du Soleil, conduisant à une personnalité émotionnellement intense et intellectuellement rayonnante, souvent impliquée dans des discussions inspirantes et créatives."
+        }
+      ]
+    },
+    {
+      "noms": ["Lune", "Mercure", "Uranus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Émotions, Communication et Innovation",
+          "data": "La présence de la Lune, Mercure et Uranus en Verseau favorise une expression dynamique et innovante des émotions et des idées. L'individu peut être original, intellectuellement stimulant et attiré par des expériences uniques."
+        },
+        {
+          "nom": "Émotions et Rébellion Intellectuelle",
+          "data": "La Lune amplifie la curiosité de Mercure et l'esprit révolutionnaire d'Uranus, conduisant à une personnalité émotionnellement intense et intellectuellement rebelle, souvent impliquée dans des discussions progressistes et non conventionnelles."
+        }
+      ]
+    },
+    {
+      "noms": ["Lune", "Mercure", "Vénus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Émotions, Communication et Amour",
+          "data": "La combinaison de la Lune, Mercure et Vénus en Verseau favorise une expression charmante et harmonieuse des émotions et des idées. L'individu peut être sociable, intellectuellement charmant et attiré par des relations harmonieuses."
+        },
+        {
+          "nom": "Émotions et Charme Intellectuel",
+          "data": "La Lune amplifie la curiosité de Mercure et le charme de Vénus, conduisant à une personnalité émotionnellement intense et intellectuellement séduisante, souvent impliquée dans des discussions harmonieuses et créatives."
+        }
+      ]
+    },
+    {
+      "noms": ["Lune", "Neptune", "Pluton"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Émotions, Rêve et Transformation",
+          "data": "La combinaison de la Lune, Neptune et Pluton en Verseau favorise une expression intuitive et transformative des émotions. L'individu peut être sensible, rêveur et capable de transformations profondes."
+        },
+        {
+          "nom": "Émotions et Profondeur Spirituelle",
+          "data": "La Lune amplifie la sensibilité de Neptune et l'intensité de Pluton, conduisant à une personnalité émotionnellement intense et spirituellement profonde, souvent impliquée dans des activités créatives et transformatrices."
+        }
+      ]
+    },
+    {
+      "noms": ["Lune", "Neptune", "Saturne"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Émotions, Rêve et Discipline",
+          "data": "La présence de la Lune, Neptune et Saturne en Verseau favorise une expression intuitive et disciplinée des émotions. L'individu peut être sensible, rêveur et capable de grandes réalisations grâce à la discipline."
+        },
+        {
+          "nom": "Émotions et Rigueur Spirituelle",
+          "data": "La Lune amplifie la sensibilité de Neptune et la rigueur de Saturne, conduisant à une personnalité émotionnellement intense et spirituellement disciplinée, souvent impliquée dans des activités méthodiques et inspirées."
+        }
+      ]
+    },
+    {
+      "noms": ["Lune", "Neptune", "Soleil"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Émotions, Rêve et Identité",
+          "data": "La combinaison de la Lune, Neptune et Soleil en Verseau favorise une expression intuitive et confiante des émotions. L'individu peut être sensible, rêveur et charismatique."
+        },
+        {
+          "nom": "Émotions et Charisme Spirituel",
+          "data": "La Lune amplifie la sensibilité de Neptune et la vitalité du Soleil, conduisant à une personnalité émotionnellement intense et spirituellement rayonnante, souvent impliquée dans des activités créatives et inspirantes."
+        }
+      ]
+    },
+    {
+      "noms": ["Lune", "Neptune", "Uranus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Émotions, Rêve et Innovation",
+          "data": "La présence de la Lune, Neptune et Uranus en Verseau favorise une expression intuitive et innovante des émotions. L'individu peut être sensible, rêveur et attiré par des expériences uniques et progressistes."
+        },
+        {
+          "nom": "Émotions et Rébellion Spirituelle",
+          "data": "La Lune amplifie la sensibilité de Neptune et l'esprit révolutionnaire d'Uranus, conduisant à une personnalité émotionnellement intense et spirituellement rebelle, souvent impliquée dans des activités créatives et progressistes."
+        }
+      ]
+    },
+    {
+      "noms": ["Lune", "Neptune", "Vénus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Émotions, Rêve et Amour",
+          "data": "La combinaison de la Lune, Neptune et Vénus en Verseau favorise une expression intuitive et harmonieuse des émotions. L'individu peut être sensible, rêveur et charmant."
+        },
+        {
+          "nom": "Émotions et Charme Spirituel",
+          "data": "La Lune amplifie la sensibilité de Neptune et le charme de Vénus, conduisant à une personnalité émotionnellement intense et spirituellement séduisante, souvent impliquée dans des relations harmonieuses et créatives."
+        }
+      ]
+    },
+    {
+      "noms": ["Lune", "Pluton", "Saturne"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Émotions, Transformation et Discipline",
+          "data": "La présence de la Lune, Pluton et Saturne en Verseau favorise une expression intense et disciplinée des émotions. L'individu peut être passionné, déterminé et capable de transformations profondes grâce à la discipline."
+        },
+        {
+          "nom": "Émotions et Rigueur Transformative",
+          "data": "La Lune amplifie l'intensité de Pluton et la rigueur de Saturne, conduisant à une personnalité émotionnellement intense et disciplinée, souvent impliquée dans des activités méthodiques et transformatrices."
+        }
+      ]
+    },
+    {
+      "noms": ["Lune", "Pluton", "Soleil"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Émotions, Transformation et Identité",
+          "data": "La combinaison de la Lune, Pluton et Soleil en Verseau favorise une expression intense et confiante des émotions. L'individu peut être passionné, charismatique et capable de transformations profondes."
+        },
+        {
+          "nom": "Émotions et Charisme Transformateur",
+          "data": "La Lune amplifie l'intensité de Pluton et la vitalité du Soleil, conduisant à une personnalité émotionnellement intense et rayonnante, souvent impliquée dans des activités créatives et transformatrices."
+        }
+      ]
+    },
+    {
+      "noms": ["Lune", "Pluton", "Uranus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Émotions, Transformation et Innovation",
+          "data": "La combinaison de la Lune, Pluton et Uranus en Verseau favorise une expression intense et innovante des émotions. L'individu peut être passionné, révolutionnaire et attiré par des transformations radicales."
+        },
+        {
+          "nom": "Émotions et Rébellion Transformative",
+          "data": "La Lune amplifie l'intensité de Pluton et l'esprit révolutionnaire d'Uranus, conduisant à une personnalité émotionnellement intense et rebelle, souvent impliquée dans des activités transformatrices et progressistes."
+        }
+      ]
+    },
+    {
+      "noms": ["Lune", "Pluton", "Vénus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Émotions, Transformation et Amour",
+          "data": "La présence de la Lune, Pluton et Vénus en Verseau favorise une expression intense et harmonieuse des émotions. L'individu peut être passionné, charmant et capable de transformations profondes dans les relations amoureuses."
+        },
+        {
+          "nom": "Émotions et Charme Transformateur",
+          "data": "La Lune amplifie l'intensité de Pluton et le charme de Vénus, conduisant à une personnalité émotionnellement intense et séduisante, souvent impliquée dans des relations harmonieuses et transformatrices."
+        }
+      ]
+    },
+    {
+      "noms": ["Lune", "Saturne", "Soleil"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Émotions, Discipline et Identité",
+          "data": "La combinaison de la Lune, Saturne et Soleil en Verseau favorise une expression disciplinée et confiante des émotions. L'individu peut être sérieux, charismatique et capable de grandes réalisations grâce à la discipline."
+        },
+        {
+          "nom": "Émotions et Rigueur Charismatique",
+          "data": "La Lune amplifie la rigueur de Saturne et la vitalité du Soleil, conduisant à une personnalité émotionnellement intense et disciplinée, souvent impliquée dans des activités bien planifiées et inspirantes."
+        }
+      ]
+    },
+    {
+      "noms": ["Lune", "Saturne", "Uranus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Émotions, Discipline et Innovation",
+          "data": "La présence de la Lune, Saturne et Uranus en Verseau favorise une expression disciplinée et innovante des émotions. L'individu peut être sérieux, révolutionnaire et capable de combiner tradition et innovation."
+        },
+        {
+          "nom": "Émotions et Rigueur Révolutionnaire",
+          "data": "La Lune amplifie la rigueur de Saturne et l'esprit révolutionnaire d'Uranus, conduisant à une personnalité émotionnellement intense et progressiste, souvent impliquée dans des activités méthodiques et non conventionnelles."
+        }
+      ]
+    },
+    {
+      "noms": ["Lune", "Saturne", "Vénus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Émotions, Discipline et Amour",
+          "data": "La combinaison de la Lune, Saturne et Vénus en Verseau favorise une expression disciplinée et harmonieuse des émotions. L'individu peut être sérieux, charmant et capable de relations amoureuses durables."
+        },
+        {
+          "nom": "Émotions et Rigueur Charmeuse",
+          "data": "La Lune amplifie la rigueur de Saturne et le charme de Vénus, conduisant à une personnalité émotionnellement intense et séduisante, souvent impliquée dans des relations harmonieuses et durables."
+        }
+      ]
+    },
+    {
+      "noms": ["Lune", "Soleil", "Uranus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Émotions, Identité et Innovation",
+          "data": "La présence de la Lune, Soleil et Uranus en Verseau favorise une expression confiante et innovante des émotions. L'individu peut être charismatique, révolutionnaire et attiré par des expériences uniques et progressistes."
+        },
+        {
+          "nom": "Émotions et Charisme Révolutionnaire",
+          "data": "La Lune amplifie la vitalité du Soleil et l'esprit révolutionnaire d'Uranus, conduisant à une personnalité émotionnellement intense et rayonnante, souvent impliquée dans des activités créatives et progressistes."
+        }
+      ]
+    },
+    {
+      "noms": ["Lune", "Soleil", "Vénus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Émotions, Identité et Amour",
+          "data": "La combinaison de la Lune, Soleil et Vénus en Verseau favorise une expression confiante et harmonieuse des émotions. L'individu peut être charismatique, charmant et attiré par des relations amoureuses inspirantes."
+        },
+        {
+          "nom": "Émotions et Charisme Séduisant",
+          "data": "La Lune amplifie la vitalité du Soleil et le charme de Vénus, conduisant à une personnalité émotionnellement intense et séduisante, souvent impliquée dans des relations harmonieuses et créatives."
+        }
+      ]
+    },
+    {
+      "noms": ["Lune", "Uranus", "Vénus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Émotions, Innovation et Amour",
+          "data": "La combinaison de la Lune, Uranus et Vénus en Verseau favorise une expression innovante et harmonieuse des émotions. L'individu peut être sensible, révolutionnaire et charmant, attiré par des relations amoureuses uniques et non conventionnelles."
+        },
+        {
+          "nom": "Émotions et Charme Progressiste",
+          "data": "La Lune amplifie l'esprit révolutionnaire d'Uranus et le charme de Vénus, conduisant à une personnalité émotionnellement intense et séduisante, souvent impliquée dans des relations créatives et progressistes."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Mercure", "Neptune"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Action, Communication et Rêve",
+          "data": "La présence de Mars, Mercure et Neptune en Verseau favorise une expression dynamique et intuitive des actions et des communications. L'individu peut être énergique, communicatif et inspiré par des idéaux élevés."
+        },
+        {
+          "nom": "Énergie et Communication Inspirée",
+          "data": "Mars apporte de l'énergie à Mercure et Neptune, conduisant à une personnalité dynamique et imaginative, souvent impliquée dans des projets créatifs et inspirants."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Mercure", "Pluton"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Action, Communication et Transformation",
+          "data": "La combinaison de Mars, Mercure et Pluton en Verseau favorise une expression intense et transformative des actions et des communications. L'individu peut être énergique, persuasif et capable de transformations profondes."
+        },
+        {
+          "nom": "Énergie et Communication Intense",
+          "data": "Mars apporte de l'énergie à Mercure et Pluton, conduisant à une personnalité dynamique et persuasive, souvent impliquée dans des projets transformatifs et influents."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Mercure", "Saturne"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Action, Communication et Discipline",
+          "data": "La présence de Mars, Mercure et Saturne en Verseau favorise une expression disciplinée et méthodique des actions et des communications. L'individu peut être énergique, communicatif et rigoureux."
+        },
+        {
+          "nom": "Énergie et Communication Rigoureuse",
+          "data": "Mars apporte de l'énergie à Mercure et Saturne, conduisant à une personnalité dynamique et méthodique, souvent impliquée dans des projets structurés et disciplinés."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Mercure", "Soleil"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Action, Communication et Identité",
+          "data": "La combinaison de Mars, Mercure et Soleil en Verseau favorise une expression confiante et énergique des actions et des communications. L'individu peut être charismatique, communicatif et dynamique."
+        },
+        {
+          "nom": "Énergie et Communication Charismatique",
+          "data": "Mars apporte de l'énergie à Mercure et Soleil, conduisant à une personnalité dynamique et rayonnante, souvent impliquée dans des projets créatifs et inspirants."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Mercure", "Uranus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Action, Communication et Innovation",
+          "data": "La présence de Mars, Mercure et Uranus en Verseau favorise une expression dynamique et innovante des actions et des communications. L'individu peut être énergique, communicatif et attiré par des expériences uniques et progressistes."
+        },
+        {
+          "nom": "Énergie et Communication Progressiste",
+          "data": "Mars apporte de l'énergie à Mercure et Uranus, conduisant à une personnalité dynamique et innovante, souvent impliquée dans des projets créatifs et révolutionnaires."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Mercure", "Vénus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Action, Communication et Amour",
+          "data": "La combinaison de Mars, Mercure et Vénus en Verseau favorise une expression harmonieuse et énergique des actions et des communications. L'individu peut être charismatique, communicatif et charmant, attiré par des relations amoureuses créatives."
+        },
+        {
+          "nom": "Énergie et Communication Séduisante",
+          "data": "Mars apporte de l'énergie à Mercure et Vénus, conduisant à une personnalité dynamique et séduisante, souvent impliquée dans des projets créatifs et harmonieux."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Neptune", "Pluton"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Action, Rêve et Transformation",
+          "data": "La combinaison de Mars, Neptune et Pluton en Verseau favorise une expression dynamique et transformative des actions. L'individu peut être passionné, visionnaire et capable de réaliser des transformations profondes grâce à l'inspiration et à l'énergie."
+        },
+        {
+          "nom": "Énergie et Intuition Transformative",
+          "data": "Mars amplifie l'intensité de Neptune et Pluton, conduisant à une personnalité énergique et intuitive, souvent impliquée dans des projets créatifs et transformatifs."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Neptune", "Saturne"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Action, Rêve et Discipline",
+          "data": "La présence de Mars, Neptune et Saturne en Verseau favorise une expression disciplinée et inspirée des actions. L'individu peut être énergique, méthodique et capable de réaliser des projets créatifs avec rigueur."
+        },
+        {
+          "nom": "Énergie et Vision Structurée",
+          "data": "Mars apporte de l'énergie à Neptune et Saturne, conduisant à une personnalité dynamique et méthodique, souvent impliquée dans des projets à long terme et créatifs."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Neptune", "Soleil"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Action, Rêve et Identité",
+          "data": "La combinaison de Mars, Neptune et Soleil en Verseau favorise une expression dynamique et inspirante des actions. L'individu peut être charismatique, visionnaire et capable de réaliser des projets créatifs avec passion."
+        },
+        {
+          "nom": "Énergie et Charisme Inspirant",
+          "data": "Mars amplifie l'influence de Neptune et Soleil, conduisant à une personnalité énergique et charismatique, souvent impliquée dans des projets créatifs et inspirants."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Neptune", "Uranus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Action, Rêve et Innovation",
+          "data": "La présence de Mars, Neptune et Uranus en Verseau favorise une expression dynamique et innovante des actions. L'individu peut être énergique, visionnaire et attiré par des expériences uniques et progressistes."
+        },
+        {
+          "nom": "Énergie et Révolution Créative",
+          "data": "Mars amplifie l'esprit révolutionnaire d'Uranus et la vision de Neptune, conduisant à une personnalité dynamique et innovante, souvent impliquée dans des projets créatifs et non conventionnels."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Neptune", "Vénus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Action, Rêve et Amour",
+          "data": "La combinaison de Mars, Neptune et Vénus en Verseau favorise une expression passionnée et harmonieuse des actions. L'individu peut être charismatique, inspiré et attiré par des relations amoureuses créatives et idéalisées."
+        },
+        {
+          "nom": "Énergie et Charme Inspirant",
+          "data": "Mars amplifie la sensibilité de Neptune et le charme de Vénus, conduisant à une personnalité dynamique et séduisante, souvent impliquée dans des relations amoureuses et des projets créatifs."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Pluton", "Saturne"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Action, Transformation et Discipline",
+          "data": "La combinaison de Mars, Pluton et Saturne en Verseau favorise une expression intense et disciplinée des actions. L'individu peut être passionné, rigoureux et capable de réaliser des transformations profondes grâce à la discipline."
+        },
+        {
+          "nom": "Énergie et Rigueur Transformante",
+          "data": "Mars amplifie l'intensité de Pluton et la rigueur de Saturne, conduisant à une personnalité dynamique et méthodique, souvent impliquée dans des projets transformatifs et structurés."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Pluton", "Soleil"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Action, Transformation et Identité",
+          "data": "La présence de Mars, Pluton et Soleil en Verseau favorise une expression intense et charismatique des actions. L'individu peut être énergique, transformateur et capable de réaliser des projets créatifs avec passion et confiance."
+        },
+        {
+          "nom": "Énergie et Charisme Transformateur",
+          "data": "Mars amplifie l'influence de Pluton et la vitalité du Soleil, conduisant à une personnalité dynamique et rayonnante, souvent impliquée dans des projets créatifs et transformateurs."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Pluton", "Uranus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Action, Transformation et Innovation",
+          "data": "La combinaison de Mars, Pluton et Uranus en Verseau favorise une approche dynamique et révolutionnaire des actions. L'individu peut être passionné, transformateur et attiré par des changements radicaux et des projets innovants."
+        },
+        {
+          "nom": "Énergie et Révolution Transformante",
+          "data": "Mars amplifie l'intensité de Pluton et l'esprit innovateur d'Uranus, conduisant à une personnalité énergique et avant-gardiste, souvent impliquée dans des initiatives radicales et créatives."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Pluton", "Vénus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Action, Transformation et Amour",
+          "data": "La présence de Mars, Pluton et Vénus en Verseau favorise une expression intense et passionnée des actions et des relations amoureuses. L'individu peut être charismatique, transformateur et attiré par des relations profondes et intenses."
+        },
+        {
+          "nom": "Énergie et Charme Profond",
+          "data": "Mars amplifie l'influence de Pluton et le charme de Vénus, conduisant à une personnalité dynamique et séduisante, souvent impliquée dans des relations intenses et transformatrices."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Saturne", "Soleil"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Action, Discipline et Identité",
+          "data": "La combinaison de Mars, Saturne et Soleil en Verseau favorise une expression disciplinée et confiante des actions. L'individu peut être énergique, rigoureux et capable de réaliser des projets ambitieux avec une forte volonté."
+        },
+        {
+          "nom": "Énergie et Rigueur Charismatique",
+          "data": "Mars amplifie la rigueur de Saturne et la vitalité du Soleil, conduisant à une personnalité dynamique et méthodique, souvent impliquée dans des projets structurés et inspirants."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mercure", "Vénus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Identité, Communication et Amour",
+          "data": "La présence du Soleil, Mercure et Vénus en Verseau favorise une expression charismatique et harmonieuse des pensées et des émotions. L'individu peut être communicatif, charmant et attiré par des relations créatives et idéales."
+        },
+        {
+          "nom": "Charisme et Communication Séduisante",
+          "data": "Le Soleil amplifie les talents communicatifs de Mercure et le charme de Vénus, conduisant à une personnalité rayonnante et séduisante, souvent impliquée dans des activités créatives et communicatives."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Pluton", "Vénus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Identité, Transformation et Amour",
+          "data": "La combinaison du Soleil, Pluton et Vénus en Verseau favorise une expression intense et transformatrice des émotions et des relations. L'individu peut être charismatique, passionné et capable de créer des relations profondes et transformatrices."
+        },
+        {
+          "nom": "Charisme et Transformation Séduisante",
+          "data": "Le Soleil amplifie l'intensité de Pluton et le charme de Vénus, conduisant à une personnalité rayonnante et séduisante, souvent impliquée dans des relations intenses et évolutives."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Saturne", "Mercure"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Identité, Discipline et Communication",
+          "data": "La présence du Soleil, Saturne et Mercure en Verseau favorise une expression disciplinée et structurée des pensées et de l'identité. L'individu peut être rigoureux, méthodique et capable de communiquer des idées avec clarté et autorité."
+        },
+        {
+          "nom": "Charisme et Communication Structurée",
+          "data": "Le Soleil amplifie la rigueur de Saturne et les talents communicatifs de Mercure, conduisant à une personnalité rayonnante et méthodique, souvent impliquée dans des projets intellectuels et structurés."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Saturne", "Vénus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Identité, Discipline et Amour",
+          "data": "La combinaison du Soleil, Saturne et Vénus en Verseau favorise une expression équilibrée et harmonieuse des émotions et des relations. L'individu peut être charismatique, rigoureux et capable de créer des relations durables et harmonieuses."
+        },
+        {
+          "nom": "Charisme et Discipline Amoureuse",
+          "data": "Le Soleil amplifie la rigueur de Saturne et le charme de Vénus, conduisant à une personnalité rayonnante et disciplinée, souvent impliquée dans des relations structurées et épanouissantes."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Saturne", "Neptune"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Identité, Discipline et Rêve",
+          "data": "La combinaison du Soleil, Saturne et Neptune en Verseau favorise une expression disciplinée et inspirée de l'identité et des rêves. L'individu peut être charismatique, rigoureux et capable d'intégrer des visions idéales dans des projets structurés."
+        },
+        {
+          "nom": "Charisme et Vision Structurée",
+          "data": "Le Soleil amplifie la rigueur de Saturne et la sensibilité de Neptune, conduisant à une personnalité rayonnante et méthodique, souvent impliquée dans des projets créatifs et idéalisés avec une forte discipline."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mars", "Vénus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Identité, Action et Amour",
+          "data": "La présence du Soleil, Mars et Vénus en Verseau favorise une expression charismatique et dynamique des émotions et des relations. L'individu peut être énergique, passionné et attiré par des relations amoureuses créatives et inspirantes."
+        },
+        {
+          "nom": "Charisme et Énergie Séduisante",
+          "data": "Le Soleil amplifie l'énergie de Mars et le charme de Vénus, conduisant à une personnalité rayonnante et séduisante, souvent impliquée dans des projets créatifs et des relations passionnées."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mercure", "Neptune"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Identité, Communication et Rêve",
+          "data": "La combinaison du Soleil, Mercure et Neptune en Verseau favorise une expression inspirée et imaginative des pensées et de l'identité. L'individu peut être charismatique, communicatif et attiré par des idées idéalisées et créatives."
+        },
+        {
+          "nom": "Charisme et Communication Visionnaire",
+          "data": "Le Soleil amplifie les talents communicatifs de Mercure et la sensibilité de Neptune, conduisant à une personnalité rayonnante et imaginative, souvent impliquée dans des projets créatifs et visionnaires."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Vénus", "Neptune"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Identité, Amour et Rêve",
+          "data": "La présence du Soleil, Vénus et Neptune en Verseau favorise une expression charismatique et idéale des émotions et des relations. L'individu peut être séduisant, passionné et attiré par des relations profondes et idéalisées."
+        },
+        {
+          "nom": "Charisme et Amour Idéaliste",
+          "data": "Le Soleil amplifie le charme de Vénus et l'inspiration de Neptune, conduisant à une personnalité rayonnante et séduisante, souvent impliquée dans des relations intenses et créatives."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Saturne", "Uranus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Identité, Discipline et Innovation",
+          "data": "La combinaison du Soleil, Saturne et Uranus en Verseau favorise une expression disciplinée et innovante de l'identité. L'individu peut être charismatique, rigoureux et attiré par des projets novateurs et structurés."
+        },
+        {
+          "nom": "Charisme et Innovation Structurée",
+          "data": "Le Soleil amplifie la rigueur de Saturne et l'originalité d'Uranus, conduisant à une personnalité rayonnante et avant-gardiste, souvent impliquée dans des projets créatifs et révolutionnaires avec une forte discipline."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Saturne", "Pluton"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Identité, Discipline et Transformation",
+          "data": "La présence du Soleil, Saturne et Pluton en Verseau favorise une expression intense et rigoureuse de l'identité et des transformations personnelles. L'individu peut être charismatique, méthodique et capable de réaliser des changements profonds avec discipline."
+        },
+        {
+          "nom": "Charisme et Transformation Structurée",
+          "data": "Le Soleil amplifie la rigueur de Saturne et l'intensité de Pluton, conduisant à une personnalité rayonnante et transformatrice, souvent impliquée dans des projets structurés et profondément transformateurs."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mars", "Uranus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Identité, Action et Innovation",
+          "data": "La combinaison du Soleil, Mars et Uranus en Verseau favorise une expression charismatique et révolutionnaire des actions. L'individu peut être dynamique, innovateur et attiré par des projets uniques et avant-gardistes."
+        },
+        {
+          "nom": "Charisme et Énergie Révolutionnaire",
+          "data": "Le Soleil amplifie l'énergie de Mars et l'esprit novateur d'Uranus, conduisant à une personnalité rayonnante et avant-gardiste, souvent impliquée dans des initiatives créatives et progressistes."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mercure", "Uranus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Identité, Communication et Innovation",
+          "data": "La combinaison du Soleil, Mercure et Uranus en Verseau favorise une expression charismatique et originale des pensées. L'individu peut être brillant, communicatif et attiré par des idées novatrices et avant-gardistes."
+        },
+        {
+          "nom": "Charisme et Communication Révolutionnaire",
+          "data": "Le Soleil amplifie les talents communicatifs de Mercure et l'esprit innovateur d'Uranus, conduisant à une personnalité rayonnante et originale, souvent impliquée dans des projets intellectuels et créatifs."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Mercure", "Pluton"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Identité, Communication et Transformation",
+          "data": "La présence du Soleil, Mercure et Pluton en Verseau favorise une expression intense et transformative des pensées et de l'identité. L'individu peut être perspicace, communicatif et capable d'aborder les idées avec profondeur et passion."
+        },
+        {
+          "nom": "Charisme et Communication Profonde",
+          "data": "Le Soleil amplifie les talents communicatifs de Mercure et l'intensité de Pluton, conduisant à une personnalité rayonnante et perspicace, souvent impliquée dans des projets intellectuels et transformateurs."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Uranus", "Neptune"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Identité, Innovation et Rêve",
+          "data": "La combinaison du Soleil, Uranus et Neptune en Verseau favorise une expression charismatique et imaginative de l'identité et des idées. L'individu peut être visionnaire, inspiré et attiré par des projets créatifs et idéalisés."
+        },
+        {
+          "nom": "Charisme et Vision Inspirante",
+          "data": "Le Soleil amplifie l'esprit novateur d'Uranus et la sensibilité de Neptune, conduisant à une personnalité rayonnante et inspirante, souvent impliquée dans des projets créatifs et visionnaires."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Uranus", "Pluton"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Identité, Innovation et Transformation",
+          "data": "La présence du Soleil, Uranus et Pluton en Verseau favorise une expression intense et révolutionnaire de l'identité et des idées. L'individu peut être charismatique, transformateur et attiré par des projets innovants et profonds."
+        },
+        {
+          "nom": "Charisme et Révolution Transformante",
+          "data": "Le Soleil amplifie l'esprit novateur d'Uranus et l'intensité de Pluton, conduisant à une personnalité rayonnante et révolutionnaire, souvent impliquée dans des initiatives créatives et transformateurs."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Neptune", "Pluton"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Identité, Rêve et Transformation",
+          "data": "La combinaison du Soleil, Neptune et Pluton en Verseau favorise une expression charismatique et transformatrice des émotions et des idées. L'individu peut être inspiré, passionné et capable de réaliser des projets profonds et idéalisés."
+        },
+        {
+          "nom": "Charisme et Transformation Inspirante",
+          "data": "Le Soleil amplifie la sensibilité de Neptune et l'intensité de Pluton, conduisant à une personnalité rayonnante et inspirante, souvent impliquée dans des projets créatifs et transformateurs."
+        }
+      ]
+    },
+    {
+      "noms": ["Soleil", "Vénus", "Uranus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Identité, Amour et Innovation",
+          "data": "La présence du Soleil, Vénus et Uranus en Verseau favorise une expression charismatique et originale des émotions et des relations. L'individu peut être séduisant, innovant et attiré par des relations créatives et non conventionnelles."
+        },
+        {
+          "nom": "Charisme et Amour Révolutionnaire",
+          "data": "Le Soleil amplifie le charme de Vénus et l'esprit novateur d'Uranus, conduisant à une personnalité rayonnante et séduisante, souvent impliquée dans des relations créatives et progressistes."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mars", "Vénus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Discipline, Action et Amour",
+          "data": "La combinaison de Saturne, Mars et Vénus en Verseau favorise une expression rigoureuse et dynamique des émotions et des relations. L'individu peut être méthodique, énergique et capable de créer des relations durables avec une forte discipline."
+        },
+        {
+          "nom": "Rigueur et Charme Structuré",
+          "data": "Saturne amplifie la discipline de Mars et le charme de Vénus, conduisant à une personnalité structurée et séduisante, souvent impliquée dans des relations harmonieuses et bien établies."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mars", "Uranus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Discipline, Action et Innovation",
+          "data": "La combinaison de Saturne, Mars et Uranus en Verseau favorise une approche rigoureuse et dynamique des projets innovants. L'individu peut être méthodique et énergique, avec un penchant pour des solutions originales et avant-gardistes."
+        },
+        {
+          "nom": "Rigueur et Innovation Dynamique",
+          "data": "Saturne apporte la discipline à l'énergie de Mars et l'originalité d'Uranus, conduisant à une personnalité structurée et innovante, souvent impliquée dans des projets créatifs et réformateurs."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mercure", "Vénus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Discipline, Communication et Amour",
+          "data": "La présence de Saturne, Mercure et Vénus en Verseau favorise une expression rigoureuse et harmonieuse des pensées et des émotions. L'individu peut être méthodique et charmant, avec une approche réfléchie des relations et de la communication."
+        },
+        {
+          "nom": "Rigueur et Charme Structuré",
+          "data": "Saturne amplifie la discipline de Mercure et le charme de Vénus, conduisant à une personnalité structurée et séduisante, souvent impliquée dans des communications réfléchies et des relations bien équilibrées."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mercure", "Neptune"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Discipline, Communication et Rêve",
+          "data": "La combinaison de Saturne, Mercure et Neptune en Verseau favorise une expression disciplinée et inspirée des idées et des visions. L'individu peut être méthodique et créatif, capable de structurer des projets idéalisés avec rigueur."
+        },
+        {
+          "nom": "Rigueur et Imagination Structurée",
+          "data": "Saturne amplifie les talents communicatifs de Mercure et la sensibilité de Neptune, conduisant à une personnalité rigoureuse et imaginative, souvent impliquée dans des projets créatifs et visionnaires."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Vénus", "Neptune"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Discipline, Amour et Rêve",
+          "data": "La présence de Saturne, Vénus et Neptune en Verseau favorise une approche structurée et idéalisée des émotions et des relations. L'individu peut être discipliné et inspiré, capable de créer des relations profondes et harmonieuses."
+        },
+        {
+          "nom": "Rigueur et Amour Inspiré",
+          "data": "Saturne amplifie le charme de Vénus et la sensibilité de Neptune, conduisant à une personnalité structurée et séduisante, souvent impliquée dans des relations idéalisées et créatives."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Uranus", "Neptune"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Discipline, Innovation et Rêve",
+          "data": "La combinaison de Saturne, Uranus et Neptune en Verseau favorise une approche rigoureuse et imaginative des projets. L'individu peut être méthodique et original, capable d'intégrer des idées novatrices et idéalisées dans des structures solides."
+        },
+        {
+          "nom": "Rigueur et Vision Révolutionnaire",
+          "data": "Saturne amplifie l'innovation d'Uranus et la sensibilité de Neptune, conduisant à une personnalité structurée et visionnaire, souvent impliquée dans des projets créatifs et avant-gardistes avec une forte discipline."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Uranus", "Pluton"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Discipline, Innovation et Transformation",
+          "data": "La présence de Saturne, Uranus et Pluton en Verseau favorise une approche rigoureuse et transformatrice des projets. L'individu peut être méthodique et révolutionnaire, capable de réaliser des transformations profondes avec une forte discipline."
+        },
+        {
+          "nom": "Rigueur et Révolution Transformante",
+          "data": "Saturne amplifie l'originalité d'Uranus et l'intensité de Pluton, conduisant à une personnalité structurée et transformative, souvent impliquée dans des initiatives innovantes et profondes."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Pluton", "Neptune"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Discipline, Transformation et Rêve",
+          "data": "La combinaison de Saturne, Pluton et Neptune en Verseau favorise une approche rigoureuse et inspirée des transformations personnelles. L'individu peut être méthodique et profond, capable d'intégrer des changements significatifs avec une vision idéalisée."
+        },
+        {
+          "nom": "Rigueur et Transformation Inspirée",
+          "data": "Saturne amplifie l'intensité de Pluton et la sensibilité de Neptune, conduisant à une personnalité structurée et inspirante, souvent impliquée dans des projets de transformation profonde et créative."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mercure", "Uranus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Discipline, Communication et Innovation",
+          "data": "La combinaison de Saturne, Mercure et Uranus en Verseau favorise une approche méthodique et originale des idées et des projets. L'individu peut être structuré, brillant dans sa communication, et ouvert à des concepts novateurs et réformateurs."
+        },
+        {
+          "nom": "Rigueur et Pensée Novatrice",
+          "data": "Saturne amplifie les capacités analytiques de Mercure et l'esprit innovateur d'Uranus, conduisant à une personnalité disciplinée et inventive, souvent impliquée dans des projets intellectuels et avant-gardistes."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Mercure", "Pluton"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Discipline, Communication et Transformation",
+          "data": "La présence de Saturne, Mercure et Pluton en Verseau favorise une communication intense et transformative, avec une approche méthodique des idées profondes. L'individu peut être perspicace, rigoureux et capable de réaliser des changements significatifs dans sa pensée."
+        },
+        {
+          "nom": "Rigueur et Analyse Profonde",
+          "data": "Saturne amplifie les talents communicatifs de Mercure et la profondeur de Pluton, conduisant à une personnalité structurée et analytique, souvent impliquée dans des projets intellectuels et transformateurs."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Vénus", "Uranus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Discipline, Amour et Innovation",
+          "data": "La combinaison de Saturne, Vénus et Uranus en Verseau favorise une approche structurée et originale des relations et des émotions. L'individu peut être méthodique dans l'amour, avec une tendance à rechercher des relations créatives et non conventionnelles."
+        },
+        {
+          "nom": "Rigueur et Amour Révolutionnaire",
+          "data": "Saturne amplifie le charme de Vénus et l'esprit novateur d'Uranus, conduisant à une personnalité structurée et séduisante, souvent impliquée dans des relations progressistes et créatives."
+        }
+      ]
+    },
+    {
+      "noms": ["Saturne", "Vénus", "Pluton"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Discipline, Amour et Transformation",
+          "data": "La présence de Saturne, Vénus et Pluton en Verseau favorise une approche disciplinée et intense des relations et des émotions. L'individu peut être rigoureux et profond, avec une capacité à transformer et à intensifier ses expériences amoureuses."
+        },
+        {
+          "nom": "Rigueur et Transformation Amoureuse",
+          "data": "Saturne amplifie le charme de Vénus et l'intensité de Pluton, conduisant à une personnalité structurée et passionnée, souvent impliquée dans des relations profondes et transformatrices."
+        }
+      ]
+    },
+    {
+      "noms": ["Mars", "Uranus", "Vénus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Action, Innovation et Amour",
+          "data": "La combinaison de Mars, Uranus et Vénus en Verseau favorise une approche dynamique et originale des relations et des projets. L'individu peut être énergique et séduisant, avec une tendance à rechercher des expériences amoureuses uniques et novatrices."
+        },
+        {
+          "nom": "Énergie et Amour Révolutionnaire",
+          "data": "Mars amplifie l'innovation d'Uranus et le charme de Vénus, conduisant à une personnalité dynamique et séduisante, souvent impliquée dans des relations créatives et réformatrices."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Vénus", "Neptune"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Communication, Amour et Rêve",
+          "data": "La présence de Mercure, Vénus et Neptune en Verseau favorise une approche imaginative et communicative des émotions et des relations. L'individu peut être charmant et inspiré, avec une capacité à exprimer des idées créatives et idéalisées."
+        },
+        {
+          "nom": "Communication et Amour Inspiré",
+          "data": "Mercure amplifie la sensibilité de Vénus et l'imagination de Neptune, conduisant à une personnalité communicative et romantique, souvent impliquée dans des projets créatifs et visionnaires."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Vénus", "Uranus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Communication, Amour et Innovation",
+          "data": "La combinaison de Mercure, Vénus et Uranus en Verseau favorise une approche originale et expressive des idées et des émotions. L'individu peut être brillant dans sa communication et séduisant, avec une tendance à explorer des relations créatives et novatrices."
+        },
+        {
+          "nom": "Éloquence et Amour Créatif",
+          "data": "Mercure amplifie l'esprit novateur d'Uranus et le charme de Vénus, conduisant à une personnalité communicative et séduisante, souvent impliquée dans des projets intellectuels et amoureux originaux."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Vénus", "Pluton"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Communication, Amour et Transformation",
+          "data": "La combinaison de Mercure, Vénus et Pluton en Verseau favorise une communication intense et transformatrice dans les relations et les émotions. L'individu peut être profondément perspicace, avec une capacité à transformer les interactions amoureuses et intellectuelles."
+        },
+        {
+          "nom": "Éloquence et Passion Transformatrice",
+          "data": "Mercure amplifie le charme de Vénus et l'intensité de Pluton, conduisant à une personnalité communicative et passionnée, souvent impliquée dans des relations profondes et transformantes."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Neptune", "Uranus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Communication, Rêve et Innovation",
+          "data": "La présence de Mercure, Neptune et Uranus en Verseau favorise une approche imaginative et novatrice des idées et des visions. L'individu peut être brillant dans la communication des concepts créatifs et idéalisés."
+        },
+        {
+          "nom": "Éloquence et Vision Créative",
+          "data": "Mercure amplifie l'originalité d'Uranus et la sensibilité de Neptune, conduisant à une personnalité communicative et visionnaire, souvent impliquée dans des projets intellectuels et artistiques innovants."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Neptune", "Pluton"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Communication, Rêve et Transformation",
+          "data": "La combinaison de Mercure, Neptune et Pluton en Verseau favorise une communication profonde et inspirée, avec une capacité à transformer les idées et les visions. L'individu peut être perspicace et sensible, souvent impliqué dans des projets intellectuels et créatifs."
+        },
+        {
+          "nom": "Éloquence et Transformation Inspirée",
+          "data": "Mercure amplifie la sensibilité de Neptune et l'intensité de Pluton, conduisant à une personnalité communicative et profonde, souvent impliquée dans des projets de transformation personnelle et créative."
+        }
+      ]
+    },
+    {
+      "noms": ["Mercure", "Uranus", "Pluton"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Communication, Innovation et Transformation",
+          "data": "La présence de Mercure, Uranus et Pluton en Verseau favorise une approche dynamique et transformatrice des idées et des projets. L'individu peut être innovant et perspicace, avec une capacité à intégrer des concepts révolutionnaires et profonds."
+        },
+        {
+          "nom": "Éloquence et Révolution Profonde",
+          "data": "Mercure amplifie l'originalité d'Uranus et l'intensité de Pluton, conduisant à une personnalité communicative et révolutionnaire, souvent impliquée dans des projets intellectuels et transformationnels."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Neptune", "Uranus"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Amour, Rêve et Innovation",
+          "data": "La combinaison de Vénus, Neptune et Uranus en Verseau favorise une approche imaginative et originale des relations et des émotions. L'individu peut être charmant et inspiré, avec une tendance à rechercher des expériences amoureuses créatives et non conventionnelles."
+        },
+        {
+          "nom": "Charme et Vision Créative",
+          "data": "Vénus amplifie la sensibilité de Neptune et l'originalité d'Uranus, conduisant à une personnalité séduisante et visionnaire, souvent impliquée dans des relations idéalisées et créatives."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Neptune", "Pluton"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Amour, Rêve et Transformation",
+          "data": "La présence de Vénus, Neptune et Pluton en Verseau favorise une approche intense et idéalisée des émotions et des relations. L'individu peut être profondément romantique et transformateur, avec une capacité à créer des connexions profondes et significatives."
+        },
+        {
+          "nom": "Charme et Transformation Profonde",
+          "data": "Vénus amplifie la sensibilité de Neptune et l'intensité de Pluton, conduisant à une personnalité séduisante et passionnée, souvent impliquée dans des relations profondes et transformantes."
+        }
+      ]
+    },
+    {
+      "noms": ["Vénus", "Uranus", "Pluton"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Amour, Innovation et Transformation",
+          "data": "La combinaison de Vénus, Uranus et Pluton en Verseau favorise une approche originale et transformatrice des relations et des émotions. L'individu peut être dynamique et séduisant, avec une capacité à transformer les interactions amoureuses avec créativité et intensité."
+        },
+        {
+          "nom": "Charme et Révolution Passionnée",
+          "data": "Vénus amplifie l'originalité d'Uranus et l'intensité de Pluton, conduisant à une personnalité charmante et révolutionnaire, souvent impliquée dans des relations innovantes et profondes."
+        }
+      ]
+    },
+    {
+      "noms": ["Neptune", "Uranus", "Pluton"],
+      "signe": "Verseau",
+      "data": [
+        {
+          "nom": "Rêve, Innovation et Transformation",
+          "data": "La combinaison de Neptune, Uranus et Pluton en Verseau favorise une approche imaginative et révolutionnaire des transformations profondes. L'individu peut être visionnaire et perspicace, avec une capacité à intégrer des idées novatrices dans des processus de changement significatifs."
+        },
+        {
+          "nom": "Vision et Révolution Transformante",
+          "data": "Neptune amplifie l'originalité d'Uranus et l'intensité de Pluton, conduisant à une personnalité inspirée et transformatrice, souvent impliquée dans des projets de transformation personnelle et sociale avec une vision créative."
         }
       ]
     }

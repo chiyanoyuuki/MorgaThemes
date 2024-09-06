@@ -58,7 +58,7 @@
 
     <div *ngIf="onglet=='Général' && desc" class="desc">
       <p class="title"><img class="star" src="./assets/star.png">{{clicked}}<img class="star" src="./assets/star.png"></p>
-      <p>{{desc}}</p>
+      <p [innerHTML]="desc"></p>
       <img class="fondbloc" src="./assets/bloc.png"/>
     </div>
 
@@ -73,38 +73,20 @@
     <div class="menu" *ngIf="onglet=='Général'&&focus.length==0">
       <p *ngIf="onglet=='Général'">Sélectionnez une entité dans le thème astral..</p>
     </div>
+    
+    <div class="menu menu2" *ngIf="onglet=='Domaines'">
+      <p *ngFor="let dom of domaines" class="clickable" [class.clicked]="domaine.nom==dom.nom" (click)="domaine=dom">{{dom.nom}}</p>
+    </div>
 
     <div *ngIf="onglet=='Domaines'" class="domaines">
       <div class="domaine">
         <div class="flex titlestyle">
           <img class="star" src="./assets/star.png">
-          <p class="title borderbot">Santé</p>
+          <p class="title borderbot">{{domaine.nom}}</p>
           <img class="star" src="./assets/star.png">
         </div>
-        <p *ngIf="domaines.sante.length==0">Pas de données..</p>
-        <p *ngFor="let data of domaines.sante">{{data}}</p>
-        
-        <img class="fondbloc" src="./assets/bloc.png"/>
-      </div>
-      <div *ngIf="domaines.amour.length>0" class="domaine">
-        <div class="flex titlestyle">
-          <img class="star" src="./assets/star.png">
-          <p class="title borderbot">Amour</p>
-          <img class="star" src="./assets/star.png">
-        </div>
-        <p *ngIf="domaines.amour.length==0">Pas de données..</p>
-        <p *ngFor="let data of domaines.amour">{{data}}</p>
-        
-        <img class="fondbloc" src="./assets/bloc.png"/>
-      </div>
-      <div class="domaine">
-        <div class="flex titlestyle">
-          <img class="star" src="./assets/star.png">
-          <p class="title borderbot">Travail</p>
-          <img class="star" src="./assets/star.png">
-        </div>
-        <p *ngIf="domaines.travail.length==0">Pas de données..</p>
-        <p *ngFor="let data of domaines.travail">{{data}}</p>
+        <p *ngIf="domaine.domaines.length==0">Pas de données..</p>
+        <p *ngFor="let data of domaine.domaines" class="infosdomaine" [innerHTML]="data"></p>
         
         <img class="fondbloc" src="./assets/bloc.png"/>
       </div>
@@ -121,8 +103,8 @@
           </div>
           <div class="contenu">
             <div *ngFor="let data of obj.data">
-              <p class="title">{{data.nom?data.nom:data.maison}}</p>
-              <p>{{data.data}}</p>
+              <p class="title title2">{{data.nom?data.nom:data.maison}}</p>
+              <p [innerHTML]="data.data"></p>
             </div>
             <div *ngIf="!obj.data">
               <p class="title">Données manquantes</p>
@@ -143,7 +125,7 @@
           </div>
           <div class="contenu">
             <div>
-              <p>{{obj.data}}</p>
+              <p [innerHTML]="obj.data"></p>
             </div>
           </div>
 

@@ -328,13 +328,22 @@ button:hover{
 }
 .domaines{
     margin: 0vh 2vw;
-    margin-top: 100px!important;
     overflow-y: auto;
     position: relative;
     height: 85%;
     min-height: 85%;
     scrollbar-color: var(--purple3) var(--purple1);
   scrollbar-width: thin;
+}
+.infosdomaine
+{
+    margin-bottom: 1vh;
+}
+.title2{
+    font-size: 1.4vw !important;
+}
+b {
+    color: var(--yellow) !important;
 }
 .domaine{
     padding: 2vh 4vw;
