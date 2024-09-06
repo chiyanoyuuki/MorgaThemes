@@ -405,8 +405,9 @@ processFileContent(): void {
       //Planetes
       let data = this.data.filter((d:any)=>dom.planetes.includes(d.nom));
       data.forEach((d:any)=>{
+        console.log(d);
         let signe = domaine.find((f:any)=>f.planete==d.nom&&f.signe==d.signe);
-        let maison = domaine.find((f:any)=>f.planete==d.nom&&f.signe==d.signe);
+        let maison = domaine.find((f:any)=>f.planete==d.nom&&f.maison==d.maison);
         dom.domaines.push(this.setbold(signe.data));
         dom.domaines.push(this.setbold(maison.data));
       });
@@ -422,7 +423,6 @@ processFileContent(): void {
         &&((dom.planetes.includes(a.from)&&dom.dissonance.includes(a.to))||(dom.planetes.includes(a.to)&&dom.dissonance.includes(a.from)))
       );
       data.forEach((d:any)=>{
-        console.log(d);
         let aspect = domaine.find((f:any)=>(f.from==d.from&&f.to==d.to&&f.type==d.type)||(f.from==d.to&&f.to==d.from&&f.type==d.type));
         dom.domaines.push(this.setbold(aspect.data));
       });
@@ -890,10 +890,8 @@ processFileContent(): void {
     }
     else if(this.type=="Signes")
     {
-      console.log(this.data);
       data = data.filter((d:any)=>this.signes.includes(d.signe));
       data = data.filter((d:any)=>d.signe==s);
-      console.log(data);
       //console.log(data);
       data.forEach((d:any)=>{
         let signe = this.infos.data.find((i:any)=>i.nom==d.signe).data;
