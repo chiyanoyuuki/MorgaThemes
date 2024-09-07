@@ -74,7 +74,7 @@
       <p *ngIf="onglet=='Général'">Sélectionnez une entité dans le thème astral..</p>
     </div>
     
-    <div class="menu menu2" *ngIf="onglet=='Domaines'">
+    <div class="menu menu2 menudomaine" *ngIf="onglet=='Domaines'">
       <p *ngFor="let dom of domaines" class="clickable" [class.clicked]="domaine.nom==dom.nom" (click)="domaine=dom">{{dom.nom}}</p>
     </div>
 

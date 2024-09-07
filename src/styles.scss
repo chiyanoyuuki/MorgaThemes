@@ -62,7 +62,7 @@ html{
 }
 *{
     font-family: 'Future';
-    font-size: 1vw;
+    font-size: 1.1vw;
     line-height: 2.3vh;
     color:var(--purple3)!important;
     -webkit-user-select: none; /* Safari */
@@ -71,7 +71,7 @@ html{
 }
 .title{
     font-family: 'Chloe'!important;
-    font-size: 1.8vw !important;
+    font-size: 1.6vw !important;
     line-height: 1;
 }
 .sign{
@@ -335,9 +335,14 @@ button:hover{
     scrollbar-color: var(--purple3) var(--purple1);
   scrollbar-width: thin;
 }
-.infosdomaine
+.infosdomaine 
 {
     margin-bottom: 1vh;
+}
+.domaine p
+{
+    margin-bottom: 1vh;
+    font-size: 1.3vw;
 }
 .title2{
     font-size: 1.4vw !important;
@@ -345,10 +350,16 @@ button:hover{
 b {
     color: var(--yellow) !important;
 }
+.menudomaine{
+    padding-bottom: 2vh;
+}
+.domaine b {
+    font-size: 1.4vw!important;
+}
 .domaine{
     padding: 2vh 4vw;
     position:relative;
-    margin: 5vh 2vw 5vh 0vw;
+    margin: 2vh 2vw 2vh 0vw;
 }
 .star{
     width: 2.4vw;

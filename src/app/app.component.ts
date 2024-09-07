@@ -118,7 +118,7 @@ export class AppComponent implements OnInit
       console.log(p,nb)
     });*/
      
-    //this.readFile();
+    this.readFile();
     //this.readSigneGpt();
   }
 
@@ -882,9 +882,8 @@ processFileContent(): void {
         else{
           //Planete ou Asteroide en Maison
           let x = this.infos.maisons.find((m:any)=>m.maison==d.maison&&m.nom==d.nom);
-          let ligne = data.find((d:any)=>d.maison==s&&d.nom);
           x.data.forEach((d:any)=>d.data=this.setbold(d.data));
-          this.focus.push({nom:ligne.nom,data:x.data,type:this.planetes.includes(x.nom)?"Planetes":"Asteroides"});
+          this.focus.push({nom:x.nom,data:x.data,type:this.planetes.includes(x.nom)?"Planetes":"Asteroides"});
         }
       });
     }
