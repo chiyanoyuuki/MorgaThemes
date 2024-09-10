@@ -284,10 +284,10 @@ button:hover{
     color: var(--purple4) !important;
     text-decoration: underline;
 }
-.contsvg .svg .clickedSVG{
+.svg .clickedSVG{
     filter: brightness(0%) invert(100%) drop-shadow(0px 0px 5px var(--yellow)) !important
 }
-.contsvg .svg .clickedSVG2{
+.svg .clickedSVG2{
     filter: brightness(0%) invert(100%) drop-shadow(4px 4px 2px black) !important
 }
 .onglets{
