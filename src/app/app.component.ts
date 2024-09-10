@@ -53,7 +53,7 @@ export class AppComponent implements OnInit
   infos: any = INFOS;
 
   moveAndRotate = "start";
-  hover:any = "Sélectionnez un point";
+  hover:any;
   svg: any = [];
   svgid:any="";
   svgs: any;
@@ -874,6 +874,7 @@ processFileContent(): void {
           let objet:any = document.getElementById(nom);
           objet.addEventListener('click', () => {this.click(signe)});
           objet.addEventListener('mouseover', () => {this.hover=signe ;this.addClass(nom)});
+          objet.addEventListener('mouseleave', () => {this.hover=undefined ;this.removeClass(nom)});
           this.svgs.push({nom:signe,id:nom});
         }
       }
@@ -895,36 +896,22 @@ processFileContent(): void {
 
   addClass(s:string)
   {
-    for(let i=1;i<this.svg.length;i++)
+    let objet:any = document.getElementById(s);
+    objet.classList.add("active");
+    for(let i=2;i<6;i++)
+    {
+      let objet:any = document.getElementById(s+"-"+i);
+      if(objet)
       {
-        let x = this.svg[i];
-        if(x.match(/.*<image.*/g) || x.match(/.*<text id=\"texte.*/g))
-        {
-          let nom = x.substring(x.indexOf("\"")+1);
-          nom = nom.substring(0,nom.indexOf("\""));
-          let objet:any = document.getElementById(nom);
-          objet.classList.remove("active");
-          for(let i=2;i<6;i++)
-          {
-            let objet:any = document.getElementById(nom+"-"+i);
-            if(objet)
-            {
-              objet.classList.remove("active");
-            }
-          }
-        }
+        objet.classList.add("active");
       }
-  
-      let objet:any = document.getElementById(s);
-      objet.classList.add("active");
-      for(let i=2;i<6;i++)
-      {
-        let objet:any = document.getElementById(s+"-"+i);
-        if(objet)
-        {
-          objet.classList.add("active");
-        }
-      }
+    }
+  }
+
+  removeClass(s:string)
+  {  
+    let objects = Object.values(document.getElementsByClassName("active"));
+    objects.forEach((o:any)=>o.classList.remove("active"));
   }
 
   clickOnglet(onglet:any)
