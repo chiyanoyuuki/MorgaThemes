@@ -70,6 +70,8 @@ export class AppComponent implements OnInit
   onglet = this.onglets[0];
   domaines:any;
   
+  stelliums: any = [];
+  termes = ["Ascendant","Milieu du ciel"];
   menu = ["Hémisphère Nord/Sud", "Hémisphère Est/Ouest", "Modalités"];
   clicked2:any = this.menu[0];
   elements = {feu:["Bélier","Lion","Sagittaire"],air:["Gémeaux","Balance","Verseau"],terre:["Taureau","Vierge","Capricorne"],eau:["Cancer","Scorpion","Poissons"]};
@@ -118,7 +120,7 @@ export class AppComponent implements OnInit
       console.log(p,nb)
     });*/
      
-    this.readFile();
+    //this.readFile();
     //this.readSigneGpt();
   }
 
@@ -276,7 +278,6 @@ processFileContent(): void {
             let to = aspect.substring(0,aspect.indexOf(" "));
             aspects[i] = {from:from,type:type,to:to};
             if(this.aspects.find((as:any)=>as.from==from&&as.to==to&&as.type==type)==undefined)this.aspects.push(aspects[i]);
-            //else console.log(aspects[i]);
           }
         }
         s = s.substring(s.indexOf(">")+1);
@@ -343,6 +344,37 @@ processFileContent(): void {
       }
     });
 
+    this.stelliums = [];
+    let dataplanetes = this.data.filter((d:any)=>d.nom&&this.planetes.includes(d.nom));
+    dataplanetes.forEach((p:any)=>{
+      {
+        let planetes = dataplanetes.filter((d:any)=>d.signe==p.signe);
+        if(planetes.length>2)
+        {
+          let stelliums = [];
+          for(let i = 0; i < planetes.length -2; i++){
+            for(let j = i + 1; j < planetes.length -1; j++){
+              for(let k = j + 1; k < planetes.length; k++){
+                let st = this.infos.stelliums.find((s:any)=>s.noms.includes(planetes[i].nom)&&s.noms.includes(planetes[j].nom)&&s.noms.includes(planetes[k].nom)&&s.signe==p.signe);
+                if(stelliums.find((stel:any)=>stel.noms==st.noms&&stel.signe==st.signe)==undefined)stelliums.push(st);
+              }
+            }
+          }
+          stelliums.forEach((s:any)=>{
+            if(s==undefined)return;
+            let plans = [this.getPlaneteFromDataByName(s.noms[0]),this.getPlaneteFromDataByName(s.noms[1]),this.getPlaneteFromDataByName(s.noms[2])];
+            plans = plans.sort((a:any,b:any)=>{return b.degres-a.degres});
+            let ecart = plans[0].degres - plans[2].degres;
+            if(ecart<11)
+            {
+              if(this.stelliums.find((s2:any)=>s2.noms.includes(s.noms[0])&&s2.noms.includes(s.noms[1])&&s2.noms.includes(s.noms[2]))==undefined)
+                this.stelliums.push(s);
+            }
+          })
+        }
+      }
+    })      
+
     rgx = new RegExp(".*<svg id=\".*", 'i');
     let tmp = code.find((ligne:any)=>ligne.match(rgx));
     let idx = code.indexOf(tmp!);
@@ -353,20 +385,15 @@ processFileContent(): void {
     svgs = svgs.slice(0,idxend+1);
     this.svg = svgs;
 
-    //console.log("this.data",this.data);
-    //this.data.forEach((d:any)=>console.log(d.nom,d.signe,d.maison,d.degres,d.secondes));
-
     let emispheres = this.data;
     emispheres = emispheres.filter((e:any)=>e.nom);
     emispheres = emispheres.filter((e:any)=>this.planetes.includes(e.nom));
-    //console.log("emispheres",emispheres);
     emispheres = {
       nord:emispheres.filter((e:any)=>e.maison=="Maison I"||e.maison=="Maison II"||e.maison=="Maison III"||e.maison=="Maison IV"||e.maison=="Maison V"||e.maison=="Maison VI").length,
       sud:emispheres.filter((e:any)=>e.maison=="Maison VII"||e.maison=="Maison VIII"||e.maison=="Maison IX"||e.maison=="Maison X"||e.maison=="Maison XI"||e.maison=="Maison XII").length,
       est:emispheres.filter((e:any)=>e.maison=="Maison X"||e.maison=="Maison XI"||e.maison=="Maison XII"||e.maison=="Maison I"||e.maison=="Maison II"||e.maison=="Maison III").length,
       ouest:emispheres.filter((e:any)=>e.maison=="Maison IV"||e.maison=="Maison V"||e.maison=="Maison VI"||e.maison=="Maison VII"||e.maison=="Maison VIII"||e.maison=="Maison IX").length
     };
-    //console.log("emispheres",emispheres);
     this.general.emispherenord = this.infos.general.find((g:any)=>g.nord==emispheres.nord&&g.sud==emispheres.sud);
     this.general.emispherenord.data.forEach((d:any)=>{d.data = this.setbold(d.data);})
     this.general.emisphereest = this.infos.general.find((g:any)=>g.est==emispheres.est&&g.ouest==emispheres.ouest);
@@ -374,7 +401,6 @@ processFileContent(): void {
 
     let elements = this.data;
     elements = elements.filter((e:any)=>this.planetes.includes(e.nom));
-    //console.log("elements",elements);
     elements = {
       eau:elements.filter((e:any)=>this.elements.eau.includes(e.signe)).length,
       air:elements.filter((e:any)=>this.elements.air.includes(e.signe)).length,
@@ -386,26 +412,12 @@ processFileContent(): void {
     this.general.yang = this.infos.general.find((g:any)=>g.yang==elements.yang&&g.yin==elements.yin);
     this.general.yang.data.forEach((d:any)=>{d.data = this.setbold(d.data);})
 
-    /*
-    
-    console.log(amour);
-    this.data.forEach((d:any)=>{
-      console.log(d);
-      //let info = amour.find((a:any)=>a.planete==d.planete)
-    });
-    let lune = this.getPlaneteFromDataByName("Lune");
-    let infos = this.infos.domaines.find((d:any)=>d.domaine=="Amour"&&d.planete=="Lune"&&d.signe==lune.signe);
-    this.domaines.amour.push(infos.data);
-    infos = this.infos.domaines.find((d:any)=>d.domaine=="Amour"&&d.planete=="Lune"&&d.maison==lune.maison);
-    this.domaines.amour.push(infos.data);
-    //Travail*/
     //domaines
     this.domaines.forEach((dom:any)=>{
       let domaine = this.infos.domaines.filter((d:any)=>d.domaine==dom.nom);
       //Planetes
       let data = this.data.filter((d:any)=>dom.planetes.includes(d.nom));
       data.forEach((d:any)=>{
-        console.log(d);
         let signe = domaine.find((f:any)=>f.planete==d.nom&&f.signe==d.signe);
         let maison = domaine.find((f:any)=>f.planete==d.nom&&f.maison==d.maison);
         dom.domaines.push(this.setbold(signe.data));
@@ -426,6 +438,27 @@ processFileContent(): void {
         let aspect = domaine.find((f:any)=>(f.from==d.from&&f.to==d.to&&f.type==d.type)||(f.from==d.to&&f.to==d.from&&f.type==d.type));
         dom.domaines.push(this.setbold(aspect.data));
       });
+      //Exces
+      dom.exces.forEach((e:any)=>{
+        if(e=="Eau/Yin")
+        {
+          let eau = this.elements.eau.length
+          if(eau>5)
+          {
+            dom.domaines.push(this.setbold(this.infos.domaines.find((d:any)=>d.exces=="Eau/Yin").data));
+          }
+        }
+        else if(e=="Capricorne")
+        {
+          let planetes = this.data.filter((d:any)=>d.nom&&this.planetes.includes(d.nom)&&d.signe=="Capricorne").length;
+          let stellium = this.stelliums.find((s:any)=>s.signe=="Capricorne");
+          if(planetes>3 || stellium)
+          {
+            dom.domaines.push(this.setbold(this.infos.domaines.find((d:any)=>d.exces=="Capricorne").data));
+          }
+        }
+      })
+      
     });
     this.domaine = this.domaines[0];
     this.init(!this.informations);
@@ -458,18 +491,24 @@ processFileContent(): void {
       data = data.replace(rgx,"<b>"+d+"</b>");
     })
 
+    this.termes.forEach((d:any)=>{
+      let rgx = new RegExp(d, 'g');
+      data = data.replace(rgx,"<b>"+d+"</b>");
+    })
+
     return data;
   }
 
   setDomaine(){
     this.domaines = [
       {
-        nom:"Sante",
-        planetes:[],
-        maisons:[],
+        nom:"Santé",
+        planetes:["Vesta","Soleil","Lune","Saturne","Pluton"],
+        maisons:["Maison I","Maison IV","Maison VI","Maison VIII","Maison XII"],
         types:["carré","semi-carré","sesqui-carré","opposition"],
         dissonance:[],
         domaines:[],
+        exces:["Eau/Yin","Capricorne"]
       },
       {
         nom:"Amour",
@@ -478,14 +517,16 @@ processFileContent(): void {
         types:["semi-carré","sesqui-carré","opposition", "carré"],
         dissonance:["Pluton"],
         domaines:[],
+        exces:[]
       },
       {
         nom:"Travail",
-        planetes:[],
-        maisons:[],
-        types:["carré","semi-carré","sesqui-carré","opposition"],
+        planetes:["Soleil","Jupiter","Mercure","Saturne","Fortune","Vénus"],
+        maisons:["Maison II","Maison X","Maison VI"],
+        types:[],
         dissonance:[],
         domaines:[],
+        exces:[]
       }
     ]
   }
@@ -606,6 +647,104 @@ processFileContent(): void {
 		return "NA";
 	}
 
+  nameToObject(s:any)
+  {
+    switch(s) {
+      case "Bélier":
+          return "objet0";
+      case "Taureau":
+          return "objet1";
+      case "Gémeaux":
+          return "objet2";
+      case "Cancer":
+          return "objet3";
+      case "Lion":
+          return "objet4";
+      case "Vierge":
+          return "objet5";
+      case "Balance":
+          return "objet6";
+      case "Scorpion":
+          return "objet7";
+      case "Sagittaire":
+          return "objet8";
+      case "Capricorne":
+          return "objet9";
+      case "Verseau":
+          return "objet10";
+      case "Poissons":
+          return "objet11";
+      case "Soleil":
+          return "objet12";
+      case "Lune":
+          return "objet13";
+      case "Mercure":
+          return "objet14";
+      case "Vénus":
+          return "objet15";
+      case "Mars":
+          return "objet16";
+      case "Jupiter":
+          return "objet17";
+      case "Saturne":
+          return "objet18";
+      case "Uranus":
+          return "objet19";
+      case "Neptune":
+          return "objet20";
+      case "Pluton":
+          return "objet21";
+      case "Chiron":
+          return "objet22";
+      case "Cérès":
+          return "objet23";
+      case "Pallas":
+          return "objet24";
+      case "Junon":
+          return "objet25";
+      case "Vesta":
+          return "objet26";
+      case "Nœud Nord":
+          return "objet27";
+      case "Lilith":
+          return "objet28";
+      case "Fortune":
+          return "objet29";
+      case "Maison I":
+          return "texte30";
+      case "Maison II":
+          return "texte33";
+      case "Maison III":
+          return "texte34";
+      case "Maison IV":
+          return "texte35";
+      case "Maison V":
+          return "texte36";
+      case "Maison VI":
+          return "texte37";
+      case "Maison VII":
+          return "texte38";
+      case "Maison VIII":
+          return "texte39";
+      case "Maison IX":
+          return "texte40";
+      case "Maison X":
+          return "texte31";
+      case "Maison XI":
+          return "texte42";
+      case "Maison XII":
+          return "texte43";
+      case "Vertex":
+          return "objet44";
+      case "Point Est":
+          return "objet45";
+      case "Nœud Sud":
+          return "objet100";
+      default:
+          return "NA";
+  }
+  }
+
   opposite(signe:any)
   {
     switch(signe)
@@ -662,7 +801,7 @@ processFileContent(): void {
     for(let i=1;i<this.svg.length;i++)
     {
       let s = this.svg[i];
-      if(s.includes("objet27"))
+      if(s.includes("objet27\""))
       {
         let x = s.substring(s.indexOf("x=")+3);
         x = x.substring(0,x.indexOf("\""));
@@ -707,6 +846,20 @@ processFileContent(): void {
         + line2.substring(line2.indexOf("style="));
         this.svg.push(line2);
       }
+      if(s.match(/.*<image.*/g))
+      {
+        let nom = s.substring(s.indexOf("\"")+1);
+        nom = nom.substring(0,nom.indexOf("\""));
+        let nom2 = this.signes2(nom);
+        if(nom=="objet100"){}
+        else if(this.planetes.includes(nom2) || this.asteroides.includes(nom2) || nom=="objet30" || nom=="objet31")
+        {
+          this.svg[i+1] = "<line id=\""+nom+"-2\" " + this.svg[i+1].substring(this.svg[i+1].indexOf("x1="));
+          this.svg[i+2] = "<line id=\""+nom+"-3\" " + this.svg[i+2].substring(this.svg[i+2].indexOf("x1="));
+          this.svg[i+3] = "<text id=\""+nom+"-4\" " + this.svg[i+3].substring(this.svg[i+3].indexOf("x="));
+          this.svg[i+4] = "<text id=\""+nom+"-5\" " + this.svg[i+4].substring(this.svg[i+4].indexOf("x="));
+        }
+      }
       element.innerHTML = element.innerHTML + s;
     }
 
@@ -720,13 +873,11 @@ processFileContent(): void {
           let signe = this.signes2(nom);
           let objet:any = document.getElementById(nom);
           objet.addEventListener('click', () => {this.click(signe)});
-          objet.addEventListener('mouseover', (event:any) => {this.hover=signe ;this.addClass(nom)});
+          objet.addEventListener('mouseover', () => {this.hover=signe ;this.addClass(nom)});
           this.svgs.push({nom:signe,id:nom});
         }
       }
 
-
-      //console.log("PLANETES");
       this.svgs.forEach((svg:any)=>{
         svg.active = this.data.find((d:any)=>d.nom==svg.nom||d.signe==svg.nom||d.maison==svg.nom) != undefined;
         if(!svg.active)
@@ -753,11 +904,27 @@ processFileContent(): void {
           nom = nom.substring(0,nom.indexOf("\""));
           let objet:any = document.getElementById(nom);
           objet.classList.remove("active");
+          for(let i=2;i<6;i++)
+          {
+            let objet:any = document.getElementById(nom+"-"+i);
+            if(objet)
+            {
+              objet.classList.remove("active");
+            }
+          }
         }
       }
   
       let objet:any = document.getElementById(s);
       objet.classList.add("active");
+      for(let i=2;i<6;i++)
+      {
+        let objet:any = document.getElementById(s+"-"+i);
+        if(objet)
+        {
+          objet.classList.add("active");
+        }
+      }
   }
 
   clickOnglet(onglet:any)
@@ -799,44 +966,19 @@ processFileContent(): void {
     else if(this.signes.includes(s))this.type = "Signes";
     let data = this.data;
 
-    //console.log(this.type);
     if(this.type=="Asteroides"||this.type=="Planetes")
     {
       let ligne = data.find((d:any)=>d.nom==s);
-      //console.log("ligne",ligne);
       //Stelliums
-      if(this.planetes.includes(s))
-      {
-        let planetes = this.data.filter((d:any)=>this.planetes.includes(d.nom)&&d.signe==ligne.signe);
-        if(planetes.length>2)
+      this.stelliums.forEach((st:any)=>{
+        if(st.noms.includes(s))
         {
-          //console.log("stelliums",planetes);
-          let stelliums = [];
-          for(let i = 0; i < planetes.length -2; i++){
-            for(let j = i + 1; j < planetes.length -1; j++){
-              for(let k = j + 1; k < planetes.length; k++){
-                let st = this.infos.stelliums.find((s:any)=>s.noms.includes(planetes[i].nom)&&s.noms.includes(planetes[j].nom)&&s.noms.includes(planetes[k].nom)&&s.signe==ligne.signe);
-                if(stelliums.find((stel:any)=>stel.noms==st.noms&&stel.signe==st.signe)==undefined)stelliums.push(st);
-              }
-            }
-          }
-          //console.log(stelliums);
-          let validStelliums: any = [];
-          stelliums.forEach((s:any)=>{
-            if(s==undefined)return;
-            let plans = [this.getPlaneteFromDataByName(s.noms[0]),this.getPlaneteFromDataByName(s.noms[1]),this.getPlaneteFromDataByName(s.noms[2])];
-            plans = plans.sort((a:any,b:any)=>{return b.degres-a.degres});
-            let ecart = plans[0].degres - plans[2].degres;
-            if(ecart<11)validStelliums.push(s);
-          })
-          validStelliums.forEach((s:any)=>{
-            s.data.forEach((d:any)=>d.data=this.setbold(d.data));
-            this.focus.push({nom:s.noms[0]+", "+s.noms[1]+", "+s.noms[2]+" en "+s.signe,data:s.data,type:"Stelliums"})
-          });
+          st.data.forEach((d:any)=>d.data=this.setbold(d.data));
+          this.focus.push({nom:st.noms[0]+", "+st.noms[1]+", "+st.noms[2]+" en "+st.signe,data:st.data,type:"Stelliums"})
         }
-      }
+      });
+
       data = data.filter((d:any)=>d.nom==s);
-      //console.log(data);
       data.forEach((d:any)=>{
         let signe = this.infos.data.find((i:any)=>i.nom==d.signe).data;
         if(s!="Nœud Sud")
@@ -869,7 +1011,6 @@ processFileContent(): void {
     {
       data = data.filter((d:any)=>this.maisons.includes(d.maison));
       data = data.filter((d:any)=>d.maison==s);
-      //console.log(data);
       data.forEach((d:any)=>{
         let signe = this.infos.data.find((i:any)=>i.nom==d.signe).data;
         if(!d.nom){
@@ -891,7 +1032,6 @@ processFileContent(): void {
     {
       data = data.filter((d:any)=>this.signes.includes(d.signe));
       data = data.filter((d:any)=>d.signe==s);
-      //console.log(data);
       data.forEach((d:any)=>{
         let signe = this.infos.data.find((i:any)=>i.nom==d.signe).data;
         if(!d.nom){
@@ -911,8 +1051,88 @@ processFileContent(): void {
     const unique = [...new Set(this.focus.map((item:any) => item.type))];
     this.types = unique;
     this.type = unique[0];
-    //console.log("this.types",this.types);
-    //console.log(this.focus);
+    this.addClassClicked(s);
+  }
+
+  addClassClicked(s:string)
+  {
+    for(let i=1;i<this.svg.length;i++)
+      {
+        let x = this.svg[i];
+        if(x.match(/.*<image.*/g) || x.match(/.*<text id=\"texte.*/g)) //|| x.match(/.*<line x.*/g))
+        {
+          let nom = x.substring(x.indexOf("\"")+1);
+          nom = nom.substring(0,nom.indexOf("\""));
+          let objet:any = document.getElementById(nom);
+          objet.classList.remove("clickedSVG");
+          objet.classList.remove("clickedSVG2");
+
+          for(let i=2;i<6;i++)
+          {
+            let objet:any = document.getElementById(nom+"-"+i);
+            if(objet)
+            {
+              objet.classList.remove("clickedSVG");
+              objet.classList.remove("clickedSVG2");
+            }
+          }
+        }
+      }
+
+      this.focus.forEach((f:any)=>{
+        let obj = this.nameToObject(f.nom);
+        let objet:any = document.getElementById(obj);
+        
+        if(objet)
+        {
+          objet.classList.add("clickedSVG2");
+          
+          for(let i=2;i<6;i++)
+          {
+            let objet:any = document.getElementById(obj+"-"+i);
+            if(objet)
+            {
+              objet.classList.add("clickedSVG2");
+            }
+          }
+        }
+        else
+        {
+          if(obj=="texte31")
+          {
+            let objet:any = document.getElementById("objet31");
+            objet.classList.add("clickedSVG2");
+            objet = document.getElementById("texte41");
+            objet.classList.add("clickedSVG2");
+          }
+          else if(obj=="texte30")
+            {
+              let objet:any = document.getElementById("objet30");
+              objet.classList.add("clickedSVG2");
+              objet = document.getElementById("texte32");
+              objet.classList.add("clickedSVG2");
+            }
+        }
+      });
+  
+      let obj = this.nameToObject(s);
+      let objet:any = document.getElementById(obj);
+      for(let i=2;i<6;i++)
+      {
+        let objet:any = document.getElementById(obj+"-"+i);
+        if(objet)
+        {
+          objet.classList.add("clickedSVG");
+        }
+      }
+      if(!objet)
+      {
+        if(obj=="texte31")
+          objet = document.getElementById("objet31");
+        else if(obj=="texte30")
+          objet = document.getElementById("objet30");
+      }
+      objet.classList.add("clickedSVG");
   }
 }
 

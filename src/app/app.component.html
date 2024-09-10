@@ -53,9 +53,6 @@
       </div>
     </div>
 
-
-    <!-- <img *ngIf="onglet=='Général'" class="accueil clickable" (click)="clickAccueil()" src="./assets/roue.png"/> -->
-
     <div *ngIf="onglet=='Général' && desc" class="desc">
       <p class="title"><img class="star" src="./assets/star.png">{{clicked}}<img class="star" src="./assets/star.png"></p>
       <p [innerHTML]="desc"></p>
@@ -68,6 +65,15 @@
 
     <div class="menu menu2" *ngIf="onglet=='Accueil'&&svgs">
       <p *ngFor="let m of menu" class="clickable" [class.clicked]="clicked2==m" (click)="clicked2=m">{{m}}</p>
+    </div>
+
+    <div class="menu menu3" *ngIf="onglet=='Accueil'&&svgs">
+      <p class="title" *ngIf="clicked2==menu[0]">{{general.emispherenord.nord}} planètes dans l'emisphère Nord</p>
+      <p class="title" *ngIf="clicked2==menu[0]">{{general.emispherenord.sud}} planètes dans l'emisphère Sud</p>
+      <p class="title" *ngIf="clicked2==menu[1]">{{general.emisphereest.ouest}} planètes dans l'emisphère Ouest</p>
+      <p class="title" *ngIf="clicked2==menu[1]">{{general.emisphereest.est}} planètes dans l'emisphère Est</p>
+      <p class="title" *ngIf="clicked2==menu[2]">Yin :<br/>{{elements.terre.length}} éléments terre<br/>{{elements.eau.length}} éléments eau</p>
+      <p class="title" *ngIf="clicked2==menu[2]">Yang :<br/>{{elements.feu.length}} éléments feu<br/>{{elements.air.length}} éléments air</p>
     </div>
     
     <div class="menu" *ngIf="onglet=='Général'&&focus.length==0">
