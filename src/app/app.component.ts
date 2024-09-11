@@ -825,7 +825,7 @@ processFileContent(): void {
         x2 = 510 - x2;
         y1 = 510 - y1;
         y2 = 510 - y2;
-        line = "<line x1=\""+x1+"\" y1=\""+y1+"\" x2=\""+x2+"\" y2=\""+y2+"\" "
+        line = "<line id=\"objet100-2\" x1=\""+x1+"\" y1=\""+y1+"\" x2=\""+x2+"\" y2=\""+y2+"\" "
         + line.substring(line.indexOf("style="));
         this.svg.push(line);
 
@@ -842,7 +842,7 @@ processFileContent(): void {
         x2 = 510 - x2;
         y1 = 510 - y1;
         y2 = 510 - y2 + 35;
-        line2 = "<line x1=\""+x1+"\" y1=\""+y1+"\" x2=\""+x2+"\" y2=\""+y2+"\" "
+        line2 = "<line id=\"objet100-3\" x1=\""+x1+"\" y1=\""+y1+"\" x2=\""+x2+"\" y2=\""+y2+"\" "
         + line2.substring(line2.indexOf("style="));
         this.svg.push(line2);
       }
@@ -1041,34 +1041,9 @@ processFileContent(): void {
     this.addClassClicked(s);
   }
 
-  addClassClicked(s:string)
+  addSvg2(obj:any)
   {
-    for(let i=1;i<this.svg.length;i++)
-      {
-        let x = this.svg[i];
-        if(x.match(/.*<image.*/g) || x.match(/.*<text id=\"texte.*/g)) //|| x.match(/.*<line x.*/g))
-        {
-          let nom = x.substring(x.indexOf("\"")+1);
-          nom = nom.substring(0,nom.indexOf("\""));
-          let objet:any = document.getElementById(nom);
-          objet.classList.remove("clickedSVG");
-          objet.classList.remove("clickedSVG2");
-
-          for(let i=2;i<6;i++)
-          {
-            let objet:any = document.getElementById(nom+"-"+i);
-            if(objet)
-            {
-              objet.classList.remove("clickedSVG");
-              objet.classList.remove("clickedSVG2");
-            }
-          }
-        }
-      }
-
-      this.focus.forEach((f:any)=>{
-        let obj = this.nameToObject(f.nom);
-        let objet:any = document.getElementById(obj);
+    let objet:any = document.getElementById(obj);
         
         if(objet)
         {
@@ -1088,6 +1063,14 @@ processFileContent(): void {
           if(obj=="texte31")
           {
             let objet:any = document.getElementById("objet31");
+            for(let i=2;i<6;i++)
+              {
+                let objet:any = document.getElementById("objet31-"+i);
+                if(objet)
+                {
+                  objet.classList.add("clickedSVG2");
+                }
+              }
             objet.classList.add("clickedSVG2");
             objet = document.getElementById("texte41");
             objet.classList.add("clickedSVG2");
@@ -1095,12 +1078,43 @@ processFileContent(): void {
           else if(obj=="texte30")
             {
               let objet:any = document.getElementById("objet30");
+              for(let i=2;i<6;i++)
+                {
+                  let objet:any = document.getElementById("objet30-"+i);
+                  if(objet)
+                  {
+                    objet.classList.add("clickedSVG2");
+                  }
+                }
               objet.classList.add("clickedSVG2");
               objet = document.getElementById("texte32");
               objet.classList.add("clickedSVG2");
             }
         }
+  }
+
+  addClassClicked(s:string)
+  {
+    let objects = Object.values(document.getElementsByClassName("clickedSVG"));
+    objects.forEach((o:any)=>o.classList.remove("clickedSVG"));
+    objects = Object.values(document.getElementsByClassName("clickedSVG2"));
+    objects.forEach((o:any)=>o.classList.remove("clickedSVG2"));
+
+      this.focus.forEach((f:any)=>{
+        let obj = this.nameToObject(f.nom);
+        this.addSvg2(obj);
       });
+
+      this.stelliums.forEach((st:any)=>{
+        if(st.noms.includes(s))
+        {
+          let planetes = st.noms.filter((nom:any)=>nom!=s);
+          planetes.forEach((p:any)=>{
+            let obj = this.nameToObject(p);
+            this.addSvg2(obj);
+          })
+        }
+      })
   
       let obj = this.nameToObject(s);
       let objet:any = document.getElementById(obj);
@@ -1115,9 +1129,30 @@ processFileContent(): void {
       if(!objet)
       {
         if(obj=="texte31")
+        {
           objet = document.getElementById("objet31");
+          
+          for(let i=2;i<6;i++)
+            {
+              let objet:any = document.getElementById("objet31-"+i);
+              if(objet)
+              {
+                objet.classList.add("clickedSVG");
+              }
+            }
+        }
         else if(obj=="texte30")
+        {
           objet = document.getElementById("objet30");
+          for(let i=2;i<6;i++)
+            {
+              let objet:any = document.getElementById("objet30-"+i);
+              if(objet)
+              {
+                objet.classList.add("clickedSVG");
+              }
+            }
+        }
       }
       objet.classList.add("clickedSVG");
   }
