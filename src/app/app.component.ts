@@ -1,5 +1,5 @@
 import { trigger, state, style, transition, animate } from '@angular/animations';
-import { Component, ElementRef, NgModule, OnInit, ViewChild } from '@angular/core';
+import { Component, ElementRef, NgModule, OnInit, ViewChild, isDevMode } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { RouterOutlet } from '@angular/router';
 import { FormsModule } from '@angular/forms';
@@ -122,7 +122,7 @@ export class AppComponent implements OnInit
       console.log(p,nb)
     });*/
     
-    if(!environment.production)
+    if(isDevMode())
       this.readFile();
     //this.readSigneGpt();
   }
