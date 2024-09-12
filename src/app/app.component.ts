@@ -5,6 +5,7 @@ import { RouterOutlet } from '@angular/router';
 import { FormsModule } from '@angular/forms';
 import { HttpClient } from '@angular/common/http';
 import * as INFOS from '../assets/data.json';
+import { environment } from 'src/environments/environment';
 
 
 interface BirthData {
@@ -69,6 +70,7 @@ export class AppComponent implements OnInit
   onglets = ["Accueil","Domaines","Général"];
   onglet = this.onglets[0];
   domaines:any;
+  svgAspects:any;
   
   stelliums: any = [];
   termes = ["Ascendant","Milieu du ciel"];
@@ -79,7 +81,7 @@ export class AppComponent implements OnInit
   signes = ["Gémeaux", "Cancer", "Lion", "Vierge", "Balance", "Scorpion", "Sagittaire", "Capricorne", "Verseau", "Poissons", "Bélier", "Taureau"];
   maisons = ["Maison III","Maison VIII","Maison XII","Maison VII","Maison II","Maison IV","Maison XI","Maison IX","Maison VI","Maison I","Maison V","Maison X"];
   asteroides = ["Chiron","Nœud Nord","Nœud Sud","Cérès","Junon","Pallas","Fortune","Vertex","Vesta","Lilith","Point Est"];
-  typesaspects = ["semi-quinconce","opposition","sesqui-carré", "semi-carré","carré","semi-sextile","conjonction","quinconce","trigone","sextile","biquintile","quintile","novile","dodecile"]
+  typesaspects = ["semi-quinconce","opposition","sesqui-carré", "semi-carré","carré","semi-sextile","conjonction","quinconce","trigone","sextile","biquintile","quintile","novile","dodecile","bi-quintile"]
   domaine:any;
 
   showListe = false;
@@ -119,8 +121,9 @@ export class AppComponent implements OnInit
       let nb = this.infos.stelliums.filter((s:any)=>s.noms.includes(p)&&s.signe=="Verseau").length;
       console.log(p,nb)
     });*/
-     
-    //this.readFile();
+    
+    if(!environment.production)
+      this.readFile();
     //this.readSigneGpt();
   }
 
@@ -135,7 +138,7 @@ export class AppComponent implements OnInit
 
   readFile()
   {
-    this.http.get("../assets/charles.txt",{responseType: 'text'}).subscribe(text => {
+    this.http.get("../assets/themes/astro4.txt",{responseType: 'text'}).subscribe(text => {
       this.fileContent = text;
       this.format();
     });
@@ -887,11 +890,26 @@ processFileContent(): void {
           objet.classList.add("disabled");
         }
       })
+      this.getAspectscoords();
   }
 
-  ngAfterViewInit() {
-    //this.init(true);
-    
+  getAspectscoords()
+  {
+    let data = Object.values(document.getElementsByTagName("line"));
+    data = data.filter((d:any)=>d.getAttribute("style")!="stroke: #000000" && d.getAttribute("id")==null && d.getAttribute("class")==null);
+    /*let i = 0;
+    data.forEach((d:any)=>{
+      d.id = "line-"+i++;
+      d.addEventListener('click', () => {this.clickAsp(d)});
+      d.addEventListener('mouseover', () => {this.hover=d.id ;this.addClass(d.id)});
+      d.addEventListener('mouseleave', () => {this.hover=undefined ;this.removeClass(d.id)});
+    })*/
+    this.svgAspects = data;
+  }
+
+  clickAsp(asp:any)
+  {
+
   }
 
   addClass(s:string)
@@ -941,8 +959,84 @@ processFileContent(): void {
 
   getPlaneteFromDataByName(name:any){return this.data.find((planete:any)=>planete.nom==name);}
 
+  initHide()
+  {
+    console.log("inithide");
+    this.planetes.forEach((p:any)=>{
+      let id = this.nameToObject(p);
+      let obj:any = document.getElementById(id);
+      if(obj)
+      {
+        obj.classList.add("hide");
+        obj = document.getElementById(id+"-2");
+        obj.classList.add("hide");
+        obj = document.getElementById(id+"-3");
+        obj.classList.add("hide");
+        obj = document.getElementById(id+"-4");
+        obj.classList.add("hide");
+        obj = document.getElementById(id+"-5");
+        obj.classList.add("hide");
+      }
+    })
+    this.asteroides.forEach((p:any)=>{
+      let id = this.nameToObject(p);
+      let obj: any = document.getElementById(id);
+      if(obj)
+      {
+        obj.classList.add("hide");
+        obj = document.getElementById(id+"-2");
+        obj.classList.add("hide");
+        obj = document.getElementById(id+"-3");
+        obj.classList.add("hide");
+        if(p!="Nœud Sud")
+        {
+          obj = document.getElementById(id+"-4");
+          obj.classList.add("hide");
+          obj = document.getElementById(id+"-5");
+          obj.classList.add("hide");
+        }
+      }
+    })
+    this.signes.forEach((p:any)=>{
+      let id = this.nameToObject(p);
+      let obj: any = document.getElementById(id);
+      if(obj)
+      {
+        obj.classList.add("hide");
+      }
+    })
+    this.svgAspects.forEach((p:any)=>{
+        p.classList.add("hide");
+    })
+
+    let id = "objet30";
+    let obj: any = document.getElementById(id);
+    obj.classList.add("hide");
+    obj = document.getElementById(id+"-2");
+    obj.classList.add("hide");
+    obj = document.getElementById(id+"-3");
+    obj.classList.add("hide");
+    obj = document.getElementById(id+"-4");
+    obj.classList.add("hide");
+    obj = document.getElementById(id+"-5");
+    obj.classList.add("hide");
+
+    id = "objet31";
+    obj = document.getElementById(id);
+    obj.classList.add("hide");
+    obj = document.getElementById(id+"-2");
+    obj.classList.add("hide");
+    obj = document.getElementById(id+"-3");
+    obj.classList.add("hide");
+    obj = document.getElementById(id+"-4");
+    obj.classList.add("hide");
+    obj = document.getElementById(id+"-5");
+    obj.classList.add("hide");
+  }
+
   click(s:string)
   {
+    if(!this.desc){this.initHide();}
     this.onglet="Général";
     this.focus = [];
     this.clicked = s;
@@ -1115,6 +1209,21 @@ processFileContent(): void {
           })
         }
       })
+
+      this.aspects.filter((a:any)=>a.from==s||a.to==s).forEach((a:any)=>{
+        let from = a.from;
+        let to = a.to;
+        if(from==s)
+        {
+          let obj = this.nameToObject(to);
+          this.addSvg2(obj);
+        } 
+        else
+        {
+          let obj = this.nameToObject(from);
+          this.addSvg2(obj);
+        }
+      })
   
       let obj = this.nameToObject(s);
       let objet:any = document.getElementById(obj);
@@ -1155,6 +1264,45 @@ processFileContent(): void {
         }
       }
       objet.classList.add("clickedSVG");
+      if(this.planetes.includes(s))this.calculatePosition(s);
   }
-}
 
+    calculatePosition(s:any)
+    {
+      let id = this.nameToObject(s);
+      let obj = document.getElementById(id+"-2");
+      if(obj)
+      {
+        let rayonext = 155;
+        let rayonint = 85;
+
+        let x:any = obj.getAttribute("x2");
+        let y:any = obj.getAttribute("y2");
+
+        let angle = Math.atan2(y - 255, x - 255);
+
+        let x2: any = "" + (255 + rayonint * Math.cos(angle));
+        let y2: any = "" + (255 + rayonint * Math.sin(angle));
+
+        x2 = x2.substring(0,x2.indexOf(".")+2);
+        y2 = y2.substring(0,y2.indexOf(".")+2);
+
+        this.svgAspects.forEach((a:any)=>{
+          let x = a.getAttribute("x1");
+          let y = a.getAttribute("y1");
+          let xx = a.getAttribute("x2");
+          let yy = a.getAttribute("y2");
+
+          x = x.substring(0,x.indexOf(".")+2);
+          y = y.substring(0,y.indexOf(".")+2);
+          xx = xx.substring(0,xx.indexOf(".")+2);
+          yy = yy.substring(0,yy.indexOf(".")+2);
+
+          if((x==x2&&y==y2)||(xx==x2&&yy==y2))
+          {
+            a.classList.add("clickedSVG2");
+          }
+        })
+      }
+    }
+}

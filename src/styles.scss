@@ -263,6 +263,10 @@ button:hover{
     drop-shadow(0px 0px 2px var(--yellow)) 
     drop-shadow(0px 0px 2px var(--yellow)) 
     !important;
+    opacity:1!important;
+}
+.hide{
+    opacity:0.3;
 }
 .planete, .signe{
     transition:0.1s;
@@ -287,8 +291,10 @@ button:hover{
 .menu .clicked{
     color: var(--purple4) !important;
     text-decoration: underline;
+    opacity:1;
 }
 .svg .clickedSVG{
+    opacity:1!important;
     filter: brightness(0%) invert(100%) 
     drop-shadow(0px 0px 2px var(--pink)) 
     drop-shadow(0px 0px 2px var(--pink)) 
@@ -299,6 +305,7 @@ button:hover{
     drop-shadow(0px 0px 2px var(--pink))  !important
 }
 .svg .clickedSVG2{
+    opacity:1!important;
     filter: brightness(0%) invert(100%) 
     drop-shadow(0px 0px 2px var(--purple1)) 
     drop-shadow(0px 0px 2px var(--purple1)) 

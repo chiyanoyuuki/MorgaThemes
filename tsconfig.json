@@ -18,6 +18,7 @@
     "strictPropertyInitialization": false,
     "resolveJsonModule": true,
     "allowSyntheticDefaultImports": true,
+    
     "importHelpers": true,
     "target": "es2017",
     "module": "es2020",

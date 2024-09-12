@@ -9193,6 +9193,1356 @@
       ]
     },
     {
+      "from": "Uranus",
+      "type": "bi-quintile",
+      "to": "Soleil",
+      "data": [
+        {
+          "nom": "Innovation et Créativité",
+          "data": "La connexion bi-quintile entre Uranus et le Soleil favorise l'expression unique et la créativité, encourageant des idées novatrices et des approches originales."
+        },
+        {
+          "nom": "Transformation Personnelle",
+          "data": "Cette relation peut inciter des changements significatifs dans l'identité personnelle, souvent motivés par un désir de se libérer des conventions et d'explorer de nouvelles possibilités."
+        }
+      ]
+    },
+    {
+      "from": "Uranus",
+      "type": "bi-quintile",
+      "to": "Saturne",
+      "data": [
+        {
+          "nom": "Réforme Structurée",
+          "data": "L'aspect bi-quintile entre Uranus et Saturne peut permettre une révision efficace des structures établies, équilibrant innovation et stabilité."
+        },
+        {
+          "nom": "Discipline Créative",
+          "data": "Il peut également favoriser une approche disciplinée de la créativité, où les nouvelles idées sont intégrées de manière pratique et ordonnée."
+        }
+      ]
+    },
+    {
+      "from": "Uranus",
+      "type": "bi-quintile",
+      "to": "Mars",
+      "data": [
+        {
+          "nom": "Action Innovante",
+          "data": "Cet aspect stimule l'initiative et l'audace dans l'action, poussant à prendre des risques calculés pour atteindre des objectifs novateurs."
+        },
+        {
+          "nom": "Énergie Excentrique",
+          "data": "Il peut aussi entraîner une dynamique énergétique inhabituelle, où l'action est motivée par des idées révolutionnaires et des approches non conventionnelles."
+        }
+      ]
+    },
+    {
+      "from": "Uranus",
+      "type": "bi-quintile",
+      "to": "Mercure",
+      "data": [
+        {
+          "nom": "Pensée Originale",
+          "data": "La connexion bi-quintile entre Uranus et Mercure favorise des idées brillantes et une pensée inventive, souvent en avance sur leur temps."
+        },
+        {
+          "nom": "Communication Non Conventionnelle",
+          "data": "Elle encourage également des modes de communication inhabituels et innovants, avec une préférence pour les technologies de pointe et les approches non traditionnelles."
+        }
+      ]
+    },
+    {
+      "from": "Uranus",
+      "type": "bi-quintile",
+      "to": "Vénus",
+      "data": [
+        {
+          "nom": "Esthétique Unique",
+          "data": "Cet aspect peut inspirer une appréciation esthétique singulière et des goûts artistiques avant-gardistes, influençant les modes et les tendances."
+        },
+        {
+          "nom": "Relations Innovantes",
+          "data": "Il peut également apporter une dimension de nouveauté et d'originalité dans les relations personnelles, favorisant des connexions non conventionnelles et progressistes."
+        }
+      ]
+    },
+    {
+      "from": "Uranus",
+      "type": "bi-quintile",
+      "to": "Neptune",
+      "data": [
+        {
+          "nom": "Vision Spirituelle",
+          "data": "La relation bi-quintile entre Uranus et Neptune peut favoriser des éclairs d'intuition et des visions spirituelles novatrices, souvent inspirées par des idéaux élevés."
+        },
+        {
+          "nom": "Inspiration Collective",
+          "data": "Elle peut aussi encourager une approche collective de la créativité, où les rêves et les idéaux communs sont réalisés grâce à des idées innovantes."
+        }
+      ]
+    },
+    {
+      "from": "Uranus",
+      "type": "bi-quintile",
+      "to": "Jupiter",
+      "data": [
+        {
+          "nom": "Expansion Idéologique",
+          "data": "Cet aspect soutient l'expansion des horizons intellectuels et philosophiques, intégrant des idées révolutionnaires dans les croyances et les systèmes de valeurs."
+        },
+        {
+          "nom": "Optimisme Innovant",
+          "data": "Il peut aussi engendrer un optimisme basé sur la foi en des possibilités nouvelles et audacieuses, souvent liées à des progrès technologiques ou sociaux."
+        }
+      ]
+    },
+    {
+      "from": "Uranus",
+      "type": "bi-quintile",
+      "to": "Lune",
+      "data": [
+        {
+          "nom": "Émotions Inattendues",
+          "data": "La connexion bi-quintile entre Uranus et la Lune peut provoquer des émotions soudaines et imprévues, souvent déclenchées par des changements ou des innovations."
+        },
+        {
+          "nom": "Réactions Intuitives",
+          "data": "Elle favorise également des réponses émotionnelles intuitives et originales, souvent influencées par un désir de liberté et de nouveauté."
+        }
+      ]
+    },
+    {
+      "from": "Uranus",
+      "type": "bi-quintile",
+      "to": "Pluton",
+      "data": [
+        {
+          "nom": "Transformation Radical",
+          "data": "L'aspect bi-quintile entre Uranus et Pluton peut inciter des transformations profondes et radicales, souvent motivées par un besoin de révolution et de renouveau."
+        },
+        {
+          "nom": "Pouvoir Innovant",
+          "data": "Il peut aussi stimuler l'utilisation du pouvoir de manière innovante, en transformant des structures de pouvoir obsolètes pour les adapter à des idées progressistes."
+        }
+      ]
+    },
+    {
+      "from": "Soleil",
+      "type": "bi-quintile",
+      "to": "Saturne",
+      "data": [
+        {
+          "nom": "Leadership Structuré",
+          "data": "La connexion bi-quintile entre le Soleil et Saturne favorise un style de leadership discipliné et responsable, intégrant la créativité avec une approche méthodique."
+        },
+        {
+          "nom": "Ambition Pragmatique",
+          "data": "Elle peut aussi encourager une ambition réaliste, où les objectifs personnels sont poursuivis avec persévérance et sens pratique."
+        }
+      ]
+    },
+    {
+      "from": "Soleil",
+      "type": "bi-quintile",
+      "to": "Mars",
+      "data": [
+        {
+          "nom": "Énergie Dynamique",
+          "data": "Cet aspect renforce l'énergie vitale et la motivation, encourageant des actions audacieuses et entreprenantes."
+        },
+        {
+          "nom": "Créativité Passionnée",
+          "data": "Il favorise également une expression créative dynamique, souvent marquée par la passion et l'enthousiasme."
+        }
+      ]
+    },
+    {
+      "from": "Soleil",
+      "type": "bi-quintile",
+      "to": "Mercure",
+      "data": [
+        {
+          "nom": "Pensée Brillante",
+          "data": "La relation bi-quintile entre le Soleil et Mercure stimule l'intellect et favorise des idées ingénieuses et éclairées."
+        },
+        {
+          "nom": "Communication Charismatique",
+          "data": "Elle encourage également une communication vivante et charismatique, capable d'inspirer et de captiver les autres."
+        }
+      ]
+    },
+    {
+      "from": "Soleil",
+      "type": "bi-quintile",
+      "to": "Vénus",
+      "data": [
+        {
+          "nom": "Charme Créatif",
+          "data": "Cet aspect inspire une expression artistique charmante et esthétique, intégrant beauté et originalité."
+        },
+        {
+          "nom": "Relations Harmonieuses",
+          "data": "Il favorise également des relations personnelles harmonieuses, marquées par une affection sincère et un attrait mutuel."
+        }
+      ]
+    },
+    {
+      "from": "Soleil",
+      "type": "bi-quintile",
+      "to": "Uranus",
+      "data": [
+        {
+          "nom": "Expression Unique",
+          "data": "Cet aspect inspire une expression personnelle unique et originale, souvent marquée par des idées novatrices et des approches non conventionnelles."
+        },
+        {
+          "nom": "Transformation Créative",
+          "data": "Il favorise également des transformations personnelles créatives, incitant à explorer de nouvelles possibilités et à se libérer des contraintes traditionnelles."
+        }
+      ]
+    },
+    {
+      "from": "Soleil",
+      "type": "bi-quintile",
+      "to": "Neptune",
+      "data": [
+        {
+          "nom": "Vision Idéale",
+          "data": "La connexion bi-quintile entre le Soleil et Neptune favorise des visions créatives et idéales, souvent imprégnées d'inspiration spirituelle."
+        },
+        {
+          "nom": "Empathie Créative",
+          "data": "Elle encourage également une empathie profonde et une sensibilité artistique, souvent orientées vers des causes humanitaires et altruistes."
+        }
+      ]
+    },
+    {
+      "from": "Soleil",
+      "type": "bi-quintile",
+      "to": "Jupiter",
+      "data": [
+        {
+          "nom": "Optimisme Expansif",
+          "data": "Cet aspect renforce l'optimisme et l'expansion, intégrant des idéaux élevés et des aspirations généreuses."
+        },
+        {
+          "nom": "Leadership Visionnaire",
+          "data": "Il favorise également un style de leadership visionnaire, capable de guider les autres vers des objectifs ambitieux et progressistes."
+        }
+      ]
+    },
+    {
+      "from": "Soleil",
+      "type": "bi-quintile",
+      "to": "Lune",
+      "data": [
+        {
+          "nom": "Équilibre Émotionnel",
+          "data": "La relation bi-quintile entre le Soleil et la Lune favorise un équilibre harmonieux entre l'intellect et l'émotion, intégrant les deux pour une expression complète."
+        },
+        {
+          "nom": "Créativité Inspirée",
+          "data": "Elle encourage également une créativité nourrie par l'intuition et les sentiments, souvent empreinte de profondeur et de sensibilité."
+        }
+      ]
+    },
+    {
+      "from": "Soleil",
+      "type": "bi-quintile",
+      "to": "Pluton",
+      "data": [
+        {
+          "nom": "Pouvoir Personnel",
+          "data": "La connexion bi-quintile entre le Soleil et Pluton renforce le pouvoir personnel et la capacité à transformer sa propre vie de manière profonde."
+        },
+        {
+          "nom": "Regénération Créative",
+          "data": "Elle encourage également une régénération créative, où les crises et les défis sont transformés en opportunités de renouveau et de croissance."
+        }
+      ]
+    },
+    {
+      "from": "Mars",
+      "type": "bi-quintile",
+      "to": "Soleil",
+      "data": [
+        {
+          "nom": "Énergie Créative",
+          "data": "La connexion bi-quintile entre Mars et le Soleil stimule l'énergie créative, favorisant des actions audacieuses et innovantes."
+        },
+        {
+          "nom": "Leadership Dynamique",
+          "data": "Elle encourage également un leadership dynamique, où l'initiative et l'enthousiasme sont mis en avant pour inspirer les autres."
+        }
+      ]
+    },
+    {
+      "from": "Mars",
+      "type": "bi-quintile",
+      "to": "Saturne",
+      "data": [
+        {
+          "nom": "Discipline dans l'Action",
+          "data": "Cet aspect encourage une action disciplinée et structurée, où l'énergie est canalisée de manière efficace."
+        },
+        {
+          "nom": "Ambition Stratégique",
+          "data": "Il favorise également une ambition stratégique, où les objectifs sont poursuivis avec persévérance et planification rigoureuse."
+        }
+      ]
+    },
+    {
+      "from": "Mars",
+      "type": "bi-quintile",
+      "to": "Uranus",
+      "data": [
+        {
+          "nom": "Action Innovante",
+          "data": "La connexion bi-quintile entre Mars et Uranus stimule l'initiative et l'audace dans l'action, poussant à prendre des risques calculés pour atteindre des objectifs novateurs."
+        },
+        {
+          "nom": "Énergie Excentrique",
+          "data": "Elle peut aussi entraîner une dynamique énergétique inhabituelle, où l'action est motivée par des idées révolutionnaires et des approches non conventionnelles."
+        }
+      ]
+    },
+    {
+      "from": "Mars",
+      "type": "bi-quintile",
+      "to": "Mercure",
+      "data": [
+        {
+          "nom": "Esprit Agile",
+          "data": "Cet aspect favorise une pensée rapide et agile, intégrant action et intellect pour résoudre les problèmes de manière efficace."
+        },
+        {
+          "nom": "Communication Assertive",
+          "data": "Il encourage également une communication directe et assertive, où les idées sont exprimées avec clarté et confiance."
+        }
+      ]
+    },
+    {
+      "from": "Mars",
+      "type": "bi-quintile",
+      "to": "Vénus",
+      "data": [
+        {
+          "nom": "Passion Créative",
+          "data": "La connexion bi-quintile entre Mars et Vénus stimule une expression créative passionnée, intégrant l'art et l'action."
+        },
+        {
+          "nom": "Dynamique Relationnelle",
+          "data": "Elle favorise également des relations dynamiques, où l'attraction et l'affection sont exprimées de manière énergique et enthousiaste."
+        }
+      ]
+    },
+    {
+      "from": "Mars",
+      "type": "bi-quintile",
+      "to": "Neptune",
+      "data": [
+        {
+          "nom": "Action Inspirée",
+          "data": "Cet aspect encourage une action inspirée par des idéaux élevés et des rêves, intégrant spiritualité et motivation."
+        },
+        {
+          "nom": "Énergie Visionnaire",
+          "data": "Il peut aussi stimuler une énergie visionnaire, où les actions sont guidées par des intuitions profondes et des aspirations spirituelles."
+        }
+      ]
+    },
+    {
+      "from": "Mars",
+      "type": "bi-quintile",
+      "to": "Jupiter",
+      "data": [
+        {
+          "nom": "Expansion Énergétique",
+          "data": "La connexion bi-quintile entre Mars et Jupiter favorise une expansion énergétique, intégrant ambition et optimisme pour atteindre des objectifs élevés."
+        },
+        {
+          "nom": "Action Optimiste",
+          "data": "Elle encourage également une action optimiste, où la confiance et la foi en des résultats positifs motivent les efforts."
+        }
+      ]
+    },
+    {
+      "from": "Mars",
+      "type": "bi-quintile",
+      "to": "Lune",
+      "data": [
+        {
+          "nom": "Émotions Dynamique",
+          "data": "Cet aspect favorise une expression dynamique des émotions, intégrant énergie et sensibilité dans les réactions émotionnelles."
+        },
+        {
+          "nom": "Réactions Intuitives",
+          "data": "Il encourage également des réactions intuitives et rapides, où les instincts et les sentiments guident l'action."
+        }
+      ]
+    },
+    {
+      "from": "Mars",
+      "type": "bi-quintile",
+      "to": "Pluton",
+      "data": [
+        {
+          "nom": "Transformation Énergétique",
+          "data": "La connexion bi-quintile entre Mars et Pluton stimule des transformations profondes et énergiques, intégrant pouvoir et régénération."
+        },
+        {
+          "nom": "Pouvoir Intense",
+          "data": "Elle encourage également un pouvoir intense et déterminé, où la volonté de changement est mise en action avec force et conviction."
+        }
+      ]
+    },
+    {
+      "from": "Mercure",
+      "type": "bi-quintile",
+      "to": "Soleil",
+      "data": [
+        {
+          "nom": "Éclairs de Génie",
+          "data": "La connexion bi-quintile entre Mercure et le Soleil favorise des idées brillantes et des éclairs de génie, intégrant intellect et expression créative."
+        },
+        {
+          "nom": "Communication Charismatique",
+          "data": "Elle encourage également une communication charismatique, où les idées sont exprimées de manière captivante et inspirante."
+        }
+      ]
+    },
+    {
+      "from": "Mercure",
+      "type": "bi-quintile",
+      "to": "Saturne",
+      "data": [
+        {
+          "nom": "Pensée Organisée",
+          "data": "Cet aspect stimule une pensée claire et organisée, favorisant des approches méthodiques et pratiques dans la résolution de problèmes."
+        },
+        {
+          "nom": "Communication Responsable",
+          "data": "Il encourage également une communication responsable et réfléchie, intégrant sagesse et prudence dans les échanges."
+        }
+      ]
+    },
+    {
+      "from": "Mercure",
+      "type": "bi-quintile",
+      "to": "Mars",
+      "data": [
+        {
+          "nom": "Esprit Agile",
+          "data": "Cet aspect favorise une pensée rapide et agile, intégrant action et intellect pour résoudre les problèmes de manière efficace."
+        },
+        {
+          "nom": "Communication Assertive",
+          "data": "Il encourage également une communication directe et assertive, où les idées sont exprimées avec clarté et confiance."
+        }
+      ]
+    },
+    {
+      "from": "Mercure",
+      "type": "bi-quintile",
+      "to": "Vénus",
+      "data": [
+        {
+          "nom": "Expression Artistique",
+          "data": "La connexion bi-quintile entre Mercure et Vénus favorise une expression artistique et esthétique, intégrant beauté et intellect."
+        },
+        {
+          "nom": "Charme Communicationnel",
+          "data": "Elle encourage également une communication charmante et agréable, où les mots sont utilisés pour créer des connexions harmonieuses."
+        }
+      ]
+    },
+    {
+      "from": "Mercure",
+      "type": "bi-quintile",
+      "to": "Neptune",
+      "data": [
+        {
+          "nom": "Pensée Inspirée",
+          "data": "Cet aspect stimule une pensée inspirée et imaginative, intégrant intuition et intellect."
+        },
+        {
+          "nom": "Communication Spirituelle",
+          "data": "Il encourage également une communication spirituelle et poétique, où les mots véhiculent des idées profondes et transcendantes."
+        }
+      ]
+    },
+    {
+      "from": "Mercure",
+      "type": "bi-quintile",
+      "to": "Jupiter",
+      "data": [
+        {
+          "nom": "Sagesse Expansive",
+          "data": "La connexion bi-quintile entre Mercure et Jupiter favorise une expansion intellectuelle, intégrant sagesse et curiosité."
+        },
+        {
+          "nom": "Optimisme Intellectuel",
+          "data": "Elle encourage également un optimisme intellectuel, où les idées sont explorées avec enthousiasme et ouverture d'esprit."
+        }
+      ]
+    },
+    {
+      "from": "Mercure",
+      "type": "bi-quintile",
+      "to": "Lune",
+      "data": [
+        {
+          "nom": "Intuition Intellectuelle",
+          "data": "Cet aspect favorise une intégration de l'intuition et de l'intellect, où les pensées sont guidées par les sentiments."
+        },
+        {
+          "nom": "Communication Émotionnelle",
+          "data": "Il encourage également une communication émotionnelle, où les idées sont exprimées avec sensibilité et empathie."
+        }
+      ]
+    },
+    {
+      "from": "Mercure",
+      "type": "bi-quintile",
+      "to": "Uranus",
+      "data": [
+        {
+          "nom": "Pensée Originale",
+          "data": "La connexion bi-quintile entre Mercure et Uranus favorise des idées brillantes et une pensée inventive, souvent en avance sur leur temps."
+        },
+        {
+          "nom": "Communication Non Conventionnelle",
+          "data": "Elle encourage également des modes de communication inhabituels et innovants, avec une préférence pour les technologies de pointe et les approches non traditionnelles."
+        }
+      ]
+    },
+    {
+      "from": "Mercure",
+      "type": "bi-quintile",
+      "to": "Pluton",
+      "data": [
+        {
+          "nom": "Profondeur Intellectuelle",
+          "data": "Cet aspect stimule une pensée profonde et pénétrante, intégrant intellect et transformation."
+        },
+        {
+          "nom": "Communication Puissante",
+          "data": "Il encourage également une communication puissante et influente, où les mots ont un impact transformateur."
+        }
+      ]
+    },
+    {
+      "from": "Vénus",
+      "type": "bi-quintile",
+      "to": "Soleil",
+      "data": [
+        {
+          "nom": "Créativité Émotionnelle",
+          "data": "La connexion bi-quintile entre Vénus et le Soleil stimule une expression créative et émotionnelle, intégrant l'art et l'amour."
+        },
+        {
+          "nom": "Charme Personnel",
+          "data": "Elle favorise également un charme personnel magnétique, où l'affection et la créativité sont exprimées de manière attrayante."
+        }
+      ]
+    },
+    {
+      "from": "Vénus",
+      "type": "bi-quintile",
+      "to": "Saturne",
+      "data": [
+        {
+          "nom": "Relations Structurées",
+          "data": "Cet aspect favorise des relations solides et durables, basées sur des valeurs communes et un engagement sincère."
+        },
+        {
+          "nom": "Esthétique Pratique",
+          "data": "Il encourage également une approche esthétique pratique, où la beauté est appréciée dans un cadre ordonné et réaliste."
+        }
+      ]
+    },
+    {
+      "from": "Vénus",
+      "type": "bi-quintile",
+      "to": "Mars",
+      "data": [
+        {
+          "nom": "Passion Créative",
+          "data": "La connexion bi-quintile entre Vénus et Mars stimule une expression artistique passionnée, intégrant l'amour et l'énergie."
+        },
+        {
+          "nom": "Dynamique Relationnelle",
+          "data": "Elle favorise également des relations dynamiques, où l'affection et l'énergie sont exprimées de manière vive et enthousiaste."
+        }
+      ]
+    },
+    {
+      "from": "Vénus",
+      "type": "bi-quintile",
+      "to": "Mercure",
+      "data": [
+        {
+          "nom": "Expression Charmante",
+          "data": "Cet aspect favorise une expression charmante et articulée, où les idées sont communiquées avec élégance et persuasion."
+        },
+        {
+          "nom": "Créativité Verbale",
+          "data": "Il encourage également une créativité verbale, où les talents artistiques et communicatifs sont intégrés de manière harmonieuse."
+        }
+      ]
+    },
+    {
+      "from": "Vénus",
+      "type": "bi-quintile",
+      "to": "Neptune",
+      "data": [
+        {
+          "nom": "Idéalisme Romantique",
+          "data": "La connexion bi-quintile entre Vénus et Neptune inspire un idéalisme romantique, où l'amour est perçu à travers des lentilles spirituelles et idéalisées."
+        },
+        {
+          "nom": "Créativité Inspirée",
+          "data": "Elle favorise également une créativité inspirée, souvent marquée par des visions artistiques et spirituelles profondes."
+        }
+      ]
+    },
+    {
+      "from": "Vénus",
+      "type": "bi-quintile",
+      "to": "Jupiter",
+      "data": [
+        {
+          "nom": "Expansion des Goûts",
+          "data": "Cet aspect stimule l'expansion des goûts et des préférences, intégrant générosité et optimisme dans les relations et l'esthétique."
+        },
+        {
+          "nom": "Bonheur Partagé",
+          "data": "Il encourage également un bonheur partagé et une joie de vivre, souvent manifestée dans les interactions sociales et les plaisirs de la vie."
+        }
+      ]
+    },
+    {
+      "from": "Vénus",
+      "type": "bi-quintile",
+      "to": "Lune",
+      "data": [
+        {
+          "nom": "Harmonie Émotionnelle",
+          "data": "La connexion bi-quintile entre Vénus et la Lune favorise une harmonie émotionnelle dans les relations, intégrant amour et intuition."
+        },
+        {
+          "nom": "Expression Sentimentale",
+          "data": "Elle encourage également une expression sentimentale, où les émotions sont communiquées avec douceur et sincérité."
+        }
+      ]
+    },
+    {
+      "from": "Vénus",
+      "type": "bi-quintile",
+      "to": "Uranus",
+      "data": [
+        {
+          "nom": "Créativité Non Conventionnelle",
+          "data": "Cet aspect stimule une créativité non conventionnelle et innovante, intégrant l'originalité et la nouveauté dans les goûts et les relations."
+        },
+        {
+          "nom": "Relations Uniques",
+          "data": "Il favorise également des relations uniques et avant-gardistes, souvent marquées par une approche progressive et non traditionnelle."
+        }
+      ]
+    },
+    {
+      "from": "Vénus",
+      "type": "bi-quintile",
+      "to": "Pluton",
+      "data": [
+        {
+          "nom": "Transformation des Valeurs",
+          "data": "La connexion bi-quintile entre Vénus et Pluton favorise des transformations profondes des valeurs et des désirs, intégrant puissance et régénération."
+        },
+        {
+          "nom": "Passion Intense",
+          "data": "Elle encourage également une passion intense et une profondeur émotionnelle dans les relations, souvent marquée par un désir de transformation."
+        }
+      ]
+    },
+    {
+      "from": "Neptune",
+      "type": "bi-quintile",
+      "to": "Soleil",
+      "data": [
+        {
+          "nom": "Inspiration Créative",
+          "data": "La connexion bi-quintile entre Neptune et le Soleil stimule une inspiration créative profonde, intégrant idéalisme et expression personnelle."
+        },
+        {
+          "nom": "Vision Artistique",
+          "data": "Elle favorise également une vision artistique, où les talents créatifs sont nourris par des aspirations spirituelles."
+        }
+      ]
+    },
+    {
+      "from": "Neptune",
+      "type": "bi-quintile",
+      "to": "Saturne",
+      "data": [
+        {
+          "nom": "Réalisation Spirituelle",
+          "data": "Cet aspect encourage l'intégration des idéaux spirituels dans la réalité quotidienne, favorisant une approche pratique de la spiritualité."
+        },
+        {
+          "nom": "Discipline Inspirée",
+          "data": "Il peut également inciter à une discipline inspirée, où les rêves et les aspirations sont réalisés par des efforts constants et structurés."
+        }
+      ]
+    },
+    {
+      "from": "Neptune",
+      "type": "bi-quintile",
+      "to": "Mars",
+      "data": [
+        {
+          "nom": "Action Inspirée",
+          "data": "La connexion bi-quintile entre Neptune et Mars favorise une action inspirée par des idéaux élevés et des rêves, intégrant spiritualité et motivation."
+        },
+        {
+          "nom": "Énergie Visionnaire",
+          "data": "Elle peut aussi stimuler une énergie visionnaire, où les actions sont guidées par des intuitions profondes et des aspirations spirituelles."
+        }
+      ]
+    },
+    {
+      "from": "Neptune",
+      "type": "bi-quintile",
+      "to": "Mercure",
+      "data": [
+        {
+          "nom": "Pensée Intuitive",
+          "data": "Cet aspect favorise une pensée intuitive et imaginative, intégrant les processus mentaux et les inspirations spirituelles."
+        },
+        {
+          "nom": "Communication Poétique",
+          "data": "Il encourage également une communication poétique et spirituelle, où les idées sont exprimées avec profondeur et sensibilité."
+        }
+      ]
+    },
+    {
+      "from": "Neptune",
+      "type": "bi-quintile",
+      "to": "Vénus",
+      "data": [
+        {
+          "nom": "Idéalisme Romantique",
+          "data": "La connexion bi-quintile entre Neptune et Vénus inspire un idéalisme romantique, où l'amour est perçu à travers des lentilles spirituelles et idéalisées."
+        },
+        {
+          "nom": "Créativité Inspirée",
+          "data": "Elle favorise également une créativité inspirée, souvent marquée par des visions artistiques et spirituelles profondes."
+        }
+      ]
+    },
+    {
+      "from": "Neptune",
+      "type": "bi-quintile",
+      "to": "Jupiter",
+      "data": [
+        {
+          "nom": "Expansion Spirituelle",
+          "data": "Cet aspect stimule une expansion spirituelle et philosophique, intégrant sagesse et idéalisme dans la quête de vérité."
+        },
+        {
+          "nom": "Optimisme Inspiré",
+          "data": "Il encourage également un optimisme inspiré, où les croyances et les aspirations élevées motivent l'exploration et l'expansion."
+        }
+      ]
+    },
+    {
+      "from": "Neptune",
+      "type": "bi-quintile",
+      "to": "Lune",
+      "data": [
+        {
+          "nom": "Sensibilité Émotionnelle",
+          "data": "La connexion bi-quintile entre Neptune et la Lune favorise une sensibilité émotionnelle profonde, intégrant intuition et sentiment."
+        },
+        {
+          "nom": "Créativité Émotionnelle",
+          "data": "Elle encourage également une créativité nourrie par les émotions et l'intuition, souvent marquée par une expression artistique profonde."
+        }
+      ]
+    },
+    {
+      "from": "Neptune",
+      "type": "bi-quintile",
+      "to": "Uranus",
+      "data": [
+        {
+          "nom": "Vision Innovante",
+          "data": "Cet aspect stimule une vision innovante et avant-gardiste, intégrant inspiration spirituelle et idées progressistes."
+        },
+        {
+          "nom": "Créativité Révolutionnaire",
+          "data": "Il favorise également une créativité révolutionnaire, où les approches non conventionnelles sont inspirées par des idéaux élevés."
+        }
+      ]
+    },
+    {
+      "from": "Neptune",
+      "type": "bi-quintile",
+      "to": "Pluton",
+      "data": [
+        {
+          "nom": "Transformation Spirituelle",
+          "data": "La connexion bi-quintile entre Neptune et Pluton favorise des transformations spirituelles profondes, intégrant pouvoir et régénération."
+        },
+        {
+          "nom": "Passion Intuitive",
+          "data": "Elle encourage également une passion intuitive, où les désirs et les motivations sont guidés par des insights spirituels et émotionnels."
+        }
+      ]
+    },
+    {
+      "from": "Jupiter",
+      "type": "bi-quintile",
+      "to": "Soleil",
+      "data": [
+        {
+          "nom": "Optimisme Créatif",
+          "data": "La connexion bi-quintile entre Jupiter et le Soleil favorise un optimisme créatif, intégrant expansion personnelle et expression artistique."
+        },
+        {
+          "nom": "Leadership Inspirant",
+          "data": "Elle encourage également un leadership inspirant, où la vision et la confiance en soi sont utilisées pour guider les autres vers des objectifs élevés."
+        }
+      ]
+    },
+    {
+      "from": "Jupiter",
+      "type": "bi-quintile",
+      "to": "Saturne",
+      "data": [
+        {
+          "nom": "Expansion Structurée",
+          "data": "Cet aspect stimule une expansion structurée, où l'optimisme est équilibré par la discipline et la planification rigoureuse."
+        },
+        {
+          "nom": "Ambition Pragmatique",
+          "data": "Il favorise également une ambition pragmatique, où les grandes aspirations sont poursuivies avec réalisme et méthode."
+        }
+      ]
+    },
+    {
+      "from": "Jupiter",
+      "type": "bi-quintile",
+      "to": "Mars",
+      "data": [
+        {
+          "nom": "Énergie Optimiste",
+          "data": "La connexion bi-quintile entre Jupiter et Mars favorise une énergie optimiste, intégrant ambition et enthousiasme dans l'action."
+        },
+        {
+          "nom": "Expansion Dynamique",
+          "data": "Elle encourage également une dynamique d'expansion, où l'action est motivée par une vision large et des objectifs ambitieux."
+        }
+      ]
+    },
+    {
+      "from": "Jupiter",
+      "type": "bi-quintile",
+      "to": "Mercure",
+      "data": [
+        {
+          "nom": "Sagesse Intellectuelle",
+          "data": "Cet aspect favorise une sagesse intellectuelle, intégrant optimisme et curiosité dans les processus mentaux et les communications."
+        },
+        {
+          "nom": "Communication Inspirante",
+          "data": "Il encourage également une communication inspirante, où les idées sont exprimées avec clarté et enthousiasme."
+        }
+      ]
+    },
+    {
+      "from": "Jupiter",
+      "type": "bi-quintile",
+      "to": "Vénus",
+      "data": [
+        {
+          "nom": "Générosité Esthétique",
+          "data": "La connexion bi-quintile entre Jupiter et Vénus stimule une générosité esthétique, intégrant optimisme et sens du beau dans les relations et les goûts."
+        },
+        {
+          "nom": "Expansion des Plaisirs",
+          "data": "Elle favorise également une expansion des plaisirs et des désirs, où la joie de vivre et l'appréciation des bonnes choses sont amplifiées."
+        }
+      ]
+    },
+    {
+      "from": "Jupiter",
+      "type": "bi-quintile",
+      "to": "Neptune",
+      "data": [
+        {
+          "nom": "Idéalisme Élargi",
+          "data": "Cet aspect stimule un idéalisme élargi, intégrant vision spirituelle et aspirations élevées dans les croyances et les actions."
+        },
+        {
+          "nom": "Inspiration Philosophique",
+          "data": "Il encourage également une inspiration philosophique, où la quête de vérité et de sens est alimentée par des perspectives optimistes."
+        }
+      ]
+    },
+    {
+      "from": "Jupiter",
+      "type": "bi-quintile",
+      "to": "Lune",
+      "data": [
+        {
+          "nom": "Optimisme Émotionnel",
+          "data": "La connexion bi-quintile entre Jupiter et la Lune favorise un optimisme émotionnel, où les sentiments sont influencés par une perspective positive et expansive."
+        },
+        {
+          "nom": "Croissance Émotionnelle",
+          "data": "Elle encourage également une croissance émotionnelle, où les expériences sont vues comme des opportunités de développement et d'apprentissage."
+        }
+      ]
+    },
+    {
+      "from": "Jupiter",
+      "type": "bi-quintile",
+      "to": "Uranus",
+      "data": [
+        {
+          "nom": "Vision Expansive",
+          "data": "Cet aspect stimule une vision expansive et innovante, intégrant des idées progressistes et un optimisme large pour créer des changements significatifs."
+        },
+        {
+          "nom": "Innovation Optimiste",
+          "data": "Il favorise également une innovation optimiste, où les nouvelles idées sont explorées avec enthousiasme et confiance en l'avenir."
+        }
+      ]
+    },
+    {
+      "from": "Jupiter",
+      "type": "bi-quintile",
+      "to": "Pluton",
+      "data": [
+        {
+          "nom": "Transformation Élargie",
+          "data": "La connexion bi-quintile entre Jupiter et Pluton favorise une transformation élargie, intégrant pouvoir et régénération dans la quête de vérité et de croissance personnelle."
+        },
+        {
+          "nom": "Pouvoir Optimiste",
+          "data": "Elle encourage également un pouvoir optimiste, où la capacité à influencer et à transformer est motivée par une vision expansive et positive."
+        }
+      ]
+    },
+    {
+      "from": "Lune",
+      "type": "bi-quintile",
+      "to": "Soleil",
+      "data": [
+        {
+          "nom": "Harmonie Émotionnelle",
+          "data": "La connexion bi-quintile entre la Lune et le Soleil favorise une harmonie émotionnelle, intégrant sensibilité et expression personnelle."
+        },
+        {
+          "nom": "Créativité Émotionnelle",
+          "data": "Elle encourage également une créativité nourrie par les émotions, où l'intuition joue un rôle clé dans l'expression artistique."
+        }
+      ]
+    },
+    {
+      "from": "Lune",
+      "type": "bi-quintile",
+      "to": "Saturne",
+      "data": [
+        {
+          "nom": "Stabilité Émotionnelle",
+          "data": "Cet aspect favorise une stabilité émotionnelle, où les besoins affectifs sont intégrés avec une approche pratique et structurée."
+        },
+        {
+          "nom": "Responsabilité Familiale",
+          "data": "Il encourage également un sens aigu des responsabilités familiales et domestiques, avec une capacité à équilibrer émotions et obligations."
+        }
+      ]
+    },
+    {
+      "from": "Lune",
+      "type": "bi-quintile",
+      "to": "Mars",
+      "data": [
+        {
+          "nom": "Réactions Énergiques",
+          "data": "La connexion bi-quintile entre la Lune et Mars favorise des réactions énergiques et passionnées, où les émotions sont exprimées avec intensité."
+        },
+        {
+          "nom": "Action Intuitive",
+          "data": "Elle encourage également une action intuitive, où les décisions sont guidées par des ressentis émotionnels et des instincts."
+        }
+      ]
+    },
+    {
+      "from": "Lune",
+      "type": "bi-quintile",
+      "to": "Mercure",
+      "data": [
+        {
+          "nom": "Communication Émotionnelle",
+          "data": "Cet aspect favorise une communication émotionnelle et sensible, où les pensées sont exprimées avec une profonde compréhension des sentiments."
+        },
+        {
+          "nom": "Intuition Intellectuelle",
+          "data": "Il encourage également une intégration de l'intuition dans le raisonnement, où les émotions enrichissent la pensée et la communication."
+        }
+      ]
+    },
+    {
+      "from": "Lune",
+      "type": "bi-quintile",
+      "to": "Vénus",
+      "data": [
+        {
+          "nom": "Sensibilité Relationnelle",
+          "data": "La connexion bi-quintile entre la Lune et Vénus favorise une sensibilité accrue dans les relations, où l'affection est exprimée avec profondeur et nuance."
+        },
+        {
+          "nom": "Créativité Sentimentale",
+          "data": "Elle encourage également une créativité sentimentale, où les émotions nourrissent l'art et les expériences esthétiques."
+        }
+      ]
+    },
+    {
+      "from": "Lune",
+      "type": "bi-quintile",
+      "to": "Neptune",
+      "data": [
+        {
+          "nom": "Sensibilité Spirituelle",
+          "data": "Cet aspect stimule une sensibilité spirituelle, où les émotions sont influencées par des idéaux et des visions profondes."
+        },
+        {
+          "nom": "Intuition Créative",
+          "data": "Il favorise également une intuition créative, où les inspirations artistiques et spirituelles sont guidées par les sentiments."
+        }
+      ]
+    },
+    {
+      "from": "Lune",
+      "type": "bi-quintile",
+      "to": "Jupiter",
+      "data": [
+        {
+          "nom": "Optimisme Émotionnel",
+          "data": "La connexion bi-quintile entre la Lune et Jupiter favorise un optimisme émotionnel, où les sentiments sont guidés par une perspective positive et expansive."
+        },
+        {
+          "nom": "Croissance Émotionnelle",
+          "data": "Elle encourage également une croissance émotionnelle, avec une capacité à voir les défis comme des opportunités de développement."
+        }
+      ]
+    },
+    {
+      "from": "Lune",
+      "type": "bi-quintile",
+      "to": "Uranus",
+      "data": [
+        {
+          "nom": "Réactions Innovantes",
+          "data": "Cet aspect favorise des réactions émotionnelles innovantes et non conventionnelles, intégrant des sentiments uniques et progressistes."
+        },
+        {
+          "nom": "Créativité Émotionnelle Inhabituelle",
+          "data": "Il encourage également une créativité émotionnelle inhabituelle, où les expressions artistiques sont marquées par des idées originales et avant-gardistes."
+        }
+      ]
+    },
+    {
+      "from": "Lune",
+      "type": "bi-quintile",
+      "to": "Pluton",
+      "data": [
+        {
+          "nom": "Transformation Émotionnelle",
+          "data": "La connexion bi-quintile entre la Lune et Pluton favorise une transformation émotionnelle profonde, intégrant régénération et pouvoir personnel."
+        },
+        {
+          "nom": "Passion Intuitive",
+          "data": "Elle encourage également une passion intuitive, où les émotions intenses conduisent à une profonde compréhension et transformation personnelle."
+        }
+      ]
+    },
+    {
+      "from": "Pluton",
+      "type": "bi-quintile",
+      "to": "Soleil",
+      "data": [
+        {
+          "nom": "Pouvoir Créatif",
+          "data": "La connexion bi-quintile entre Pluton et le Soleil favorise un pouvoir créatif profond, intégrant transformation personnelle et expression artistique."
+        },
+        {
+          "nom": "Leadership Transformateur",
+          "data": "Elle encourage également un leadership transformateur, où l'influence et la régénération sont utilisées pour inspirer et guider."
+        }
+      ]
+    },
+    {
+      "from": "Pluton",
+      "type": "bi-quintile",
+      "to": "Saturne",
+      "data": [
+        {
+          "nom": "Transformation Structurée",
+          "data": "Cet aspect favorise une transformation structurée, où les changements profonds sont intégrés dans des cadres pratiques et disciplinés."
+        },
+        {
+          "nom": "Pouvoir Discipliné",
+          "data": "Il encourage également un pouvoir discipliné, où la régénération et le contrôle sont appliqués avec méthode et responsabilité."
+        }
+      ]
+    },
+    {
+      "from": "Pluton",
+      "type": "bi-quintile",
+      "to": "Mars",
+      "data": [
+        {
+          "nom": "Énergie Transformante",
+          "data": "La connexion bi-quintile entre Pluton et Mars stimule une énergie transformante, où la motivation et la passion conduisent à des changements profonds."
+        },
+        {
+          "nom": "Pouvoir Personnel",
+          "data": "Elle encourage également l'affirmation du pouvoir personnel, où l'action est guidée par une volonté de régénération et de contrôle."
+        }
+      ]
+    },
+    {
+      "from": "Pluton",
+      "type": "bi-quintile",
+      "to": "Mercure",
+      "data": [
+        {
+          "nom": "Pensée Profonde",
+          "data": "Cet aspect favorise une pensée profonde et pénétrante, intégrant intellect et transformation personnelle."
+        },
+        {
+          "nom": "Communication Intense",
+          "data": "Il encourage également une communication intense et influente, où les mots ont un impact transformateur et révélateur."
+        }
+      ]
+    },
+    {
+      "from": "Pluton",
+      "type": "bi-quintile",
+      "to": "Vénus",
+      "data": [
+        {
+          "nom": "Passion Intense",
+          "data": "La connexion bi-quintile entre Pluton et Vénus favorise une passion intense dans les relations, intégrant désir et transformation personnelle."
+        },
+        {
+          "nom": "Transformation des Valeurs",
+          "data": "Elle encourage également une transformation des valeurs et des désirs, où les expériences affectives sont marquées par une profondeur psychologique."
+        }
+      ]
+    },
+    {
+      "from": "Pluton",
+      "type": "bi-quintile",
+      "to": "Neptune",
+      "data": [
+        {
+          "nom": "Transformation Spirituelle",
+          "data": "Cet aspect favorise une transformation spirituelle profonde, intégrant pouvoir et régénération dans la quête de vérité et d'élévation."
+        },
+        {
+          "nom": "Inspiration Profonde",
+          "data": "Il encourage également une inspiration profonde, où les visions spirituelles sont teintées de puissance et de régénération."
+        }
+      ]
+    },
+    {
+      "from": "Pluton",
+      "type": "bi-quintile",
+      "to": "Jupiter",
+      "data": [
+        {
+          "nom": "Pouvoir Expansif",
+          "data": "La connexion bi-quintile entre Pluton et Jupiter stimule un pouvoir expansif, intégrant transformation personnelle et aspirations élevées."
+        },
+        {
+          "nom": "Transformation Optimiste",
+          "data": "Elle favorise également une transformation optimiste, où les changements profonds sont vus comme des opportunités de croissance et d'expansion."
+        }
+      ]
+    },
+    {
+      "from": "Pluton",
+      "type": "bi-quintile",
+      "to": "Lune",
+      "data": [
+        {
+          "nom": "Transformation Émotionnelle",
+          "data": "Cet aspect favorise une transformation émotionnelle profonde, intégrant régénération et pouvoir personnel dans les sentiments et les instincts."
+        },
+        {
+          "nom": "Passion Intuitive",
+          "data": "Il encourage également une passion intuitive, où les émotions sont guidées par une compréhension profonde et une volonté de changement."
+        }
+      ]
+    },
+    {
+      "from": "Pluton",
+      "type": "bi-quintile",
+      "to": "Uranus",
+      "data": [
+        {
+          "nom": "Réforme Profonde",
+          "data": "La connexion bi-quintile entre Pluton et Uranus favorise une réforme profonde et révolutionnaire, intégrant transformation et innovation."
+        },
+        {
+          "nom": "Pouvoir Innovant",
+          "data": "Elle encourage également un pouvoir innovant, où les changements significatifs sont marqués par des idées originales et avant-gardistes."
+        }
+      ]
+    },
+    {
+      "from": "Saturne",
+      "type": "bi-quintile",
+      "to": "Soleil",
+      "data": [
+        {
+          "nom": "Disciplines Créatives",
+          "data": "La connexion bi-quintile entre Saturne et le Soleil favorise l'intégration de la discipline et de la créativité, permettant une expression personnelle structurée et efficace."
+        },
+        {
+          "nom": "Leadership Responsable",
+          "data": "Elle encourage également un leadership responsable, où l'autorité et la rigueur sont combinées avec une vision inspirante."
+        }
+      ]
+    },
+    {
+      "from": "Saturne",
+      "type": "bi-quintile",
+      "to": "Mars",
+      "data": [
+        {
+          "nom": "Action Structurée",
+          "data": "Cet aspect favorise une action structurée et méthodique, où la détermination est combinée avec une approche organisée et pragmatique."
+        },
+        {
+          "nom": "Motivation Discipline",
+          "data": "Il encourage également une motivation fondée sur la discipline, permettant de réaliser des objectifs ambitieux avec rigueur."
+        }
+      ]
+    },
+    {
+      "from": "Saturne",
+      "type": "bi-quintile",
+      "to": "Mercure",
+      "data": [
+        {
+          "nom": "Pensée Méthodique",
+          "data": "La connexion bi-quintile entre Saturne et Mercure stimule une pensée méthodique et structurée, intégrant la rigueur intellectuelle et la clarté."
+        },
+        {
+          "nom": "Communication Structurée",
+          "data": "Elle favorise également une communication structurée, où les idées sont exprimées avec précision et organisation."
+        }
+      ]
+    },
+    {
+      "from": "Saturne",
+      "type": "bi-quintile",
+      "to": "Vénus",
+      "data": [
+        {
+          "nom": "Esthétique Pratique",
+          "data": "Cet aspect favorise une approche esthétique pratique, où les goûts et les préférences sont équilibrés avec une sensibilité réaliste et disciplinée."
+        },
+        {
+          "nom": "Relations Stables",
+          "data": "Il encourage également des relations stables et durables, où l'engagement et la responsabilité sont essentiels."
+        }
+      ]
+    },
+    {
+      "from": "Saturne",
+      "type": "bi-quintile",
+      "to": "Neptune",
+      "data": [
+        {
+          "nom": "Réalisme Spirituel",
+          "data": "La connexion bi-quintile entre Saturne et Neptune favorise un réalisme spirituel, où les idéaux et les rêves sont intégrés dans des objectifs pratiques et réalisables."
+        },
+        {
+          "nom": "Discipline Inspirée",
+          "data": "Elle encourage également une discipline inspirée, combinant la structure avec une vision spirituelle."
+        }
+      ]
+    },
+    {
+      "from": "Saturne",
+      "type": "bi-quintile",
+      "to": "Jupiter",
+      "data": [
+        {
+          "nom": "Expansion Structurée",
+          "data": "Cet aspect stimule une expansion structurée, où les grandes aspirations sont poursuivies avec méthode et organisation."
+        },
+        {
+          "nom": "Ambition Pragmatique",
+          "data": "Il favorise également une ambition pragmatique, combinant optimisme et discipline pour atteindre des objectifs élevés."
+        }
+      ]
+    },
+    {
+      "from": "Saturne",
+      "type": "bi-quintile",
+      "to": "Lune",
+      "data": [
+        {
+          "nom": "Stabilité Émotionnelle",
+          "data": "La connexion bi-quintile entre Saturne et la Lune favorise une stabilité émotionnelle, où les besoins affectifs sont équilibrés avec une approche pratique et disciplinée."
+        },
+        {
+          "nom": "Responsabilité Émotionnelle",
+          "data": "Elle encourage également une responsabilité émotionnelle, avec un sens aigu des obligations et des engagements familiaux."
+        }
+      ]
+    },
+    {
+      "from": "Saturne",
+      "type": "bi-quintile",
+      "to": "Uranus",
+      "data": [
+        {
+          "nom": "Innovation Structurée",
+          "data": "Cet aspect favorise une innovation structurée, où les idées progressistes sont intégrées dans des cadres pratiques et disciplinés."
+        },
+        {
+          "nom": "Réforme Responsable",
+          "data": "Il encourage également des réformes responsables, combinant le changement radical avec une approche méthodique et ordonnée."
+        }
+      ]
+    },
+    {
+      "from": "Saturne",
+      "type": "bi-quintile",
+      "to": "Pluton",
+      "data": [
+        {
+          "nom": "Transformation Structurée",
+          "data": "La connexion bi-quintile entre Saturne et Pluton favorise une transformation structurée, où les changements profonds sont intégrés dans des systèmes organisés et disciplinés."
+        },
+        {
+          "nom": "Pouvoir Régénérateur",
+          "data": "Elle encourage également un pouvoir régénérateur, combinant autorité et régénération pour des changements durables et significatifs."
+        }
+      ]
+    },
+    {
       "from": "Soleil",
       "type": "semi-sextile",
       "to": "Saturne",
