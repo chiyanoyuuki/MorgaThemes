@@ -4,6 +4,13 @@
 
 <input type="file" id="fileInput" #fileInput (change)="read($event)" style="display:none">
 
+<div class="loading-dots connect" *ngIf="!connected">
+  <p class="mdp">Mot de passe :</p>
+  <input type="password" placeholder="Mot de passe.." [(ngModel)]="mdp"/>
+  <button (click)="tryconnect()">Valider</button>
+  <p class="clickable" (click)="connected=true">Continuer en tant qu'utilisateur..</p>
+</div>
+
 <div class="loading-dots" *ngIf="loading">
   <p>Chargement des données</p>
   <div class="dot"></div>

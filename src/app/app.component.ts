@@ -108,7 +108,8 @@ VALUES:any = ["",1,"Janvier",1990,12,0,""];
   asteroides = ["Chiron","Nœud Nord","Nœud Sud","Cérès","Junon","Pallas","Fortune","Vertex","Vesta","Lilith","Point Est"];
   typesaspects = ["semi-quinconce","opposition","sesqui-carré", "semi-carré","carré","semi-sextile","conjonction","quinconce","trigone","sextile","biquintile","quintile","novile","dodecile","bi-quintile"]
   domaine:any;
-  edit = true;
+  edit = false;
+  connected = false;
 
   modalites:any = [];
   modalite:any;
@@ -119,10 +120,24 @@ VALUES:any = ["",1,"Janvier",1990,12,0,""];
   public innerWidth: any = window.outerWidth;
   public innerHeight: any = window.outerHeight;
 
+  mdp = "";
+
   interval: any;
   interval2:any;
 
-  files:any = [];
+  files:any = [{nom:"Fichier Local"},{
+    "nom": "Exemple",
+    "date": "01/01/1990",
+    "heure": "12:00",
+    "value": [
+      "exemple",
+      "01",
+      "Janvier",
+      "1990",
+      "12",
+      "00.txt"
+    ]
+  }];
   fileModel = "Nouveau Theme";
   filesOpen = false;
 
@@ -131,7 +146,7 @@ VALUES:any = ["",1,"Janvier",1990,12,0,""];
   ngOnInit(): void 
   {
     this.startInterval(100,"end");
-    this.getFiles();
+    
 
     /*this.http.post('http://localhost:3000/api/lancer-tests', {}).subscribe(response => {
       console.log(response);
@@ -165,11 +180,21 @@ VALUES:any = ["",1,"Janvier",1990,12,0,""];
     
     if(isDevMode())
     {
+      //this.connected = true;
       //this.VALUES = ["Charles",23,"Octobre",1995,10,20,"Montivilliers"];
-      this.readFile();
+      //this.readFile();
     }
       
     //this.readSigneGpt();
+  }
+
+  tryconnect()
+  {
+    if(this.mdp=="toukoutou")
+    {
+      this.connected=true;
+      this.getFiles();
+    }
   }
 
   getFile(file:any)
@@ -188,14 +213,18 @@ VALUES:any = ["",1,"Janvier",1990,12,0,""];
         let mois = this.MOIS.indexOf(datas[2])+1;
         let nom = datas[0][0].toUpperCase()+datas[0].substring(1);
     
-        this.files.push(
-          {
-            nom:nom,
-            date:datas[1]+"/"+(mois<10?"0"+mois:mois)+"/"+datas[3],
-            heure:datas[4]+":"+datas[5].substring(0,datas[5].indexOf(".")),
-            value:[datas[0],datas[1],datas[2],datas[3],datas[4],datas[5]]
-          }
-        );
+        if(nom!="Exemple")
+        {
+          this.files.push(
+            {
+              nom:nom,
+              date:datas[1]+"/"+(mois<10?"0"+mois:mois)+"/"+datas[3],
+              heure:datas[4]+":"+datas[5].substring(0,datas[5].indexOf(".")),
+              value:[datas[0],datas[1],datas[2],datas[3],datas[4],datas[5]]
+            }
+          );
+        }
+        
       })
     });
   }
@@ -257,7 +286,10 @@ VALUES:any = ["",1,"Janvier",1990,12,0,""];
     this.fileService.downloadFile(this.VALUES,isDevMode()).subscribe(blob => {
       this.fileContent = blob;
       this.format();
-      this.getFiles();
+      if(this.mdp=="toukoutou")
+      {
+        this.getFiles();
+      }
     });
   }
 

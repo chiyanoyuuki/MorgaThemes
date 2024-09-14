@@ -130,7 +130,7 @@ button, input, select{
     display:flex;
     justify-content: space-between;
 }
-.left input, .left select, .left button {
+.left input, .left select, .left button, .loading-dots input, .loading-dots button{
     width: 100%;
     margin-left: 0.5vw;
     margin-bottom: 1vh;
@@ -140,6 +140,9 @@ button, input, select{
   font-weight: bold;
   font-size: 1.2vw;
   border: 1px ridge var(--purple1);
+}
+.loading-dots input, .loading-dots button{
+    width:20%!important;
 }
 .file{
     transition: 0.5s;
@@ -411,6 +414,7 @@ button:hover{
 .elems{
     position: absolute!important;
   margin-top: 35px;
+  width:75%!important;
 }
 .elems img{
     height:40px;
@@ -593,4 +597,17 @@ color:var(--yellow)!important;
     height:75%!important;
     min-height:75%!important;
     top:50px;
+  }
+  .connect{
+    opacity:0.8!important;
+  }
+  .connect p{
+    padding-bottom:0px!important;
+    font-size:1.1vw!important;
+    bottom: 40vh;
+  }
+  .connect .mdp{
+    bottom: unset!important;
+  top: 40vh!important;
+  font-size: 2vw !important;
   }
