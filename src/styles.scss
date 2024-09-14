@@ -206,11 +206,14 @@ p{
     width:fit-content;
     margin-top:2vh;
     margin-bottom:2vh;
+    max-width:440px!important;
 }
 .informations p{
     text-align: center;
     margin:0;  
     font-size: 1.2vw;
+    text-overflow: ellipsis;
+  overflow: hidden;
 }
 .fondbloc
 {
