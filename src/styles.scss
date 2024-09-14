@@ -224,7 +224,12 @@ p{
   left:0px;
   z-index: -1;
 }
+.menu .menu{
+    width:100%;
+    position: relative;
+}
 .contsvg{
+    scale: 1.1;
     margin: 2vh 0px 0px 0px;
 }
 .stars{
@@ -569,4 +574,9 @@ color:var(--yellow)!important;
     40% {
       transform: scale(1);
     }
+  }
+
+  .domodalites{
+    height:80%!important;
+    min-height:80%!important;
   }

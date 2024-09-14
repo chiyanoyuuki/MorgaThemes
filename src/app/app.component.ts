@@ -95,10 +95,11 @@ VALUES:any = ["",1,"Janvier",1990,12,0,""];
   loading = false;
   
   stelliums: any = [];
-  termes = ["Ascendant","Milieu du ciel"];
+  termes = ["Ascendant","Milieu du ciel", " points", " eau ", " terre ", " air ", " feu "];
   menu = ["Hémisphère Nord/Sud", "Hémisphère Est/Ouest", "Modalités"];
   clicked2:any = this.menu[0];
   elements = {feu:["Bélier","Lion","Sagittaire"],air:["Gémeaux","Balance","Verseau"],terre:["Taureau","Vierge","Capricorne"],eau:["Cancer","Scorpion","Poissons"]};
+  polarites:any;
   planetes = ["Soleil","Saturne","Mars","Mercure","Vénus","Neptune","Jupiter","Lune","Uranus","Pluton"];
   signes = ["Gémeaux", "Cancer", "Lion", "Vierge", "Balance", "Scorpion", "Sagittaire", "Capricorne", "Verseau", "Poissons", "Bélier", "Taureau"];
   maisons = ["Maison III","Maison VIII","Maison XII","Maison VII","Maison II","Maison IV","Maison XI","Maison IX","Maison VI","Maison I","Maison V","Maison X"];
@@ -106,6 +107,9 @@ VALUES:any = ["",1,"Janvier",1990,12,0,""];
   typesaspects = ["semi-quinconce","opposition","sesqui-carré", "semi-carré","carré","semi-sextile","conjonction","quinconce","trigone","sextile","biquintile","quintile","novile","dodecile","bi-quintile"]
   domaine:any;
   edit = true;
+
+  modalites:any = [];
+  modalite:any;
 
   showListe = false;
   API_URL = 'https://api.openai.com/v1/chat/completions';
@@ -159,8 +163,8 @@ VALUES:any = ["",1,"Janvier",1990,12,0,""];
     
     if(isDevMode())
     {
-      this.VALUES = ["Charles",23,"Octobre",1995,10,20,"Montivilliers"];
-      //this.readFile();
+      //this.VALUES = ["Charles",23,"Octobre",1995,10,20,"Montivilliers"];
+      this.readFile();
     }
       
     //this.readSigneGpt();
@@ -379,6 +383,8 @@ processFileContent(): void {
 }
   format()
   {
+    this.polarites = {feu:0,air:0,terre:0,eau:0,planetes:[]}
+    this.modalites = [{nom:"Elements",data:[]},{nom:"Quadruplicités",data:[]},{nom:"Polarités",data:[]}];
     this.edit = false;
     this.setDomaine();
     this.general = {};
@@ -538,16 +544,24 @@ processFileContent(): void {
 
     let elements = this.data;
     elements = elements.filter((e:any)=>this.planetes.includes(e.nom));
-    elements = {
-      eau:elements.filter((e:any)=>this.elements.eau.includes(e.signe)).length,
-      air:elements.filter((e:any)=>this.elements.air.includes(e.signe)).length,
-      feu:elements.filter((e:any)=>this.elements.feu.includes(e.signe)).length,
-      terre:elements.filter((e:any)=>this.elements.terre.includes(e.signe)).length,
-    }
-    elements.yang = elements.feu+elements.air;
-    elements.yin = elements.terre+elements.eau;
-    this.general.yang = this.infos.general.find((g:any)=>g.yang==elements.yang&&g.yin==elements.yin);
-    this.general.yang.data.forEach((d:any)=>{d.data = this.setbold(d.data);})
+    this.addPolarite(elements.find((e:any)=>e.nom=="Lune").signe,"Lune",4);
+    this.addPolarite(elements.find((e:any)=>e.nom=="Soleil").signe,"Soleil",4);
+    let maitre = this.getMaitre(this.data.find((d:any)=>d.maison=="Maison I"&&!d.nom).signe);
+    this.addPolarite(elements.find((e:any)=>e.nom==maitre).signe,maitre,4);
+    this.addPolarite(elements.find((e:any)=>e.nom=="Mercure").signe,"Mercure",3);
+    this.addPolarite(elements.find((e:any)=>e.nom=="Vénus").signe,"Vénus",3);
+    this.addPolarite(elements.find((e:any)=>e.nom=="Mars").signe,"Mars",3);
+    this.addPolarite(elements.find((e:any)=>e.nom=="Jupiter").signe,"Jupiter",2);
+    this.addPolarite(elements.find((e:any)=>e.nom=="Saturne").signe,"Saturne",2);
+    this.addPolarite(elements.find((e:any)=>e.nom=="Uranus").signe,"Uranus",1);
+    this.addPolarite(elements.find((e:any)=>e.nom=="Neptune").signe,"Neptune",1);
+    this.addPolarite(elements.find((e:any)=>e.nom=="Pluton").signe,"Pluton",1);
+
+    this.modalites[0].data.push(this.setbold(this.infos.general.find((i:any)=>i.nom=="eau"&&i.points==this.polarites.eau).data));
+    this.modalites[0].data.push(this.setbold(this.infos.general.find((i:any)=>i.nom=="air"&&i.points==this.polarites.air).data));
+    this.modalites[0].data.push(this.setbold(this.infos.general.find((i:any)=>i.nom=="terre"&&i.points==this.polarites.terre).data));
+    this.modalites[0].data.push(this.setbold(this.infos.general.find((i:any)=>i.nom=="feu"&&i.points==this.polarites.feu).data));
+    this.modalites[0].data.sort((a:any,b:any)=>{return b.points-a.points});
 
     //domaines
     this.domaines.forEach((dom:any)=>{
@@ -597,8 +611,51 @@ processFileContent(): void {
       })
       
     });
+    this.modalite = this.modalites[0];
     this.domaine = this.domaines[0];
     this.init(!this.informations);
+  }
+
+  addPolarite(signe:any,planete:any,val:any)
+  {
+    if(this.polarites.planetes.includes(planete))return;
+    this.polarites.planetes.push(planete);
+    if(this.elements.air.includes(signe))this.polarites.air += val;
+    else if(this.elements.feu.includes(signe))this.polarites.feu += val;
+    else if(this.elements.terre.includes(signe))this.polarites.terre += val;
+    else if(this.elements.eau.includes(signe))this.polarites.eau += val;
+  }
+
+  getMaitre(signe:any)
+  {
+    switch (signe) {
+      case 'Bélier':
+        return 'Mars';
+      case 'Taureau':
+        return 'Vénus';
+      case 'Gémeaux':
+        return 'Mercure';
+      case 'Cancer':
+        return 'Lune';
+      case 'Lion':
+        return 'Soleil';
+      case 'Vierge':
+        return 'Mercure';
+      case 'Balance':
+        return 'Vénus';
+      case 'Scorpion':
+        return 'Pluton';
+      case 'Sagittaire':
+        return 'Jupiter';
+      case 'Capricorne':
+        return 'Saturne';
+      case 'Verseau':
+        return 'Uranus';
+      case 'Poissons':
+        return 'Neptune';
+      default:
+        return 'Signe inconnu';
+    }
   }
 
   setbold(data:any) 
@@ -671,7 +728,7 @@ processFileContent(): void {
   getGeneral()
   {
     let retour = [];
-    if(!this.general.yang)retour = [];
+    if(!this.general.emisphereest)retour = [];
     else if(this.clicked2==this.menu[0])retour = this.general.emispherenord.data;
     else if(this.clicked2==this.menu[1])retour = this.general.emisphereest.data;
     else if(this.clicked2==this.menu[2])retour = this.general.yang.data;

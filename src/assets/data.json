@@ -30339,476 +30339,6 @@
   ],
   "general": [
     {
-      "yang": "5",
-      "yin": "5",
-      "data": [
-        {
-          "nom": "Équilibre entre Dynamisme et Pragmatisme",
-          "data": "Avec une répartition équilibrée entre les signes de feu (Bélier, Lion, Sagittaire) et d'air (Gémeaux, Balance, Verseau) et les signes de terre (Taureau, Vierge, Capricorne) et d'eau (Cancer, Scorpion, Poissons), l'individu possède un équilibre notable entre dynamisme et pragmatisme. Il est capable de combiner énergie, créativité et approche réaliste dans ses activités."
-        },
-        {
-          "nom": "Combinaison d'Idées Nouvelles et de Réalisme",
-          "data": "La présence égale de planètes en signes de feu et d'air indique une forte capacité à générer des idées nouvelles et à adopter une approche innovante. En parallèle, la présence égale de planètes en signes de terre et d'eau permet d'ancrer ces idées dans la réalité et de les mettre en œuvre de manière pratique et émotionnelle."
-        },
-        {
-          "nom": "Approche Sociable et Réfléchie",
-          "data": "L'individu est à la fois sociable et réfléchi, avec la capacité de participer activement aux interactions sociales (signes de feu et d'air) tout en gardant une approche réfléchie et pratique des relations et des situations (signes de terre et d'eau). Cette combinaison favorise une communication efficace et une compréhension profonde des besoins des autres."
-        },
-        {
-          "nom": "Gestion Équilibrée des Émotions et des Actions",
-          "data": "La présence équilibrée de planètes dans les signes de feu et d'air, ainsi que dans les signes de terre et d'eau, suggère que l'individu est capable de gérer ses émotions de manière équilibrée tout en poursuivant des actions avec enthousiasme et détermination. Il sait quand être spontané et quand être prudent."
-        },
-        {
-          "nom": "Créativité et Sensibilité Associées",
-          "data": "La combinaison de signes de feu et d'air avec ceux de terre et d'eau permet de marier créativité avec sensibilité. L'individu peut exprimer ses idées innovantes et créatives tout en restant attentif à l'impact émotionnel de ses actions et en assurant que ses projets sont réalisables."
-        },
-        {
-          "nom": "Capacité à Adopter une Vision Globale",
-          "data": "L'équilibre entre les signes de feu et d'air (orientés vers l'expansion et l'idée) et les signes de terre et d'eau (orientés vers la gestion pratique et l'émotion) permet à l'individu d'avoir une vision globale qui intègre à la fois des perspectives larges et des détails pratiques."
-        },
-        {
-          "nom": "Tendance à Chercher l'Harmonie",
-          "data": "Avec une répartition équilibrée entre les signes yang et yin, l'individu est souvent en quête d'harmonie entre ses besoins d'innovation et d'action et ses besoins de stabilité et de confort émotionnel. Cette tendance se traduit par un équilibre dans la façon dont il aborde les défis de la vie."
-        },
-        {
-          "nom": "Flexibilité dans la Gestion des Défis",
-          "data": "La présence égale de planètes dans les signes de feu et d'air et dans les signes de terre et d'eau offre à l'individu une flexibilité dans la gestion des défis. Il peut alterner entre des approches audacieuses et créatives et des stratégies plus pratiques et réservées en fonction des circonstances."
-        },
-        {
-          "nom": "Harmonie entre Activité et Réflexion",
-          "data": "La répartition équilibrée entre les signes de feu et d'air et les signes de terre et d'eau favorise une harmonie entre l'activité et la réflexion. L'individu est capable de passer de l'action dynamique à une période de réflexion et de concentration, permettant une approche intégrée des projets et des objectifs."
-        }
-      ]
-    },
-    {
-      "yang": "6",
-      "yin": "4",
-      "data": [
-        {
-          "nom": "Dynamisme et Créativité Accrus",
-          "data": "La présence dominante de planètes en signes de feu (Bélier, Lion, Sagittaire) et d'air (Gémeaux, Balance, Verseau) indique un dynamisme élevé et une grande créativité. L'individu est généralement énergique, enthousiaste, et ouvert aux nouvelles idées et expériences."
-        },
-        {
-          "nom": "Orientation Vers l'Innovation",
-          "data": "Avec une concentration notable de planètes dans les signes de feu et d'air, l'individu est orienté vers l'innovation et les idées novatrices. Il est souvent attiré par les défis intellectuels et créatifs et aime explorer de nouvelles perspectives."
-        },
-        {
-          "nom": "Approche Sociable et Expressive",
-          "data": "La présence de planètes dans les signes de feu et d'air favorise une approche sociable et expressive. L'individu est souvent communicatif, capable de partager ses idées avec enthousiasme, et aime interagir avec les autres."
-        },
-        {
-          "nom": "Capacité à Prendre des Initiatives",
-          "data": "Avec une forte concentration en signes de feu, l'individu possède une grande capacité à prendre des initiatives et à se lancer dans de nouveaux projets. Il est motivé et prêt à relever des défis avec audace et confiance."
-        },
-        {
-          "nom": "Besoin de Concrétiser les Idées",
-          "data": "Malgré une majorité de planètes en signes de feu et d'air, les 4 planètes en signes de terre et d'eau permettent de concrétiser les idées. L'individu est capable de transformer ses visions créatives en réalisations tangibles grâce à un sens pratique et une compréhension des aspects émotionnels."
-        },
-        {
-          "nom": "Équilibre entre Innovation et Réalisme",
-          "data": "La répartition des planètes entre les signes de feu/air et les signes de terre/eau permet à l'individu de maintenir un équilibre entre innovation et réalisme. Il est capable d'équilibrer ses idées audacieuses avec une approche pratique et réfléchie."
-        },
-        {
-          "nom": "Tendance à Rechercher des Stimuli Intellectuels",
-          "data": "Avec une dominance des signes d'air, l'individu recherche souvent des stimuli intellectuels et des défis mentaux. Il est attiré par les discussions stimulantes et les environnements qui encouragent la pensée et l'analyse."
-        },
-        {
-          "nom": "Approche Passionnée et Ancrée",
-          "data": "La combinaison des signes de feu et d'air avec ceux de terre et d'eau offre une approche passionnée et ancrée des projets. L'individu est capable d'allier enthousiasme et passion avec une capacité à gérer les détails pratiques et les aspects émotionnels."
-        },
-        {
-          "nom": "Adaptabilité et Flexibilité",
-          "data": "La présence significative de planètes dans les signes de feu et d'air permet à l'individu de faire preuve d'adaptabilité et de flexibilité dans divers aspects de sa vie. Il est capable de naviguer entre des situations changeantes et d'ajuster ses plans en fonction des circonstances."
-        },
-        {
-          "nom": "Intégration des Besoins Pratiques et Créatifs",
-          "data": "La répartition des planètes indique que l'individu est bien équipé pour intégrer ses besoins pratiques et créatifs. Il sait comment harmoniser ses ambitions et ses idées avec les réalités concrètes et les exigences émotionnelles de la vie."
-        }
-      ]
-    },
-    {
-      "yang": "7",
-      "yin": "3",
-      "data": [
-        {
-          "nom": "Dynamisme et Enthousiasme Accrus",
-          "data": "La présence dominante de planètes en signes de feu (Bélier, Lion, Sagittaire) et d'air (Gémeaux, Balance, Verseau) indique un dynamisme élevé et un enthousiasme important. L'individu est généralement énergique, ambitieux, et motivé par des projets et des idées nouvelles."
-        },
-        {
-          "nom": "Orientation Vers l'Innovation et l'Expression",
-          "data": "Avec une concentration notable dans les signes de feu et d'air, l'individu est orienté vers l'innovation et l'expression personnelle. Il aime explorer de nouvelles idées, exprimer ses opinions et prendre des initiatives audacieuses."
-        },
-        {
-          "nom": "Approche Sociable et Communicative",
-          "data": "La prédominance des signes de feu et d'air favorise une approche sociable et communicative. L'individu est souvent à l'aise dans les interactions sociales, capable de partager ses idées et de s'engager dans des discussions stimulantes."
-        },
-        {
-          "nom": "Capacité à Initier des Changements",
-          "data": "Avec une forte concentration en signes de feu, l'individu possède une grande capacité à initier des changements et à se lancer dans de nouveaux projets avec confiance et détermination. Il est motivé par des défis et aime apporter des améliorations."
-        },
-        {
-          "nom": "Gestion Pratique et Réaliste",
-          "data": "Malgré une dominance de planètes en signes de feu et d'air, les 3 planètes en signes de terre et d'eau permettent de gérer les aspects pratiques et émotionnels. L'individu est capable de concrétiser ses idées avec un sens pratique et une compréhension des besoins émotionnels."
-        },
-        {
-          "nom": "Besoin d'Equilibrer Impulsivité et Réalisme",
-          "data": "La répartition des planètes suggère un besoin d'équilibrer l'impulsivité et la créativité avec le réalisme et la stabilité. L'individu peut parfois se retrouver à devoir équilibrer ses ambitions avec des considérations pratiques."
-        },
-        {
-          "nom": "Flexibilité et Adaptabilité",
-          "data": "Avec une forte présence de planètes dans les signes de feu et d'air, l'individu est généralement flexible et adaptable, capable de naviguer entre des situations variées et de s'ajuster rapidement aux changements."
-        },
-        {
-          "nom": "Tendance à Rechercher la Stimulation Mentale",
-          "data": "L'individu est attiré par des stimuli mentaux et des défis intellectuels, en raison de la forte concentration en signes d'air. Il apprécie les environnements qui stimulent sa pensée et favorisent l'échange d'idées."
-        },
-        {
-          "nom": "Capacité à Concrétiser les Idées",
-          "data": "Les 3 planètes en signes de terre et d'eau aident l'individu à traduire ses idées créatives en actions concrètes. Il est capable de transformer ses inspirations en réalisations tangibles tout en restant conscient des aspects pratiques et émotionnels."
-        },
-        {
-          "nom": "Approche Enthousiaste et Ancrée",
-          "data": "La combinaison des signes de feu et d'air avec ceux de terre et d'eau permet à l'individu d'adopter une approche enthousiaste tout en restant ancré. Il peut aborder les défis avec passion tout en prenant en compte les réalités pratiques."
-        }
-      ]
-    },
-    {
-      "yang": "8",
-      "yin": "2",
-      "data": [
-        {
-          "nom": "Énergie et Dynamisme Accrus",
-          "data": "Une majorité de planètes en signes de feu (Bélier, Lion, Sagittaire) et d'air (Gémeaux, Balance, Verseau) indique une personnalité extrêmement énergique, dynamique et motivée. L'individu a une grande capacité à entreprendre des projets avec enthousiasme et détermination."
-        },
-        {
-          "nom": "Optimisme et Innovation",
-          "data": "La forte concentration dans les signes de feu et d'air suggère un optimisme prononcé et une tendance à rechercher l'innovation. Il y a un désir constant de nouveautés, de défis et d'améliorations dans divers aspects de la vie."
-        },
-        {
-          "nom": "Grande Sociabilité et Compétences en Communication",
-          "data": "Avec une prédominance des signes d'air, l'individu est très sociable, communicatif et capable d'établir des connexions avec les autres facilement. Les échanges d'idées et les interactions sociales sont des aspects centraux de sa vie."
-        },
-        {
-          "nom": "Impulsivité et Manque de Réflexion",
-          "data": "La forte présence de signes de feu peut conduire à une tendance à l'impulsivité. Les décisions peuvent être prises rapidement sans une réflexion approfondie, ce qui peut parfois entraîner des erreurs ou des imprévus."
-        },
-        {
-          "nom": "Pragmatisme Limité",
-          "data": "Avec seulement deux planètes dans les signes de terre (Taureau, Vierge, Capricorne) et d'eau (Cancer, Scorpion, Poissons), le pragmatisme et la gestion des aspects matériels et émotionnels peuvent être moins développés. L'individu peut avoir des difficultés à s'ancrer dans la réalité ou à gérer les aspects pratiques de la vie."
-        },
-        {
-          "nom": "Gestion Émotionnelle Superficielle",
-          "data": "La faible présence de planètes dans les signes d'eau indique une gestion émotionnelle qui peut être plus superficielle. Les émotions peuvent être abordées de manière plus intellectuelle et rationnelle plutôt que de manière profondément ressentie."
-        },
-        {
-          "nom": "Recherche de Stimulation Constante",
-          "data": "La prédominance des signes de feu et d'air révèle une forte recherche de stimulation intellectuelle et émotionnelle. L'individu est attiré par des environnements dynamiques et des activités qui sollicitent constamment son esprit et son énergie."
-        },
-        {
-          "nom": "Tendance à Laisser de Côté les Détails",
-          "data": "La dominance des signes de feu et d'air peut également signifier que l'individu accorde moins d'attention aux détails pratiques et matériels. Les aspects minutieux et les considérations pratiques peuvent être négligés au profit de grandes idées et d'initiatives créatives."
-        }
-      ]
-    },
-    {
-      "yang": "9",
-      "yin": "1",
-      "data": [
-        {
-          "nom": "Énergie et Enthousiasme Exceptionnels",
-          "data": "La prédominance des planètes en signes de feu (Bélier, Lion, Sagittaire) et d'air (Gémeaux, Balance, Verseau) indique une personnalité extrêmement énergique, enthousiaste et pleine de vitalité. L'individu est très motivé et prêt à entreprendre divers projets avec passion."
-        },
-        {
-          "nom": "Créativité et Innovation",
-          "data": "Avec une concentration élevée dans les signes de feu et d'air, l'individu possède une grande créativité et un fort désir d'innovation. Il est attiré par les idées nouvelles et les méthodes non conventionnelles, recherchant constamment des moyens originaux pour s'exprimer."
-        },
-        {
-          "nom": "Extraversion et Sociabilité",
-          "data": "Une telle dominance dans les signes d'air suggère une personnalité très sociable et communicative. L'individu est souvent à l'aise dans les interactions sociales et apprécie les échanges intellectuels et les stimulations sociales."
-        },
-        {
-          "nom": "Impulsivité et Précipitation",
-          "data": "La forte présence de signes de feu peut conduire à une impulsivité notable. Les décisions peuvent être prises rapidement, souvent sans une évaluation approfondie des conséquences, ce qui peut entraîner des actions précipitées ou imprudentes."
-        },
-        {
-          "nom": "Pragmatisme et Sensibilité Minimes",
-          "data": "Avec seulement une planète en signes de terre (Taureau, Vierge, Capricorne) et d'eau (Cancer, Scorpion, Poissons), il peut y avoir un manque significatif de pragmatisme et de sensibilité émotionnelle. L'individu peut avoir du mal à gérer les aspects pratiques et les questions émotionnelles de manière profonde."
-        },
-        {
-          "nom": "Focus sur les Grandes Idées",
-          "data": "La prédominance de signes de feu et d'air signifie que l'individu est plus enclin à se concentrer sur des idées globales et des objectifs ambitieux, plutôt que sur les détails pratiques ou les aspects quotidiens de la vie."
-        },
-        {
-          "nom": "Manque d'Ancrage",
-          "data": "L'absence notable de planètes en signes de terre peut conduire à une difficulté à rester ancré dans la réalité quotidienne. L'individu peut parfois se sentir détaché des aspects pratiques de la vie et avoir des défis pour gérer les responsabilités matérielles."
-        },
-        {
-          "nom": "Gestion Émotionnelle Superficielle",
-          "data": "La présence limitée de planètes dans les signes d'eau suggère que la gestion des émotions peut être abordée de manière plus intellectuelle que ressentie profondément. Les émotions peuvent être rationalisées plutôt que vécues pleinement."
-        },
-        {
-          "nom": "Recherche de Stimulation et d'Action",
-          "data": "La dominance des signes de feu et d'air indique une forte recherche de stimulation et d'action. L'individu est souvent attiré par des environnements dynamiques, des défis stimulants et des activités qui sollicitent son esprit et son énergie."
-        }
-      ]
-    },
-    {
-      "yang": "10",
-      "yin": "0",
-      "data": [
-        {
-          "nom": "Énergie et Dynamisme Exceptionnels",
-          "data": "La concentration totale de planètes en signes de feu (Bélier, Lion, Sagittaire) et d'air (Gémeaux, Balance, Verseau) reflète une personnalité extrêmement dynamique, vivante et pleine d'énergie. L'individu est souvent en mouvement, cherchant constamment de nouvelles aventures et défis."
-        },
-        {
-          "nom": "Créativité et Innovation Intenses",
-          "data": "La présence exclusive de planètes dans les signes de feu et d'air indique une créativité et une capacité d'innovation exceptionnelles. L'individu est probablement très original, avec un penchant marqué pour les idées nouvelles et les solutions non conventionnelles."
-        },
-        {
-          "nom": "Sociabilité et Extraversion Totales",
-          "data": "L'absence de planètes en signes de terre et d'eau accentue les traits sociables et extravertis. L'individu est probablement très ouvert, communicatif et actif dans ses relations sociales, recherchant constamment des interactions et des stimulations intellectuelles."
-        },
-        {
-          "nom": "Impulsivité et Manque de Réflexion",
-          "data": "Une telle prédominance de signes de feu peut conduire à une impulsivité prononcée. Les décisions et les actions peuvent être prises rapidement et sur un coup de tête, sans une réflexion approfondie sur les conséquences à long terme."
-        },
-        {
-          "nom": "Manque de Pragmatisme",
-          "data": "L'absence totale de planètes dans les signes de terre suggère une absence notable de pragmatisme et de sens du détail. L'individu peut avoir du mal à se concentrer sur les aspects pratiques et matériels de la vie, préférant se focaliser sur des idées et des projets grandioses."
-        },
-        {
-          "nom": "Gestion Émotionnelle Superficielle",
-          "data": "Sans planètes dans les signes d'eau, il est probable que la gestion des émotions soit plutôt superficielle. Les émotions peuvent être traitées de manière intellectuelle, sans une profonde exploration ou compréhension des sentiments personnels."
-        },
-        {
-          "nom": "Focus sur les Grands Projets",
-          "data": "La dominance des signes de feu et d'air signifie que l'individu se concentre principalement sur des objectifs ambitieux et des projets de grande envergure, souvent avec une approche plus globale qu'axée sur les détails ou les aspects quotidiens."
-        },
-        {
-          "nom": "Recherche Constante de Stimulation",
-          "data": "La forte concentration en signes de feu et d'air indique une recherche incessante de stimulation et de nouveauté. L'individu est attiré par des environnements dynamiques et des défis qui sollicitent constamment son esprit et son énergie."
-        },
-        {
-          "nom": "Tendance à l'Hyperactivité",
-          "data": "Avec une telle prédominance de signes de feu, l'individu peut être sujet à une hyperactivité ou à un besoin constant de mouvement et d'engagement. Il peut avoir du mal à se détendre ou à trouver un équilibre dans ses activités."
-        }
-      ]
-    },
-    {
-      "yang": "4",
-      "yin": "6",
-      "data": [
-        {
-          "nom": "Stabilité et Pragmatisme Renforcés",
-          "data": "La prédominance des planètes en signes de terre (Taureau, Vierge, Capricorne) et d'eau (Cancer, Scorpion, Poissons) indique une forte stabilité émotionnelle et un sens pratique développé. L'individu a tendance à aborder les situations avec pragmatisme et à rechercher la sécurité et la fiabilité."
-        },
-        {
-          "nom": "Sensibilité Émotionnelle",
-          "data": "La concentration de planètes dans les signes d'eau suggère une grande sensibilité émotionnelle. L'individu est souvent en phase avec ses propres émotions ainsi qu'avec celles des autres, avec une capacité naturelle à comprendre et à gérer les aspects émotionnels de la vie."
-        },
-        {
-          "nom": "Approche Réaliste des Objectifs",
-          "data": "Avec une majorité de planètes en signes de terre, l'individu adopte généralement une approche réaliste et pragmatique pour atteindre ses objectifs. Les projets sont souvent abordés avec une planification minutieuse et une attention aux détails."
-        },
-        {
-          "nom": "Pragmatisme sur le Plan Créatif",
-          "data": "La présence relativement faible de planètes dans les signes de feu (Bélier, Lion, Sagittaire) et d'air (Gémeaux, Balance, Verseau) indique une tendance à aborder la créativité et les idées nouvelles de manière plus pratique et moins impulsive."
-        },
-        {
-          "nom": "Sociabilité Modérée",
-          "data": "Avec moins de planètes en signes d'air, la sociabilité et les compétences en communication peuvent être présentes mais sont modérées. L'individu peut avoir une approche plus réservée ou réfléchie dans ses interactions sociales."
-        },
-        {
-          "nom": "Besoin d'Ancrage",
-          "data": "La dominance des signes de terre et d'eau suggère un fort besoin d'ancrage et de sécurité dans la vie. L'individu préfère les environnements stables et est moins enclin à rechercher des changements fréquents ou des situations imprévisibles."
-        },
-        {
-          "nom": "Gestion Émotionnelle Profonde",
-          "data": "La concentration sur les signes d'eau indique que l'individu est capable de gérer les émotions de manière profonde et intuitive. Les défis émotionnels sont souvent abordés avec introspection et compréhension."
-        },
-        {
-          "nom": "Prudence et Réflexion",
-          "data": "L'absence de planètes dominantes dans les signes de feu suggère une tendance à la prudence et à la réflexion plutôt qu'à l'action impulsive. Les décisions sont prises après une considération approfondie et une analyse des conséquences."
-        },
-        {
-          "nom": "Stabilité plutôt qu'Innovation",
-          "data": "Avec une forte présence de planètes en signes de terre et d'eau, il peut y avoir une tendance à privilégier la stabilité et la sécurité plutôt que l'innovation ou le changement radical. Les initiatives sont généralement abordées de manière prudente et bien réfléchie."
-        }
-      ]
-    },
-    {
-      "yang": "3",
-      "yin": "7",
-      "data": [
-        {
-          "nom": "Stabilité et Pragmatisme Dominants",
-          "data": "La majorité des planètes en signes de terre (Taureau, Vierge, Capricorne) et d'eau (Cancer, Scorpion, Poissons) indique une forte prédisposition pour la stabilité et le pragmatisme. L'individu privilégie une approche pratique et réaliste dans la vie quotidienne."
-        },
-        {
-          "nom": "Sensibilité Émotionnelle Accrue",
-          "data": "La concentration importante de planètes dans les signes d'eau suggère une grande sensibilité émotionnelle et une capacité à ressentir et à comprendre les émotions profondes, tant les siennes que celles des autres."
-        },
-        {
-          "nom": "Approche Réaliste des Objectifs",
-          "data": "Avec une majorité de planètes en signes de terre, l'individu aborde les objectifs de manière pratique et méthodique. Il est capable de planifier soigneusement et de mettre en œuvre des stratégies pour atteindre ses buts de manière structurée."
-        },
-        {
-          "nom": "Réservé et Moins Sociable",
-          "data": "Avec moins de planètes en signes de feu (Bélier, Lion, Sagittaire) et d'air (Gémeaux, Balance, Verseau), l'individu peut être plus réservé et moins enclin à rechercher des interactions sociales fréquentes ou à exprimer ses idées de manière ouverte."
-        },
-        {
-          "nom": "Tendance à l'Introspection",
-          "data": "La prédominance des signes d'eau suggère une propension à l'introspection et à la réflexion intérieure. L'individu peut avoir une forte capacité à comprendre ses propres besoins émotionnels et à explorer les aspects plus profonds de la vie."
-        },
-        {
-          "nom": "Stabilité Emotive et Matérielle",
-          "data": "La présence majoritaire de planètes dans les signes de terre et d'eau indique que l'individu recherche à établir une base stable et sécurisée, tant sur le plan matériel qu'émotionnel. Les changements soudains ou imprévus peuvent être mal acceptés."
-        },
-        {
-          "nom": "Moins de Tendance à l'Innovation",
-          "data": "Avec seulement trois planètes en signes de feu et d'air, l'individu peut montrer moins d'inclination pour l'innovation ou les idées radicales. Il est plus enclin à suivre des méthodes éprouvées et à éviter les risques inutiles."
-        },
-        {
-          "nom": "Gestion Pratique des Émotions",
-          "data": "La combinaison des signes de terre et d'eau suggère une capacité à gérer les émotions de manière pratique et ancrée. Les émotions sont souvent abordées de manière réfléchie, avec une attention aux aspects pratiques de leur gestion."
-        },
-        {
-          "nom": "Approche Mesurée et Sereine",
-          "data": "L'absence notable de planètes en signes de feu et d'air peut conduire à une approche plus mesurée et sereine de la vie. L'individu préfère une gestion prudente et équilibrée plutôt qu'une approche impulsive ou chaotique."
-        }
-      ]
-    },
-    {
-      "yang": "2",
-      "yin": "8",
-      "data": [
-        {
-          "nom": "Pragmatisme et Stabilité Exprimés",
-          "data": "La majorité des planètes en signes de terre (Taureau, Vierge, Capricorne) et d'eau (Cancer, Scorpion, Poissons) indique une forte orientation vers la stabilité et le pragmatisme. L'individu privilégie une approche pratique et réaliste de la vie, cherchant à établir une base solide et sécurisée."
-        },
-        {
-          "nom": "Grande Sensibilité Émotionnelle",
-          "data": "Avec une concentration importante de planètes en signes d'eau, l'individu possède une grande sensibilité émotionnelle. Il est profondément conscient de ses propres émotions et de celles des autres, avec une capacité à comprendre et à gérer les dynamiques émotionnelles complexes."
-        },
-        {
-          "nom": "Approche Réaliste et Ancrée",
-          "data": "La prédominance des signes de terre suggère une approche réaliste et ancrée des objectifs et des défis. L'individu est généralement méthodique, fiable, et préfère travailler avec des faits concrets plutôt qu'avec des idées abstraites ou des théories non éprouvées."
-        },
-        {
-          "nom": "Moins de Sociabilité et d'Extraversion",
-          "data": "Avec seulement deux planètes dans les signes de feu (Bélier, Lion, Sagittaire) et d'air (Gémeaux, Balance, Verseau), l'individu peut être moins sociable et moins enclin à chercher des interactions sociales fréquentes. L'expression personnelle et les échanges d'idées peuvent être moins dominants dans sa vie."
-        },
-        {
-          "nom": "Tendance à l'Introspection",
-          "data": "La dominance des signes d'eau indique une tendance à l'introspection et à la réflexion intérieure. L'individu peut être naturellement tourné vers la compréhension des aspects émotionnels et psychologiques de sa vie."
-        },
-        {
-          "nom": "Recherche de Sécurité et de Confiance",
-          "data": "La forte concentration en signes de terre et d'eau suggère un besoin important de sécurité et de confiance. L'individu cherche à établir des bases solides dans ses relations et dans sa vie professionnelle, préférant éviter les risques et les incertitudes."
-        },
-        {
-          "nom": "Gestion Pratique des Émotions",
-          "data": "La présence dominante de planètes dans les signes de terre et d'eau permet une gestion pratique des émotions. L'individu peut aborder les situations émotionnelles avec pragmatisme, en cherchant des solutions concrètes aux défis émotionnels."
-        },
-        {
-          "nom": "Moins d'Impulsivité",
-          "data": "Avec une faible présence de planètes en signes de feu, l'individu est généralement moins impulsif et plus réfléchi dans ses actions. Les décisions sont prises avec soin et après une évaluation minutieuse des conséquences."
-        },
-        {
-          "nom": "Approche Mesurée et Réfléchie",
-          "data": "La prédominance des signes de terre et d'eau indique une approche mesurée et réfléchie de la vie. L'individu préfère prendre son temps pour analyser les situations et éviter les actions précipitées ou irréfléchies."
-        }
-      ]
-    },
-    {
-      "yang": "1",
-      "yin": "9",
-      "data": [
-        {
-          "nom": "Pragmatisme et Stabilité Dominants",
-          "data": "La prédominance des planètes en signes de terre (Taureau, Vierge, Capricorne) et d'eau (Cancer, Scorpion, Poissons) indique une personnalité fortement ancrée dans le pragmatisme et la stabilité. L'individu est très axé sur la construction de bases solides et la gestion pratique des aspects de la vie quotidienne."
-        },
-        {
-          "nom": "Grande Sensibilité Émotionnelle",
-          "data": "Avec une majorité de planètes en signes d'eau, l'individu possède une profonde sensibilité émotionnelle. Il est particulièrement réceptif aux émotions, avec une forte capacité à comprendre et à exprimer les sentiments personnels et ceux des autres."
-        },
-        {
-          "nom": "Approche Réaliste et Méthodique",
-          "data": "La concentration de planètes dans les signes de terre suggère une approche réaliste et méthodique. L'individu privilégie les méthodes éprouvées et les solutions pratiques pour résoudre les problèmes et atteindre ses objectifs."
-        },
-        {
-          "nom": "Faible Extraversion",
-          "data": "Avec seulement une planète en signes de feu (Bélier, Lion, Sagittaire) et d'air (Gémeaux, Balance, Verseau), l'individu peut montrer une faible extraversion. Les aspects sociaux et l'expression personnelle peuvent être moins prononcés dans sa vie."
-        },
-        {
-          "nom": "Préférence pour l'Introspection",
-          "data": "La prédominance des signes d'eau indique une propension à l'introspection et à la réflexion personnelle. L'individu est plus enclin à explorer ses émotions et ses pensées internes que de se tourner vers des actions externes ou des changements rapides."
-        },
-        {
-          "nom": "Recherche de Sécurité Émotionnelle et Matérielle",
-          "data": "L'individu cherche à établir une sécurité à la fois émotionnelle et matérielle. La forte concentration en signes de terre et d'eau reflète un désir de stabilité et de confort dans tous les aspects de la vie."
-        },
-        {
-          "nom": "Gestion Pratique des Émotions",
-          "data": "Avec une dominance des signes de terre et d'eau, l'individu aborde les émotions avec une attitude pratique. Il préfère gérer les aspects émotionnels de manière concrète et pragmatique, cherchant à résoudre les problèmes plutôt qu'à les laisser évoluer."
-        },
-        {
-          "nom": "Moins d'Impulsivité",
-          "data": "La faible présence de planètes en signes de feu suggère une tendance à éviter l'impulsivité. Les actions et les décisions sont généralement prises après une réflexion approfondie et avec une évaluation des conséquences."
-        },
-        {
-          "nom": "Approche Méthodique et Réfléchie",
-          "data": "La concentration en signes de terre et d'eau indique que l'individu adopte une approche réfléchie et méthodique dans sa vie. Il préfère une gestion prudente et détaillée des situations plutôt qu'une approche rapide et spontanée."
-        }
-      ]
-    },
-    {
-      "yang": "0",
-      "yin": "10",
-      "data": [
-        {
-          "nom": "Pragmatisme et Stabilité Totaux",
-          "data": "La présence exclusive de planètes en signes de terre (Taureau, Vierge, Capricorne) et d'eau (Cancer, Scorpion, Poissons) indique une personnalité extrêmement pragmatique et stable. L'individu est fortement orienté vers la recherche de sécurité, de confort et de fiabilité dans tous les aspects de la vie."
-        },
-        {
-          "nom": "Sensibilité Émotionnelle Profonde",
-          "data": "Avec toutes les planètes en signes d'eau, l'individu possède une très grande sensibilité émotionnelle. Il est profondément connecté à ses émotions et à celles des autres, avec une capacité accrue pour comprendre et gérer des dynamiques émotionnelles complexes."
-        },
-        {
-          "nom": "Approche Réaliste et Ancrée",
-          "data": "La concentration des planètes dans les signes de terre suggère une approche extrêmement réaliste et ancrée des situations. L'individu privilégie les méthodes concrètes et les solutions pratiques pour aborder les défis et atteindre ses objectifs."
-        },
-        {
-          "nom": "Manque d'Impulsivité et d'Extraversion",
-          "data": "L'absence totale de planètes en signes de feu (Bélier, Lion, Sagittaire) et d'air (Gémeaux, Balance, Verseau) indique une absence d'impulsivité et une tendance à éviter les actions spontanées ou les changements rapides. L'individu préfère une approche plus mesurée et réfléchie."
-        },
-        {
-          "nom": "Préférence pour l'Introspection",
-          "data": "La prédominance des signes d'eau reflète une forte tendance à l'introspection et à la réflexion intérieure. L'individu est plus enclin à explorer ses émotions profondes et à rechercher un sens intérieur plutôt qu'à se concentrer sur des activités externes ou sociales."
-        },
-        {
-          "nom": "Sécurité Émotionnelle et Matérielle",
-          "data": "La concentration sur les signes de terre et d'eau suggère que l'individu cherche à établir une sécurité aussi bien émotionnelle que matérielle. Il valorise la stabilité et le confort dans sa vie et cherche à créer un environnement sûr et prévisible."
-        },
-        {
-          "nom": "Gestion Pratique des Émotions",
-          "data": "L'absence de planètes dans les signes de feu et d'air signifie que les émotions sont souvent abordées de manière pratique et concrète. L'individu préfère gérer les aspects émotionnels avec une approche réfléchie et une attention aux solutions tangibles."
-        },
-        {
-          "nom": "Manque de Dynamisme et de Sociabilité",
-          "data": "Avec aucune planète dans les signes de feu et d'air, l'individu peut montrer un manque de dynamisme et de sociabilité. Les interactions sociales et l'expression personnelle peuvent être moins prononcées, avec une tendance à se concentrer sur des aspects plus internes et personnels."
-        },
-        {
-          "nom": "Approche Méthodique et Réfléchie",
-          "data": "La prédominance des signes de terre et d'eau indique que l'individu adopte une approche très réfléchie et méthodique de la vie. Les décisions sont prises avec soin et une analyse approfondie des faits et des émotions."
-        },
-        {
-          "nom": "Stabilité Émotionnelle et Matérielle",
-          "data": "La combinaison des signes de terre et d'eau suggère une stabilité notable dans les domaines émotionnel et matériel. L'individu tend à éviter les situations incertaines ou chaotiques, cherchant plutôt à maintenir un équilibre et une sécurité constants."
-        }
-      ]
-    },
-    {
       "nord": 0,
       "sud": 10,
       "data": [
@@ -31819,6 +31349,566 @@
           "data": "La forte concentration de planètes dans l'hémisphère est indique une tendance marquée à se concentrer exclusivement sur les objectifs personnels et les aspirations. La personne est probablement moins préoccupée par les aspects sociaux et relationnels de sa vie."
         }
       ]
+    },
+    {
+      "nom": "eau",
+      "points": 0,
+      "data": "Une personne ayant 0 points dans l'élément eau dans son thème astral peut rencontrer des difficultés à exprimer ses émotions et à se connecter avec ses propres sentiments ainsi qu'avec ceux des autres. L'élément eau est associé à l'intuition, la sensibilité et la capacité à comprendre et partager les émotions. Sans cet élément, l'individu peut avoir du mal à gérer les relations interpersonnelles sur un plan émotionnel, se montrant parfois détaché ou insensible. Cette absence peut également se traduire par un manque de créativité et une difficulté à s'adapter aux changements émotionnels ou aux situations nécessitant une empathie profonde. Les personnes avec zéro point dans l'élément eau peuvent aussi avoir une approche plus rationnelle et pragmatique des situations, préférant se concentrer sur des aspects plus tangibles et objectifs de la vie."
+    },
+    {
+      "nom": "air",
+      "points": 0,
+      "data": "Une personne ayant 0 points dans l'élément air dans son thème astral peut éprouver des difficultés à traiter des idées abstraites, à communiquer de manière fluide et à se connecter avec les autres sur un plan intellectuel. L'élément air est lié à la pensée, la communication, l'analyse et l'interaction sociale. Sans cet élément, l'individu peut avoir du mal à s'engager dans des discussions intellectuelles ou à formuler des idées de manière claire et cohérente. Cette absence peut aussi se manifester par une tendance à éviter les débats ou à se sentir mal à l'aise dans des situations sociales nécessitant des compétences de communication. Les personnes avec zéro point dans l'élément air peuvent se concentrer davantage sur des expériences pratiques et des actions concrètes, plutôt que sur des réflexions théoriques ou des échanges verbaux."
+    },
+    {
+      "nom": "feu",
+      "points": 0,
+      "data": "Une personne ayant 0 points dans l'élément feu dans son thème astral peut éprouver des difficultés à trouver la motivation, à faire preuve d'initiative et à prendre des risques. L'élément feu est associé à l'énergie, l'enthousiasme, la créativité et la capacité à agir avec détermination. Sans cet élément, l'individu peut se sentir moins dynamique, moins enclin à poursuivre des objectifs ambitieux et peut avoir du mal à se lancer dans de nouveaux projets ou à faire preuve d'audace. Cette absence peut également se traduire par une tendance à éviter les confrontations ou à se contenter d'une approche plus passive dans la vie. Les personnes avec zéro point dans l'élément feu peuvent se montrer plus prudentes et méthodiques, cherchant à éviter les risques plutôt qu'à embrasser des opportunités excitantes."
+    },
+    {
+      "nom": "terre",
+      "points": 0,
+      "data": "Une personne ayant 0 points dans l'élément terre dans son thème astral peut rencontrer des difficultés à établir des bases solides, à organiser sa vie de manière pratique et à se connecter avec les aspects matériels de l'existence. L'élément terre est lié à la stabilité, la sécurité, la matérialité et la capacité à gérer les aspects pratiques de la vie. Sans cet élément, l'individu peut avoir du mal à planifier efficacement, à gérer ses ressources de manière pragmatique ou à s'ancrer dans la réalité quotidienne. Cette absence peut se manifester par une tendance à être moins pratique, moins fiable ou à avoir des difficultés avec les responsabilités concrètes et les obligations matérielles. Les personnes avec zéro point dans l'élément terre peuvent être plus orientées vers des expériences idéologiques ou spirituelles, en mettant moins l'accent sur les aspects matériels ou les aspects pratiques de leur vie."
+    },
+    {
+      "nom": "eau",
+      "points": 1,
+      "data": "Une personne ayant 1 point dans l'élément eau dans son thème astral peut ressentir une légère connexion avec ses émotions et celles des autres, mais cette connexion est assez limitée. L'élément eau est lié à la sensibilité, l'intuition et la capacité à comprendre et partager les émotions. Avec seulement 1 point, l'individu peut éprouver des difficultés à gérer et exprimer ses émotions de manière fluide, et peut parfois sembler distant ou déconnecté sur le plan émotionnel. Bien qu'il puisse y avoir des moments de grande empathie ou de créativité émotionnelle, ils peuvent être sporadiques et insuffisants pour créer des liens profonds et durables avec les autres. Cette personne pourrait se montrer plus analytique et rationnelle dans ses relations et ses interactions, préférant aborder les situations émotionnelles avec une certaine distance."
+    },
+    {
+      "nom": "air",
+      "points": 1,
+      "data": "Une personne ayant 1 point dans l'élément air dans son thème astral peut avoir une petite capacité à traiter les idées abstraites, à communiquer et à interagir socialement, mais ces compétences sont limitées. L'élément air est associé à la pensée, la communication et l'analyse. Avec seulement 1 point, l'individu peut trouver difficile de maintenir une communication fluide ou de s'engager dans des discussions intellectuelles complexes. Il peut y avoir des moments d'inspiration ou d'échange d'idées, mais ils sont probablement peu fréquents. Cette personne pourrait préférer des approches plus concrètes ou pratiques et avoir du mal à exprimer ses pensées de manière claire et cohérente dans des contextes sociaux ou professionnels."
+    },
+    {
+      "nom": "feu",
+      "points": 1,
+      "data": "Une personne ayant 1 point dans l'élément feu dans son thème astral peut éprouver une énergie et une motivation limitées, ainsi qu'une tendance à agir avec prudence. L'élément feu est associé à l'enthousiasme, l'initiative et la créativité. Avec seulement 1 point, l'individu peut avoir des difficultés à prendre des risques ou à se lancer dans de nouveaux projets avec audace. Il peut y avoir de petits éclats de passion ou de détermination, mais ils ne sont pas suffisamment forts pour soutenir une motivation constante. Cette personne pourrait se montrer plus réservée et moins dynamique dans ses actions, préférant des approches plus sûres et réfléchies."
+    },
+    {
+      "nom": "terre",
+      "points": 1,
+      "data": "Une personne ayant 1 point dans l'élément terre dans son thème astral peut avoir une petite connexion avec les aspects pratiques de la vie, mais cette connexion est relativement faible. L'élément terre est lié à la stabilité, la sécurité et la gestion des aspects matériels. Avec seulement 1 point, l'individu peut éprouver des difficultés à établir des bases solides ou à organiser efficacement sa vie quotidienne. Il peut y avoir une certaine capacité à gérer les aspects matériels de manière ponctuelle, mais cette capacité est limitée. Cette personne pourrait avoir tendance à se concentrer davantage sur les aspects idéologiques ou émotionnels de la vie, avec une attention moindre aux détails pratiques et concrets."
+    },
+    {
+      "nom": "eau",
+      "points": 2,
+      "data": "Une personne ayant 2 points dans l'élément eau dans son thème astral peut avoir une connexion modeste avec ses émotions et celles des autres. L'élément eau est lié à la sensibilité, l'intuition et la capacité à comprendre et partager les émotions. Avec 2 points, l'individu peut commencer à exprimer ses sentiments de manière plus régulière, mais cette expression reste limitée. Il peut y avoir des moments d'empathie et de créativité émotionnelle, mais ils sont encore insuffisants pour créer des liens profondément affectifs. Cette personne pourrait parfois éprouver des difficultés à gérer des situations émotionnelles complexes ou à se montrer pleinement réceptive aux besoins émotionnels des autres."
+    },
+    {
+      "nom": "air",
+      "points": 2,
+      "data": "Une personne ayant 2 points dans l'élément air dans son thème astral peut posséder des compétences de communication et de pensée analytique limitées. L'élément air est associé à la réflexion, l'échange d'idées et les interactions sociales. Avec 2 points, l'individu peut être capable de comprendre et d'exprimer des idées de manière fonctionnelle, mais cette capacité est encore restreinte. Il peut y avoir des moments de clarté intellectuelle ou d'échanges sociaux, mais ceux-ci peuvent être sporadiques. Cette personne pourrait se concentrer davantage sur des tâches concrètes plutôt que sur des débats ou des discussions théoriques, et éprouver des difficultés dans des contextes sociaux nécessitant une communication fluide."
+    },
+    {
+      "nom": "feu",
+      "points": 2,
+      "data": "Une personne ayant 2 points dans l'élément feu dans son thème astral peut avoir une quantité limitée d'énergie, de motivation et d'enthousiasme. L'élément feu est lié à l'action, l'initiative et la créativité. Avec 2 points, l'individu peut éprouver des éclairs d'enthousiasme ou de détermination, mais ces moments sont encore peu fréquents et peuvent ne pas être suffisamment forts pour soutenir une motivation constante. Cette personne pourrait se montrer réservée ou hésitante à prendre des risques, préférant des approches plus prudentes dans ses actions et ses projets."
+    },
+    {
+      "nom": "terre",
+      "points": 2,
+      "data": "Une personne ayant 2 points dans l'élément terre dans son thème astral peut avoir une connexion modeste avec les aspects pratiques et matériels de la vie. L'élément terre est associé à la stabilité, la sécurité et l'organisation. Avec 2 points, l'individu peut être capable de gérer certaines responsabilités pratiques et de créer des bases stables, mais cette capacité est encore limitée. Il peut y avoir des moments de pragmatisme et de gestion efficace, mais ils sont insuffisants pour garantir une approche cohérente et fiable des aspects matériels de la vie. Cette personne pourrait se concentrer davantage sur des aspects émotionnels ou idéologiques, avec une attention moindre aux détails pratiques."
+    },
+    {
+      "nom": "eau",
+      "points": 3,
+      "data": "Une personne ayant 3 points dans l'élément eau dans son thème astral possède une connexion plus développée avec ses émotions et celles des autres. L'élément eau est associé à la sensibilité, l'intuition et la compréhension émotionnelle. Avec 3 points, l'individu est capable d'exprimer ses sentiments de manière plus régulière et de se connecter avec les émotions des autres, bien que cette connexion ne soit pas encore entièrement fluide ou profonde. Il y a une capacité accrue à faire preuve d'empathie et de créativité émotionnelle, bien que des défis puissent encore exister lorsqu'il s'agit de gérer des situations émotionnelles complexes ou de maintenir des relations affectives sur le long terme. Cette personne est généralement plus réceptive aux besoins émotionnels des autres, mais pourrait encore avoir des moments de distance émotionnelle."
+    },
+    {
+      "nom": "air",
+      "points": 3,
+      "data": "Une personne ayant 3 points dans l'élément air dans son thème astral montre des compétences modérées en communication, réflexion et interaction sociale. L'élément air est lié à la pensée, la parole et l'analyse. Avec 3 points, l'individu est capable de comprendre et d'exprimer des idées de manière plus efficace et régulière, et peut s'engager dans des discussions intellectuelles avec une certaine aisance. Bien que cette capacité soit améliorée, il peut encore y avoir des moments où l'expression des idées ou la communication peuvent être insuffisantes. Cette personne est plus à l'aise dans les échanges sociaux et peut participer activement à des débats ou des discussions, mais elle peut parfois éprouver des difficultés à maintenir une clarté totale dans ses pensées ou ses communications."
+    },
+    {
+      "nom": "feu",
+      "points": 3,
+      "data": "Une personne ayant 3 points dans l'élément feu dans son thème astral possède une quantité modérée d'énergie, de motivation et de passion. L'élément feu est associé à l'action, l'enthousiasme et la créativité. Avec 3 points, l'individu est capable de démontrer une certaine détermination et d'initier des projets avec enthousiasme, mais cette énergie peut encore fluctuer. Les moments d'enthousiasme et de motivation sont plus fréquents, mais peuvent ne pas être entièrement constants ou soutenus sur le long terme. Cette personne est généralement plus encline à prendre des risques et à se lancer dans de nouvelles expériences, bien qu'elle puisse parfois être prudente ou hésitante dans ses actions."
+    },
+    {
+      "nom": "terre",
+      "points": 3,
+      "data": "Une personne ayant 3 points dans l'élément terre dans son thème astral a une connexion modérée avec les aspects pratiques et matériels de la vie. L'élément terre est associé à la stabilité, l'organisation et la gestion des aspects concrets. Avec 3 points, l'individu est capable de créer des bases relativement solides et de gérer des responsabilités pratiques de manière plus efficace. Bien que cette capacité soit présente, elle peut encore être limitée dans certains aspects, et l'individu pourrait éprouver des difficultés à maintenir une organisation constante ou à gérer tous les détails matériels avec une parfaite efficacité. Cette personne est généralement plus pragmatique et fiable, mais peut parfois avoir du mal à rester concentrée sur les aspects pratiques à long terme."
+    },
+    {
+      "nom": "eau",
+      "points": 4,
+      "data": "Une personne ayant 4 points dans l'élément eau dans son thème astral a une connexion notable avec ses émotions et celles des autres. L'élément eau est associé à la sensibilité, l'intuition et la capacité à comprendre et partager les émotions. Avec 4 points, l'individu est généralement en mesure de gérer et d'exprimer ses sentiments de manière relativement fluide et de se connecter efficacement avec les émotions des autres. Il y a une capacité accrue à faire preuve d'empathie, à comprendre les dynamiques émotionnelles et à naviguer dans les relations affectives avec une certaine aisance. Cependant, il peut encore y avoir des moments où l'intensité émotionnelle ou la complexité des situations émotionnelles peuvent poser des défis. Cette personne est généralement plus à l'écoute et réceptive aux besoins émotionnels des autres."
+    },
+    {
+      "nom": "air",
+      "points": 4,
+      "data": "Une personne ayant 4 points dans l'élément air dans son thème astral démontre des compétences solides en communication, réflexion et interaction sociale. L'élément air est lié à la pensée, la parole et l'analyse. Avec 4 points, l'individu est capable de comprendre et d'exprimer des idées avec clarté et efficacité, et peut participer activement à des discussions intellectuelles avec une bonne aisance. Il y a une capacité développée pour l'analyse, la réflexion critique et la communication fluide. Cette personne est généralement à l'aise dans les contextes sociaux, les débats et les échanges d'idées, bien qu'il puisse encore y avoir des moments où des clarifications ou des ajustements sont nécessaires pour maintenir une communication optimale."
+    },
+    {
+      "nom": "feu",
+      "points": 4,
+      "data": "Une personne ayant 4 points dans l'élément feu dans son thème astral possède une quantité significative d'énergie, de motivation et de passion. L'élément feu est associé à l'action, l'enthousiasme et la créativité. Avec 4 points, l'individu est généralement capable de démontrer une forte détermination et d'initier des projets avec un grand enthousiasme. Il y a une énergie dynamique et une capacité accrue à prendre des risques et à embrasser des nouvelles expériences avec audace. Cette personne est souvent perçue comme motivée et inspirante, mais peut encore connaître des fluctuations dans son niveau d'enthousiasme ou de passion. Elle est généralement proactive et pleine d'idées créatives, mais peut parfois avoir besoin de maintenir un équilibre pour éviter l'épuisement."
+    },
+    {
+      "nom": "terre",
+      "points": 4,
+      "data": "Une personne ayant 4 points dans l'élément terre dans son thème astral a une connexion solide avec les aspects pratiques et matériels de la vie. L'élément terre est associé à la stabilité, l'organisation et la gestion des aspects concrets. Avec 4 points, l'individu est capable de créer des bases solides, de gérer efficacement les responsabilités pratiques et d'organiser sa vie de manière fonctionnelle. Il y a une capacité développée pour la planification, la gestion des ressources et l'ancrage dans la réalité quotidienne. Cette personne est généralement perçue comme fiable et pragmatique, capable de maintenir une structure et une stabilité, bien qu'il puisse encore y avoir des moments où un ajustement ou une flexibilité supplémentaire est nécessaire pour gérer des défis imprévus."
+    },
+    {
+      "nom": "eau",
+      "points": 5,
+      "data": "Une personne ayant 5 points dans l'élément eau dans son thème astral a une connexion assez développée avec ses émotions et celles des autres. L'élément eau est lié à la sensibilité, l'intuition et la capacité à comprendre et partager les émotions. Avec 5 points, l'individu est généralement capable d'exprimer ses sentiments de manière relativement libre et d'établir des liens émotionnels profonds avec les autres. Il y a une bonne capacité à faire preuve d'empathie, à comprendre les nuances émotionnelles et à naviguer dans les relations affectives avec une certaine aisance. Cependant, cette personne peut encore parfois rencontrer des défis dans la gestion de l'intensité émotionnelle ou dans des situations émotionnellement complexes. En général, elle est réceptive aux besoins émotionnels des autres et sait comment répondre à ces besoins de manière sensible."
+    },
+    {
+      "nom": "air",
+      "points": 5,
+      "data": "Une personne ayant 5 points dans l'élément air dans son thème astral possède des compétences solides en communication, réflexion et interaction sociale. L'élément air est associé à la pensée, la parole et l'analyse. Avec 5 points, l'individu est capable de comprendre et d'exprimer des idées avec clarté, efficacité et fluidité. Il y a une forte capacité pour l'analyse critique, la réflexion approfondie et la communication cohérente. Cette personne est généralement à l'aise dans les débats intellectuels, les discussions sociales et l'échange d'idées. Bien que très compétente dans ces domaines, elle peut parfois devoir ajuster sa communication pour garantir qu'elle est perçue comme envisagé, surtout dans des situations de communication complexes ou sensibles."
+    },
+    {
+      "nom": "feu",
+      "points": 5,
+      "data": "Une personne ayant 5 points dans l'élément feu dans son thème astral possède une quantité significative d'énergie, de motivation et de passion. L'élément feu est associé à l'action, l'enthousiasme et la créativité. Avec 5 points, l'individu est généralement capable de démontrer une grande détermination, d'initier des projets avec un fort enthousiasme et d'embrasser des nouvelles expériences avec audace. Il y a une énergie dynamique et une capacité notable à prendre des risques et à inspirer les autres avec sa passion. Cette personne est proactive, créative et souvent perçue comme motivante, bien qu'elle puisse parfois avoir besoin de gérer son énergie pour éviter de se surmener ou de brûler trop rapidement."
+    },
+    {
+      "nom": "terre",
+      "points": 5,
+      "data": "Une personne ayant 5 points dans l'élément terre dans son thème astral a une connexion solide avec les aspects pratiques et matériels de la vie. L'élément terre est associé à la stabilité, l'organisation et la gestion des aspects concrets. Avec 5 points, l'individu est capable de créer des bases stables, de gérer les responsabilités pratiques de manière efficace et de structurer sa vie de manière organisée. Il y a une bonne capacité pour la planification, la gestion des ressources et le maintien de la stabilité. Cette personne est généralement fiable, pragmatique et capable de maintenir une structure solide dans sa vie quotidienne, bien qu'elle puisse parfois avoir besoin de rester flexible pour s'adapter à des circonstances imprévues ou à des changements."
+    },
+    {
+      "nom": "eau",
+      "points": 6,
+      "data": "Une personne ayant 6 points dans l'élément eau dans son thème astral a une connexion bien développée avec ses émotions et celles des autres. L'élément eau est associé à la sensibilité, l'intuition et la capacité à comprendre et partager les émotions. Avec 6 points, l'individu est capable d'exprimer ses sentiments de manière fluide et d'établir des liens émotionnels profonds et authentiques. Il y a une forte capacité à faire preuve d'empathie, à comprendre les nuances émotionnelles et à naviguer dans les relations affectives avec aisance. Cette personne est généralement très réceptive aux besoins émotionnels des autres, capable de gérer des situations émotionnelles complexes avec sensibilité et compréhension. Bien qu'elle puisse parfois se sentir submergée par l'intensité émotionnelle, elle possède généralement les compétences nécessaires pour équilibrer ses propres émotions avec celles des autres."
+    },
+    {
+      "nom": "air",
+      "points": 6,
+      "data": "Une personne ayant 6 points dans l'élément air dans son thème astral montre des compétences solides en communication, réflexion et interaction sociale. L'élément air est lié à la pensée, la parole et l'analyse. Avec 6 points, l'individu est capable de comprendre, d'analyser et d'exprimer des idées avec une grande clarté et efficacité. Il y a une capacité remarquable pour l'analyse critique, la réflexion approfondie et la communication fluide dans divers contextes. Cette personne excelle dans les débats intellectuels, les discussions sociales et les échanges d'idées, et est généralement perçue comme articulée et perspicace. Elle peut parfois devoir naviguer avec soin dans des situations de communication plus complexes pour maintenir la cohérence et la compréhension mutuelle."
+    },
+    {
+      "nom": "feu",
+      "points": 6,
+      "data": "Une personne ayant 6 points dans l'élément feu dans son thème astral possède une énergie, une motivation et une passion considérables. L'élément feu est associé à l'action, l'enthousiasme et la créativité. Avec 6 points, l'individu est capable de démontrer une grande détermination, d'initier des projets avec un fort enthousiasme et de se lancer dans des expériences nouvelles avec audace. Il y a une énergie dynamique et une capacité exceptionnelle à prendre des risques, à embrasser des défis et à inspirer les autres avec sa passion. Cette personne est souvent perçue comme motivante et pleine de vie, capable de transformer des idées créatives en réalisations concrètes. Bien qu'elle soit généralement très motivée, elle doit parfois faire attention à ne pas se surmener ou à éviter des éclats d'énergie imprévus."
+    },
+    {
+      "nom": "terre",
+      "points": 6,
+      "data": "Une personne ayant 6 points dans l'élément terre dans son thème astral a une connexion solide avec les aspects pratiques et matériels de la vie. L'élément terre est associé à la stabilité, l'organisation et la gestion des aspects concrets. Avec 6 points, l'individu est capable de créer des bases stables, de gérer les responsabilités pratiques avec efficacité et de maintenir une structure organisée dans sa vie quotidienne. Il y a une capacité notable pour la planification, la gestion des ressources et le maintien de la stabilité. Cette personne est généralement perçue comme fiable, pragmatique et capable de gérer les défis matériels avec compétence. Bien qu'elle soit généralement stable et organisée, elle peut parfois devoir ajuster ses méthodes pour rester adaptable face à des circonstances imprévues ou des changements dans ses responsabilités."
+    },
+    {
+      "nom": "eau",
+      "points": 7,
+      "data": "Une personne ayant 7 points dans l'élément eau dans son thème astral a une connexion très développée avec ses émotions et celles des autres. L'élément eau est lié à la sensibilité, l'intuition et la capacité à comprendre et partager les émotions. Avec 7 points, l'individu est extrêmement habile à exprimer ses sentiments de manière fluide et authentique, et à établir des liens émotionnels profonds avec les autres. Il y a une capacité remarquable à faire preuve d'empathie, à naviguer dans les relations affectives et à gérer des situations émotionnelles complexes avec une grande sensibilité. Cette personne est souvent perçue comme très intuitive et capable de comprendre des dynamiques émotionnelles subtiles. Bien qu'elle puisse parfois ressentir une surcharge émotionnelle, elle possède les compétences nécessaires pour équilibrer ses émotions et celles des autres de manière harmonieuse."
+    },
+    {
+      "nom": "air",
+      "points": 7,
+      "data": "Une personne ayant 7 points dans l'élément air dans son thème astral possède des compétences exceptionnelles en communication, réflexion et interaction sociale. L'élément air est associé à la pensée, la parole et l'analyse. Avec 7 points, l'individu excelle dans la compréhension, l'analyse et l'expression des idées avec une clarté remarquable. Il y a une capacité approfondie pour l'analyse critique, la réflexion et la communication fluide dans divers contextes. Cette personne est souvent perçue comme extrêmement articulée et perspicace, avec une facilité pour naviguer dans les débats intellectuels et les échanges sociaux. Elle peut parfois être perçue comme intellectuellement dominante ou analytique, mais ses compétences en communication sont généralement très efficaces."
+    },
+    {
+      "nom": "feu",
+      "points": 7,
+      "data": "Une personne ayant 7 points dans l'élément feu dans son thème astral possède une énergie, une motivation et une passion exceptionnelles. L'élément feu est associé à l'action, l'enthousiasme et la créativité. Avec 7 points, l'individu est capable de démontrer une forte détermination, d'initier des projets avec un enthousiasme contagieux et de se lancer dans de nouvelles expériences avec audace. Il y a une énergie dynamique et une capacité impressionnante à prendre des risques, à embrasser des défis et à inspirer les autres avec sa passion. Cette personne est souvent perçue comme extrêmement motivante et pleine de vie, capable de réaliser ses idées créatives avec succès. Elle doit toutefois gérer son énergie pour éviter l'épuisement et maintenir un équilibre dans ses projets."
+    },
+    {
+      "nom": "terre",
+      "points": 7,
+      "data": "Une personne ayant 7 points dans l'élément terre dans son thème astral a une connexion solide avec les aspects pratiques et matériels de la vie. L'élément terre est associé à la stabilité, l'organisation et la gestion des aspects concrets. Avec 7 points, l'individu est capable de créer des bases très solides, de gérer les responsabilités pratiques avec grande efficacité et de maintenir une organisation exemplaire dans sa vie quotidienne. Il y a une capacité significative pour la planification, la gestion des ressources et le maintien de la stabilité dans divers aspects de la vie. Cette personne est généralement perçue comme extrêmement fiable et pragmatique, capable de gérer les défis matériels avec compétence et constance. Bien qu'elle soit stable et organisée, elle doit parfois rester adaptable pour faire face aux changements ou aux imprévus dans ses responsabilités."
+    },
+    {
+      "nom": "eau",
+      "points": 8,
+      "data": "Une personne ayant 8 points dans l'élément eau dans son thème astral a une connexion très profonde avec ses émotions et celles des autres. L'élément eau est associé à la sensibilité, l'intuition et la capacité à comprendre et partager les émotions. Avec 8 points, l'individu exprime ses sentiments avec une grande fluidité et profondeur, et établit des liens émotionnels très intenses et authentiques avec les autres. Il y a une capacité exceptionnelle à faire preuve d'empathie, à comprendre des dynamiques émotionnelles complexes et à naviguer avec aisance dans des relations affectives. Cette personne est souvent perçue comme extrêmement intuitive et capable de gérer des situations émotionnelles délicates avec une grande compréhension et compassion. Bien qu'elle puisse parfois être très affectée par les émotions des autres, elle dispose des compétences nécessaires pour maintenir un équilibre émotionnel et pour soutenir les autres dans leurs propres défis émotionnels."
+    },
+    {
+      "nom": "air",
+      "points": 8,
+      "data": "Une personne ayant 8 points dans l'élément air dans son thème astral possède des compétences exceptionnelles en communication, réflexion et interaction sociale. L'élément air est lié à la pensée, la parole et l'analyse. Avec 8 points, l'individu excelle dans la compréhension, l'analyse et l'expression des idées avec une clarté et une précision remarquables. Il y a une capacité approfondie pour l'analyse critique, la réflexion et la communication fluide dans une grande variété de contextes. Cette personne est souvent perçue comme extrêmement articulate et perspicace, capable de naviguer avec aisance dans les débats intellectuels et les discussions sociales complexes. Bien qu'elle puisse parfois être perçue comme dominée par son intellect, ses compétences en communication sont généralement très efficaces et respectées."
+    },
+    {
+      "nom": "feu",
+      "points": 8,
+      "data": "Une personne ayant 8 points dans l'élément feu dans son thème astral possède une énergie, une motivation et une passion très puissantes. L'élément feu est associé à l'action, l'enthousiasme et la créativité. Avec 8 points, l'individu démontre une grande détermination, un enthousiasme contagieux et une capacité à se lancer dans des projets avec audace et vigueur. Il y a une énergie dynamique et une capacité impressionnante à prendre des risques, à embrasser des défis et à inspirer les autres avec sa passion et sa créativité. Cette personne est souvent perçue comme extrêmement motivante, innovante et pleine de vie, capable de transformer des idées en actions concrètes avec succès. Elle doit toutefois gérer son énergie pour éviter de se surmener et maintenir un équilibre entre ses diverses initiatives."
+    },
+    {
+      "nom": "terre",
+      "points": 8,
+      "data": "Une personne ayant 8 points dans l'élément terre dans son thème astral a une connexion très solide avec les aspects pratiques et matériels de la vie. L'élément terre est associé à la stabilité, l'organisation et la gestion des aspects concrets. Avec 8 points, l'individu est capable de créer des bases extrêmement solides, de gérer les responsabilités pratiques avec une grande efficacité et de maintenir une organisation impeccable dans sa vie quotidienne. Il y a une capacité significative pour la planification, la gestion des ressources et le maintien de la stabilité dans divers aspects de la vie. Cette personne est généralement perçue comme extrêmement fiable, pragmatique et compétente dans la gestion des défis matériels. Bien qu'elle soit stable et organisée, elle doit parfois rester flexible et adaptable pour faire face à des changements ou des imprévus dans ses responsabilités."
+    },
+    {
+      "nom": "eau",
+      "points": 9,
+      "data": "Une personne ayant 9 points dans l'élément eau dans son thème astral a une connexion extrêmement profonde et développée avec ses émotions et celles des autres. L'élément eau est associé à la sensibilité, l'intuition et la compréhension émotionnelle. Avec 9 points, l'individu exprime ses sentiments avec une grande profondeur et subtilité, et établit des liens émotionnels très intenses et authentiques. Il possède une capacité remarquable à faire preuve d'empathie et à comprendre les dynamiques émotionnelles complexes avec une grande finesse. Cette personne est souvent perçue comme extrêmement intuitive, capable de naviguer dans des situations émotionnelles délicates avec une compréhension et une compassion exceptionnelles. Bien qu'elle puisse être très influencée par les émotions des autres, elle est généralement capable de maintenir un équilibre émotionnel et d'apporter un soutien précieux dans des situations émotionnelles difficiles."
+    },
+    {
+      "nom": "air",
+      "points": 9,
+      "data": "Une personne ayant 9 points dans l'élément air dans son thème astral montre des compétences exceptionnelles en communication, réflexion et interaction sociale. L'élément air est lié à la pensée, la parole et l'analyse. Avec 9 points, l'individu excelle dans la compréhension, l'analyse et l'expression des idées avec une clarté et une précision remarquables. Il y a une capacité approfondie pour l'analyse critique, la réflexion et la communication fluide dans une grande variété de contextes. Cette personne est souvent perçue comme extrêmement articulate et perspicace, capable de naviguer avec aisance dans les débats intellectuels et les discussions sociales complexes. Sa capacité à organiser et à clarifier des idées complexes est souvent admirée, bien qu'elle puisse parfois être perçue comme intellectualisant excessivement."
+    },
+    {
+      "nom": "feu",
+      "points": 9,
+      "data": "Une personne ayant 9 points dans l'élément feu dans son thème astral possède une énergie, une motivation et une passion très puissantes. L'élément feu est associé à l'action, l'enthousiasme et la créativité. Avec 9 points, l'individu démontre une grande détermination, un enthousiasme contagieux et une capacité à se lancer dans des projets avec audace et vigueur. Il y a une énergie dynamique et une capacité impressionnante à prendre des risques, à embrasser des défis et à inspirer les autres avec sa passion et sa créativité. Cette personne est souvent perçue comme extrêmement motivante et innovante, capable de transformer des idées en réalisations concrètes avec succès. Bien qu'elle soit très dynamique, elle doit parfois faire attention à ne pas se surmener et à maintenir un équilibre entre ses diverses initiatives."
+    },
+    {
+      "nom": "terre",
+      "points": 9,
+      "data": "Une personne ayant 9 points dans l'élément terre dans son thème astral a une connexion très solide avec les aspects pratiques et matériels de la vie. L'élément terre est associé à la stabilité, l'organisation et la gestion des aspects concrets. Avec 9 points, l'individu est capable de créer des bases extrêmement solides, de gérer les responsabilités pratiques avec une grande efficacité et de maintenir une organisation impeccable dans sa vie quotidienne. Il y a une capacité significative pour la planification, la gestion des ressources et le maintien de la stabilité dans divers aspects de la vie. Cette personne est généralement perçue comme extrêmement fiable et pragmatique, capable de gérer les défis matériels avec compétence et constance. Bien qu'elle soit très stable et organisée, elle doit parfois rester adaptable pour faire face à des changements ou des imprévus dans ses responsabilités."
+    },
+    {
+      "nom": "eau",
+      "points": 10,
+      "data": "Une personne ayant 10 points dans l'élément eau dans son thème astral possède une connexion extrêmement profonde et affinée avec ses émotions et celles des autres. L'élément eau est lié à la sensibilité, l'intuition et la compréhension émotionnelle. Avec 10 points, l'individu exprime ses sentiments avec une profondeur et une nuance exceptionnelles, établissant des liens émotionnels puissants et authentiques avec son entourage. Cette personne possède une capacité hors du commun à faire preuve d'empathie, à comprendre les dynamiques émotionnelles complexes et à naviguer avec aisance dans les relations affectives. Elle est souvent perçue comme extrêmement intuitive, capable de saisir les besoins émotionnels des autres avec une sensibilité et une compréhension profondes. Bien que très influencée par les émotions des autres, elle sait maintenir un équilibre émotionnel et offrir un soutien précieux dans des situations émotionnelles difficiles."
+    },
+    {
+      "nom": "air",
+      "points": 10,
+      "data": "Une personne ayant 10 points dans l'élément air dans son thème astral montre des compétences exceptionnelles en communication, réflexion et interaction sociale. L'élément air est associé à la pensée, la parole et l'analyse. Avec 10 points, l'individu excelle dans la compréhension, l'analyse et l'expression des idées avec une clarté et une précision impressionnantes. Il possède une capacité approfondie pour l'analyse critique, la réflexion et la communication fluide dans divers contextes. Cette personne est souvent perçue comme extrêmement articulate, perspicace et capable de naviguer dans des débats intellectuels et des discussions sociales complexes avec une grande aisance. Sa capacité à organiser, clarifier et transmettre des idées complexes est remarquable, bien qu'elle puisse parfois être perçue comme intellectuellement dominante."
+    },
+    {
+      "nom": "feu",
+      "points": 10,
+      "data": "Une personne ayant 10 points dans l'élément feu dans son thème astral possède une énergie, une motivation et une passion extrêmement puissantes. L'élément feu est associé à l'action, l'enthousiasme et la créativité. Avec 10 points, l'individu démontre une détermination remarquable, un enthousiasme contagieux et une capacité à se lancer dans des projets avec audace et vigueur. Il y a une énergie dynamique et une capacité exceptionnelle à prendre des risques, à embrasser des défis et à inspirer les autres avec sa passion et sa créativité. Cette personne est souvent perçue comme extrêmement motivante, innovante et pleine de vie, capable de transformer des idées en réalisations concrètes avec succès. Elle doit toutefois gérer son énergie pour éviter le surmenage et maintenir un équilibre entre ses diverses initiatives."
+    },
+    {
+      "nom": "terre",
+      "points": 10,
+      "data": "Une personne ayant 10 points dans l'élément terre dans son thème astral a une connexion très solide avec les aspects pratiques et matériels de la vie. L'élément terre est associé à la stabilité, l'organisation et la gestion des aspects concrets. Avec 10 points, l'individu est capable de créer des bases extrêmement solides, de gérer les responsabilités pratiques avec une grande efficacité et de maintenir une organisation impeccable dans sa vie quotidienne. Il y a une capacité exceptionnelle pour la planification, la gestion des ressources et le maintien de la stabilité dans divers aspects de la vie. Cette personne est généralement perçue comme extrêmement fiable, pragmatique et compétente dans la gestion des défis matériels. Bien qu'elle soit très stable et organisée, elle doit parfois rester flexible et adaptable pour faire face à des changements ou des imprévus dans ses responsabilités."
+    },
+    {
+      "nom": "eau",
+      "points": 11,
+      "data": "Une personne ayant 11 points dans l'élément eau dans son thème astral a une connexion très avancée avec ses émotions et celles des autres. L'élément eau est lié à la sensibilité, l'intuition et la compréhension émotionnelle. Avec 11 points, l'individu exprime ses sentiments avec une profondeur et une authenticité exceptionnelles, établissant des relations émotionnelles très intenses et profondes. Il possède une capacité remarquable à faire preuve d'une empathie très développée, à comprendre les dynamiques émotionnelles les plus complexes et à naviguer avec aisance dans des relations affectives. Cette personne est souvent perçue comme profondément intuitive et capable de percevoir des besoins émotionnels avec une sensibilité accrue. Elle sait gérer des situations émotionnelles délicates avec une compréhension et une compassion remarquables, bien que sa propre sensibilité puisse parfois la rendre vulnérable aux émotions des autres."
+    },
+    {
+      "nom": "air",
+      "points": 11,
+      "data": "Une personne ayant 11 points dans l'élément air dans son thème astral montre des compétences exceptionnelles en communication, réflexion et interaction sociale. L'élément air est associé à la pensée, la parole et l'analyse. Avec 11 points, l'individu excelle dans la compréhension, l'analyse et l'expression des idées avec une clarté et une précision impressionnantes. Il possède une capacité approfondie pour l'analyse critique, la réflexion et la communication fluide dans une grande variété de contextes. Cette personne est souvent perçue comme extrêmement articulate et perspicace, capable de naviguer avec aisance dans des débats intellectuels et des discussions sociales complexes. Sa capacité à organiser, clarifier et transmettre des idées complexes est exceptionnellement forte, bien qu'elle puisse parfois être perçue comme trop centrée sur l'intellect ou les détails."
+    },
+    {
+      "nom": "feu",
+      "points": 11,
+      "data": "Une personne ayant 11 points dans l'élément feu dans son thème astral possède une énergie, une motivation et une passion extrêmement puissantes. L'élément feu est associé à l'action, l'enthousiasme et la créativité. Avec 11 points, l'individu démontre une détermination exceptionnelle, un enthousiasme contagieux et une capacité à se lancer dans des projets avec audace et dynamisme. Il y a une énergie dynamique et une capacité impressionnante à prendre des risques, à embrasser des défis et à inspirer les autres avec sa passion et sa créativité. Cette personne est souvent perçue comme extrêmement motivante, innovante et pleine de vie, capable de réaliser ses idées créatives avec succès. Elle doit toutefois faire attention à ne pas se surmener et à maintenir un équilibre entre ses diverses initiatives pour éviter l'épuisement."
+    },
+    {
+      "nom": "terre",
+      "points": 11,
+      "data": "Une personne ayant 11 points dans l'élément terre dans son thème astral a une connexion très solide avec les aspects pratiques et matériels de la vie. L'élément terre est associé à la stabilité, l'organisation et la gestion des aspects concrets. Avec 11 points, l'individu est capable de créer des bases extrêmement solides, de gérer les responsabilités pratiques avec une grande efficacité et de maintenir une organisation impeccable dans sa vie quotidienne. Il possède une capacité exceptionnelle pour la planification, la gestion des ressources et le maintien de la stabilité dans divers aspects de la vie. Cette personne est généralement perçue comme extrêmement fiable, pragmatique et compétente dans la gestion des défis matériels. Bien qu'elle soit très stable et organisée, elle doit parfois faire preuve de flexibilité et d'adaptabilité pour faire face aux changements ou imprévus dans ses responsabilités."
+    },
+    {
+      "nom": "eau",
+      "points": 12,
+      "data": "Une personne ayant 12 points dans l'élément eau dans son thème astral possède une connexion très profonde et raffinée avec ses émotions et celles des autres. L'élément eau est lié à la sensibilité, l'intuition et la compréhension émotionnelle. Avec 12 points, l'individu exprime ses sentiments avec une profondeur exceptionnelle et une grande authenticité, établissant des liens émotionnels très puissants et significatifs. Il y a une capacité remarquable à faire preuve d'une empathie profonde, à comprendre les dynamiques émotionnelles complexes et à naviguer avec une grande aisance dans des relations affectives. Cette personne est souvent perçue comme extrêmement intuitive, capable de percevoir des besoins émotionnels subtils avec une sensibilité accrue. Elle sait gérer des situations émotionnelles délicates avec une compréhension et une compassion exceptionnelles, bien que sa propre sensibilité puisse parfois la rendre particulièrement vulnérable aux émotions des autres."
+    },
+    {
+      "nom": "air",
+      "points": 12,
+      "data": "Une personne ayant 12 points dans l'élément air dans son thème astral montre des compétences exceptionnelles en communication, réflexion et interaction sociale. L'élément air est associé à la pensée, la parole et l'analyse. Avec 12 points, l'individu excelle dans la compréhension, l'analyse et l'expression des idées avec une clarté et une précision remarquables. Il possède une capacité approfondie pour l'analyse critique, la réflexion et la communication fluide dans une grande variété de contextes. Cette personne est souvent perçue comme extrêmement articulate et perspicace, capable de naviguer avec aisance dans des débats intellectuels et des discussions sociales complexes. Sa capacité à organiser, clarifier et transmettre des idées complexes est exceptionnellement forte, bien qu'elle puisse parfois être perçue comme trop intellectuelle ou détachée."
+    },
+    {
+      "nom": "feu",
+      "points": 12,
+      "data": "Une personne ayant 12 points dans l'élément feu dans son thème astral possède une énergie, une motivation et une passion extrêmement puissantes. L'élément feu est associé à l'action, l'enthousiasme et la créativité. Avec 12 points, l'individu démontre une détermination exceptionnelle, un enthousiasme contagieux et une capacité à se lancer dans des projets avec audace et dynamisme. Il y a une énergie remarquable et une capacité impressionnante à prendre des risques, à embrasser des défis et à inspirer les autres avec sa passion et sa créativité. Cette personne est souvent perçue comme extrêmement motivante, innovante et pleine de vie, capable de concrétiser ses idées créatives avec succès. Elle doit toutefois faire attention à ne pas se surmener et à maintenir un équilibre entre ses diverses initiatives pour éviter l'épuisement."
+    },
+    {
+      "nom": "terre",
+      "points": 12,
+      "data": "Une personne ayant 12 points dans l'élément terre dans son thème astral a une connexion très solide avec les aspects pratiques et matériels de la vie. L'élément terre est associé à la stabilité, l'organisation et la gestion des aspects concrets. Avec 12 points, l'individu est capable de créer des bases extrêmement solides, de gérer les responsabilités pratiques avec une grande efficacité et de maintenir une organisation impeccable dans sa vie quotidienne. Il possède une capacité exceptionnelle pour la planification, la gestion des ressources et le maintien de la stabilité dans divers aspects de la vie. Cette personne est généralement perçue comme extrêmement fiable, pragmatique et compétente dans la gestion des défis matériels. Bien qu'elle soit très stable et organisée, elle doit parfois faire preuve de flexibilité et d'adaptabilité pour faire face aux changements ou imprévus dans ses responsabilités."
+    },
+    {
+      "nom": "eau",
+      "points": 13,
+      "data": "Une personne ayant 13 points dans l'élément eau dans son thème astral possède une connexion très profonde et extrêmement développée avec ses émotions et celles des autres. L'élément eau est lié à la sensibilité, l'intuition et la compréhension émotionnelle. Avec 13 points, l'individu exprime ses sentiments avec une intensité et une authenticité remarquables, établissant des relations émotionnelles très puissantes et significatives. Il possède une capacité exceptionnelle à faire preuve d'une empathie profonde, à comprendre les dynamiques émotionnelles les plus complexes et à naviguer avec une grande aisance dans des relations affectives. Cette personne est souvent perçue comme extrêmement intuitive, capable de saisir des nuances émotionnelles très subtiles avec une sensibilité accrue. Elle sait gérer des situations émotionnelles délicates avec une compréhension et une compassion exceptionnelles, bien que sa propre sensibilité puisse la rendre particulièrement vulnérable aux émotions des autres."
+    },
+    {
+      "nom": "air",
+      "points": 13,
+      "data": "Une personne ayant 13 points dans l'élément air dans son thème astral montre des compétences exceptionnelles en communication, réflexion et interaction sociale. L'élément air est associé à la pensée, la parole et l'analyse. Avec 13 points, l'individu excelle dans la compréhension, l'analyse et l'expression des idées avec une clarté et une précision remarquables. Il possède une capacité approfondie pour l'analyse critique, la réflexion et la communication fluide dans divers contextes. Cette personne est souvent perçue comme extrêmement articulate, perspicace et capable de naviguer avec aisance dans des débats intellectuels et des discussions sociales complexes. Sa capacité à organiser, clarifier et transmettre des idées complexes est exceptionnellement forte, bien qu'elle puisse parfois être perçue comme trop centrée sur l'intellect ou les détails."
+    },
+    {
+      "nom": "feu",
+      "points": 13,
+      "data": "Une personne ayant 13 points dans l'élément feu dans son thème astral possède une énergie, une motivation et une passion extrêmement puissantes. L'élément feu est associé à l'action, l'enthousiasme et la créativité. Avec 13 points, l'individu démontre une détermination exceptionnelle, un enthousiasme contagieux et une capacité à se lancer dans des projets avec une audace et une vigueur remarquables. Il y a une énergie dynamique et une capacité impressionnante à prendre des risques, à embrasser des défis et à inspirer les autres avec sa passion et sa créativité. Cette personne est souvent perçue comme extrêmement motivante, innovante et pleine de vie, capable de transformer ses idées créatives en réalisations concrètes avec succès. Elle doit toutefois faire attention à ne pas se surmener et à maintenir un équilibre entre ses diverses initiatives pour éviter l'épuisement."
+    },
+    {
+      "nom": "terre",
+      "points": 13,
+      "data": "Une personne ayant 13 points dans l'élément terre dans son thème astral a une connexion très solide et développée avec les aspects pratiques et matériels de la vie. L'élément terre est associé à la stabilité, l'organisation et la gestion des aspects concrets. Avec 13 points, l'individu est capable de créer des bases extrêmement solides, de gérer les responsabilités pratiques avec une grande efficacité et de maintenir une organisation impeccable dans sa vie quotidienne. Il possède une capacité exceptionnelle pour la planification, la gestion des ressources et le maintien de la stabilité dans divers aspects de la vie. Cette personne est généralement perçue comme extrêmement fiable, pragmatique et compétente dans la gestion des défis matériels. Bien qu'elle soit très stable et organisée, elle doit parfois faire preuve de flexibilité et d'adaptabilité pour faire face aux changements ou imprévus dans ses responsabilités."
+    },
+    {
+      "nom": "eau",
+      "points": 14,
+      "data": "Une personne ayant 14 points dans l'élément eau dans son thème astral possède une connexion extrêmement profonde et raffinée avec ses émotions et celles des autres. L'élément eau est lié à la sensibilité, l'intuition et la compréhension émotionnelle. Avec 14 points, l'individu exprime ses sentiments avec une intensité remarquable, établissant des relations émotionnelles très puissantes et profondes. Il possède une capacité exceptionnelle à faire preuve d'une empathie profonde, à comprendre les dynamiques émotionnelles les plus complexes et à naviguer avec une grande aisance dans les relations affectives. Cette personne est souvent perçue comme profondément intuitive, capable de saisir des nuances émotionnelles très subtiles et de percevoir des besoins émotionnels cachés avec une sensibilité accrue. Elle gère les situations émotionnelles délicates avec une compréhension et une compassion exceptionnelles, bien que sa propre sensibilité puisse la rendre particulièrement vulnérable aux émotions des autres."
+    },
+    {
+      "nom": "air",
+      "points": 14,
+      "data": "Une personne ayant 14 points dans l'élément air dans son thème astral démontre des compétences exceptionnelles en communication, réflexion et interaction sociale. L'élément air est associé à la pensée, la parole et l'analyse. Avec 14 points, l'individu excelle dans la compréhension, l'analyse et l'expression des idées avec une clarté et une précision remarquables. Il possède une capacité approfondie pour l'analyse critique, la réflexion et la communication fluide dans divers contextes. Cette personne est souvent perçue comme extrêmement articulate et perspicace, capable de naviguer avec aisance dans des débats intellectuels et des discussions sociales complexes. Sa capacité à organiser, clarifier et transmettre des idées complexes est exceptionnellement forte, bien qu'elle puisse parfois être perçue comme excessivement analytique ou détachée."
+    },
+    {
+      "nom": "feu",
+      "points": 14,
+      "data": "Une personne ayant 14 points dans l'élément feu dans son thème astral possède une énergie, une motivation et une passion extrêmement puissantes. L'élément feu est associé à l'action, l'enthousiasme et la créativité. Avec 14 points, l'individu démontre une détermination remarquable, un enthousiasme contagieux et une capacité à se lancer dans des projets avec une audace et une vigueur impressionnantes. Il y a une énergie dynamique et une capacité exceptionnelle à prendre des risques, à embrasser des défis et à inspirer les autres avec sa passion et sa créativité. Cette personne est souvent perçue comme extrêmement motivante, innovante et pleine de vie, capable de transformer ses idées créatives en réalisations concrètes avec succès. Elle doit toutefois faire attention à ne pas se surmener et à maintenir un équilibre entre ses diverses initiatives pour éviter l'épuisement."
+    },
+    {
+      "nom": "terre",
+      "points": 14,
+      "data": "Une personne ayant 14 points dans l'élément terre dans son thème astral a une connexion très solide et développée avec les aspects pratiques et matériels de la vie. L'élément terre est associé à la stabilité, l'organisation et la gestion des aspects concrets. Avec 14 points, l'individu est capable de créer des bases extrêmement solides, de gérer les responsabilités pratiques avec une grande efficacité et de maintenir une organisation impeccable dans sa vie quotidienne. Il possède une capacité exceptionnelle pour la planification, la gestion des ressources et le maintien de la stabilité dans divers aspects de la vie. Cette personne est généralement perçue comme extrêmement fiable, pragmatique et compétente dans la gestion des défis matériels. Bien qu'elle soit très stable et organisée, elle doit parfois faire preuve de flexibilité et d'adaptabilité pour faire face aux changements ou imprévus dans ses responsabilités."
+    },
+    {
+      "nom": "eau",
+      "points": 15,
+      "data": "Une personne ayant 15 points dans l'élément eau dans son thème astral possède une connexion extraordinairement profonde et raffinée avec ses émotions et celles des autres. L'élément eau est lié à la sensibilité, l'intuition et la compréhension émotionnelle. Avec 15 points, l'individu exprime ses sentiments avec une intensité et une authenticité remarquables, établissant des relations émotionnelles très puissantes et significatives. Il possède une capacité exceptionnelle à faire preuve d'une empathie très développée, à comprendre les dynamiques émotionnelles complexes et à naviguer avec une grande aisance dans les relations affectives. Cette personne est souvent perçue comme profondément intuitive, capable de saisir des nuances émotionnelles très subtiles et de percevoir des besoins émotionnels cachés avec une sensibilité accrue. Elle gère les situations émotionnelles délicates avec une compréhension et une compassion exceptionnelles, bien que sa propre sensibilité puisse la rendre particulièrement vulnérable aux émotions des autres."
+    },
+    {
+      "nom": "air",
+      "points": 15,
+      "data": "Une personne ayant 15 points dans l'élément air dans son thème astral démontre des compétences exceptionnelles en communication, réflexion et interaction sociale. L'élément air est associé à la pensée, la parole et l'analyse. Avec 15 points, l'individu excelle dans la compréhension, l'analyse et l'expression des idées avec une clarté et une précision impressionnantes. Il possède une capacité approfondie pour l'analyse critique, la réflexion et la communication fluide dans une grande variété de contextes. Cette personne est souvent perçue comme extrêmement articulate et perspicace, capable de naviguer avec aisance dans des débats intellectuels et des discussions sociales complexes. Sa capacité à organiser, clarifier et transmettre des idées complexes est exceptionnellement forte, bien qu'elle puisse parfois être perçue comme trop centrée sur l'intellect ou les détails."
+    },
+    {
+      "nom": "feu",
+      "points": 15,
+      "data": "Une personne ayant 15 points dans l'élément feu dans son thème astral possède une énergie, une motivation et une passion extrêmement puissantes. L'élément feu est associé à l'action, l'enthousiasme et la créativité. Avec 15 points, l'individu démontre une détermination remarquable, un enthousiasme contagieux et une capacité à se lancer dans des projets avec une audace et une vigueur impressionnantes. Il y a une énergie dynamique et une capacité exceptionnelle à prendre des risques, à embrasser des défis et à inspirer les autres avec sa passion et sa créativité. Cette personne est souvent perçue comme extrêmement motivante, innovante et pleine de vie, capable de concrétiser ses idées créatives en réalisations concrètes avec succès. Elle doit toutefois faire attention à ne pas se surmener et à maintenir un équilibre entre ses diverses initiatives pour éviter l'épuisement."
+    },
+    {
+      "nom": "terre",
+      "points": 15,
+      "data": "Une personne ayant 15 points dans l'élément terre dans son thème astral a une connexion très solide et avancée avec les aspects pratiques et matériels de la vie. L'élément terre est associé à la stabilité, l'organisation et la gestion des aspects concrets. Avec 15 points, l'individu est capable de créer des bases extrêmement solides, de gérer les responsabilités pratiques avec une grande efficacité et de maintenir une organisation impeccable dans sa vie quotidienne. Il possède une capacité exceptionnelle pour la planification, la gestion des ressources et le maintien de la stabilité dans divers aspects de la vie. Cette personne est généralement perçue comme extrêmement fiable, pragmatique et compétente dans la gestion des défis matériels. Bien qu'elle soit très stable et organisée, elle doit parfois faire preuve de flexibilité et d'adaptabilité pour faire face aux changements ou imprévus dans ses responsabilités."
+    },
+    {
+      "nom": "eau",
+      "points": 16,
+      "data": "Une personne ayant 16 points dans l'élément eau dans son thème astral possède une connexion extraordinairement profonde et sophistiquée avec ses émotions et celles des autres. L'élément eau est lié à la sensibilité, l'intuition et la compréhension émotionnelle. Avec 16 points, l'individu exprime ses sentiments avec une intensité rare et une authenticité remarquable, établissant des relations émotionnelles extrêmement puissantes et profondes. Il possède une capacité exceptionnelle à faire preuve d'une empathie intense, à comprendre les dynamiques émotionnelles les plus complexes et à naviguer avec une grande aisance dans des relations affectives. Cette personne est souvent perçue comme extraordinairement intuitive, capable de saisir des nuances émotionnelles très subtiles et de percevoir des besoins émotionnels cachés avec une sensibilité très accrue. Elle gère les situations émotionnelles délicates avec une compréhension et une compassion exceptionnelles, bien que sa propre sensibilité puisse la rendre particulièrement vulnérable aux émotions des autres."
+    },
+    {
+      "nom": "air",
+      "points": 16,
+      "data": "Une personne ayant 16 points dans l'élément air dans son thème astral montre des compétences exceptionnelles en communication, réflexion et interaction sociale. L'élément air est associé à la pensée, la parole et l'analyse. Avec 16 points, l'individu excelle dans la compréhension, l'analyse et l'expression des idées avec une clarté et une précision impressionnantes. Il possède une capacité approfondie pour l'analyse critique, la réflexion et la communication fluide dans divers contextes. Cette personne est souvent perçue comme extrêmement articulate et perspicace, capable de naviguer avec aisance dans des débats intellectuels et des discussions sociales complexes. Sa capacité à organiser, clarifier et transmettre des idées complexes est exceptionnellement forte, bien qu'elle puisse parfois être perçue comme excessivement intellectuelle ou détachée."
+    },
+    {
+      "nom": "feu",
+      "points": 16,
+      "data": "Une personne ayant 16 points dans l'élément feu dans son thème astral possède une énergie, une motivation et une passion extrêmement puissantes. L'élément feu est associé à l'action, l'enthousiasme et la créativité. Avec 16 points, l'individu démontre une détermination remarquable, un enthousiasme contagieux et une capacité à se lancer dans des projets avec une audace et une vigueur impressionnantes. Il y a une énergie dynamique et une capacité exceptionnelle à prendre des risques, à embrasser des défis et à inspirer les autres avec sa passion et sa créativité. Cette personne est souvent perçue comme extrêmement motivante, innovante et pleine de vie, capable de transformer ses idées créatives en réalisations concrètes avec succès. Elle doit toutefois faire attention à ne pas se surmener et à maintenir un équilibre entre ses diverses initiatives pour éviter l'épuisement."
+    },
+    {
+      "nom": "terre",
+      "points": 16,
+      "data": "Une personne ayant 16 points dans l'élément terre dans son thème astral a une connexion extrêmement solide et développée avec les aspects pratiques et matériels de la vie. L'élément terre est associé à la stabilité, l'organisation et la gestion des aspects concrets. Avec 16 points, l'individu est capable de créer des bases extrêmement solides, de gérer les responsabilités pratiques avec une grande efficacité et de maintenir une organisation impeccable dans sa vie quotidienne. Il possède une capacité exceptionnelle pour la planification, la gestion des ressources et le maintien de la stabilité dans divers aspects de la vie. Cette personne est généralement perçue comme extrêmement fiable, pragmatique et compétente dans la gestion des défis matériels. Bien qu'elle soit très stable et organisée, elle doit parfois faire preuve de flexibilité et d'adaptabilité pour faire face aux changements ou imprévus dans ses responsabilités."
+    },
+    {
+      "nom": "eau",
+      "points": 17,
+      "data": "Une personne ayant 17 points dans l'élément eau dans son thème astral possède une connexion extraordinairement profonde et subtile avec ses émotions et celles des autres. L'élément eau est lié à la sensibilité, l'intuition et la compréhension émotionnelle. Avec 17 points, l'individu exprime ses sentiments avec une intensité rare, établissant des relations émotionnelles d'une profondeur exceptionnelle et d'une véritable résonance. Il possède une capacité remarquable à faire preuve d'une empathie intense, à comprendre les dynamiques émotionnelles les plus complexes et à naviguer avec une aisance naturelle dans des relations affectives. Cette personne est souvent perçue comme extraordinairement intuitive, capable de saisir des nuances émotionnelles très subtiles et de percevoir des besoins émotionnels cachés avec une sensibilité accrue. Elle gère les situations émotionnelles délicates avec une compréhension et une compassion d'une qualité exceptionnelle, bien que sa propre sensibilité puisse la rendre particulièrement vulnérable aux émotions des autres."
+    },
+    {
+      "nom": "air",
+      "points": 17,
+      "data": "Une personne ayant 17 points dans l'élément air dans son thème astral démontre des compétences exceptionnelles en communication, réflexion et interaction sociale. L'élément air est associé à la pensée, la parole et l'analyse. Avec 17 points, l'individu excelle dans la compréhension, l'analyse et l'expression des idées avec une clarté et une précision impressionnantes. Il possède une capacité profonde pour l'analyse critique, la réflexion et la communication fluide dans divers contextes. Cette personne est souvent perçue comme extrêmement articulate et perspicace, capable de naviguer avec aisance dans des débats intellectuels et des discussions sociales complexes. Sa capacité à organiser, clarifier et transmettre des idées complexes est exceptionnellement forte, bien qu'elle puisse parfois être perçue comme excessivement intellectuelle ou détachée."
+    },
+    {
+      "nom": "feu",
+      "points": 17,
+      "data": "Une personne ayant 17 points dans l'élément feu dans son thème astral possède une énergie, une motivation et une passion extrêmement puissantes. L'élément feu est associé à l'action, l'enthousiasme et la créativité. Avec 17 points, l'individu démontre une détermination impressionnante, un enthousiasme contagieux et une capacité à se lancer dans des projets avec une audace et une vigueur remarquables. Il y a une énergie dynamique et une capacité exceptionnelle à prendre des risques, à embrasser des défis et à inspirer les autres avec sa passion et sa créativité. Cette personne est souvent perçue comme extrêmement motivante, innovante et pleine de vie, capable de transformer ses idées créatives en réalisations concrètes avec succès. Elle doit toutefois faire attention à ne pas se surmener et à maintenir un équilibre entre ses diverses initiatives pour éviter l'épuisement."
+    },
+    {
+      "nom": "terre",
+      "points": 17,
+      "data": "Une personne ayant 17 points dans l'élément terre dans son thème astral a une connexion très solide et développée avec les aspects pratiques et matériels de la vie. L'élément terre est associé à la stabilité, l'organisation et la gestion des aspects concrets. Avec 17 points, l'individu est capable de créer des bases extrêmement solides, de gérer les responsabilités pratiques avec une grande efficacité et de maintenir une organisation impeccable dans sa vie quotidienne. Il possède une capacité exceptionnelle pour la planification, la gestion des ressources et le maintien de la stabilité dans divers aspects de la vie. Cette personne est généralement perçue comme extrêmement fiable, pragmatique et compétente dans la gestion des défis matériels. Bien qu'elle soit très stable et organisée, elle doit parfois faire preuve de flexibilité et d'adaptabilité pour faire face aux changements ou imprévus dans ses responsabilités."
+    },
+    {
+      "nom": "eau",
+      "points": 18,
+      "data": "Une personne ayant 18 points dans l'élément eau dans son thème astral possède une connexion extrêmement profonde et raffinée avec ses émotions et celles des autres. L'élément eau est lié à la sensibilité, l'intuition et la compréhension émotionnelle. Avec 18 points, l'individu exprime ses sentiments avec une intensité remarquable et une authenticité rare, établissant des relations émotionnelles d'une profondeur exceptionnelle et d'une véritable résonance. Il possède une capacité exceptionnelle à faire preuve d'une empathie très développée, à comprendre les dynamiques émotionnelles les plus complexes et à naviguer avec une aisance naturelle dans des relations affectives. Cette personne est souvent perçue comme extraordinairement intuitive, capable de saisir des nuances émotionnelles très subtiles et de percevoir des besoins émotionnels cachés avec une sensibilité très accrue. Elle gère les situations émotionnelles délicates avec une compréhension et une compassion de qualité exceptionnelle, bien que sa propre sensibilité puisse la rendre particulièrement vulnérable aux émotions des autres."
+    },
+    {
+      "nom": "air",
+      "points": 18,
+      "data": "Une personne ayant 18 points dans l'élément air dans son thème astral démontre des compétences exceptionnelles en communication, réflexion et interaction sociale. L'élément air est associé à la pensée, la parole et l'analyse. Avec 18 points, l'individu excelle dans la compréhension, l'analyse et l'expression des idées avec une clarté et une précision remarquables. Il possède une capacité approfondie pour l'analyse critique, la réflexion et la communication fluide dans divers contextes. Cette personne est souvent perçue comme extrêmement articulate, perspicace et capable de naviguer avec aisance dans des débats intellectuels et des discussions sociales complexes. Sa capacité à organiser, clarifier et transmettre des idées complexes est exceptionnelle, bien qu'elle puisse parfois être perçue comme excessivement intellectuelle ou détachée."
+    },
+    {
+      "nom": "feu",
+      "points": 18,
+      "data": "Une personne ayant 18 points dans l'élément feu dans son thème astral possède une énergie, une motivation et une passion extrêmement puissantes. L'élément feu est associé à l'action, l'enthousiasme et la créativité. Avec 18 points, l'individu démontre une détermination impressionnante, un enthousiasme contagieux et une capacité à se lancer dans des projets avec une audace et une vigueur exceptionnelles. Il y a une énergie dynamique et une capacité remarquable à prendre des risques, à embrasser des défis et à inspirer les autres avec sa passion et sa créativité. Cette personne est souvent perçue comme extrêmement motivante, innovante et pleine de vie, capable de concrétiser ses idées créatives en réalisations concrètes avec succès. Elle doit toutefois faire attention à ne pas se surmener et à maintenir un équilibre entre ses diverses initiatives pour éviter l'épuisement."
+    },
+    {
+      "nom": "terre",
+      "points": 18,
+      "data": "Une personne ayant 18 points dans l'élément terre dans son thème astral a une connexion extrêmement solide et développée avec les aspects pratiques et matériels de la vie. L'élément terre est associé à la stabilité, l'organisation et la gestion des aspects concrets. Avec 18 points, l'individu est capable de créer des bases extrêmement solides, de gérer les responsabilités pratiques avec une efficacité remarquable et de maintenir une organisation impeccable dans sa vie quotidienne. Il possède une capacité exceptionnelle pour la planification, la gestion des ressources et le maintien de la stabilité dans divers aspects de la vie. Cette personne est généralement perçue comme extrêmement fiable, pragmatique et compétente dans la gestion des défis matériels. Bien qu'elle soit très stable et organisée, elle doit parfois faire preuve de flexibilité et d'adaptabilité pour faire face aux changements ou imprévus dans ses responsabilités."
+    },
+    {
+      "nom": "eau",
+      "points": 19,
+      "data": "Une personne ayant 19 points dans l'élément eau dans son thème astral possède une connexion extrêmement profonde et raffinée avec ses émotions et celles des autres. L'élément eau est lié à la sensibilité, l'intuition et la compréhension émotionnelle. Avec 19 points, l'individu exprime ses sentiments avec une intensité rare et une authenticité exceptionnelle, établissant des relations émotionnelles d'une profondeur remarquable et d'une résonance authentique. Il possède une capacité exceptionnelle à faire preuve d'une empathie très développée, à comprendre les dynamiques émotionnelles les plus complexes et à naviguer avec une grande aisance dans des relations affectives. Cette personne est souvent perçue comme extraordinairement intuitive, capable de saisir des nuances émotionnelles très subtiles et de percevoir des besoins émotionnels cachés avec une sensibilité accrue. Elle gère les situations émotionnelles délicates avec une compréhension et une compassion d'une qualité exceptionnelle, bien que sa propre sensibilité puisse la rendre particulièrement vulnérable aux émotions des autres."
+    },
+    {
+      "nom": "air",
+      "points": 19,
+      "data": "Une personne ayant 19 points dans l'élément air dans son thème astral démontre des compétences exceptionnelles en communication, réflexion et interaction sociale. L'élément air est associé à la pensée, la parole et l'analyse. Avec 19 points, l'individu excelle dans la compréhension, l'analyse et l'expression des idées avec une clarté et une précision remarquables. Il possède une capacité approfondie pour l'analyse critique, la réflexion et la communication fluide dans divers contextes. Cette personne est souvent perçue comme extrêmement articulate, perspicace et capable de naviguer avec aisance dans des débats intellectuels et des discussions sociales complexes. Sa capacité à organiser, clarifier et transmettre des idées complexes est exceptionnelle, bien qu'elle puisse parfois être perçue comme excessivement intellectuelle ou détachée."
+    },
+    {
+      "nom": "feu",
+      "points": 19,
+      "data": "Une personne ayant 19 points dans l'élément feu dans son thème astral possède une énergie, une motivation et une passion extrêmement puissantes. L'élément feu est associé à l'action, l'enthousiasme et la créativité. Avec 19 points, l'individu démontre une détermination impressionnante, un enthousiasme contagieux et une capacité à se lancer dans des projets avec une audace et une vigueur exceptionnelles. Il y a une énergie dynamique et une capacité remarquable à prendre des risques, à embrasser des défis et à inspirer les autres avec sa passion et sa créativité. Cette personne est souvent perçue comme extrêmement motivante, innovante et pleine de vie, capable de transformer ses idées créatives en réalisations concrètes avec succès. Elle doit toutefois faire attention à ne pas se surmener et à maintenir un équilibre entre ses diverses initiatives pour éviter l'épuisement."
+    },
+    {
+      "nom": "terre",
+      "points": 19,
+      "data": "Une personne ayant 19 points dans l'élément terre dans son thème astral a une connexion extrêmement solide et avancée avec les aspects pratiques et matériels de la vie. L'élément terre est associé à la stabilité, l'organisation et la gestion des aspects concrets. Avec 19 points, l'individu est capable de créer des bases très solides, de gérer les responsabilités pratiques avec une efficacité remarquable et de maintenir une organisation impeccable dans sa vie quotidienne. Il possède une capacité exceptionnelle pour la planification, la gestion des ressources et le maintien de la stabilité dans divers aspects de la vie. Cette personne est généralement perçue comme extrêmement fiable, pragmatique et compétente dans la gestion des défis matériels. Bien qu'elle soit très stable et organisée, elle doit parfois faire preuve de flexibilité et d'adaptabilité pour faire face aux changements ou imprévus dans ses responsabilités."
+    },
+    {
+      "nom": "eau",
+      "points": 20,
+      "data": "Une personne ayant 20 points dans l'élément eau dans son thème astral possède une connexion extrêmement profonde et sophistiquée avec ses émotions et celles des autres. L'élément eau est lié à la sensibilité, l'intuition et la compréhension émotionnelle. Avec 20 points, l'individu exprime ses sentiments avec une intensité et une authenticité exceptionnelles, établissant des relations émotionnelles d'une profondeur remarquable et d'une résonance authentique. Il possède une capacité exceptionnelle à faire preuve d'une empathie très développée, à comprendre les dynamiques émotionnelles les plus complexes et à naviguer avec une grande aisance dans des relations affectives. Cette personne est souvent perçue comme extraordinairement intuitive, capable de saisir des nuances émotionnelles très subtiles et de percevoir des besoins émotionnels cachés avec une sensibilité extrêmement accrue. Elle gère les situations émotionnelles délicates avec une compréhension et une compassion de très haute qualité, bien que sa propre sensibilité puisse la rendre particulièrement vulnérable aux émotions des autres."
+    },
+    {
+      "nom": "air",
+      "points": 20,
+      "data": "Une personne ayant 20 points dans l'élément air dans son thème astral démontre des compétences exceptionnelles en communication, réflexion et interaction sociale. L'élément air est associé à la pensée, la parole et l'analyse. Avec 20 points, l'individu excelle dans la compréhension, l'analyse et l'expression des idées avec une clarté et une précision remarquables. Il possède une capacité approfondie pour l'analyse critique, la réflexion et la communication fluide dans une grande variété de contextes. Cette personne est souvent perçue comme extrêmement articulate, perspicace et capable de naviguer avec aisance dans des débats intellectuels et des discussions sociales complexes. Sa capacité à organiser, clarifier et transmettre des idées complexes est exceptionnelle, bien qu'elle puisse parfois être perçue comme trop intellectuelle ou détachée."
+    },
+    {
+      "nom": "feu",
+      "points": 20,
+      "data": "Une personne ayant 20 points dans l'élément feu dans son thème astral possède une énergie, une motivation et une passion d'une intensité exceptionnelle. L'élément feu est associé à l'action, l'enthousiasme et la créativité. Avec 20 points, l'individu démontre une détermination impressionnante, un enthousiasme contagieux et une capacité à se lancer dans des projets avec une audace et une vigueur remarquables. Il y a une énergie dynamique et une capacité exceptionnelle à prendre des risques, à embrasser des défis et à inspirer les autres avec sa passion et sa créativité. Cette personne est souvent perçue comme extrêmement motivante, innovante et pleine de vie, capable de transformer ses idées créatives en réalisations concrètes avec succès. Elle doit toutefois faire attention à ne pas se surmener et à maintenir un équilibre entre ses diverses initiatives pour éviter l'épuisement."
+    },
+    {
+      "nom": "terre",
+      "points": 20,
+      "data": "Une personne ayant 20 points dans l'élément terre dans son thème astral a une connexion extrêmement solide et avancée avec les aspects pratiques et matériels de la vie. L'élément terre est associé à la stabilité, l'organisation et la gestion des aspects concrets. Avec 20 points, l'individu est capable de créer des bases très solides, de gérer les responsabilités pratiques avec une efficacité remarquable et de maintenir une organisation impeccable dans sa vie quotidienne. Il possède une capacité exceptionnelle pour la planification, la gestion des ressources et le maintien de la stabilité dans divers aspects de la vie. Cette personne est généralement perçue comme extrêmement fiable, pragmatique et compétente dans la gestion des défis matériels. Bien qu'elle soit très stable et organisée, elle doit parfois faire preuve de flexibilité et d'adaptabilité pour faire face aux changements ou imprévus dans ses responsabilités."
+    },
+    {
+      "nom": "eau",
+      "points": 21,
+      "data": "Une personne ayant 21 points dans l'élément eau dans son thème astral possède une connexion extraordinairement profonde et raffinée avec ses émotions et celles des autres. L'élément eau est lié à la sensibilité, l'intuition et la compréhension émotionnelle. Avec 21 points, l'individu exprime ses sentiments avec une intensité et une authenticité exceptionnelles, établissant des relations émotionnelles d'une profondeur remarquable et d'une résonance authentique. Il possède une capacité rare à faire preuve d'une empathie très développée, à comprendre les dynamiques émotionnelles les plus complexes et à naviguer avec une aisance exceptionnelle dans des relations affectives. Cette personne est souvent perçue comme extraordinairement intuitive, capable de saisir des nuances émotionnelles très subtiles et de percevoir des besoins émotionnels cachés avec une sensibilité très élevée. Elle gère les situations émotionnelles délicates avec une compréhension et une compassion de très haute qualité, bien que sa propre sensibilité puisse la rendre particulièrement vulnérable aux émotions des autres."
+    },
+    {
+      "nom": "air",
+      "points": 21,
+      "data": "Une personne ayant 21 points dans l'élément air dans son thème astral démontre des compétences exceptionnelles en communication, réflexion et interaction sociale. L'élément air est associé à la pensée, la parole et l'analyse. Avec 21 points, l'individu excelle dans la compréhension, l'analyse et l'expression des idées avec une clarté et une précision remarquables. Il possède une capacité approfondie pour l'analyse critique, la réflexion et la communication fluide dans une grande variété de contextes. Cette personne est souvent perçue comme extrêmement articulate, perspicace et capable de naviguer avec aisance dans des débats intellectuels et des discussions sociales complexes. Sa capacité à organiser, clarifier et transmettre des idées complexes est exceptionnelle, bien qu'elle puisse parfois être perçue comme excessivement intellectuelle ou détachée."
+    },
+    {
+      "nom": "feu",
+      "points": 21,
+      "data": "Une personne ayant 21 points dans l'élément feu dans son thème astral possède une énergie, une motivation et une passion d'une intensité exceptionnelle. L'élément feu est associé à l'action, l'enthousiasme et la créativité. Avec 21 points, l'individu démontre une détermination impressionnante, un enthousiasme contagieux et une capacité à se lancer dans des projets avec une audace et une vigueur remarquables. Il y a une énergie dynamique et une capacité exceptionnelle à prendre des risques, à embrasser des défis et à inspirer les autres avec sa passion et sa créativité. Cette personne est souvent perçue comme extrêmement motivante, innovante et pleine de vie, capable de concrétiser ses idées créatives en réalisations concrètes avec succès. Elle doit toutefois faire attention à ne pas se surmener et à maintenir un équilibre entre ses diverses initiatives pour éviter l'épuisement."
+    },
+    {
+      "nom": "terre",
+      "points": 21,
+      "data": "Une personne ayant 21 points dans l'élément terre dans son thème astral a une connexion extrêmement solide et avancée avec les aspects pratiques et matériels de la vie. L'élément terre est associé à la stabilité, l'organisation et la gestion des aspects concrets. Avec 21 points, l'individu est capable de créer des bases très solides, de gérer les responsabilités pratiques avec une efficacité remarquable et de maintenir une organisation impeccable dans sa vie quotidienne. Il possède une capacité exceptionnelle pour la planification, la gestion des ressources et le maintien de la stabilité dans divers aspects de la vie. Cette personne est généralement perçue comme extrêmement fiable, pragmatique et compétente dans la gestion des défis matériels. Bien qu'elle soit très stable et organisée, elle doit parfois faire preuve de flexibilité et d'adaptabilité pour faire face aux changements ou imprévus dans ses responsabilités."
+    },
+    {
+      "nom": "eau",
+      "points": 22,
+      "data": "Une personne ayant 22 points dans l'élément eau dans son thème astral possède une connexion extraordinairement profonde et raffinée avec ses émotions et celles des autres. L'élément eau est lié à la sensibilité, l'intuition et la compréhension émotionnelle. Avec 22 points, l'individu exprime ses sentiments avec une intensité et une authenticité exceptionnelles, établissant des relations émotionnelles d'une profondeur remarquable et d'une résonance authentique. Il possède une capacité rare à faire preuve d'une empathie très développée, à comprendre les dynamiques émotionnelles les plus complexes et à naviguer avec une aisance exceptionnelle dans des relations affectives. Cette personne est souvent perçue comme extraordinairement intuitive, capable de saisir des nuances émotionnelles très subtiles et de percevoir des besoins émotionnels cachés avec une sensibilité très élevée. Elle gère les situations émotionnelles délicates avec une compréhension et une compassion de très haute qualité, bien que sa propre sensibilité puisse la rendre particulièrement vulnérable aux émotions des autres."
+    },
+    {
+      "nom": "air",
+      "points": 22,
+      "data": "Une personne ayant 22 points dans l'élément air dans son thème astral démontre des compétences exceptionnelles en communication, réflexion et interaction sociale. L'élément air est associé à la pensée, la parole et l'analyse. Avec 22 points, l'individu excelle dans la compréhension, l'analyse et l'expression des idées avec une clarté et une précision remarquables. Il possède une capacité approfondie pour l'analyse critique, la réflexion et la communication fluide dans une grande variété de contextes. Cette personne est souvent perçue comme extrêmement articulate, perspicace et capable de naviguer avec aisance dans des débats intellectuels et des discussions sociales complexes. Sa capacité à organiser, clarifier et transmettre des idées complexes est exceptionnelle, bien qu'elle puisse parfois être perçue comme excessivement intellectuelle ou détachée."
+    },
+    {
+      "nom": "feu",
+      "points": 22,
+      "data": "Une personne ayant 22 points dans l'élément feu dans son thème astral possède une énergie, une motivation et une passion d'une intensité exceptionnelle. L'élément feu est associé à l'action, l'enthousiasme et la créativité. Avec 22 points, l'individu démontre une détermination impressionnante, un enthousiasme contagieux et une capacité à se lancer dans des projets avec une audace et une vigueur remarquables. Il y a une énergie dynamique et une capacité exceptionnelle à prendre des risques, à embrasser des défis et à inspirer les autres avec sa passion et sa créativité. Cette personne est souvent perçue comme extrêmement motivante, innovante et pleine de vie, capable de concrétiser ses idées créatives en réalisations concrètes avec succès. Elle doit toutefois faire attention à ne pas se surmener et à maintenir un équilibre entre ses diverses initiatives pour éviter l'épuisement."
+    },
+    {
+      "nom": "terre",
+      "points": 22,
+      "data": "Une personne ayant 22 points dans l'élément terre dans son thème astral a une connexion extrêmement solide et avancée avec les aspects pratiques et matériels de la vie. L'élément terre est associé à la stabilité, l'organisation et la gestion des aspects concrets. Avec 22 points, l'individu est capable de créer des bases très solides, de gérer les responsabilités pratiques avec une efficacité remarquable et de maintenir une organisation impeccable dans sa vie quotidienne. Il possède une capacité exceptionnelle pour la planification, la gestion des ressources et le maintien de la stabilité dans divers aspects de la vie. Cette personne est généralement perçue comme extrêmement fiable, pragmatique et compétente dans la gestion des défis matériels. Bien qu'elle soit très stable et organisée, elle doit parfois faire preuve de flexibilité et d'adaptabilité pour faire face aux changements ou imprévus dans ses responsabilités."
+    },
+    {
+      "nom": "eau",
+      "points": 23,
+      "data": "Une personne ayant 23 points dans l'élément eau dans son thème astral possède une connexion extraordinairement profonde et raffinée avec ses émotions et celles des autres. L'élément eau est lié à la sensibilité, l'intuition et la compréhension émotionnelle. Avec 23 points, l'individu exprime ses sentiments avec une intensité et une authenticité remarquables, établissant des relations émotionnelles d'une profondeur exceptionnelle et d'une résonance authentique. Il possède une capacité exceptionnelle à faire preuve d'une empathie très développée, à comprendre les dynamiques émotionnelles les plus complexes et à naviguer avec une aisance très élevée dans des relations affectives. Cette personne est souvent perçue comme extraordinairement intuitive, capable de saisir des nuances émotionnelles très subtiles et de percevoir des besoins émotionnels cachés avec une sensibilité extrêmement élevée. Elle gère les situations émotionnelles délicates avec une compréhension et une compassion de très haute qualité, bien que sa propre sensibilité puisse la rendre particulièrement vulnérable aux émotions des autres."
+    },
+    {
+      "nom": "air",
+      "points": 23,
+      "data": "Une personne ayant 23 points dans l'élément air dans son thème astral démontre des compétences exceptionnelles en communication, réflexion et interaction sociale. L'élément air est associé à la pensée, la parole et l'analyse. Avec 23 points, l'individu excelle dans la compréhension, l'analyse et l'expression des idées avec une clarté et une précision remarquables. Il possède une capacité approfondie pour l'analyse critique, la réflexion et la communication fluide dans une grande variété de contextes. Cette personne est souvent perçue comme extrêmement articulate, perspicace et capable de naviguer avec aisance dans des débats intellectuels et des discussions sociales complexes. Sa capacité à organiser, clarifier et transmettre des idées complexes est exceptionnelle, bien qu'elle puisse parfois être perçue comme excessivement intellectuelle ou détachée."
+    },
+    {
+      "nom": "feu",
+      "points": 23,
+      "data": "Une personne ayant 23 points dans l'élément feu dans son thème astral possède une énergie, une motivation et une passion d'une intensité exceptionnelle. L'élément feu est associé à l'action, l'enthousiasme et la créativité. Avec 23 points, l'individu démontre une détermination impressionnante, un enthousiasme contagieux et une capacité à se lancer dans des projets avec une audace et une vigueur remarquables. Il y a une énergie dynamique et une capacité exceptionnelle à prendre des risques, à embrasser des défis et à inspirer les autres avec sa passion et sa créativité. Cette personne est souvent perçue comme extrêmement motivante, innovante et pleine de vie, capable de transformer ses idées créatives en réalisations concrètes avec succès. Elle doit toutefois faire attention à ne pas se surmener et à maintenir un équilibre entre ses diverses initiatives pour éviter l'épuisement."
+    },
+    {
+      "nom": "terre",
+      "points": 23,
+      "data": "Une personne ayant 23 points dans l'élément terre dans son thème astral a une connexion extrêmement solide et avancée avec les aspects pratiques et matériels de la vie. L'élément terre est associé à la stabilité, l'organisation et la gestion des aspects concrets. Avec 23 points, l'individu est capable de créer des bases très solides, de gérer les responsabilités pratiques avec une efficacité remarquable et de maintenir une organisation impeccable dans sa vie quotidienne. Il possède une capacité exceptionnelle pour la planification, la gestion des ressources et le maintien de la stabilité dans divers aspects de la vie. Cette personne est généralement perçue comme extrêmement fiable, pragmatique et compétente dans la gestion des défis matériels. Bien qu'elle soit très stable et organisée, elle doit parfois faire preuve de flexibilité et d'adaptabilité pour faire face aux changements ou imprévus dans ses responsabilités."
+    },
+    {
+      "nom": "eau",
+      "points": 24,
+      "data": "Une personne ayant 24 points dans l'élément eau dans son thème astral possède une connexion extrêmement profonde et raffinée avec ses émotions et celles des autres. L'élément eau est lié à la sensibilité, l'intuition et la compréhension émotionnelle. Avec 24 points, l'individu exprime ses sentiments avec une intensité et une authenticité exceptionnelles, établissant des relations émotionnelles d'une profondeur très remarquable et d'une résonance authentique. Il possède une capacité rare à faire preuve d'une empathie très développée, à comprendre les dynamiques émotionnelles les plus complexes et à naviguer avec une aisance exceptionnelle dans des relations affectives. Cette personne est souvent perçue comme extraordinairement intuitive, capable de saisir des nuances émotionnelles extrêmement subtiles et de percevoir des besoins émotionnels cachés avec une sensibilité extrêmement élevée. Elle gère les situations émotionnelles délicates avec une compréhension et une compassion de très haute qualité, bien que sa propre sensibilité puisse la rendre particulièrement vulnérable aux émotions des autres."
+    },
+    {
+      "nom": "air",
+      "points": 24,
+      "data": "Une personne ayant 24 points dans l'élément air dans son thème astral démontre des compétences exceptionnelles en communication, réflexion et interaction sociale. L'élément air est associé à la pensée, la parole et l'analyse. Avec 24 points, l'individu excelle dans la compréhension, l'analyse et l'expression des idées avec une clarté et une précision remarquables. Il possède une capacité approfondie pour l'analyse critique, la réflexion et la communication fluide dans une grande variété de contextes. Cette personne est souvent perçue comme extrêmement articulate, perspicace et capable de naviguer avec aisance dans des débats intellectuels et des discussions sociales complexes. Sa capacité à organiser, clarifier et transmettre des idées complexes est exceptionnelle, bien qu'elle puisse parfois être perçue comme excessivement intellectuelle ou détachée."
+    },
+    {
+      "nom": "feu",
+      "points": 24,
+      "data": "Une personne ayant 24 points dans l'élément feu dans son thème astral possède une énergie, une motivation et une passion d'une intensité remarquable. L'élément feu est associé à l'action, l'enthousiasme et la créativité. Avec 24 points, l'individu démontre une détermination impressionnante, un enthousiasme contagieux et une capacité à se lancer dans des projets avec une audace et une vigueur extraordinaires. Il y a une énergie dynamique et une capacité exceptionnelle à prendre des risques, à embrasser des défis et à inspirer les autres avec sa passion et sa créativité. Cette personne est souvent perçue comme extrêmement motivante, innovante et pleine de vie, capable de transformer ses idées créatives en réalisations concrètes avec succès. Elle doit toutefois faire attention à ne pas se surmener et à maintenir un équilibre entre ses diverses initiatives pour éviter l'épuisement."
+    },
+    {
+      "nom": "terre",
+      "points": 24,
+      "data": "Une personne ayant 24 points dans l'élément terre dans son thème astral a une connexion extrêmement solide et avancée avec les aspects pratiques et matériels de la vie. L'élément terre est associé à la stabilité, l'organisation et la gestion des aspects concrets. Avec 24 points, l'individu est capable de créer des bases très solides, de gérer les responsabilités pratiques avec une efficacité remarquable et de maintenir une organisation impeccable dans sa vie quotidienne. Il possède une capacité exceptionnelle pour la planification, la gestion des ressources et le maintien de la stabilité dans divers aspects de la vie. Cette personne est généralement perçue comme extrêmement fiable, pragmatique et compétente dans la gestion des défis matériels. Bien qu'elle soit très stable et organisée, elle doit parfois faire preuve de flexibilité et d'adaptabilité pour faire face aux changements ou imprévus dans ses responsabilités."
+    },
+    {
+      "nom": "eau",
+      "points": 25,
+      "data": "Une personne ayant 25 points dans l'élément eau dans son thème astral possède une connexion profondément raffinée et exceptionnelle avec ses émotions et celles des autres. L'élément eau est lié à la sensibilité, l'intuition et la compréhension émotionnelle. Avec 25 points, l'individu exprime ses sentiments avec une intensité et une profondeur remarquables, établissant des relations émotionnelles d'une profondeur très élevée et d'une résonance authentique. Il possède une capacité exceptionnelle à faire preuve d'une empathie très développée, à comprendre les dynamiques émotionnelles les plus complexes et à naviguer avec une aisance remarquable dans des relations affectives. Cette personne est souvent perçue comme extraordinairement intuitive, capable de saisir des nuances émotionnelles extrêmement subtiles et de percevoir des besoins émotionnels cachés avec une sensibilité exceptionnelle. Elle gère les situations émotionnelles délicates avec une compréhension et une compassion de très haute qualité, bien que sa propre sensibilité puisse la rendre particulièrement vulnérable aux émotions des autres."
+    },
+    {
+      "nom": "air",
+      "points": 25,
+      "data": "Une personne ayant 25 points dans l'élément air dans son thème astral démontre des compétences exceptionnelles en communication, réflexion et interaction sociale. L'élément air est associé à la pensée, la parole et l'analyse. Avec 25 points, l'individu excelle dans la compréhension, l'analyse et l'expression des idées avec une clarté et une précision remarquables. Il possède une capacité approfondie pour l'analyse critique, la réflexion et la communication fluide dans une grande variété de contextes. Cette personne est souvent perçue comme extrêmement articulate, perspicace et capable de naviguer avec aisance dans des débats intellectuels et des discussions sociales complexes. Sa capacité à organiser, clarifier et transmettre des idées complexes est exceptionnelle, bien qu'elle puisse parfois être perçue comme excessivement intellectuelle ou détachée."
+    },
+    {
+      "nom": "feu",
+      "points": 25,
+      "data": "Une personne ayant 25 points dans l'élément feu dans son thème astral possède une énergie, une motivation et une passion d'une intensité remarquable. L'élément feu est associé à l'action, l'enthousiasme et la créativité. Avec 25 points, l'individu démontre une détermination impressionnante, un enthousiasme contagieux et une capacité à se lancer dans des projets avec une audace et une vigueur exceptionnelles. Il y a une énergie dynamique et une capacité exceptionnelle à prendre des risques, à embrasser des défis et à inspirer les autres avec sa passion et sa créativité. Cette personne est souvent perçue comme extrêmement motivante, innovante et pleine de vie, capable de transformer ses idées créatives en réalisations concrètes avec succès. Elle doit toutefois faire attention à ne pas se surmener et à maintenir un équilibre entre ses diverses initiatives pour éviter l'épuisement."
+    },
+    {
+      "nom": "terre",
+      "points": 25,
+      "data": "Une personne ayant 25 points dans l'élément terre dans son thème astral a une connexion extrêmement solide et avancée avec les aspects pratiques et matériels de la vie. L'élément terre est associé à la stabilité, l'organisation et la gestion des aspects concrets. Avec 25 points, l'individu est capable de créer des bases très solides, de gérer les responsabilités pratiques avec une efficacité remarquable et de maintenir une organisation impeccable dans sa vie quotidienne. Il possède une capacité exceptionnelle pour la planification, la gestion des ressources et le maintien de la stabilité dans divers aspects de la vie. Cette personne est généralement perçue comme extrêmement fiable, pragmatique et compétente dans la gestion des défis matériels. Bien qu'elle soit très stable et organisée, elle doit parfois faire preuve de flexibilité et d'adaptabilité pour faire face aux changements ou imprévus dans ses responsabilités."
+    },
+    {
+      "nom": "eau",
+      "points": 26,
+      "data": "Une personne ayant 26 points dans l'élément eau dans son thème astral possède une connexion extrêmement profonde et raffinée avec ses émotions et celles des autres. L'élément eau est lié à la sensibilité, l'intuition et la compréhension émotionnelle. Avec 26 points, l'individu exprime ses sentiments avec une intensité exceptionnelle et une profondeur remarquable, établissant des relations émotionnelles d'une profondeur très élevée et d'une résonance authentique. Il possède une capacité exceptionnelle à faire preuve d'une empathie très développée, à comprendre les dynamiques émotionnelles les plus complexes et à naviguer avec une aisance remarquable dans des relations affectives. Cette personne est souvent perçue comme extraordinairement intuitive, capable de saisir des nuances émotionnelles extrêmement subtiles et de percevoir des besoins émotionnels cachés avec une sensibilité exceptionnelle. Elle gère les situations émotionnelles délicates avec une compréhension et une compassion de très haute qualité, bien que sa propre sensibilité puisse la rendre particulièrement vulnérable aux émotions des autres."
+    },
+    {
+      "nom": "air",
+      "points": 26,
+      "data": "Une personne ayant 26 points dans l'élément air dans son thème astral démontre des compétences exceptionnelles en communication, réflexion et interaction sociale. L'élément air est associé à la pensée, la parole et l'analyse. Avec 26 points, l'individu excelle dans la compréhension, l'analyse et l'expression des idées avec une clarté et une précision remarquables. Il possède une capacité approfondie pour l'analyse critique, la réflexion et la communication fluide dans une grande variété de contextes. Cette personne est souvent perçue comme extrêmement articulate, perspicace et capable de naviguer avec aisance dans des débats intellectuels et des discussions sociales complexes. Sa capacité à organiser, clarifier et transmettre des idées complexes est exceptionnelle, bien qu'elle puisse parfois être perçue comme excessivement intellectuelle ou détachée."
+    },
+    {
+      "nom": "feu",
+      "points": 26,
+      "data": "Une personne ayant 26 points dans l'élément feu dans son thème astral possède une énergie, une motivation et une passion d'une intensité remarquable. L'élément feu est associé à l'action, l'enthousiasme et la créativité. Avec 26 points, l'individu démontre une détermination impressionnante, un enthousiasme contagieux et une capacité à se lancer dans des projets avec une audace et une vigueur exceptionnelles. Il y a une énergie dynamique et une capacité exceptionnelle à prendre des risques, à embrasser des défis et à inspirer les autres avec sa passion et sa créativité. Cette personne est souvent perçue comme extrêmement motivante, innovante et pleine de vie, capable de transformer ses idées créatives en réalisations concrètes avec succès. Elle doit toutefois faire attention à ne pas se surmener et à maintenir un équilibre entre ses diverses initiatives pour éviter l'épuisement."
+    },
+    {
+      "nom": "terre",
+      "points": 26,
+      "data": "Une personne ayant 26 points dans l'élément terre dans son thème astral a une connexion extrêmement solide et avancée avec les aspects pratiques et matériels de la vie. L'élément terre est associé à la stabilité, l'organisation et la gestion des aspects concrets. Avec 26 points, l'individu est capable de créer des bases très solides, de gérer les responsabilités pratiques avec une efficacité remarquable et de maintenir une organisation impeccable dans sa vie quotidienne. Il possède une capacité exceptionnelle pour la planification, la gestion des ressources et le maintien de la stabilité dans divers aspects de la vie. Cette personne est généralement perçue comme extrêmement fiable, pragmatique et compétente dans la gestion des défis matériels. Bien qu'elle soit très stable et organisée, elle doit parfois faire preuve de flexibilité et d'adaptabilité pour faire face aux changements ou imprévus dans ses responsabilités."
+    },
+    {
+      "nom": "eau",
+      "points": 27,
+      "data": "Une personne ayant 27 points dans l'élément eau dans son thème astral possède une connexion exceptionnellement profonde et affinée avec ses émotions et celles des autres. L'élément eau est lié à la sensibilité, l'intuition et la compréhension émotionnelle. Avec 27 points, l'individu exprime ses sentiments avec une intensité et une profondeur inégalées, établissant des relations émotionnelles d'une profondeur extrêmement élevée et d'une résonance très authentique. Il possède une capacité remarquable à faire preuve d'une empathie extrêmement développée, à comprendre les dynamiques émotionnelles les plus complexes et à naviguer avec une aisance exceptionnelle dans des relations affectives. Cette personne est souvent perçue comme extraordinairement intuitive, capable de saisir des nuances émotionnelles très subtiles et de percevoir des besoins émotionnels cachés avec une sensibilité exceptionnelle. Elle gère les situations émotionnelles délicates avec une compréhension et une compassion d'une qualité exceptionnelle, bien que sa propre sensibilité puisse la rendre particulièrement vulnérable aux émotions des autres."
+    },
+    {
+      "nom": "air",
+      "points": 27,
+      "data": "Une personne ayant 27 points dans l'élément air dans son thème astral démontre des compétences exceptionnelles en communication, réflexion et interaction sociale. L'élément air est associé à la pensée, la parole et l'analyse. Avec 27 points, l'individu excelle dans la compréhension, l'analyse et l'expression des idées avec une clarté et une précision sans égales. Il possède une capacité approfondie pour l'analyse critique, la réflexion et la communication fluide dans une grande variété de contextes. Cette personne est souvent perçue comme extrêmement articulate, perspicace et capable de naviguer avec aisance dans des débats intellectuels et des discussions sociales complexes. Sa capacité à organiser, clarifier et transmettre des idées complexes est exceptionnelle, bien qu'elle puisse parfois être perçue comme excessivement intellectuelle ou détachée."
+    },
+    {
+      "nom": "feu",
+      "points": 27,
+      "data": "Une personne ayant 27 points dans l'élément feu dans son thème astral possède une énergie, une motivation et une passion d'une intensité exceptionnelle. L'élément feu est associé à l'action, l'enthousiasme et la créativité. Avec 27 points, l'individu démontre une détermination et un enthousiasme extraordinaires, ainsi qu'une capacité à se lancer dans des projets avec une audace et une vigueur inégalées. Il y a une énergie dynamique et une capacité exceptionnelle à prendre des risques, à embrasser des défis et à inspirer les autres avec sa passion et sa créativité. Cette personne est souvent perçue comme extrêmement motivante, innovante et pleine de vie, capable de transformer ses idées créatives en réalisations concrètes avec succès. Elle doit toutefois faire attention à ne pas se surmener et à maintenir un équilibre entre ses diverses initiatives pour éviter l'épuisement."
+    },
+    {
+      "nom": "terre",
+      "points": 27,
+      "data": "Une personne ayant 27 points dans l'élément terre dans son thème astral a une connexion extrêmement solide et avancée avec les aspects pratiques et matériels de la vie. L'élément terre est associé à la stabilité, l'organisation et la gestion des aspects concrets. Avec 27 points, l'individu est capable de créer des bases très solides, de gérer les responsabilités pratiques avec une efficacité et une organisation exceptionnelles, et de maintenir une stabilité remarquable dans sa vie quotidienne. Il possède une capacité exceptionnelle pour la planification, la gestion des ressources et le maintien de la stabilité dans divers aspects de la vie. Cette personne est généralement perçue comme extrêmement fiable, pragmatique et compétente dans la gestion des défis matériels. Bien qu'elle soit très stable et organisée, elle doit parfois faire preuve de flexibilité et d'adaptabilité pour faire face aux changements ou imprévus dans ses responsabilités."
     }
   ],
   "domaines": [
