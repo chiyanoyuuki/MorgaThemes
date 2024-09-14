@@ -1,11 +1,12 @@
 import { trigger, state, style, transition, animate } from '@angular/animations';
-import { Component, ElementRef, NgModule, OnInit, ViewChild, isDevMode } from '@angular/core';
+import { Component, ElementRef, HostListener, NgModule, OnInit, ViewChild, isDevMode } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { RouterOutlet } from '@angular/router';
 import { FormsModule } from '@angular/forms';
 import { HttpClient } from '@angular/common/http';
 import * as INFOS from '../assets/data.json';
 import { environment } from 'src/environments/environment';
+import { AutomationServiceService } from './automation-service.service';
 
 
 interface BirthData {
@@ -47,9 +48,29 @@ interface AstrologicalChart {
 
 export class AppComponent implements OnInit
 {
+  @ViewChild('fileInput') fileInput: ElementRef<HTMLInputElement>;
   @ViewChild('textes') textes!: ElementRef;
   @ViewChild('one', {static: true}) d1: ElementRef;
   focus:any = [];
+
+  JOURS = Array.from({ length: 31 }, (_, index) => index + 1);
+  MOIS: string[] = [
+    "Janvier",
+    "Février",
+    "Mars",
+    "Avril",
+    "Mai",
+    "Juin",
+    "Juillet",
+    "Août",
+    "Septembre",
+    "Octobre",
+    "Novembre",
+    "Décembre"
+];
+HEURES = Array.from({ length: 24 }, (_, index) => index);
+MINUTES = Array.from({ length: 60 }, (_, index) => index);
+VALUES:any = ["",1,"Janvier",1990,12,0,""];
 
   infos: any = INFOS;
 
@@ -71,6 +92,7 @@ export class AppComponent implements OnInit
   onglet = this.onglets[0];
   domaines:any;
   svgAspects:any;
+  loading = false;
   
   stelliums: any = [];
   termes = ["Ascendant","Milieu du ciel"];
@@ -83,6 +105,7 @@ export class AppComponent implements OnInit
   asteroides = ["Chiron","Nœud Nord","Nœud Sud","Cérès","Junon","Pallas","Fortune","Vertex","Vesta","Lilith","Point Est"];
   typesaspects = ["semi-quinconce","opposition","sesqui-carré", "semi-carré","carré","semi-sextile","conjonction","quinconce","trigone","sextile","biquintile","quintile","novile","dodecile","bi-quintile"]
   domaine:any;
+  edit = true;
 
   showListe = false;
   API_URL = 'https://api.openai.com/v1/chat/completions';
@@ -93,11 +116,21 @@ export class AppComponent implements OnInit
   interval: any;
   interval2:any;
 
-  constructor(private http : HttpClient) {}
+  files:any = [];
+  fileModel = "Nouveau Theme";
+  filesOpen = false;
+
+  constructor(private http : HttpClient, private fileService: AutomationServiceService) {}
   
   ngOnInit(): void 
   {
     this.startInterval(100,"end");
+    this.getFiles();
+
+    /*this.http.post('http://localhost:3000/api/lancer-tests', {}).subscribe(response => {
+      console.log(response);
+    });*/
+
     /*
     let lion = this.infos.stelliums.filter((s:any)=>s.signe=="Lion");
     let taureau = this.infos.stelliums.filter((s:any)=>s.signe=="Taureau");
@@ -121,10 +154,109 @@ export class AppComponent implements OnInit
       let nb = this.infos.stelliums.filter((s:any)=>s.noms.includes(p)&&s.signe=="Verseau").length;
       console.log(p,nb)
     });*/
+
+    //this.downloadFile();
     
     if(isDevMode())
-      this.readFile();
+    {
+      this.VALUES = ["Charles",23,"Octobre",1995,10,20,"Montivilliers"];
+      //this.readFile();
+    }
+      
     //this.readSigneGpt();
+  }
+
+  getFile(file:any)
+  {
+    let mois = this.MOIS.indexOf(file[2])+1;
+    return file[1]+"/"+(mois<10?"0"+mois:mois)+"/"+file[3];
+  }
+
+  getFiles()
+  {
+    this.files = [{nom:"Nouveau Thème"},{nom:"Fichier Local"}];
+    this.fileService.getFiles().subscribe((data:any)=>{
+      data = JSON.parse(data);
+      data.forEach((d:string)=>{
+        let datas = d.split("_");
+        let mois = this.MOIS.indexOf(datas[2])+1;
+        let nom = datas[0][0].toUpperCase()+datas[0].substring(1);
+        let ville = datas[6].substring(0,datas[6].indexOf("."));
+        ville = ville[0].toUpperCase()+ville.substring(1);
+    
+        this.files.push(
+          {
+            nom:nom,
+            date:datas[1]+"/"+(mois<10?"0"+mois:mois)+"/"+datas[3],
+            heure:datas[4]+":"+datas[5],
+            ville:ville,
+            value:[datas[0],datas[1],datas[2],datas[3],datas[4],datas[5],datas[6].substring(0,datas[6].indexOf("."))]
+          }
+        );
+      })
+    });
+  }
+
+  fileChange(file:any)
+  {
+    if(file.nom=="Nouveau Thème")
+    {
+      this.edit = true;
+      this.VALUES = [
+        "",
+        1,
+        "Janvier",
+        1990,
+        12,
+        0,
+        "",
+      ]
+    }
+    else if(file.nom=="Fichier Local")
+    {
+      this.fileInput.nativeElement.click();
+    }
+    else
+    {
+      this.edit = false;
+      this.VALUES = [
+        file.value[0][0].toUpperCase() + file.value[0].substring(1).toLowerCase(),
+        Number.parseInt(file.value[1]),
+        file.value[2],
+        Number.parseInt(file.value[3]),
+        Number.parseInt(file.value[4]),
+        Number.parseInt(file.value[5]),
+        file.value[6][0].toUpperCase() + file.value[6].substring(1).toLowerCase(),
+      ]
+      let v = this.VALUES;
+      let i = this.informations;
+      if(v[0]==i.prenom
+        &&i.date.includes(v[1])&&i.date.includes(v[2].toLowerCase())&&i.date.includes(v[3])
+        &&i.heure.includes(v[4])&&i.heure.includes(v[5])
+        &&i.lieu.includes(v[6])
+      )
+      {}
+      else
+        this.downloadFile();
+    }
+    this.filesOpen = false;
+  }
+
+  isValidateDisabled()
+  {
+    if(this.VALUES[0]=="")return true;
+    if(this.VALUES[3]<1800 || this.VALUES[3]>2024)return true;
+    if(this.VALUES[6]=="")return true;
+    return false;
+  }
+
+  downloadFile() {
+    this.loading = true;
+    this.fileService.downloadFile(this.VALUES).subscribe(blob => {
+      this.fileContent = blob;
+      this.format();
+      this.getFiles();
+    });
   }
 
   startInterval(i:any, s:any)
@@ -138,7 +270,7 @@ export class AppComponent implements OnInit
 
   readFile()
   {
-    this.http.get("../assets/themes/astro4.txt",{responseType: 'text'}).subscribe(text => {
+    this.http.get("../assets/themes/theme.txt",{responseType: 'text'}).subscribe(text => {
       this.fileContent = text;
       this.format();
     });
@@ -218,9 +350,9 @@ export class AppComponent implements OnInit
     }
 }*/
 
-  read()
+  read(event:any)
   {
-      const fileInput: any = document.getElementById('fileInput');
+      const fileInput: any = event.target;
       const file = fileInput.files?.[0];
       
       if (file) {
@@ -249,15 +381,19 @@ processFileContent(): void {
 }
   format()
   {
+    this.edit = false;
     this.setDomaine();
     this.general = {};
     this.data = [];
 
     this.aspects = [];
     let code = this.fileContent.split("\r\n");
+    if(code.length==1)
+      code = this.fileContent.split("\n");
 
     let rgx = new RegExp(".*<div.*", 'g');
     let lignes = code.filter((c:any)=>c.match(rgx));
+
     rgx = new RegExp(".*<div.* en (M|m)aison .*");
 
     lignes.forEach((s:any)=>{
@@ -891,6 +1027,7 @@ processFileContent(): void {
         }
       })
       this.getAspectscoords();
+      this.loading=false;
   }
 
   getAspectscoords()
@@ -961,7 +1098,6 @@ processFileContent(): void {
 
   initHide()
   {
-    console.log("inithide");
     this.planetes.forEach((p:any)=>{
       let id = this.nameToObject(p);
       let obj:any = document.getElementById(id);

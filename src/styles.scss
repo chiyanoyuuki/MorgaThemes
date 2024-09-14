@@ -101,6 +101,48 @@ button, input, select{
 .flex{
     display:flex;
 }
+.informations div{
+    display:flex;
+    justify-content: space-between;
+}
+.informations p{
+    white-space: nowrap;
+    top: 10px;
+    position: relative;
+}
+.filesOpen{
+    position: absolute;
+    z-index: 1;
+    padding: 2vh 2vw;
+    width:30vw;
+}
+.filesOpen div{
+    display:flex;
+}
+.filesOpen .firstdiv, .filesOpen .lastdiv {
+    width:30%;
+}
+.full{
+    width:100%!important
+}
+.filesOpen p{
+    white-space: nowrap;
+}
+.topload{
+    display:flex;
+    justify-content: space-between;
+}
+.left input, .left select, .left button {
+    width: 100%;
+    margin-left: 0.5vw;
+    margin-bottom: 1vh;
+    background-image: unset;
+    background-color: var(--purple0);
+  color: var(--yellow) !important;
+  font-weight: bold;
+  font-size: 1.2vw;
+  border: 1px ridge var(--purple1);
+}
 .file{
     transition: 0.5s;
     margin-bottom:2vh;
@@ -111,6 +153,7 @@ button, input, select{
     margin-top:1vh;
 }
 .file:hover{
+    cursor:pointer;
     scale:1.2;
 }
 img{
@@ -167,7 +210,7 @@ p{
     margin-bottom:2vh;
 }
 .informations p{
-    text-align: left;
+    text-align: center;
     margin:0;  
     font-size: 1.2vw;
 }
@@ -346,7 +389,7 @@ button:hover{
 }
 .disabled{
     filter: grayscale(1) contrast(9)!important;
-  opacity: 0.1!important;
+  opacity: 0.3!important;
   pointer-events: none!important;
 }
 .desc{
@@ -367,6 +410,9 @@ button:hover{
     min-height: 85%;
     scrollbar-color: var(--purple3) var(--purple1);
   scrollbar-width: thin;
+}
+.contsvg text, .contsvg image, .contsvg line{
+    transition:1s!important;
 }
 .infosdomaine 
 {
@@ -463,3 +509,63 @@ b {
     color: var(--purple3) !important;
     opacity: 0.7;
 }
+
+
+
+.loading-dots {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    position: absolute;
+  width: 100%;
+  background-color: var(--purple0);
+  opacity: 0.7;
+  z-index: 1;
+  }
+
+  .loading-dots p{
+    position: absolute;
+    font-weight: bold;
+  font-size: 3vw;
+  padding-bottom: 8vh;
+color:var(--yellow)!important;
+  }
+
+  .croix{
+    position: absolute;
+  top: 1vh!important;
+  right: 1vw!important;
+  font-size: 3vw!important;
+  }
+
+  .croix:hover{
+    scale:1.2;
+    cursor:pointer;
+  }
+  
+  .dot {
+    width: 10px;
+    height: 10px;
+    margin: 0 5px;
+    background-color: var(--yellow);
+    border-radius: 50%;
+    animation: bounce 1.5s infinite ease-in-out;
+  }
+  
+  .dot:nth-child(1) {
+    animation-delay: -0.32s;
+  }
+  
+  .dot:nth-child(2) {
+    animation-delay: -0.16s;
+  }
+  
+  @keyframes bounce {
+    0%, 80%, 100% {
+      transform: scale(0);
+    }
+    40% {
+      transform: scale(1);
+    }
+  }

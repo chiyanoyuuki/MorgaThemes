@@ -2,25 +2,77 @@
 <img [@moveAndRotate]="moveAndRotate" class="stars starsleft" src="./assets/stars.png"/>
 <img [@moveAndRotate]="moveAndRotate" class="stars starsright" src="./assets/stars.png"/>
 
+<input type="file" id="fileInput" #fileInput (change)="read($event)" style="display:none">
+
+<div class="loading-dots" *ngIf="loading">
+  <p>Chargement des données</p>
+  <div class="dot"></div>
+  <div class="dot"></div>
+  <div class="dot"></div>
+</div>
+
 <div class="top">
-  <div class="left">
-    <div class="flexcenter">
-      <div class="file">
-        <input type="file" id="fileInput" (change)="read()"/>
-        <img src="./assets/bouton.png">
-        <p>Charger fichier..</p>
+  <div class="left">  
+
+    <div class="topload">
+      <button (click)="filesOpen=!filesOpen">Changer thème</button>
+      <div *ngIf="filesOpen" class="filesOpen">
+        <div *ngFor="let file of files" (click)="fileChange(file)" class="clickable">
+          <p class="firstdiv" [class.full]="!file.date">{{file.nom}}</p>
+          <p *ngIf="file.date">{{file.date}}</p>
+          <p *ngIf="file.date">{{file.heure}}</p>
+          <p *ngIf="file.date" class="lastdiv">{{file.ville}}</p>
+        </div>
+        
+        <p class="croix" (click)="filesOpen=false">x</p>
+        <img class="fondbloc" src="./assets/bloc.png"/>
       </div>
+      <!--
+      <select [(ngModel)]="fileModel" (change)="fileChange()">
+        <option>Nouveau Theme</option>
+        <option>Fichier local</option>
+        <option [ngValue]="file" *ngFor="let file of files">{{file[0]|titlecase}} {{getDate(file)}} {{file[4]+":"+file[5]}} {{file[6]|titlecase}}</p></option>
+      </select>
+      -->
     </div>
-  
+
     <div class="informations">
-      <p>Prénom : {{informations.prenom}}</p>
-      <p>Date de naissance : {{informations.date}}</p>
-      <p>Heure de naissance : {{informations.heure}}</p>
-      <p>Lieu de naissance : {{informations.lieu}}</p>
+      <div>
+        <p>Prénom : {{edit?'':informations.prenom}}</p>
+        <input *ngIf="edit" type="text" placeholder="Prénom.." [(ngModel)]="VALUES[0]"/>
+      </div>
+      <div>
+        <p>Date de naissance : {{edit?'':informations.date}}</p>
+        <select *ngIf="edit" [(ngModel)]="VALUES[1]">
+          <option *ngFor="let ind of JOURS">{{ind}}</option>
+        </select>
+        <select *ngIf="edit" [(ngModel)]="VALUES[2]">
+          <option *ngFor="let ind of MOIS">{{ind}}</option>
+        </select>
+        <input *ngIf="edit" type="text" placeholder="Année.." [(ngModel)]="VALUES[3]"/>
+      </div>
+      <div>
+        <p>Heure de naissance : {{edit?'':informations.heure}}</p>
+        <select *ngIf="edit" [(ngModel)]="VALUES[4]">
+          <option *ngFor="let ind of HEURES">{{ind}}</option>
+        </select>
+        <select *ngIf="edit" [(ngModel)]="VALUES[5]">
+          <option *ngFor="let ind of MINUTES">{{ind}}</option>
+        </select>
+      </div>
+      <div>
+        <p>Lieu de naissance : {{edit?'':informations.lieu}}</p>
+        <input *ngIf="edit" type="text" placeholder="Lieu de naissance.." [(ngModel)]="VALUES[6]"/>
+      </div>
+      <div class="topload">
+        <button *ngIf="edit&&svgs" (click)="edit = false">Annuler</button>
+        <button *ngIf="edit" (click)="isValidateDisabled()?null:downloadFile()"  [class.disabled]="isValidateDisabled()">Valider</button>
+      </div>
+      
       <img class="fondbloc" src="./assets/bloc.png"/>
     </div>
 
-    <p class="title"><img class="star" src="./assets/star.png">{{hover?hover:(clicked?clicked:'Sélectionnez une entité')}}<img class="star" src="./assets/star.png"></p>
+    <p class="title" *ngIf="svgs"><img class="star" src="./assets/star.png">{{hover?hover:(clicked?clicked:'Sélectionnez une entité')}}<img class="star" src="./assets/star.png"></p>
   
     <div class="contsvg">
       <div #one class="svg"></div>
