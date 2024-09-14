@@ -126,6 +126,16 @@
       <div class="menu" *ngIf="clicked2==menu[2]">
         <p class="title clickable" *ngFor="let mod of modalites" (click)="modalite=mod" [class.clicked]="modalite==mod">{{mod.nom}}</p>
       </div>
+      <div class="menu elems" *ngIf="clicked2==menu[2]&&modalite==modalites[0]">
+        <p *ngFor="let mod of modalite.data" class="">{{mod.points}}<img src="./assets/{{mod.nom}}.png"/></p>
+      </div>
+      <div class="menu elems" *ngIf="clicked2==menu[2]&&modalite==modalites[1]">
+        <p *ngFor="let mod of modalite.data" class="">{{mod.points}}<img src="./assets/{{mod.nom}}.png"/></p>
+      </div>
+      <div class="menu elems yin" *ngIf="clicked2==menu[2]&&modalite==modalites[2]">
+        <p class="">{{(modalite.data[0].yang)}}<img src="./assets/yang.png"/></p>
+        <p class="">{{(modalite.data[0].yin)}}<img src="./assets/yin.png"/></p>
+      </div>
     </div>
     
     <div class="menu" *ngIf="onglet=='Général'&&focus.length==0">
@@ -158,7 +168,7 @@
           <img class="star" src="./assets/star.png">
         </div>
         <p *ngIf="modalite.data.length==0">Pas de données..</p>
-        <p *ngFor="let data of modalite.data" class="infosdomaine" [innerHTML]="data"></p>
+        <p *ngFor="let data of modalite.data" class="infosdomaine" [innerHTML]="data.data"></p>
         
         <img class="fondbloc" src="./assets/bloc.png"/>
       </div>

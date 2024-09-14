@@ -98,6 +98,8 @@ VALUES:any = ["",1,"Janvier",1990,12,0,""];
   termes = ["Ascendant","Milieu du ciel", " points", " eau ", " terre ", " air ", " feu "];
   menu = ["Hémisphère Nord/Sud", "Hémisphère Est/Ouest", "Modalités"];
   clicked2:any = this.menu[0];
+  quadricites:any;
+  quadr={cardinaux:["Bélier","Cancer","Balance","Capricorne"],fixes:["Taureau","Lion","Scorpion","Verseau"],mutables:["Gémeaux","Vierge","Sagittaire","Poissons"]};
   elements = {feu:["Bélier","Lion","Sagittaire"],air:["Gémeaux","Balance","Verseau"],terre:["Taureau","Vierge","Capricorne"],eau:["Cancer","Scorpion","Poissons"]};
   polarites:any;
   planetes = ["Soleil","Saturne","Mars","Mercure","Vénus","Neptune","Jupiter","Lune","Uranus","Pluton"];
@@ -231,8 +233,6 @@ VALUES:any = ["",1,"Janvier",1990,12,0,""];
       ]
       let v = this.VALUES;
       let i = this.informations;
-      console.log("v",v);
-      console.log("i",i);
       if(v[0]==i.prenom
         &&i.date.includes(""+v[1])&&i.date.includes(v[2].toLowerCase())&&i.date.includes(""+v[3])
         &&i.heure.includes(""+v[4])&&i.heure.includes(""+v[5])
@@ -383,7 +383,7 @@ processFileContent(): void {
 }
   format()
   {
-    this.polarites = {feu:0,air:0,terre:0,eau:0,planetes:[]}
+    this.polarites = {feu:0,air:0,terre:0,eau:0,cardinaux:0,fixes:0,mutables:0,planetes:[]}
     this.modalites = [{nom:"Elements",data:[]},{nom:"Quadruplicités",data:[]},{nom:"Polarités",data:[]}];
     this.edit = false;
     this.setDomaine();
@@ -557,11 +557,36 @@ processFileContent(): void {
     this.addPolarite(elements.find((e:any)=>e.nom=="Neptune").signe,"Neptune",1);
     this.addPolarite(elements.find((e:any)=>e.nom=="Pluton").signe,"Pluton",1);
 
-    this.modalites[0].data.push(this.setbold(this.infos.general.find((i:any)=>i.nom=="eau"&&i.points==this.polarites.eau).data));
-    this.modalites[0].data.push(this.setbold(this.infos.general.find((i:any)=>i.nom=="air"&&i.points==this.polarites.air).data));
-    this.modalites[0].data.push(this.setbold(this.infos.general.find((i:any)=>i.nom=="terre"&&i.points==this.polarites.terre).data));
-    this.modalites[0].data.push(this.setbold(this.infos.general.find((i:any)=>i.nom=="feu"&&i.points==this.polarites.feu).data));
-    this.modalites[0].data.sort((a:any,b:any)=>{return b.points-a.points});
+      this.general.eau=elements.filter((e:any)=>this.elements.eau.includes(e.signe)).length;
+      this.general.air=elements.filter((e:any)=>this.elements.air.includes(e.signe)).length;
+      this.general.feu=elements.filter((e:any)=>this.elements.feu.includes(e.signe)).length;
+      this.general.terre=elements.filter((e:any)=>this.elements.terre.includes(e.signe)).length;
+
+    let pol = this.infos.general.find((i:any)=>i.nom=="eau"&&i.points==this.polarites.eau);
+    this.modalites[0].data.push({nom:"eau",points:pol.points,data:this.setbold(pol.data)});
+    pol = this.infos.general.find((i:any)=>i.nom=="air"&&i.points==this.polarites.air);
+    this.modalites[0].data.push({nom:"air",points:pol.points,data:this.setbold(pol.data)});
+    pol = this.infos.general.find((i:any)=>i.nom=="feu"&&i.points==this.polarites.feu);
+    this.modalites[0].data.push({nom:"feu",points:pol.points,data:this.setbold(pol.data)});
+    pol = this.infos.general.find((i:any)=>i.nom=="terre"&&i.points==this.polarites.terre);
+    this.modalites[0].data.push({nom:"terre",points:pol.points,data:this.setbold(pol.data)});
+    this.modalites[0].data = this.modalites[0].data.sort((a:any,b:any)=>{return b.points-a.points});
+
+    pol = this.infos.general.find((i:any)=>i.nom=="cardinaux"&&i.points==this.polarites.cardinaux);
+    this.modalites[1].data.push({nom:"cardinaux",points:pol.points,data:this.setbold(pol.data)});
+    pol = this.infos.general.find((i:any)=>i.nom=="fixes"&&i.points==this.polarites.fixes);
+    this.modalites[1].data.push({nom:"fixes",points:pol.points,data:this.setbold(pol.data)});
+    pol = this.infos.general.find((i:any)=>i.nom=="mutables"&&i.points==this.polarites.mutables);
+    this.modalites[1].data.push({nom:"mutables",points:pol.points,data:this.setbold(pol.data)});
+    this.modalites[1].data = this.modalites[1].data.sort((a:any,b:any)=>{return b.points-a.points});
+
+    pol = this.infos.general.find((i:any)=>i.yin==(this.polarites.eau+this.polarites.terre));
+    this.modalites[2].data.push({
+      yin:this.modalites[0].data.find((m:any)=>m.nom=="terre").points+this.modalites[0].data.find((m:any)=>m.nom=="eau").points,
+      yang:0,
+      data:pol?this.setbold(pol.data):[]});
+
+    this.modalites[2].data[0].yang = 27 - this.modalites[2].data[0].yin;
 
     //domaines
     this.domaines.forEach((dom:any)=>{
@@ -620,10 +645,15 @@ processFileContent(): void {
   {
     if(this.polarites.planetes.includes(planete))return;
     this.polarites.planetes.push(planete);
+
     if(this.elements.air.includes(signe))this.polarites.air += val;
     else if(this.elements.feu.includes(signe))this.polarites.feu += val;
     else if(this.elements.terre.includes(signe))this.polarites.terre += val;
     else if(this.elements.eau.includes(signe))this.polarites.eau += val;
+
+    if(this.quadr.cardinaux.includes(signe))this.polarites.cardinaux += val;
+    if(this.quadr.fixes.includes(signe))this.polarites.fixes += val;
+    if(this.quadr.mutables.includes(signe))this.polarites.mutables += val;
   }
 
   getMaitre(signe:any)
