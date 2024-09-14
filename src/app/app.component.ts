@@ -175,7 +175,7 @@ VALUES:any = ["",1,"Janvier",1990,12,0,""];
   getFiles()
   {
     this.files = [{nom:"Nouveau Thème"},{nom:"Fichier Local"}];
-    this.fileService.getFiles().subscribe((data:any)=>{
+    this.fileService.getFiles(isDevMode()).subscribe((data:any)=>{
       data = JSON.parse(data);
       data.forEach((d:string)=>{
         let datas = d.split("_");
@@ -250,7 +250,7 @@ VALUES:any = ["",1,"Janvier",1990,12,0,""];
 
   downloadFile() {
     this.loading = true;
-    this.fileService.downloadFile(this.VALUES).subscribe(blob => {
+    this.fileService.downloadFile(this.VALUES,isDevMode()).subscribe(blob => {
       this.fileContent = blob;
       this.format();
       this.getFiles();
