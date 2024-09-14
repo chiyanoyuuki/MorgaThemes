@@ -181,16 +181,13 @@ VALUES:any = ["",1,"Janvier",1990,12,0,""];
         let datas = d.split("_");
         let mois = this.MOIS.indexOf(datas[2])+1;
         let nom = datas[0][0].toUpperCase()+datas[0].substring(1);
-        let ville = datas[6].substring(0,datas[6].indexOf("."));
-        ville = ville[0].toUpperCase()+ville.substring(1);
     
         this.files.push(
           {
             nom:nom,
             date:datas[1]+"/"+(mois<10?"0"+mois:mois)+"/"+datas[3],
-            heure:datas[4]+":"+datas[5],
-            ville:ville,
-            value:[datas[0],datas[1],datas[2],datas[3],datas[4],datas[5],datas[6].substring(0,datas[6].indexOf("."))]
+            heure:datas[4]+":"+datas[5].substring(0,datas[5].indexOf(".")),
+            value:[datas[0],datas[1],datas[2],datas[3],datas[4],datas[5]]
           }
         );
       })
@@ -226,14 +223,15 @@ VALUES:any = ["",1,"Janvier",1990,12,0,""];
         Number.parseInt(file.value[3]),
         Number.parseInt(file.value[4]),
         Number.parseInt(file.value[5]),
-        file.value[6][0].toUpperCase() + file.value[6].substring(1).toLowerCase(),
+        "",
       ]
       let v = this.VALUES;
       let i = this.informations;
+      console.log("v",v);
+      console.log("i",i);
       if(v[0]==i.prenom
-        &&i.date.includes(v[1])&&i.date.includes(v[2].toLowerCase())&&i.date.includes(v[3])
-        &&i.heure.includes(v[4])&&i.heure.includes(v[5])
-        &&i.lieu.includes(v[6])
+        &&i.date.includes(""+v[1])&&i.date.includes(v[2].toLowerCase())&&i.date.includes(""+v[3])
+        &&i.heure.includes(""+v[4])&&i.heure.includes(""+v[5])
       )
       {}
       else

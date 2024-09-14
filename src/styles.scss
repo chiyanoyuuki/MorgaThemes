@@ -118,9 +118,7 @@ button, input, select{
 }
 .filesOpen div{
     display:flex;
-}
-.filesOpen .firstdiv, .filesOpen .lastdiv {
-    width:30%;
+    justify-content: space-between;
 }
 .full{
     width:100%!important

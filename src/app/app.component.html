@@ -21,7 +21,6 @@
           <p class="firstdiv" [class.full]="!file.date">{{file.nom}}</p>
           <p *ngIf="file.date">{{file.date}}</p>
           <p *ngIf="file.date">{{file.heure}}</p>
-          <p *ngIf="file.date" class="lastdiv">{{file.ville}}</p>
         </div>
         
         <p class="croix" (click)="filesOpen=false">x</p>
