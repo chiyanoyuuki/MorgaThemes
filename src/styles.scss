@@ -635,6 +635,15 @@ color:var(--yellow)!important;
         line-height:1.3vh;
     }
 
+    .filesOpen{
+        width:75vw;
+    }
+
+    .filesOpen div p{
+        font-size:1.6vh;
+        line-height: 2.4vh;
+    }
+
     .star{
         width:2.4vh!important;
         top:0px;
@@ -647,9 +656,15 @@ color:var(--yellow)!important;
 
     .contsvg{
         scale:0.7!important;
-        left:-53px!important;
+        display: flex;
+        justify-content: center;
         position: relative;
         top:-100px;
+    }
+
+    .onglets{
+        justify-content: space-around!important;
+        width:100%;
     }
 
     .top{
@@ -670,6 +685,14 @@ color:var(--yellow)!important;
         width:96%;
         background-color: unset;
         box-shadow: unset;
+    }
+
+    .domaine p{
+        font-size:1.3vh;
+    }
+
+    .domaine b{
+        font-size:1.4vh!important;
     }
 
     .informations{
