@@ -23,11 +23,19 @@
 body{
     margin:0px;
     height:100%;
+    overflow-x: hidden;
+    position: relative;
 }
 html{
     height:100%;
+    overflow-x: hidden;
+    position: relative;
 }
 app-root{
+    height:100%;
+}
+.contprincipal{
+    width:100%;
     height:100%;
 }
 .top{
@@ -37,6 +45,9 @@ html{
 }
 .svg image, .svg text, .svg line{
     filter:drop-shadow(1px 1px 1px black) !important;
+}
+.hidden{
+    display:none!important;
 }
 .fond{
     position: absolute;
@@ -613,4 +624,77 @@ color:var(--yellow)!important;
     bottom: unset!important;
   top: 40vh!important;
   font-size: 2vw !important;
+  }
+
+  .paysage{
+
+    overflow-x:hidden;
+
+    *{
+        font-size:1.1vh;
+        line-height:1.3vh;
+    }
+
+    .star{
+        width:2.4vh!important;
+        top:0px;
+    }
+
+    .menu p{
+        font-size:2vh;
+        line-height:1.8vh;
+    }
+
+    .contsvg{
+        scale:0.7!important;
+        left:-53px!important;
+        position: relative;
+        top:-100px;
+    }
+
+    .top{
+        display:unset!important;
+    }
+
+    button{
+        font-size:2vh
+    }
+
+    .title{
+        font-size:1.5vh!important;
+        text-overflow: ellipsis;
+  overflow-x: hidden;
+    }
+
+    .left{
+        width:96%;
+        background-color: unset;
+        box-shadow: unset;
+    }
+
+    .informations{
+        width:90%;
+        margin-top:1vh;
+        margin-bottom:1vh;
+        padding-bottom: 2vh;
+
+        p{
+            font-size:1.2vh;
+        }
+    }
+
+    .right{
+        top:-185px!important;
+    }
+
+    .selectmsg{
+        top: 60px;
+        position: relative;
+    }
+
+    .textes{
+        width:unset;
+        height:unset;
+        max-height:unset;
+    }
   }

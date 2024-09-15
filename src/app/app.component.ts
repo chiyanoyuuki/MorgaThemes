@@ -120,6 +120,8 @@ VALUES:any = ["",1,"Janvier",1990,12,0,""];
   public innerWidth: any = window.outerWidth;
   public innerHeight: any = window.outerHeight;
 
+  paysage = true;
+
   mdp = "";
 
   interval: any;
@@ -145,8 +147,16 @@ VALUES:any = ["",1,"Janvier",1990,12,0,""];
 
   constructor(private http : HttpClient, private fileService: AutomationServiceService) {}
   
+  @HostListener('window:resize', ['$event'])
+  onResize(event:any) {
+    if(event.target.innerHeight>event.target.innerWidth)this.paysage = false;
+    else this.paysage = true;
+  }
+
   ngOnInit(): void 
   {
+    if(this.innerHeight>this.innerWidth)this.paysage = false;
+    console.log(this.paysage);
     this.startInterval(100,"end");
     
 
@@ -182,9 +192,10 @@ VALUES:any = ["",1,"Janvier",1990,12,0,""];
     
     if(isDevMode())
     {
-      //this.connected = true;
-      //this.VALUES = ["Charles",23,"Octobre",1995,10,20,"Montivilliers"];
-      //this.readFile();
+      this.connected = true;
+      this.mdp = "toukoutou";
+      this.getFiles();
+      this.readFile();
     }
       
     //this.readSigneGpt();
@@ -205,10 +216,10 @@ VALUES:any = ["",1,"Janvier",1990,12,0,""];
     return file[1]+"/"+(mois<10?"0"+mois:mois)+"/"+file[3];
   }
 
-  getFiles()
+  getFiles(show:boolean = true)
   {
     this.files = [{nom:"Nouveau Thème"},{nom:"Fichier Local"}];
-    this.fileService.getFiles(isDevMode(),this.mdp.toLowerCase()).subscribe((data:any)=>{
+    this.fileService.getFiles(isDevMode(),this.mdp.toLowerCase(),show).subscribe((data:any)=>{
       data = JSON.parse(data);
       data.forEach((d:string)=>{
         let datas = d.split("_");
@@ -290,7 +301,7 @@ VALUES:any = ["",1,"Janvier",1990,12,0,""];
       this.format();
       if(this.validmdp.includes(this.mdp.toLowerCase()))
       {
-        this.getFiles();
+        this.getFiles(false);
       }
     });
   }
@@ -306,7 +317,7 @@ VALUES:any = ["",1,"Janvier",1990,12,0,""];
 
   readFile()
   {
-    this.http.get("../assets/themes/theme.txt",{responseType: 'text'}).subscribe(text => {
+    this.http.get("../assets/themes/astro.txt",{responseType: 'text'}).subscribe(text => {
       this.fileContent = text;
       this.format();
     });
