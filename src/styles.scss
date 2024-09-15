@@ -663,6 +663,10 @@ color:var(--yellow)!important;
         line-height:1.3vh;
     }
 
+    .center{
+        position:fixed!important;
+    }
+
     .contFilesOpen{
         width: 86%;
     }
@@ -727,11 +731,20 @@ color:var(--yellow)!important;
         width:90%;
         margin-top:1vh;
         margin-bottom:1vh;
-        padding-bottom: 2vh;
+        padding-bottom: 3vh;
 
         p{
             font-size:1.2vh;
         }
+    }
+
+    .data{
+        width: 25vw !important;
+        min-width: 25vw!important;
+    }
+
+    .desc{
+        padding-top: 1vh;
     }
 
     .right{
