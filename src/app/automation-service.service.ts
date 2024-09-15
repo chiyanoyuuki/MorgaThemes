@@ -7,7 +7,7 @@ import { Observable } from 'rxjs';
 })
 export class AutomationServiceService {
 
-  private apiUrl = 'https://add342b18d75850ece1fa8dfe4386f38.serveo.net';
+  private apiUrl = 'https://20c492cb6c03c47c8392f2c9f36ea8d9.serveo.net';
 
   constructor(private http: HttpClient) { }
 
