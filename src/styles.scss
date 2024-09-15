@@ -124,17 +124,28 @@ button, input, select{
     position: relative;
 }
 .filesOpen{
+    max-height: 50vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+    scrollbar-color: var(--purple3) var(--purple1);
+    scrollbar-width: thin;
+    padding: 1vh 3vw;
+}
+.contFilesOpen{
     position: absolute;
     z-index: 1;
-    padding: 2vh 2vw;
-    width:30vw;
+    padding: 2vh 3vw;
+    width:35vw;
+    top:3vh;
+    left:3vw;
 }
 .filesOpen div{
     display:flex;
     justify-content: space-between;
 }
 .full{
-    width:100%!important
+    width:100%!important;
+    text-align:center!important;
 }
 .filesOpen p{
     white-space: nowrap;
@@ -573,8 +584,8 @@ color:var(--yellow)!important;
 
   .croix{
     position: absolute;
-  top: 1vh!important;
-  right: 1vw!important;
+  top: 2vh!important;
+  right: 2vw!important;
   font-size: 3vw!important;
   }
 
@@ -609,6 +620,17 @@ color:var(--yellow)!important;
     }
   }
 
+  .firs{
+    width: 60%;
+    text-align: left;
+  }
+  .seco{
+    width:25%;
+  }
+  .thir{
+    width:15%;
+  }
+
   .domodalites{
     height:75%!important;
     min-height:75%!important;
@@ -641,8 +663,8 @@ color:var(--yellow)!important;
         line-height:1.3vh;
     }
 
-    .filesOpen{
-        width:75vw;
+    .contFilesOpen{
+        width: 86%;
     }
 
     .filesOpen div p{

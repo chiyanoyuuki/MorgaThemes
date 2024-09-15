@@ -70,7 +70,7 @@ export class AppComponent implements OnInit
 ];
 HEURES = Array.from({ length: 24 }, (_, index) => index);
 MINUTES = Array.from({ length: 60 }, (_, index) => index);
-VALUES:any = ["",1,"Janvier",1990,12,0,""];
+VALUES:any = ["","",1,"Janvier",1990,12,0,""];
 
   infos: any = INFOS;
 
@@ -195,7 +195,7 @@ VALUES:any = ["",1,"Janvier",1990,12,0,""];
       this.connected = true;
       this.mdp = "toukoutou";
       this.getFiles();
-      this.readFile();
+      //this.readFile();
     }
       
     //this.readSigneGpt();
@@ -224,17 +224,17 @@ VALUES:any = ["",1,"Janvier",1990,12,0,""];
       data = JSON.parse(data);
       data.forEach((d:string)=>{
         let datas = d.split("_");
-        let mois = this.MOIS.indexOf(datas[2])+1;
-        let nom = datas[0][0].toUpperCase()+datas[0].substring(1);
+        let mois = this.MOIS.indexOf(datas[3])+1;
+        let nom = datas[0].toUpperCase() + " " + datas[1][0].toUpperCase()+datas[1].substring(1);
     
-        if(nom!="Exemple")
+        if(nom!=" Exemple")
         {
           this.files.push(
             {
               nom:nom,
-              date:datas[1]+"/"+(mois<10?"0"+mois:mois)+"/"+datas[3],
-              heure:datas[4]+":"+datas[5].substring(0,datas[5].indexOf(".")),
-              value:[datas[0],datas[1],datas[2],datas[3],datas[4],datas[5]]
+              date:datas[2]+"/"+(mois<10?"0"+mois:mois)+"/"+datas[4],
+              heure:datas[5]+":"+datas[6].substring(0,datas[6].indexOf(".")),
+              value:[datas[0],datas[1],datas[2],datas[3],datas[4],datas[5],datas[6]]
             }
           );
         }
@@ -249,6 +249,7 @@ VALUES:any = ["",1,"Janvier",1990,12,0,""];
     {
       this.edit = true;
       this.VALUES = [
+        "",
         "",
         1,
         "Janvier",
@@ -266,19 +267,22 @@ VALUES:any = ["",1,"Janvier",1990,12,0,""];
     {
       this.edit = false;
       this.VALUES = [
-        file.value[0][0].toUpperCase() + file.value[0].substring(1).toLowerCase(),
-        Number.parseInt(file.value[1]),
-        file.value[2],
-        Number.parseInt(file.value[3]),
+        file.value[0].toUpperCase(),
+        file.value[1][0].toUpperCase() + file.value[1].substring(1).toLowerCase(),
+        Number.parseInt(file.value[2]),
+        file.value[3],
         Number.parseInt(file.value[4]),
         Number.parseInt(file.value[5]),
+        Number.parseInt(file.value[6]),
         "",
       ]
       let v = this.VALUES;
       let i = this.informations;
-      if(v[0]==i.prenom
-        &&i.date.includes(""+v[1])&&i.date.includes(v[2].toLowerCase())&&i.date.includes(""+v[3])
-        &&i.heure.includes(""+v[4])&&i.heure.includes(""+v[5])
+      if(
+        i.prenom
+        &&i.prenom.toLowerCase()==v[1].toLowerCase()+" "+v[0].toLowerCase()
+        &&i.date.includes(""+v[2])&&i.date.includes(v[3].toLowerCase())&&i.date.includes(""+v[4])
+        &&i.heure.includes(""+v[5])&&i.heure.includes(""+v[6])
       )
       {}
       else
@@ -289,9 +293,9 @@ VALUES:any = ["",1,"Janvier",1990,12,0,""];
 
   isValidateDisabled()
   {
-    if(this.VALUES[0]=="")return true;
-    if(this.VALUES[3]<1800 || this.VALUES[3]>2024)return true;
-    if(this.VALUES[6]=="")return true;
+    if(this.VALUES[1]=="")return true;
+    if(this.VALUES[4]<1800 || this.VALUES[4]>2024)return true;
+    if(this.VALUES[7]=="")return true;
     return false;
   }
 

@@ -43,45 +43,48 @@
   
       <div class="topload">
         <button (click)="filesOpen=!filesOpen">Changer thème</button>
-        <div *ngIf="filesOpen" class="filesOpen">
-          <div *ngFor="let file of files" (click)="fileChange(file)" class="clickable">
-            <p class="firstdiv" [class.full]="!file.date">{{file.nom}}</p>
-            <p *ngIf="file.date">{{file.date}}</p>
-            <p *ngIf="file.date">{{file.heure}}</p>
+        <div class="contFilesOpen" *ngIf="filesOpen" >
+          <div class="filesOpen">
+            <div *ngFor="let file of files" (click)="fileChange(file)" class="clickable">
+              <p class="firs" [class.full]="!file.date">{{file.nom}}</p>
+              <p class="seco" *ngIf="file.date">{{file.date}}</p>
+              <p class="thir" *ngIf="file.date">{{file.heure}}</p>
+            </div>
+            
+            <p class="croix" (click)="filesOpen=false">x</p>
           </div>
-          
-          <p class="croix" (click)="filesOpen=false">x</p>
           <img class="fondbloc" src="./assets/bloc.png"/>
         </div>
       </div>
   
       <div class="informations" *ngIf="edit||informations.prenom">
         <div>
-          <p>Prénom : {{edit?'':informations.prenom}}</p>
-          <input *ngIf="edit" type="text" placeholder="Prénom.." [(ngModel)]="VALUES[0]"/>
+          <p *ngIf="!edit">Nom : {{edit?'':informations.prenom}}</p>
+          <input *ngIf="edit" type="text" placeholder="Nom.." [(ngModel)]="VALUES[0]"/>
+          <input *ngIf="edit" type="text" placeholder="Prénom.." [(ngModel)]="VALUES[1]"/>
         </div>
         <div>
-          <p>Date de naissance : {{edit?'':informations.date}}</p>
-          <select *ngIf="edit" [(ngModel)]="VALUES[1]">
+          <p *ngIf="!edit">Date de naissance : {{edit?'':informations.date}}</p>
+          <select *ngIf="edit" [(ngModel)]="VALUES[2]">
             <option *ngFor="let ind of JOURS">{{ind}}</option>
           </select>
-          <select *ngIf="edit" [(ngModel)]="VALUES[2]">
+          <select *ngIf="edit" [(ngModel)]="VALUES[3]">
             <option *ngFor="let ind of MOIS">{{ind}}</option>
           </select>
-          <input *ngIf="edit" type="text" placeholder="Année.." [(ngModel)]="VALUES[3]"/>
+          <input *ngIf="edit" type="text" placeholder="Année.." [(ngModel)]="VALUES[4]"/>
         </div>
         <div>
-          <p>Heure de naissance : {{edit?'':informations.heure}}</p>
-          <select *ngIf="edit" [(ngModel)]="VALUES[4]">
+          <p *ngIf="!edit">Heure de naissance : {{edit?'':informations.heure}}</p>
+          <select *ngIf="edit" [(ngModel)]="VALUES[5]">
             <option *ngFor="let ind of HEURES">{{ind}}</option>
           </select>
-          <select *ngIf="edit" [(ngModel)]="VALUES[5]">
+          <select *ngIf="edit" [(ngModel)]="VALUES[6]">
             <option *ngFor="let ind of MINUTES">{{ind}}</option>
           </select>
         </div>
         <div>
-          <p>Lieu de naissance : {{edit?'':informations.lieu}}</p>
-          <input *ngIf="edit" type="text" placeholder="Lieu de naissance.." [(ngModel)]="VALUES[6]"/>
+          <p *ngIf="!edit">Lieu de naissance : {{edit?'':informations.lieu}}</p>
+          <input *ngIf="edit" type="text" placeholder="Lieu de naissance.." [(ngModel)]="VALUES[7]"/>
         </div>
         <div class="topload">
           <button *ngIf="edit&&svgs" (click)="edit = false">Annuler</button>

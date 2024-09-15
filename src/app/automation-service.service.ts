@@ -13,13 +13,14 @@ export class AutomationServiceService {
 
   downloadFile(values:any,isDevMode:any): Observable<string> {
     let params:any = {
-      prenom : values[0],
-      jour : values[1]<10?"0"+values[1]:""+values[1],
-      mois : values[2],
-      annee : values[3],
-      heures : values[4]<10?"0"+values[4]:""+values[4],
-      minutes : values[5]<10?"0"+values[5]:""+values[5],
-      lieu : values[6],
+      nom : values[0],
+      prenom : values[1],
+      jour : values[2]<10?"0"+values[2]:""+values[2],
+      mois : values[3],
+      annee : values[4],
+      heures : values[5]<10?"0"+values[5]:""+values[5],
+      minutes : values[6]<10?"0"+values[6]:""+values[6],
+      lieu : values[7],
       isDevMode:isDevMode
     }
     return this.http.get(this.apiUrl + '/api/download-file', { params: params, responseType: 'text' });
