@@ -141,6 +141,8 @@ VALUES:any = ["",1,"Janvier",1990,12,0,""];
   fileModel = "Nouveau Theme";
   filesOpen = false;
 
+  validmdp: any = ["toukoutou","trading"];
+
   constructor(private http : HttpClient, private fileService: AutomationServiceService) {}
   
   ngOnInit(): void 
@@ -190,7 +192,7 @@ VALUES:any = ["",1,"Janvier",1990,12,0,""];
 
   tryconnect()
   {
-    if(this.mdp=="toukoutou")
+    if(this.validmdp.includes(this.mdp.toLowerCase()))
     {
       this.connected=true;
       this.getFiles();
@@ -206,7 +208,7 @@ VALUES:any = ["",1,"Janvier",1990,12,0,""];
   getFiles()
   {
     this.files = [{nom:"Nouveau Thème"},{nom:"Fichier Local"}];
-    this.fileService.getFiles(isDevMode()).subscribe((data:any)=>{
+    this.fileService.getFiles(isDevMode(),this.mdp.toLowerCase()).subscribe((data:any)=>{
       data = JSON.parse(data);
       data.forEach((d:string)=>{
         let datas = d.split("_");
@@ -286,7 +288,7 @@ VALUES:any = ["",1,"Janvier",1990,12,0,""];
     this.fileService.downloadFile(this.VALUES,isDevMode()).subscribe(blob => {
       this.fileContent = blob;
       this.format();
-      if(this.mdp=="toukoutou")
+      if(this.validmdp.includes(this.mdp.toLowerCase()))
       {
         this.getFiles();
       }

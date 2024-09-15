@@ -25,9 +25,10 @@ export class AutomationServiceService {
     return this.http.get(this.apiUrl + '/api/download-file', { params: params, responseType: 'text' });
   }
 
-  getFiles(isDevMode:any) : Observable<string> {
+  getFiles(isDevMode:any, mdp:string) : Observable<string> {
     let params:any = {
-      isDevMode:isDevMode
+      isDevMode:isDevMode,
+      mdp:mdp
     }
     return this.http.get(this.apiUrl + '/api/get-files', { params: params, responseType: 'text' });
   }
