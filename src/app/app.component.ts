@@ -218,7 +218,8 @@ VALUES:any = ["",1,"Janvier",1990,12,0,""];
 
   getFiles(show:boolean = true)
   {
-    this.files = [{nom:"Nouveau Thème"},{nom:"Fichier Local"}];
+    if(this.mdp.toLowerCase()=="toukoutou")this.files = [{nom:"Nouveau Thème"},{nom:"Fichier Local"}];
+    else if(this.mdp.toLowerCase()=="trading")this.files = [{nom:"Fichier Local"}];
     this.fileService.getFiles(isDevMode(),this.mdp.toLowerCase(),show).subscribe((data:any)=>{
       data = JSON.parse(data);
       data.forEach((d:string)=>{
@@ -492,7 +493,8 @@ processFileContent(): void {
         maison = maison.substring(maison.indexOf(" ")+1);
 
         if(nom=="Nœud Nord")this.data.push({nom:"Nœud Sud",signe:this.opposite(signe),maison:"Pas de Maison"});
-        this.data.push({nom:nom,signe:signe,maison:maison,degres:degres,secondes:secondes});
+        let found = this.data.find((d:any)=>d.nom==nom&&d.signe==signe&&d.maison==maison&&d.degres==degres&&d.secondes==secondes);
+        if(!found)this.data.push({nom:nom,signe:signe,maison:maison,degres:degres,secondes:secondes});
       }
       else if(s.includes(">Maison ")||s.includes(">Milieu du Ciel ")||s.includes(">Ascendant"))
       {
@@ -681,6 +683,7 @@ processFileContent(): void {
       })
       
     });
+
     this.modalite = this.modalites[0];
     this.domaine = this.domaines[0];
     this.init(!this.informations);

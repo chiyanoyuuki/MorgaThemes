@@ -37,6 +37,8 @@ app-root{
 .contprincipal{
     width:100%;
     height:100%;
+    overflow: hidden !important;
+    position: relative;
 }
 .top{
     height:100%;}
@@ -624,6 +626,10 @@ color:var(--yellow)!important;
     bottom: unset!important;
   top: 40vh!important;
   font-size: 2vw !important;
+  }
+
+  .paysage.contprincipal{
+    overflow-y:auto!important;
   }
 
   .paysage{
