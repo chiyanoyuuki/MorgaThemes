@@ -128,10 +128,10 @@
       </div>
   
       <div class="menu menu3" *ngIf="onglet=='Accueil'&&svgs">
-        <p class="title" *ngIf="clicked2==menu[0]">{{general.emispherenord.nord}} planètes dans l'emisphère Nord</p>
-        <p class="title" *ngIf="clicked2==menu[0]">{{general.emispherenord.sud}} planètes dans l'emisphère Sud</p>
-        <p class="title" *ngIf="clicked2==menu[1]">{{general.emisphereest.ouest}} planètes dans l'emisphère Ouest</p>
-        <p class="title" *ngIf="clicked2==menu[1]">{{general.emisphereest.est}} planètes dans l'emisphère Est</p>
+        <p class="title" *ngIf="clicked2==menu[0]">{{general.emispherenord.nord}} planètes dans l'hémisphère Nord</p>
+        <p class="title" *ngIf="clicked2==menu[0]">{{general.emispherenord.sud}} planètes dans l'hémisphère Sud</p>
+        <p class="title" *ngIf="clicked2==menu[1]">{{general.emisphereest.ouest}} planètes dans l'hémisphère Ouest</p>
+        <p class="title" *ngIf="clicked2==menu[1]">{{general.emisphereest.est}} planètes dans l'hémisphère Est</p>
         <div class="menu" *ngIf="clicked2==menu[2]">
           <p class="title clickable" *ngFor="let mod of modalites" (click)="modalite=mod" [class.clicked]="modalite==mod">{{mod.nom}}</p>
         </div>
@@ -158,9 +158,11 @@
       <div *ngIf="onglet=='Domaines'" class="domaines">
         <div class="domaine">
           <div class="flex titlestyle">
-            <img class="star" src="./assets/star.png">
-            <p class="title borderbot">{{domaine.nom}}</p>
-            <img class="star" src="./assets/star.png">
+            <p class="title borderbot">
+              <img class="star star2" src="./assets/{{domaine.nom|lowercase}}.png">
+              {{domaine.nom}}
+              <img class="star star2" src="./assets/{{domaine.nom|lowercase}}.png">
+            </p>
           </div>
           <p *ngIf="domaine.domaines.length==0">Pas de données..</p>
           <p *ngFor="let data of domaine.domaines" class="infosdomaine" [innerHTML]="data"></p>
