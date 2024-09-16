@@ -132,6 +132,7 @@ VALUES:any = ["","",1,"Janvier",1990,12,0,""];
     "date": "01/01/1990",
     "heure": "12:00",
     "value": [
+      "",
       "exemple",
       "01",
       "Janvier",
@@ -158,11 +159,6 @@ VALUES:any = ["","",1,"Janvier",1990,12,0,""];
     if(this.innerHeight>this.innerWidth)this.paysage = false;
     console.log(this.paysage);
     this.startInterval(100,"end");
-    
-
-    /*this.http.post('http://localhost:3000/api/lancer-tests', {}).subscribe(response => {
-      console.log(response);
-    });*/
 
     /*
     let lion = this.infos.stelliums.filter((s:any)=>s.signe=="Lion");
@@ -193,7 +189,7 @@ VALUES:any = ["","",1,"Janvier",1990,12,0,""];
     if(isDevMode())
     {
       this.connected = true;
-      this.mdp = "toukoutou";
+      this.mdp = "";
       this.getFiles();
       //this.readFile();
     }
