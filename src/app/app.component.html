@@ -45,6 +45,9 @@
         <button (click)="filesOpen=!filesOpen">Changer thème</button>
         <div class="contFilesOpen" *ngIf="filesOpen" >
           <div class="filesOpen">
+            <p *ngIf="disconnected" class="red">Le serveur est offline</p>
+            <p *ngIf="disconnected" class="red">La seule option est le chargement de fichier</p>
+            <p *ngIf="disconnected">&nbsp;</p>
             <div *ngFor="let file of files" (click)="fileChange(file)" class="clickable">
               <p class="firs" [class.full]="!file.date">{{file.nom}}</p>
               <p class="seco" *ngIf="file.date">{{file.date}}</p>
@@ -111,7 +114,7 @@
       </div>
   
       <div *ngIf="onglet=='Général' && desc" class="desc">
-        <p class="title"><img class="star" src="./assets/star.png">{{clicked}}<img class="star" src="./assets/star.png"></p>
+        <p class="title"><img class="star star2 reverse" src="./assets/{{clicked|lowercase}}.png">{{clicked}}<img class="star star2" src="./assets/{{clicked|lowercase}}.png"></p>
         <p [innerHTML]="desc"></p>
         <img class="fondbloc" src="./assets/bloc.png"/>
       </div>

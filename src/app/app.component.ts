@@ -93,6 +93,7 @@ VALUES:any = ["","",1,"Janvier",1990,12,0,""];
   domaines:any;
   svgAspects:any;
   loading = false;
+  disconnected = false;
   
   stelliums: any = [];
   termes = ["Ascendant","Milieu du ciel", " points", " eau ", " terre ", " air ", " feu "];
@@ -189,9 +190,9 @@ VALUES:any = ["","",1,"Janvier",1990,12,0,""];
     if(isDevMode())
     {
       this.connected = true;
-      this.mdp = "";
+      this.mdp = "toukoutou";
       this.getFiles();
-      //this.readFile();
+      this.readFile();
     }
       
     //this.readSigneGpt();
@@ -214,28 +215,34 @@ VALUES:any = ["","",1,"Janvier",1990,12,0,""];
 
   getFiles(show:boolean = true)
   {
+    this.loading = true;
     if(this.mdp.toLowerCase()=="toukoutou")this.files = [{nom:"Nouveau Thème"},{nom:"Fichier Local"}];
     else if(this.mdp.toLowerCase()=="trading")this.files = [{nom:"Fichier Local"}];
-    this.fileService.getFiles(isDevMode(),this.mdp.toLowerCase(),show).subscribe((data:any)=>{
-      data = JSON.parse(data);
-      data.forEach((d:string)=>{
-        let datas = d.split("_");
-        let mois = this.MOIS.indexOf(datas[3])+1;
-        let nom = datas[0].toUpperCase() + " " + datas[1][0].toUpperCase()+datas[1].substring(1);
-    
-        if(nom!=" Exemple")
-        {
-          this.files.push(
-            {
-              nom:nom,
-              date:datas[2]+"/"+(mois<10?"0"+mois:mois)+"/"+datas[4],
-              heure:datas[5]+":"+datas[6].substring(0,datas[6].indexOf(".")),
-              value:[datas[0],datas[1],datas[2],datas[3],datas[4],datas[5],datas[6]]
-            }
-          );
-        }
-        
+    this.fileService.getFiles(isDevMode(),this.mdp.toLowerCase(),show).subscribe(
+      (data:any)=>{
+        data = JSON.parse(data);
+        data.forEach((d:string)=>{
+          let datas = d.split("_");
+          let mois = this.MOIS.indexOf(datas[3])+1;
+          let nom = datas[0].toUpperCase() + " " + datas[1][0].toUpperCase()+datas[1].substring(1);
+      
+          if(nom!=" Exemple")
+          {
+            this.files.push(
+              {
+                nom:nom,
+                date:datas[2]+"/"+(mois<10?"0"+mois:mois)+"/"+datas[4],
+                heure:datas[5]+":"+datas[6].substring(0,datas[6].indexOf(".")),
+                value:[datas[0],datas[1],datas[2],datas[3],datas[4],datas[5],datas[6]]
+              }
+            );
+          }
       })
+      this.loading = false;
+    }, (err) =>{
+      this.loading = false;
+      this.files = [{nom:"Fichier Local"}];
+      this.disconnected=true;
     });
   }
 
@@ -304,6 +311,9 @@ VALUES:any = ["","",1,"Janvier",1990,12,0,""];
       {
         this.getFiles(false);
       }
+    }, (err) =>{
+      this.loading = false;
+      this.disconnected=true;
     });
   }
 
@@ -318,6 +328,7 @@ VALUES:any = ["","",1,"Janvier",1990,12,0,""];
 
   readFile()
   {
+    this.loading = true;
     this.http.get("../assets/themes/astro.txt",{responseType: 'text'}).subscribe(text => {
       this.fileContent = text;
       this.format();
@@ -400,6 +411,7 @@ VALUES:any = ["","",1,"Janvier",1990,12,0,""];
 
   read(event:any)
   {
+    this.loading = true;
       const fileInput: any = event.target;
       const file = fileInput.files?.[0];
       
@@ -1160,7 +1172,7 @@ processFileContent(): void {
         }
       })
       this.getAspectscoords();
-      this.loading=false;
+      this.loading = false;
   }
 
   getAspectscoords()

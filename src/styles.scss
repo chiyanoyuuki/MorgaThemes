@@ -81,6 +81,7 @@ html{
     -webkit-user-select: none; /* Safari */
   -ms-user-select: none; /* IE 10 and IE 11 */
   user-select: none; /* Standard syntax */
+  -webkit-appearance: none;
 }
 .title{
     font-family: 'Chloe'!important;
@@ -142,6 +143,11 @@ button, input, select{
 .filesOpen div{
     display:flex;
     justify-content: space-between;
+    margin-bottom:1vh;
+}
+.filesOpen .red{
+    color: #bb4050 !important;
+  font-size: 1.5vw !important;
 }
 .full{
     width:100%!important;
@@ -627,8 +633,19 @@ color:var(--yellow)!important;
   .seco{
     width:25%;
   }
+  .desc .title{
+    margin-bottom:1vh;
+  }
+  .desc .star{
+    opacity:0.5!important;
+  }
   .thir{
     width:15%;
+  }
+
+  .desc .star2{
+    margin:0vh 1vw;
+    opacity:0.6;
   }
 
   .domodalites{
@@ -678,6 +695,11 @@ color:var(--yellow)!important;
 
     .star{
         width:2.4vh!important;
+        top: 6px;
+        height: 2.4vh;
+    }
+
+    .textes .star{
         top:0px;
     }
 
@@ -710,7 +732,12 @@ color:var(--yellow)!important;
     .title{
         font-size:1.5vh!important;
         text-overflow: ellipsis;
-  overflow-x: hidden;
+        overflow-x: hidden;
+    }
+
+    .desc .title{
+        text-overflow: unset;
+        overflow-x: unset;
     }
 
     .left{
