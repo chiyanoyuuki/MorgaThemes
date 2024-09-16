@@ -698,10 +698,18 @@ color:var(--yellow)!important;
         line-height: 2.4vh;
     }
 
+    .textes .title{
+        text-overflow: ellipsis;
+        overflow-x: hidden ;
+    }
+
     .star{
-        width:2.4vh!important;
         top: 6px;
         height: 2.4vh;
+    }
+
+    .star2{
+        margin: 0vh 1vh!important;
     }
 
     .textes .star{
@@ -736,8 +744,10 @@ color:var(--yellow)!important;
 
     .title{
         font-size:1.5vh!important;
-        text-overflow: ellipsis;
-        overflow-x: hidden;
+    }
+
+    .star2{
+        top:6px!important;
     }
 
     .desc .title{
