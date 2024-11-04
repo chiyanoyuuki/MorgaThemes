@@ -145,7 +145,7 @@ VALUES:any = ["","",1,"Janvier",1990,12,0,""];
   fileModel = "Nouveau Theme";
   filesOpen = false;
 
-  validmdp: any = ["toukoutou","trading"];
+  validmdp: any = ["toukoutou","trading","genki"];
 
   constructor(private http : HttpClient, private fileService: AutomationServiceService) {}
   
@@ -157,6 +157,11 @@ VALUES:any = ["","",1,"Janvier",1990,12,0,""];
 
   ngOnInit(): void 
   {
+    this.http.get<any>('http://chiyanh.cluster031.hosting.ovh.net/FATEtest').subscribe(data=>
+    {
+      console.log(data);
+    });
+
     if(this.innerHeight>this.innerWidth)this.paysage = false;
     console.log(this.paysage);
     this.startInterval(100,"end");
@@ -187,7 +192,7 @@ VALUES:any = ["","",1,"Janvier",1990,12,0,""];
 
     //this.downloadFile();
     
-    if(isDevMode())
+    if(false&&isDevMode())
     {
       this.connected = true;
       this.mdp = "toukoutou";
@@ -243,12 +248,23 @@ VALUES:any = ["","",1,"Janvier",1990,12,0,""];
       this.loading = false;
       this.files = [{nom:"Fichier Local"}];
       this.disconnected=true;
+      if(this.mdp.toLowerCase()=="genki")
+      {
+        this.files = [{nom:"Thème Astral Cloé"}];
+        this.disconnected=false;
+      }
+      
     });
+    
   }
 
   fileChange(file:any)
   {
-    if(file.nom=="Nouveau Thème")
+    if(file.nom=="Thème Astral Cloé")
+    {
+      this.readFile2();
+    }
+    else if(file.nom=="Nouveau Thème")
     {
       this.edit = true;
       this.VALUES = [
@@ -330,6 +346,15 @@ VALUES:any = ["","",1,"Janvier",1990,12,0,""];
   {
     this.loading = true;
     this.http.get("../assets/themes/astro.txt",{responseType: 'text'}).subscribe(text => {
+      this.fileContent = text;
+      this.format();
+    });
+  }
+
+  readFile2()
+  {
+    this.loading = true;
+    this.http.get("../assets/themes/cloe.txt",{responseType: 'text'}).subscribe(text => {
       this.fileContent = text;
       this.format();
     });
