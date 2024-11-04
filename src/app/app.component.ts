@@ -345,7 +345,7 @@ VALUES:any = ["","",1,"Janvier",1990,12,0,""];
   readFile()
   {
     this.loading = true;
-    this.http.get("../assets/themes/astro.txt",{responseType: 'text'}).subscribe(text => {
+    this.http.get("assets/themes/astro.txt",{responseType: 'text'}).subscribe(text => {
       this.fileContent = text;
       this.format();
     });
@@ -354,7 +354,7 @@ VALUES:any = ["","",1,"Janvier",1990,12,0,""];
   readFile2()
   {
     this.loading = true;
-    this.http.get("../assets/themes/cloe.txt",{responseType: 'text'}).subscribe(text => {
+    this.http.get("assets/themes/cloe.txt",{responseType: 'text'}).subscribe(text => {
       this.fileContent = text;
       this.format();
     });
@@ -362,7 +362,7 @@ VALUES:any = ["","",1,"Janvier",1990,12,0,""];
 
   readSigneGpt()
   {
-      this.http.get("../assets/signe.txt",{responseType: 'text'}).subscribe(text => {
+      this.http.get("assets/signe.txt",{responseType: 'text'}).subscribe(text => {
       let lignes = text.split("\r\n");
       lignes = lignes.filter((ligne:any)=>ligne.length>1);
       let planetes:any = {nom:"Planetes",data:[]};
