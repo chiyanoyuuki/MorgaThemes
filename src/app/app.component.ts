@@ -246,14 +246,20 @@ VALUES:any = ["","",1,"Janvier",1990,12,0,""];
       this.loading = false;
     }, (err) =>{
       this.loading = false;
-      this.files = [{nom:"Fichier Local"}];
+      // Le serveur de liste est injoignable : on retombe sur le chargement local,
+      // mais on conserve l'option "Nouveau Thème" pour que le formulaire de
+      // saisie reste accessible (sinon impossible de redemander un thème).
+      if(this.mdp.toLowerCase()=="toukoutou")
+        this.files = [{nom:"Nouveau Thème"},{nom:"Fichier Local"}];
+      else
+        this.files = [{nom:"Fichier Local"}];
       this.disconnected=true;
       if(this.mdp.toLowerCase()=="genki")
       {
         this.files = [{nom:"Thème Astral Cloé"}];
         this.disconnected=false;
       }
-      
+
     });
     
   }
