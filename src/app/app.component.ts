@@ -297,9 +297,9 @@ export class AppComponent implements OnInit {
   }
 
   tryconnect() {
-    if (this.validmdp.includes(this.mdp.toLowerCase())) {
-      this.connected = true;
-      this.getFiles();
+    console.log(this.mdp);
+    if (this.mdp == 'elaine') {
+      this.readFile3();
     }
   }
 
