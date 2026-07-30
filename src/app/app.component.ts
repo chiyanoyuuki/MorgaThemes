@@ -250,15 +250,7 @@ export class AppComponent implements OnInit {
   }
 
   ngOnInit(): void {
-    this.http
-      .get<any>('http://chiyanh.cluster031.hosting.ovh.net/FATEtest')
-      .subscribe((data) => {
-        console.log(data);
-      });
-
     if (this.innerHeight > this.innerWidth) this.paysage = false;
-    console.log(this.paysage);
-    this.startInterval(100, 'end');
 
     /*
     let lion = this.infos.stelliums.filter((s:any)=>s.signe=="Lion");
