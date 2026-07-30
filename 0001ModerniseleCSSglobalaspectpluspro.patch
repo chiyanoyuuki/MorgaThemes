@@ -1,0 +1,518 @@
+From 495cb443622c0726cc2b46df1af2064c82b07ba2 Mon Sep 17 00:00:00 2001
+From: chiyanoyuuki <charles.poure@hotmail.com>
+Date: Thu, 30 Jul 2026 08:46:54 +0000
+Subject: [PATCH 1/2] Modernise le CSS global (aspect plus pro)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+- Jetons de design (rayons, ombres douces multi-couches, transitions,
+  surfaces verre) sans toucher à la palette violet/or existante.
+- Contrôles retravaillés : boutons/inputs/selects avec états hover,
+  active et focus visibles, anneaux d'accentuation.
+- Overlays modernisés (flou d'arrière-plan sur le chargement, ombres
+  portées douces sur les panneaux) et scrollbars personnalisées.
+- Lissage typographique, sélection de texte accordée, focus accessible.
+- Mise en page vw/vh et comportement conservés à l'identique.
+
+Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_011MRTwUrDgpUW5rzPBzW1b3
+---
+ src/styles.scss | 229 ++++++++++++++++++++++++++++++++++++++----------
+ 1 file changed, 184 insertions(+), 45 deletions(-)
+
+diff --git a/src/styles.scss b/src/styles.scss
+index 01328bd..ebff751 100644
+--- a/src/styles.scss
++++ b/src/styles.scss
+@@ -1,16 +1,29 @@
++/* =============================================================
++   MorgaThemes — Feuille de styles globale
++   Refonte "pro" : la mise en page (vw/vh, positions) est conservée,
++   seule la couche esthétique est modernisée.
++   ============================================================= */
++
++/* ------------------------------- Fontes ------------------------------- */
+ @font-face {
+     font-family: Chloe;
+     src: url(../src/assets/Chloe.otf) format("opentype");
++    font-display: swap;
+ }
+ @font-face {
+     font-family: Future;
+     src: url(../src/assets/Future.ttf) format("opentype");
++    font-display: swap;
+ }
+ @font-face {
+     font-family: Jonathan;
+     src: url(../src/assets/Jonathan.otf) format("opentype");
++    font-display: swap;
+ }
++
++/* --------------------------- Jetons de design ------------------------- */
+ :root{
++    /* Palette historique (inchangée pour compatibilité) */
+     --purple0: #211a44;
+     --purple1: #5c5792;
+     --purple2: #9f8dc3;
+@@ -19,17 +32,46 @@
+     --yellow: #eebc70;
+     --pink: #ad57b6;
+ 
++    /* Tokens modernes (nouveaux, additifs) */
++    --ink: #14102b;
++    --accent: var(--yellow);
++    --accent-strong: #f5cf8e;
++
++    /* Rayons */
++    --radius-sm: 10px;
++    --radius-md: 16px;
++    --radius-lg: 22px;
++
++    /* Ombres douces multi-couches (remplacent les ombres noires dures) */
++    --shadow-sm: 0 2px 6px -2px rgba(0, 0, 0, .55);
++    --shadow-md: 0 10px 24px -10px rgba(0, 0, 0, .65), 0 2px 6px -3px rgba(0, 0, 0, .5);
++    --shadow-lg: 0 24px 60px -20px rgba(0, 0, 0, .7), 0 6px 18px -8px rgba(0, 0, 0, .55);
++    --glow-accent: 0 0 0 1px rgba(238, 188, 112, .35), 0 0 18px -2px rgba(238, 188, 112, .45);
++
++    /* Surfaces "verre" */
++    --glass-bg: rgba(33, 26, 68, .55);
++    --glass-border: rgba(159, 141, 195, .35);
++
++    /* Transitions */
++    --ease: 220ms cubic-bezier(.4, 0, .2, 1);
++    --ease-slow: 420ms cubic-bezier(.4, 0, .2, 1);
+ }
++
++/* ------------------------------ Base / reset -------------------------- */
+ body{
+     margin:0px;
+     height:100%;
+     overflow-x: hidden;
+     position: relative;
++    -webkit-font-smoothing: antialiased;
++    -moz-osx-font-smoothing: grayscale;
++    text-rendering: optimizeLegibility;
+ }
+ html{
+     height:100%;
+     overflow-x: hidden;
+     position: relative;
++    scroll-behavior: smooth;
+ }
+ app-root{
+     height:100%;
+@@ -45,6 +87,39 @@ app-root{
+ html{
+     overflow: hidden;
+ }
++
++/* Sélection de texte accordée à la palette */
++::selection{
++    background: rgba(173, 87, 182, .45);
++    color: #fff;
++}
++
++/* Barres de défilement personnalisées (WebKit + Firefox) */
++*{
++    scrollbar-width: thin;
++    scrollbar-color: var(--purple2) transparent;
++}
++::-webkit-scrollbar{
++    width: 8px;
++    height: 8px;
++}
++::-webkit-scrollbar-track{
++    background: transparent;
++}
++::-webkit-scrollbar-thumb{
++    background: linear-gradient(180deg, var(--purple2), var(--purple1));
++    border-radius: 8px;
++}
++::-webkit-scrollbar-thumb:hover{
++    background: linear-gradient(180deg, var(--purple3), var(--purple2));
++}
++
++/* Anneau de focus accessible et discret */
++:focus-visible{
++    outline: 2px solid var(--accent);
++    outline-offset: 2px;
++}
++
+ .svg image, .svg text, .svg line{
+     filter:drop-shadow(1px 1px 1px black) !important;
+ }
+@@ -64,7 +139,9 @@ html{
+     width:500px;
+     padding: 1vw;
+   background-color: #211a4450;
+-  box-shadow: 5px 0px 20px black;
++  box-shadow: 8px 0 40px -6px rgba(0, 0, 0, .75);
++  backdrop-filter: blur(2px);
++  -webkit-backdrop-filter: blur(2px);
+ }
+ .right{
+     position:relative;
+@@ -87,6 +164,7 @@ html{
+     font-family: 'Chloe'!important;
+     font-size: 1.6vw !important;
+     line-height: 1;
++    letter-spacing: .01em;
+ }
+ .sign{
+     font-family: 'Jonathan'!important;
+@@ -97,20 +175,42 @@ html{
+ 
+ .bloc{
+     white-space: break-spaces;
+-  border: 5px ridge var(--purple1);
++  border: 1px solid var(--glass-border);
+   background-color: var(--purple0);
+-  box-shadow: 10px 10px 20px 0px black;
++  box-shadow: var(--shadow-lg);
++  border-radius: var(--radius-md);
+   padding: 15px;
+ }
+ 
+ 
++/* ------------------------------- Contrôles ---------------------------- */
+ button, input, select{
+     background-image: url("../src/assets/bouton.png");
++    background-size: cover;
++    background-position: center;
+     border-radius:20px;
+     padding:10px;
+     color:white;
+     font-weight:bold;
+     text-align: center;
++    border: 1px solid rgba(255, 255, 255, .08);
++    box-shadow: var(--shadow-sm);
++    letter-spacing: .02em;
++    transition: transform var(--ease), box-shadow var(--ease), opacity var(--ease), filter var(--ease);
++}
++button:hover, select:hover{
++    cursor: pointer;
++    transform: translateY(-1px);
++    box-shadow: var(--shadow-md);
++    filter: brightness(1.06);
++}
++button:active{
++    transform: translateY(0);
++    filter: brightness(.96);
++}
++input::placeholder{
++    color: rgba(190, 156, 199, .6);
++    font-weight: normal;
+ }
+ .flex{
+     display:flex;
+@@ -139,14 +239,22 @@ button, input, select{
+     width:35vw;
+     top:3vh;
+     left:3vw;
++    filter: drop-shadow(0 20px 40px rgba(0, 0, 0, .6));
+ }
+ .filesOpen div{
+     display:flex;
+     justify-content: space-between;
+     margin-bottom:1vh;
++    padding: .4vh .6vw;
++    border-radius: var(--radius-sm);
++    transition: background-color var(--ease), transform var(--ease);
++}
++.filesOpen div:hover{
++    background-color: rgba(159, 141, 195, .14);
++    transform: translateX(3px);
+ }
+ .filesOpen .red{
+-    color: #bb4050 !important;
++    color: #d76274 !important;
+   font-size: 1.5vw !important;
+ }
+ .full{
+@@ -169,13 +277,26 @@ button, input, select{
+   color: var(--yellow) !important;
+   font-weight: bold;
+   font-size: 1.2vw;
+-  border: 1px ridge var(--purple1);
++  border: 1px solid var(--purple1);
++  border-radius: var(--radius-sm);
++  transition: border-color var(--ease), box-shadow var(--ease), background-color var(--ease);
++}
++.left input:focus, .left select:focus, .left button:focus-visible,
++.loading-dots input:focus, .loading-dots button:focus-visible,
++input:focus, select:focus{
++    outline: none;
++    border-color: var(--accent);
++    box-shadow: var(--glow-accent);
++}
++.left button:hover, .loading-dots button:hover{
++    background-color: #2a2154;
++    border-color: var(--purple2);
+ }
+ .loading-dots input, .loading-dots button{
+     width:20%!important;
+ }
+ .file{
+-    transition: 0.5s;
++    transition: transform var(--ease-slow), filter var(--ease-slow);
+     margin-bottom:2vh;
+     position: relative;
+     width: 20vw;
+@@ -185,7 +306,8 @@ button, input, select{
+ }
+ .file:hover{
+     cursor:pointer;
+-    scale:1.2;
++    transform: scale(1.12);
++    filter: drop-shadow(0 8px 18px rgba(0, 0, 0, .55));
+ }
+ img{
+     filter: drop-shadow(black 1px 1px 4px) !important;
+@@ -243,7 +365,7 @@ p{
+ }
+ .informations p{
+     text-align: center;
+-    margin:0;  
++    margin:0;
+     font-size: 1.2vw;
+     text-overflow: ellipsis;
+   overflow: hidden;
+@@ -295,18 +417,19 @@ p{
+ }
+ 
+ button:hover{
+-    opacity:0.5;
++    opacity:0.85;
+     cursor:pointer;
+ }
+ 
+ .clickable:hover{
+     cursor:pointer;
+     text-decoration: underline;
+-    color:red;
+-    scale:1.2;
++    color:var(--accent-strong);
++    transform: scale(1.06);
+ }
+ .clickable{
+-    transition:0.5s;
++    transition: transform var(--ease), color var(--ease);
++    transform-origin: center;
+ }
+ 
+ .over:hover{
+@@ -340,10 +463,10 @@ button:hover{
+ }
+ .contsvg .svg .active
+ {
+-    filter: brightness(0%) invert(100%) 
+-    drop-shadow(0px 0px 2px var(--yellow)) 
+-    drop-shadow(0px 0px 2px var(--yellow)) 
+-    drop-shadow(0px 0px 2px var(--yellow)) 
++    filter: brightness(0%) invert(100%)
++    drop-shadow(0px 0px 2px var(--yellow))
++    drop-shadow(0px 0px 2px var(--yellow))
++    drop-shadow(0px 0px 2px var(--yellow))
+     !important;
+     opacity:1!important;
+ }
+@@ -369,31 +492,33 @@ button:hover{
+   font-weight: bold;
+   font-size: 3vh;
+   text-shadow: 4px 4px 2px black;
++  transition: color var(--ease), opacity var(--ease), transform var(--ease);
+ }
+ .menu .clicked{
+     color: var(--purple4) !important;
+     text-decoration: underline;
++    text-underline-offset: 6px;
+     opacity:1;
+ }
+ .svg .clickedSVG{
+     opacity:1!important;
+-    filter: brightness(0%) invert(100%) 
+-    drop-shadow(0px 0px 2px var(--pink)) 
+-    drop-shadow(0px 0px 2px var(--pink)) 
+-    drop-shadow(0px 0px 2px var(--pink)) 
+-    drop-shadow(0px 0px 2px var(--pink)) 
+-    drop-shadow(0px 0px 2px var(--pink)) 
+-    drop-shadow(0px 0px 2px var(--pink)) 
++    filter: brightness(0%) invert(100%)
++    drop-shadow(0px 0px 2px var(--pink))
++    drop-shadow(0px 0px 2px var(--pink))
++    drop-shadow(0px 0px 2px var(--pink))
++    drop-shadow(0px 0px 2px var(--pink))
++    drop-shadow(0px 0px 2px var(--pink))
++    drop-shadow(0px 0px 2px var(--pink))
+     drop-shadow(0px 0px 2px var(--pink))  !important
+ }
+ .svg .clickedSVG2{
+     opacity:1!important;
+-    filter: brightness(0%) invert(100%) 
+-    drop-shadow(0px 0px 2px var(--purple1)) 
+-    drop-shadow(0px 0px 2px var(--purple1)) 
+-    drop-shadow(0px 0px 2px var(--purple1)) 
+-    drop-shadow(0px 0px 2px var(--purple1)) 
+-    drop-shadow(0px 0px 2px var(--purple1)) 
++    filter: brightness(0%) invert(100%)
++    drop-shadow(0px 0px 2px var(--purple1))
++    drop-shadow(0px 0px 2px var(--purple1))
++    drop-shadow(0px 0px 2px var(--purple1))
++    drop-shadow(0px 0px 2px var(--purple1))
++    drop-shadow(0px 0px 2px var(--purple1))
+     drop-shadow(0px 0px 2px var(--purple1))  !important
+ }
+ .onglets{
+@@ -408,6 +533,10 @@ button:hover{
+     padding: 20px 3vw;
+     margin-right: 2vw;
+     height: fit-content;
++    transition: transform var(--ease);
++}
++.onglets div:hover{
++    transform: translateY(-2px);
+ }
+ .onglets .clicked{
+     padding-top: 40px;
+@@ -422,6 +551,7 @@ button:hover{
+   scrollbar-width: thin;
+   bottom: 0px;
+   max-height: 75%;
++  scroll-behavior: smooth;
+ }
+ .texte{
+     width:40%;
+@@ -470,9 +600,10 @@ button:hover{
+ .contsvg text, .contsvg image, .contsvg line{
+     transition:1s!important;
+ }
+-.infosdomaine 
++.infosdomaine
+ {
+     margin-bottom: 1vh;
++    line-height: 1.5;
+ }
+ .domaine p
+ {
+@@ -507,7 +638,7 @@ b {
+     position: absolute;
+   right: -25vw;
+   width: 20vw;
+-  transition:1s;
++  transition: transform var(--ease-slow);
+   //border: 5px ridge var(--purple1);
+   //background-color: #9f8dc350;
+   padding: 3vh 4vw 3vh 1vw;
+@@ -519,10 +650,10 @@ b {
+   left: -60px;
+ }
+ .center .arroww{
+-    rotate: 90deg;  
++    rotate: 90deg;
+     width: 25px;
+     padding: 5px 18px;
+-    transition:0.5s;
++    transition: rotate var(--ease-slow);
+ }
+ .showliste{
+     transform: translateX(-22vw);
+@@ -573,6 +704,7 @@ b {
+ 
+ 
+ 
++/* ------------------------------- Chargement --------------------------- */
+ .loading-dots {
+     display: flex;
+     justify-content: center;
+@@ -580,9 +712,10 @@ b {
+     height: 100%;
+     position: absolute;
+   width: 100%;
+-  background-color: var(--purple0);
+-  opacity: 0.7;
++  background-color: rgba(33, 26, 68, .7);
+   z-index: 1;
++  backdrop-filter: blur(6px);
++  -webkit-backdrop-filter: blur(6px);
+   }
+ 
+   .loading-dots p{
+@@ -591,6 +724,7 @@ b {
+   font-size: 3vw;
+   padding-bottom: 8vh;
+ color:var(--yellow)!important;
++  letter-spacing: .04em;
+   }
+ 
+   .croix{
+@@ -598,30 +732,33 @@ color:var(--yellow)!important;
+   top: 2vh!important;
+   right: 2vw!important;
+   font-size: 3vw!important;
++  transition: transform var(--ease), color var(--ease);
+   }
+ 
+   .croix:hover{
+-    scale:1.2;
++    transform: scale(1.2) rotate(90deg);
++    color: var(--accent-strong) !important;
+     cursor:pointer;
+   }
+-  
++
+   .dot {
+-    width: 10px;
+-    height: 10px;
++    width: 12px;
++    height: 12px;
+     margin: 0 5px;
+-    background-color: var(--yellow);
++    background: radial-gradient(circle at 30% 30%, var(--accent-strong), var(--yellow));
+     border-radius: 50%;
++    box-shadow: 0 0 10px -1px rgba(238, 188, 112, .6);
+     animation: bounce 1.5s infinite ease-in-out;
+   }
+-  
++
+   .dot:nth-child(1) {
+     animation-delay: -0.32s;
+   }
+-  
++
+   .dot:nth-child(2) {
+     animation-delay: -0.16s;
+   }
+-  
++
+   @keyframes bounce {
+     0%, 80%, 100% {
+       transform: scale(0);
+@@ -659,7 +796,7 @@ color:var(--yellow)!important;
+     top:80px;
+   }
+   .connect{
+-    opacity:0.8!important;
++    opacity:0.95!important;
+   }
+   .connect p{
+     padding-bottom:0px!important;
+@@ -759,6 +896,8 @@ color:var(--yellow)!important;
+         width:96%;
+         background-color: unset;
+         box-shadow: unset;
++        backdrop-filter: none;
++        -webkit-backdrop-filter: none;
+     }
+ 
+     .domaine p{
+@@ -803,4 +942,4 @@ color:var(--yellow)!important;
+         height:unset;
+         max-height:unset;
+     }
+-  }
+\ No newline at end of file
++  }
+-- 
+2.43.0
+

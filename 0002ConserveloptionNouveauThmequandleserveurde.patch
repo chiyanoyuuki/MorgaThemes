@@ -1,0 +1,50 @@
+From 7554cb47895ea391fbf05724f21ad84de0d28998 Mon Sep 17 00:00:00 2001
+From: chiyanoyuuki <charles.poure@hotmail.com>
+Date: Thu, 30 Jul 2026 08:46:54 +0000
+Subject: [PATCH 2/2] =?UTF-8?q?Conserve=20l'option=20"Nouveau=20Th=C3=A8me?=
+ =?UTF-8?q?"=20quand=20le=20serveur=20de=20liste=20est=20offline?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Le handler d'erreur de getFiles() réinitialisait la liste à
+[Fichier Local], ce qui supprimait l'option "Nouveau Thème" et rendait
+impossible l'ouverture du formulaire de saisie pour redemander un thème.
+On conserve désormais cette option pour le profil concerné.
+
+Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_011MRTwUrDgpUW5rzPBzW1b3
+---
+ src/app/app.component.ts | 10 ++++++++--
+ 1 file changed, 8 insertions(+), 2 deletions(-)
+
+diff --git a/src/app/app.component.ts b/src/app/app.component.ts
+index a5f2cda..b0a072a 100644
+--- a/src/app/app.component.ts
++++ b/src/app/app.component.ts
+@@ -246,14 +246,20 @@ VALUES:any = ["","",1,"Janvier",1990,12,0,""];
+       this.loading = false;
+     }, (err) =>{
+       this.loading = false;
+-      this.files = [{nom:"Fichier Local"}];
++      // Le serveur de liste est injoignable : on retombe sur le chargement local,
++      // mais on conserve l'option "Nouveau Thème" pour que le formulaire de
++      // saisie reste accessible (sinon impossible de redemander un thème).
++      if(this.mdp.toLowerCase()=="toukoutou")
++        this.files = [{nom:"Nouveau Thème"},{nom:"Fichier Local"}];
++      else
++        this.files = [{nom:"Fichier Local"}];
+       this.disconnected=true;
+       if(this.mdp.toLowerCase()=="genki")
+       {
+         this.files = [{nom:"Thème Astral Cloé"}];
+         this.disconnected=false;
+       }
+-      
++
+     });
+     
+   }
+-- 
+2.43.0
+
