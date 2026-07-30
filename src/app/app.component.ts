@@ -291,6 +291,7 @@ export class AppComponent implements OnInit {
   tryconnect() {
     console.log(this.mdp);
     if (this.mdp == 'elaine') {
+      this.connected = true;
       this.readFile3();
     }
   }
