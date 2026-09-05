@@ -289,10 +289,13 @@ export class AppComponent implements OnInit {
   }
 
   tryconnect() {
-    console.log(this.mdp);
-    if (this.mdp == 'elaine') {
+    const mdp = this.mdp.toLowerCase();
+    if (mdp == 'elaine') {
       this.connected = true;
       this.readFile3();
+    } else if (mdp == 'vagabondage') {
+      this.connected = true;
+      this.readFileMorgane();
     }
   }
 
@@ -453,6 +456,22 @@ export class AppComponent implements OnInit {
         this.fileContent = text;
         this.format();
       });
+  }
+
+  readFileMorgane() {
+    this.loading = true;
+    this.http
+      .get('assets/themes/morgane.txt', { responseType: 'text' })
+      .subscribe(
+        (text) => {
+          this.fileContent = text;
+          this.format();
+        },
+        (err) => {
+          this.loading = false;
+          this.disconnected = true;
+        },
+      );
   }
 
   readSigneGpt() {
