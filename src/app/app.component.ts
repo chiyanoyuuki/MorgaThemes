@@ -213,8 +213,8 @@ export class AppComponent implements OnInit {
   showListe = false;
   API_URL = 'https://api.openai.com/v1/chat/completions';
 
-  public innerWidth: any = window.outerWidth;
-  public innerHeight: any = window.outerHeight;
+  public innerWidth: any = window.innerWidth;
+  public innerHeight: any = window.innerHeight;
 
   paysage = true;
 
@@ -244,13 +244,17 @@ export class AppComponent implements OnInit {
 
   @HostListener('window:resize', ['$event'])
   onResize(event: any) {
-    if (event.target.innerHeight > event.target.innerWidth)
-      this.paysage = false;
+    const w = event.target.innerWidth;
+    const h = event.target.innerHeight;
+    // Mode mobile (une colonne) en portrait OU sur écran étroit,
+    // quelle que soit l'orientation du téléphone.
+    if (h > w || w < 820) this.paysage = false;
     else this.paysage = true;
   }
 
   ngOnInit(): void {
-    if (this.innerHeight > this.innerWidth) this.paysage = false;
+    if (this.innerHeight > this.innerWidth || this.innerWidth < 820)
+      this.paysage = false;
 
     /*
     let lion = this.infos.stelliums.filter((s:any)=>s.signe=="Lion");
@@ -784,6 +788,18 @@ export class AppComponent implements OnInit {
     let idxend = svgs.indexOf(tmp!);
     svgs = svgs.slice(0, idxend + 1);
     this.svg = svgs;
+
+    // Rend la roue responsive : on ajoute un viewBox à partir des
+    // dimensions fixes du SVG pour qu'il puisse être redimensionné en
+    // CSS (mobile) tout en gardant sa taille d'origine sur desktop.
+    if (this.svg[0] && this.svg[0].indexOf('viewBox') === -1) {
+      let dims = this.svg[0].match(/width="(\d+)"\s+height="(\d+)"/);
+      if (dims)
+        this.svg[0] = this.svg[0].replace(
+          '<svg ',
+          '<svg viewBox="0 0 ' + dims[1] + ' ' + dims[2] + '" ',
+        );
+    }
 
     let emispheres = this.data;
     emispheres = emispheres.filter((e: any) => e.nom);
@@ -1853,6 +1869,16 @@ export class AppComponent implements OnInit {
     this.types = unique;
     this.type = unique[0];
     this.addClassClicked(s);
+
+    // Sur mobile, le contenu s'affiche sous la roue : on défile
+    // automatiquement vers les onglets/description après un clic.
+    if (this.paysage === false) {
+      setTimeout(() => {
+        document
+          .querySelector('.right')
+          ?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }, 60);
+    }
   }
 
   addSvg2(obj: any) {

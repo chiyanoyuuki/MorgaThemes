@@ -814,38 +814,71 @@ color:var(--yellow)!important;
   }
 
   /* =========================================================
-     Mode portrait / mobile (classe .paysage = écran vertical)
-     Refonte des tailles pour une lecture confortable sur
-     téléphone : les polices passent de vh minuscules à des
-     valeurs clamp() bornées en px, et les colonnes s'empilent.
+     ERGONOMIE MOBILE (classe .paysage = téléphone / écran étroit)
+     Mise en page repensée : une seule colonne qui défile
+     verticalement, roue responsive (viewBox), onglets en barre
+     collante, contenu empilé et typographie lisible au doigt.
      ========================================================= */
   .paysage{
 
-    overflow-x:hidden;
+    overflow-x: hidden;
 
+    /* --- Typographie de base lisible sur téléphone --- */
     *{
-        font-size: clamp(13px, 3.7vw, 17px);
-        line-height: 1.5;
+        font-size: clamp(14px, 4vw, 17px);
+        line-height: 1.55;
     }
 
-    .center{
-        position:fixed!important;
-        width: 62vw !important;
-        right: -66vw !important;
-        padding: 2vh 4vw !important;
+    /* --- Structure : empilement en une seule colonne --- */
+    .top{
+        display: block !important;
     }
 
-    .showliste{
-        transform: translateX(-64vw) !important;
+    .left,
+    .right{
+        width: 100% !important;
+        max-width: 100% !important;
+        box-sizing: border-box;
+        padding: 3vw !important;
+    }
+
+    .left{
+        background-color: unset;
+        box-shadow: unset;
+        backdrop-filter: none;
+        -webkit-backdrop-filter: none;
+    }
+
+    .right{
+        display: block !important;
+        position: static !important;
+        top: auto !important;
+    }
+
+    /* Étoiles décoratives masquées (encombrantes sur mobile) */
+    .stars{
+        display: none !important;
+    }
+
+    /* --- Bouton « Changer thème » + liste des thèmes --- */
+    .topload{
+        justify-content: center;
     }
 
     .contFilesOpen{
-        width: 92% !important;
+        width: 92vw !important;
         left: 4vw !important;
+        top: 8vh !important;
+        padding: 2vh 4vw !important;
+    }
+
+    .filesOpen{
+        max-height: 60vh;
+        padding: 1vh 2vw;
     }
 
     .filesOpen div p{
-        font-size: clamp(13px, 3.6vw, 16px);
+        font-size: clamp(13px, 3.7vw, 16px);
         line-height: 1.4;
     }
 
@@ -853,22 +886,93 @@ color:var(--yellow)!important;
         font-size: clamp(14px, 4vw, 17px) !important;
     }
 
-    .textes .title{
-        text-overflow: ellipsis;
-        overflow-x: hidden ;
+    /* --- Bloc informations (identité) --- */
+    .informations{
+        width: 100% !important;
+        max-width: 100% !important;
+        box-sizing: border-box;
+        margin: 1.5vh auto !important;
+        padding: 3vh 5vw !important;
     }
 
-    .star{
-        top: 4px;
-        height: clamp(16px, 5vw, 22px);
+    .informations p{
+        font-size: clamp(14px, 3.9vw, 17px);
+        white-space: normal;
+        top: 0;
     }
 
-    .star2{
-        margin: 0vh 1vh!important;
+    .informations div{
+        flex-wrap: wrap;
+        gap: 1vh;
+        justify-content: center;
     }
 
-    .textes .star{
-        top:0px;
+    .left > .title{
+        margin: 1.5vh auto;
+    }
+
+    /* --- Roue du thème : responsive grâce au viewBox injecté --- */
+    .contsvg{
+        scale: 1 !important;
+        margin: 1vh auto 2vh !important;
+        display: flex;
+        justify-content: center;
+        position: static;
+    }
+
+    .contsvg .svg{
+        width: min(90vw, 440px);
+    }
+
+    .contsvg svg{
+        width: 100% !important;
+        height: auto !important;
+        display: block;
+    }
+
+    /* --- Onglets : barre de navigation collante en haut --- */
+    .onglets{
+        position: sticky !important;
+        top: 0 !important;
+        z-index: 6;
+        width: 100% !important;
+        margin: 0 0 2vh 0 !important;
+        display: flex;
+        justify-content: space-around !important;
+        background: rgba(20, 16, 43, .92);
+        backdrop-filter: blur(6px);
+        -webkit-backdrop-filter: blur(6px);
+        border-bottom: 1px solid var(--glass-border);
+    }
+
+    .onglets div{
+        flex: 1;
+        padding: 14px 1vw !important;
+        margin: 0 !important;
+        text-align: center;
+        border-bottom: 3px solid transparent;
+    }
+
+    .onglets .clicked{
+        padding-top: 14px !important;
+        border-bottom-color: var(--accent) !important;
+    }
+
+    .onglets p{
+        margin: 0 auto;
+        font-size: clamp(15px, 4.2vw, 19px);
+    }
+
+    .onglets .fondbloc{
+        display: none;
+    }
+
+    /* --- Menus (filtres de type, sous-onglets) --- */
+    .menu{
+        flex-wrap: wrap;
+        gap: 1vh 5vw;
+        justify-content: center;
+        margin: 2vh auto !important;
     }
 
     .menu p{
@@ -876,112 +980,56 @@ color:var(--yellow)!important;
         line-height: 1.3;
     }
 
+    .menu2{
+        margin-top: 1vh !important;
+    }
+
+    .menu3{
+        flex-wrap: wrap;
+        gap: 1vh 4vw;
+        margin: 1vh auto !important;
+    }
+
     .menu3 p{
-        font-size: clamp(13px, 3.7vw, 16px);
+        font-size: clamp(13px, 3.8vw, 16px);
     }
 
-    .contsvg{
-        scale:0.72!important;
-        display: flex;
-        justify-content: center;
-        position: relative;
-        top: 0;
-        margin: 0 auto;
+    .elems{
+        position: static !important;
+        width: auto !important;
+        margin-top: 1vh !important;
     }
 
-    .onglets{
-        justify-content: space-around!important;
-        width:100%;
+    .selectmsg{
+        position: static !important;
+        top: auto !important;
+        margin: 3vh auto !important;
+        text-align: center;
     }
 
-    .top{
-        display:unset!important;
-    }
-
-    button{
-        font-size: clamp(15px, 4.2vw, 18px);
-        padding: 12px;
-    }
-
-    .title{
-        font-size: clamp(17px, 4.8vw, 23px) !important;
-        line-height: 1.2 !important;
-    }
-
-    .title2{
-        font-size: clamp(15px, 4.3vw, 19px) !important;
-    }
-
-    .star2{
-        top:6px!important;
-    }
-
+    /* --- Description d'une entité --- */
     .desc{
-        padding-top: 1vh;
-        margin-top: 90px;
+        margin: 2vh 0 !important;
+        padding: 2vh 5vw !important;
+        box-sizing: border-box;
     }
 
-    .desc .title{
-        text-overflow: unset;
-        overflow-x: unset;
-    }
-
-    .left{
-        width:96%;
-        background-color: unset;
-        box-shadow: unset;
-        backdrop-filter: none;
-        -webkit-backdrop-filter: none;
-    }
-
-    .domaines{
-        height: auto !important;
-        min-height: 0 !important;
-        overflow: visible !important;
-        margin: 0 4vw;
-    }
-
-    .domaine{
-        padding: 3vh 6vw;
-    }
-
-    .domaine p{
-        font-size: clamp(14px, 4vw, 17px);
-    }
-
-    .domaine b{
-        font-size: clamp(15px, 4.2vw, 18px) !important;
-    }
-
-    .infosdomaine{
-        line-height: 1.55;
-    }
-
-    .informations{
-        width:90%;
-        margin-top:1vh;
-        margin-bottom:1vh;
-        padding-bottom: 3vh;
-
-        p{
-            font-size: clamp(13px, 3.7vw, 16px);
-        }
-    }
-
-    /* Cartes de données : empilées et pleine largeur au lieu
-       d'un défilement horizontal difficile au doigt. */
+    /* --- Cartes de contenu : empilées, pleine largeur --- */
     .textes{
-        width:100%;
-        height:auto;
-        max-height:unset;
+        width: 100% !important;
+        height: auto !important;
+        max-height: none !important;
         display: block !important;
         overflow-x: hidden !important;
+        overflow-y: visible !important;
     }
 
     .data{
-        width: auto !important;
+        width: 100% !important;
         min-width: 0 !important;
+        box-sizing: border-box;
         margin: 2vh 0 !important;
+        padding: 3vh 5vw !important;
     }
 
     .lastdata{
@@ -993,27 +1041,92 @@ color:var(--yellow)!important;
         overflow: visible !important;
     }
 
-    .right{
+    /* --- Domaines --- */
+    .domaines{
+        height: auto !important;
+        min-height: 0 !important;
+        overflow: visible !important;
+        margin: 0 !important;
+    }
+
+    .domodalites{
+        height: auto !important;
+        min-height: 0 !important;
         top: 0 !important;
     }
 
-    .selectmsg{
-        top: 60px;
-        position: relative;
+    .domaine{
+        padding: 3vh 5vw !important;
+        margin: 2vh 0 !important;
+        box-sizing: border-box;
     }
 
-    /* Écran de mot de passe / chargement lisible sur mobile */
-    .connect .mdp{
-        font-size: clamp(20px, 6vw, 26px) !important;
-        top: 34vh !important;
+    .domaine p{
+        font-size: clamp(14px, 4vw, 17px);
     }
 
-    .connect p{
-        font-size: clamp(13px, 3.8vw, 16px) !important;
+    .domaine b{
+        font-size: clamp(15px, 4.2vw, 18px) !important;
     }
 
+    .infosdomaine{
+        line-height: 1.6;
+    }
+
+    /* --- Titres & étoiles --- */
+    .title{
+        font-size: clamp(18px, 5vw, 23px) !important;
+        line-height: 1.25 !important;
+    }
+
+    .title2{
+        font-size: clamp(15px, 4.3vw, 19px) !important;
+    }
+
+    .textes .title,
+    .desc .title{
+        text-overflow: unset;
+        overflow: visible;
+        white-space: normal;
+    }
+
+    .star{
+        top: 2px;
+        height: clamp(16px, 5vw, 22px);
+    }
+
+    .star2{
+        top: 2px !important;
+        margin: 0 2vw !important;
+    }
+
+    .textes .star{
+        top: 0;
+    }
+
+    /* --- Boutons & champs tactiles --- */
+    button{
+        font-size: clamp(15px, 4.2vw, 18px);
+        padding: 14px;
+    }
+
+    .left input,
+    .left select,
+    .left button{
+        font-size: clamp(15px, 4.2vw, 18px) !important;
+        padding: 14px !important;
+        margin-left: 0 !important;
+    }
+
+    /* --- Panneau latéral « liste » masqué (redondant en scroll) --- */
+    .center{
+        display: none !important;
+    }
+
+    /* --- Écran de chargement --- */
     .loading-dots p{
         font-size: clamp(20px, 6vw, 28px) !important;
+        padding-bottom: 6vh;
     }
 
     .loading-dots input,
@@ -1021,5 +1134,30 @@ color:var(--yellow)!important;
         width: auto !important;
         font-size: 16px !important;
         padding: 12px 16px !important;
+    }
+
+    /* --- Écran de mot de passe (placé après pour primer) --- */
+    .loading-dots.connect{
+        flex-direction: column;
+        gap: 2vh;
+    }
+
+    .connect .mdp{
+        font-size: clamp(22px, 6.5vw, 28px) !important;
+        top: 30vh !important;
+        bottom: auto !important;
+    }
+
+    .connect p{
+        font-size: clamp(13px, 3.9vw, 16px) !important;
+        bottom: 26vh;
+    }
+
+    .loading-dots.connect input,
+    .loading-dots.connect button{
+        width: 72vw !important;
+        max-width: 320px;
+        font-size: clamp(15px, 4.4vw, 18px) !important;
+        padding: 14px !important;
     }
   }
