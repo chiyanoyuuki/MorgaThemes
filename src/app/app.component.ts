@@ -300,6 +300,9 @@ export class AppComponent implements OnInit {
     } else if (mdp == 'vagabondage') {
       this.connected = true;
       this.readFileMorgane();
+    } else if (mdp == '2273') {
+      this.connected = true;
+      this.readFileCharles();
     }
   }
 
@@ -466,6 +469,22 @@ export class AppComponent implements OnInit {
     this.loading = true;
     this.http
       .get('assets/themes/morgane.txt', { responseType: 'text' })
+      .subscribe(
+        (text) => {
+          this.fileContent = text;
+          this.format();
+        },
+        (err) => {
+          this.loading = false;
+          this.disconnected = true;
+        },
+      );
+  }
+
+  readFileCharles() {
+    this.loading = true;
+    this.http
+      .get('assets/themes/charles.txt', { responseType: 'text' })
       .subscribe(
         (text) => {
           this.fileContent = text;
