@@ -303,6 +303,9 @@ export class AppComponent implements OnInit {
     } else if (mdp == '2273') {
       this.connected = true;
       this.readFileCharles();
+    } else if (mdp == 'flaichete') {
+      this.connected = true;
+      this.readFileAmbre();
     }
   }
 
@@ -485,6 +488,22 @@ export class AppComponent implements OnInit {
     this.loading = true;
     this.http
       .get('assets/themes/charles.txt', { responseType: 'text' })
+      .subscribe(
+        (text) => {
+          this.fileContent = text;
+          this.format();
+        },
+        (err) => {
+          this.loading = false;
+          this.disconnected = true;
+        },
+      );
+  }
+
+  readFileAmbre() {
+    this.loading = true;
+    this.http
+      .get('assets/themes/ambre.txt', { responseType: 'text' })
       .subscribe(
         (text) => {
           this.fileContent = text;
